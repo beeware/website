@@ -91,6 +91,5 @@ plugins:
   blog:
     blog_dir: news
   autorefs: {}
-  literate-nav:
-    nav-file: SUMMARY.md
+  literate-nav: {}
   macros: {}

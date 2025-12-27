@@ -1,6 +1,6 @@
 /* Limit width of content, to compensate for navigation being hidden. */
-.md-main__inner {
-    max-width: 44rem;
+.md-grid {
+    max-width: 48rem;
 }
 
 /* Remove header markers to avoid spacing issues with longer headers. Use the ToC instead. */
@@ -288,6 +288,24 @@ a.index-main-keep-in-touch-button {
 
 a.index-main-keep-in-touch-button {
     background-color: #28A745;
+}
+
+/* About page CSS */
+/*.team-image-details {*/
+/*    float: right;*/
+/*    padding-top: 1.5rem;*/
+/*    max-width: 38%;*/
+/*    font-size: 0.6rem;*/
+/*}*/
+
+/*.team-bio {*/
+/*    float: left;*/
+/*    max-width: 60%;*/
+/*}*/
+
+.team-join,
+.team-emeritus {
+    display: none;
 }
 
 /* Documentation page CSS */

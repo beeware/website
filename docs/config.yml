@@ -25,6 +25,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://beeware.org/bee/chat/
       name: BeeWare on Discord
+  github_icon: <i class="fa-github fa-brands" aria-hidden="true"></i>
 
 
 extra_css:
@@ -92,4 +93,5 @@ plugins:
     blog_dir: news
   autorefs: {}
   literate-nav: {}
-  macros: {}
+  macros:
+    include_dir: ../website

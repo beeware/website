@@ -18,7 +18,7 @@ Write once. Deploy everywhere.
 
 <div class="index-intro-summary" markdown="1">
 
-Write your apps in Python and release them on iOS, Android, Windows, MacOS, Linux, Web, and tvOS using rich, native user interfaces. Multiple apps, one codebase, with a fully native user experience on every platform.
+Write your apps in Python and release them on iOS, Android, Windows, macOS, Linux, Web, and tvOS using rich, native user interfaces. Multiple apps, one codebase, with a fully native user experience on every platform.
 
 </div>
 
@@ -77,7 +77,7 @@ This is what BeeWare provides. Tools to help you write Python code with a rich, 
 
 ![Open source](images/opensource.png){ .index-main-open-source-logo }
 
-The Open Source development process has proven itself to be the most reliable way to develop robust and reliable software. That's why the entire BeeWare suite of tools are BSD licensed, and **available for all to use and modify**.
+The open source development process has proven itself to be the most reliable way to develop robust and reliable software. That's why the entire BeeWare suite of tools are BSD licensed, and **available for all to use and modify**.
 
 ## All contributions welcome
 

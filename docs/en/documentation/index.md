@@ -123,7 +123,7 @@ A meta-package for building a version of Python that can be embedded into a macO
 
 # The BeeWare Project { .beeware-project }
 
-BeeWare is more than a suite of tools for building amazing apps. It's also an amazing Open Source community!
+BeeWare is more than a suite of tools for building amazing apps. It's also an amazing open source community!
 
 ## BeeWare Community Code of Conduct
 

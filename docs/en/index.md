@@ -89,11 +89,11 @@ But it's not just about code. A successful software project requires documentati
 
 ![Diversity](images/diversity.png){ .index-main-diversity-logo }
 
-A diverse community is a strong community. This means accepting people of all levels of experience, from all backgrounds, of all races, creeds, orientations and expressions. The BeeWare project is committed to **developing and maintaining a diverse, welcoming community**. We have an **open offer to mentor anyone** who wants to get involved as a contributor, backed up by a [Code of Conduct](community/behavior/code-of-conduct/)  that is rigorously enforced.
+A diverse community is a strong community. This means accepting people of all levels of experience, from all backgrounds, of all races, creeds, orientations and expressions. The BeeWare project is committed to **developing and maintaining a diverse, welcoming community**. We have an **open offer to mentor anyone** who wants to get involved as a contributor, backed up by a [Code of Conduct](community/code-of-conduct.md)  that is rigorously enforced.
 
 ## Contribute!
 
-If all this sounds interesting, why not take a look at the [BeeWare projects](/docs) and see how you can use them when developing Python applications? Or, if you'd like to contribute, and you've never contributed to open source before, start with our [guide for first time contributors](/contributing/first-time/). If you feel ready to dive straight in, check out the [documentation](/docs/) or our guide on [what you can do to help](/contributing/).
+If all this sounds interesting, why not take a look at the [BeeWare projects](docs/index.md) and see how you can use them when developing Python applications? Or, if you'd like to contribute, and you've never contributed to open source before, start with our [guide for first time contributors](contributing/first-time-contributors.md). If you feel ready to dive straight in, check out the [documentation](docs/index.md) or our guide on [what you can do to help](contributing/index.md).
 
 <div class="index-main-button" markdown="1">
 
@@ -103,7 +103,7 @@ If all this sounds interesting, why not take a look at the [BeeWare projects](/d
 
 ## Stay in touch!
 
-Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon, or [join the BeeWare enthusiasts mailing list](/community/keep-informed/) for updates, hints, tips, and announcements related to the project.
+Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon, or [join the BeeWare enthusiasts mailing list](community/keep-informed.md) for updates, hints, tips, and announcements related to the project.
 
 <div class="index-main-button" markdown="1">
 
@@ -113,7 +113,7 @@ Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon, or 
 
 ## Members
 
-BeeWare is supported by users like you! Every little bit helps: [click here to contribute](/membership/).
+BeeWare is supported by users like you! Every little bit helps: [click here to contribute](membership/index.md).
 
 </div>
 

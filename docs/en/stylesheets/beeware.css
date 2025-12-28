@@ -3,6 +3,12 @@
     max-width: 48rem;
 }
 
+/* Default font size is 1rem, but calculates to 24px due to dynamic sizing on HTML tag. */
+/* This makes default font size 16px, which is standard 1rem. */
+.md-typeset {
+    font-size: 0.67rem;
+}
+
 /* Remove header markers to avoid spacing issues with longer headers. Use the ToC instead. */
 .md-typeset .headerlink {
     display: none;
@@ -34,7 +40,7 @@
     margin-right: 0.3rem;
 }
 
-/* Removes custom changes to theme that reclaims the space from the Material theme in the API documentation */
+/* Removes custom changes to theme that reclaims the space from the Material theme in the API docs */
 .md-main__inner {
     margin-top: 0;
     padding-top: 0;
@@ -309,7 +315,6 @@ a.index-main-keep-in-touch-button {
 }
 
 /* Documentation page CSS */
-
 .tutorial {
     display: flex;
     flex-direction: row;
@@ -337,9 +342,16 @@ h1.other-tools {
     margin-right: 3rem;
 }
 
+@media screen and (max-width: 689px) {
+    .docs-tutorial-button {
+        width: 11rem;
+        margin: 0 0.5rem;
+    }
+}
+
 @media screen and (min-width: 690px) {
     .docs-tutorial-button {
-        width: 20em;
+        width: 20rem;
     }
 }
 
@@ -357,7 +369,6 @@ a.docs-tutorial-button {
     border: 1px solid transparent;
     color: white;
     background-color: #007BFF;
-    width: 18rem;
 }
 
 a.docs-tutorial-button:hover {

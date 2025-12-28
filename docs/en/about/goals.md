@@ -72,8 +72,7 @@ available as a first-class option on a particular platform, we'll do
 whatever is necessary to make Python available as a development
 language. And when we have the opportunity to embrace Python idiom for
 an API or a design, we're going to do just that. That means we're going
-to use generators, context managers, <span class="title-ref">yield
-from</span> asynchronous calls, and more, in order to provide the best
+to use generators, context managers, `yield from` asynchronous calls, and more, in order to provide the best
 Python-native API for cross-platform app development.
 
 We're also looking to the future - this means that we support Python 3

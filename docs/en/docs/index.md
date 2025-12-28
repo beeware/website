@@ -1,5 +1,5 @@
 ---
-title: BeeWare documentation
+title: BeeWare docs
 hide:
     - navigation
 ---
@@ -127,21 +127,21 @@ BeeWare is more than a suite of tools for building amazing apps. It's also an am
 
 ## BeeWare Community Code of Conduct
 
-Everyone participating in the BeeWare community, in any way, is required to adhere to the guidelines in the [BeeWare Community Code of Conduct](../community/behavior/code-of-conduct).
+Everyone participating in the BeeWare community, in any way, is required to adhere to the guidelines in the [BeeWare Community Code of Conduct](../community/code-of-conduct.md).
 
 ## About the project
 
-Learn more [about the history and goals of the BeeWare project](../about).
+Learn more [about the history and goals of the BeeWare project](../about/index.md).
 
 ## Get help using BeeWare
 
-Need help using BeeWare? We've got [lots of community resources](../community/resources) that might help. If you need to ask a more specific question, here's [how you can find someone that might be able to help](../community/getting-help). We can also help you [find commercial support](../community/commercial).
+Need help using BeeWare? We've got [lots of community resources](../community/resources.md) that might help. If you need to ask a more specific question, here's [how you can find someone that might be able to help](../community/getting-help.md). We can also help you [find commercial support](../community/commercial.md).
 
 ## Contributing to the BeeWare project
 
-Want to contribute to BeeWare? See our [contribution guide](../contributing). If you've never contributed to Open Source before, start with our [guide for first time contributors.](../contributing/first-time/)
+Want to contribute to BeeWare? See our [contribution guide](../contributing/index.md). If you've never contributed to Open Source before, start with our [guide for first time contributors.](../contributing/first-time-contributors.md)
 
-Or, if you just want to support the project financially, you can [become a financial member of the project.](../membership)
+Or, if you just want to support the project financially, you can [become a financial member of the project.](../membership/index.md)
 
 ## Stay in touch!
 

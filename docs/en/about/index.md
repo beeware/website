@@ -9,22 +9,14 @@ hide:
 
 The [goals](goals.md) of the BeeWare project.
 
-## History
+## Team
 
-The [history](history.md) of the BeeWare project.
-
-## Goals
-
-The [goals](goals.md) of the BeeWare project.
+The [BeeWare Team](team.md).
 
 ## History
 
 The [history](history.md) of the BeeWare project.
 
-## Goals
+## Contact
 
-The [goals](goals.md) of the BeeWare project.
-
-## History
-
-The [history](history.md) of the BeeWare project.
+How to get in [contact](contact.md) with the team.

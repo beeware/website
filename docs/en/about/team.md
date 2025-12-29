@@ -34,7 +34,6 @@ sponsor)](/community/members/anaconda/).
 <div class="team-email">{{ fa("envelope", "lg", "solid") }} russell@beeware.org</div>
 <div class="team-join">Join date: 2013-09-05</div>
 </div>
-
 </div>
 </div>
 <div class="team-member" markdown="1">

@@ -51,6 +51,10 @@
     padding-top: 0.8rem;
 }
 
+.md-content {
+    max-width: 45rem;
+}
+
 .md-content__inner {
     padding-top: 8px;
     margin-top: 0;
@@ -296,7 +300,8 @@ a.index-main-keep-in-touch-button {
 
 /* On this page ToC sidebar */
 .md-sidebar--secondary {
-    min-width: 23rem;
+    min-width: 16rem;
+    margin-left: auto;
 }
 
 h2#sidebar {

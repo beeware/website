@@ -61,6 +61,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
+    - navigation.sections
     - navigation.path
     - navigation.expand
     - search.suggest

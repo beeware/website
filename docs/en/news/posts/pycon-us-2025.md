@@ -1,13 +1,14 @@
 ---
+title: PyCon US 2025
 date: 2025-05-17
 authors:
     - freakboy3742
 categories:
     - Events
 ---
-# PyCon US 2025
-
 Russell Keith-Magee will be speaking at PyCon US 2025, giving a presentation entitled "[How to build a cross-platform graphical user interface with Python](https://us.pycon.org/2025/)".
+
+<!-- more -->
 
 If you need to build a user interface for your Python code, many guides
 will tell you that your only options are to use the command line, or

@@ -1,18 +1,18 @@
 ---
+title: 2025Q4 Roadmap
 date: 2025-10-15
 authors:
     - freakboy3742
 categories:
     - Buzz
 ---
-
-# 2025Q4 Roadmap
-
 In Q3, BeeWare saw the release of Python 3.14 with official Android artefacts, more Python packaging improvements, and significant improvements to our documentation infrastructure. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment to features that will be made available on a specific deadline.
 
 This Q4 roadmap has been published a little later than normal so that we can fit in with quarterly planning cadence at Anaconda (who employ two of the BeeWare core team). Going forward, you can expect that BeeWare's quarterly plans will be published a couple of weeks into the quarter.
 
-## Q3 progress something significantly longer
+<!-- more -->
+
+## Q3 progress
 
 The end of Q3 sees the release of a new Python version - 3.14. The 3.14 release contains official Android binary artefacts, and a number of improvements to the iOS build process that will lead to official iOS binary artefacts, hopefully in the near future. It also contains restored support for Emscripten as a Tier 3 supported platform. Landing these improvements in 3.14, and ensuring that the BeeWare ecosystem is in a position to use those changes, was a subject of considerable effort in Q3. We were also forced to respond to a number of significant changes to the GitHub Actions macOS ecosystem - work that is ongoing as a side effect of macOS 26 changes and the deprecation of Intel as a supported macOS platform.
 

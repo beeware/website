@@ -42,13 +42,13 @@
 }
 
 .md-sidebar--primary:is([hidden]) ~ .md-content {
-    margin-left: 6.1rem;
-    margin-right: 6.1rem;
+    margin-left: 6.75rem;
+    margin-right: 6.75rem;
 }
 
 .md-content__inner {
     padding-top: 8px;
-    margin-top: 0;
+    margin: 0;
 }
 
 .md-content__inner::before {
@@ -480,7 +480,16 @@ h2.beeware-project ~ p {
 /* Blog */
 .md-sidebar--primary,
 .md-sidebar--post {
-    width: 12rem;
+    width: 13rem;
+}
+
+.md-post__content h2:first-of-type {
+    display: none;
+}
+
+.md-typeset .md-author,
+.author-name {
+    font-size: 0.8rem;
 }
 
 .md-sidebar--primary:is([hidden]) ~ .md-content.md-content--post {
@@ -501,18 +510,18 @@ h2.beeware-project ~ p {
     .md-nav--primary > .md-nav__list > .md-nav__item.md-nav__item--active,
     .md-nav--primary > .md-nav__list > .md-nav__item.md-nav__item--active > .md-nav .md-nav__list .md-nav__item {
         display: block;
-        width: 12rem;
+        width: 11.25rem;
     }
 
     [dir="ltr"] .md-sidebar--secondary:not([hidden]) ~ .md-content > .md-content__inner {
-        margin-right: 1rem;
+        margin-right: 0.5rem;
     }
 
     [dir="ltr"] .md-content--post > .md-content__inner {
-        margin-left: 1rem;
+        margin-left: 0.5rem;
     }
 
     [dir="ltr"] .md-sidebar--primary:not([hidden]) ~ .md-content > .md-content__inner {
-        margin-left: 1rem;
+        margin-left: 0.5rem;
     }
 }

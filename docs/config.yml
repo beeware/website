@@ -115,8 +115,15 @@ plugins:
     post_url_format: "{categories}/{slug}"
     post_url_max_categories: 1
     categories_url_format: "{slug}"
+    categories_allowed:
+      - Buzz
+      - Events
+    tags_allowed:
+      - Quarterly plans
+      - Status updates
+  tags: {}
+  meta: {}
   autorefs:
     resolve_closest: true  # autorefs warns of the Usage headings begin duplicates without this - we will have to assign unique ids to all of them otherwise
-#  literate-nav: {}
   macros:
     include_dir: ../website

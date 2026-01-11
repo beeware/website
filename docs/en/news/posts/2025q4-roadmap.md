@@ -2,9 +2,9 @@
 title: 2025Q4 Roadmap
 date: 2025-10-15
 authors:
-    - freakboy3742
+- freakboy3742
 categories:
-    - Buzz
+- Buzz
 ---
 In Q3, BeeWare saw the release of Python 3.14 with official Android artefacts, more Python packaging improvements, and significant improvements to our documentation infrastructure. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment to features that will be made available on a specific deadline.
 

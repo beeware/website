@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # Submitting a pull request
 
 {% extends "contribute/how/submit-pr.md" %}

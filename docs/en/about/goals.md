@@ -1,7 +1,4 @@
----
-hide:
-    - navigation
----
+
 
 ## The goal
 

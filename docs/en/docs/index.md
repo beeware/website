@@ -1,7 +1,5 @@
 ---
 title: BeeWare docs
-hide:
-    - navigation
 ---
 # Documentation { .documentation }
 

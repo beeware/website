@@ -1,6 +1,104 @@
 authors:
   freakboy3742:
     name: Russell Keith-Magee
+    short_name: Russell
     description: Founding Apiarist
     avatar: https://avatars.githubusercontent.com/u/37345
     url: https://cloudisland.nz/@freakboy3742
+  kattni:
+    name: Kattni
+    short_name: Kattni
+    description: Apiarist
+    avatar: https://avatars.githubusercontent.com/u/7865090
+    url: https://kattstodon.com/@kattni
+  mhsmith:
+    name: Malcolm Smith
+    short_name: Malcolm
+    description: Core Developer
+    avatar: https://avatars.githubusercontent.com/u/166954
+    url: https://github.com/mhsmith
+  glasnt:
+    name: Katie McLaughlin
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: https://cloudisland.nz/@glasnt
+  phildini:
+    name: 'TODO: Add.'
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  hawkowl:
+    name: 'TODO: Add.'
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  danyeaw:
+    name: 'TODO: Add.'
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  rmartin16:
+    name: 'TODO: Add.'
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  swenson:
+    name: 'TODO: Add.'
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  BPYap:
+    name: Yap Boon Peng
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  adambonie:
+    name: Adam Boniecki
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  dayannefernandesc:
+    name: Dayanne Fernandes
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  ocupe:
+    name: Jonas Schell
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'
+  kavi2du:
+    name: Kavidu Abeykoon Mudiyanselagedara
+    description: Curtin Capstone Team
+    avatar: https://avatars.githubusercontent.com/u/132393780
+    url: https://github.com/kavi2du
+  Stringer90:
+    name: Callum Horton
+    description: Curtin Capstone Team
+    avatar: https://avatars.githubusercontent.com/u/109891554
+    url: https://github.com/Stringer90
+  cadynn:
+    name: Caydn Lee
+    description: Curtin Capstone Team
+    avatar: https://avatars.githubusercontent.com/u/104604345
+    url: https://github.com/caydnn
+  JMah007:
+    name: Jaeden Mah
+    description: Curtin Capstone Team
+    avatar: https://avatars.githubusercontent.com/u/107184317
+    url: https://github.com/JMah007
+  mEp3ii2:
+    name: Mitchell Pontague
+    description: Curtin Capstone Team
+    avatar: https://avatars.githubusercontent.com/u/74845700
+    url: https://github.com/mEp3ii2
+  vt37:
+    name: Veronica Taniputra
+    description: Curtin Capstone Team
+    avatar: https://avatars.githubusercontent.com/u/110211722
+    url: https://github.com/vt37
+  patienceshyu:
+    name: Patience Shyu
+    description: 'TODO: Add.'
+    avatar: 'TODO: Add.'
+    url: 'TODO: Add.'

@@ -3,17 +3,52 @@ copyright: © Russell Keith-Magee
 
 nav:
   - About:
-      - "about/index.md"
+      - about/index.md
+      - Goals: about/goals.md
+      - Bee Team: about/team.md
+      - History: about/history.md
+      - Contact: about/contact.md
+      - Branding guidelines: about/branding.md
   - Documentation:
-      - "docs/index.md"
+      - docs/index.md
   - Community:
-      - "community/index.md"
+      - community/index.md
+      - BeeWare Community Code of Conduct: community/code-of-conduct.md
   - Contributing:
-      - "contributing/index.md"
+      - contributing/index.md
+      - First-time contributors: contributing/first-time-contributors.md
+      - Contribution guide:
+          - contributing/contribution_guide/index.md
+          - Fix an issue: contributing/contribution_guide/what/fix-issue.md
+          - Implement a new feature: contributing/contribution_guide/what/implement-feature.md
+          - Write documentation: contributing/contribution_guide/what/write-docs.md
+          - Triage an issue: contributing/contribution_guide/what/triage.md
+          - Review a pull request: contributing/contribution_guide/what/review-pr.md
+          - Propose a new feature: contributing/contribution_guide/what/propose-feature.md
+          - Translate content: contributing/contribution_guide/what/translate.md
+          - Use the tools: contributing/contribution_guide/what/use-tools.md
+          - Setting up a development environment: contributing/contribution_guide/how/dev-environment.md
+          - Reproducing an issue: contributing/contribution_guide/how/reproduce-issue.md
+          - Working from a branch: contributing/contribution_guide/how/branches.md
+          - Avoiding scope creep: contributing/contribution_guide/how/scope-creep.md
+          - Writing, running, and testing code: contributing/contribution_guide/how/write-code.md
+          - Building documentation: contributing/contribution_guide/how/build-docs.md
+          - Writing documentation: contributing/contribution_guide/how/write-docs.md
+          - Adding a change note: contributing/contribution_guide/how/change-note.md
+          - Submitting a pull request: contributing/contribution_guide/how/submit-pr.md
+          - Providing a review: contributing/contribution_guide/how/review-pr.md
+          - Submitting a new issue: contributing/contribution_guide/how/new-issue.md
+          - Proposing a new feature: contributing/contribution_guide/how/propose-feature.md
+          - Translating content: contributing/contribution_guide/how/translate.md
+          - Pull request review process: contributing/contribution_guide/next/pr-review.md
+          - Release process: contributing/contribution_guide/next/release.md
+          - Code style guide: contributing/contribution_guide/style/code-style-guide.md
+          - Documentation style guide: contributing/contribution_guide/style/docs-style-guide.md
+      - Sprint guide: contributing/sprint_guide.md
   - News:
-      - "news/index.md"
+      - news/index.md
   - Donate:
-      - "membership/index.md"
+      - membership/index.md
 
 not_in_nav: |
   /index.md
@@ -45,6 +80,7 @@ extra:
       link: https://beeware.org/bee/chat/
       name: BeeWare on Discord
   github_icon: <i class="fa-github fa-brands" aria-hidden="true"></i>
+  generator: false
 
 
 extra_css:
@@ -112,18 +148,17 @@ plugins:
   search: {}
   blog:
     blog_dir: news
+    author_profiles: true
     post_url_format: "{categories}/{slug}"
     post_url_max_categories: 1
     categories_url_format: "{slug}"
     categories_allowed:
       - Buzz
       - Events
-    tags_allowed:
-      - Quarterly plans
-      - Status updates
-  tags: {}
-  meta: {}
   autorefs:
     resolve_closest: true  # autorefs warns of the Usage headings begin duplicates without this - we will have to assign unique ids to all of them otherwise
   macros:
-    include_dir: ../website
+    module_name: macros
+    include_yaml:
+        - team: en/news/.authors.yml
+  meta: {}

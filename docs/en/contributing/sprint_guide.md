@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # Sprint Guide
 
 ## Welcome to the BeeWare Sprints!

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # Writing, running, and testing code
 
 {% extends "contribute/how/write-code.md" %}

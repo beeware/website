@@ -1,8 +1,3 @@
----
-hide:
-    - navigation
----
-
 # Community
 
 ## BeeWare Community Code of Conduct

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # Proposing a new feature
 
 {% extends "contribute/how/propose-feature.md" %}

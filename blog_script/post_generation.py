@@ -1,138 +1,214 @@
-"""Requires slugify."""
-#!/usr/bin/env python
-import sys
+import re
 from pathlib import Path
-from datetime import datetime, date
-from urllib.request import urlopen, URLError
+import datetime
+from textwrap import dedent
+from urllib.error import URLError, HTTPError
+from urllib.parse import urlparse
+from urllib.request import Request, urlopen
+
 import yaml
-from post_templates import BLOG_TEMPLATE, EVENT_TEMPLATE
 
 
 def validate_url(url):
     """
-    Validates a URL by attempting to use it.
+    Validates a URL.
 
-    This will not work properly without an internet connection.
+    NOTE: CHECK YOUR ENTRY. There are edge cases where this will pass with an invalid entry.
     """
     try:
-        urlopen(url)
+        urlopen(Request(url, method="HEAD"))
         return True
-    except (URLError, ValueError) as error:
-        return False
-
-
-def request_metadata():
-    post_type = input("Choose post type (blog or event): ") or "blog"
-    if post_type == "blog":
-        blog_title = input("Blog post title: ")
-        blog_authors = input("Post author's GitHub user ID; separate multiple authors with a comma: ")
-    if post_type == "event":
-        event_name = input("Event name: ")
-        event_url = input("Event URL: ")
-        while not validate_url(event_url):
+    except (URLError, HTTPError, ValueError):
+        # If the URL fails to open, fall back to parsing the URL string. This enables
+        # verification when an internet connection is unavailable.
+        print("URL validation failed.")
+        network_connection = input("Are you currently connected to the internet? (y/n): ")
+        if network_connection == "y":
             print("Invalid URL.")
-            event_url = input("Event URL: ")
-        event_start_date = input("Event start date (e.g. May 13, 2026): ")
-        event_end_date = input("Event end date (e.g. May 19, 2026; leave blank if same as start date): ") or event_start_date
-        involvement = [{}]  # TODO: Or something?
-        while True:
-            involvement_types = ["attending", "keynote", "talk", "tutorial", "sprint", "booth", "organizing"]
-            involvement_type = input(f"How is the team involved? Enter 'attending', 'keynote', 'talk', 'tutorial', 'sprint', 'booth', or 'organizing': ")
-            while involvement_type not in set(involvement_types):
-                print("Invalid involvement type.")
-                involvement_type = input(f"How is the team involved? Enter 'attending', 'keynote', 'talk', 'tutorial', 'sprint', 'booth', or 'organizing': ")
-            team_members = input("Enter GitHub user ID for all team members involved, separated by comma: ")
-            involvement_start_date = input(f"Start date of {involvement_type} for {event_name} (e.g. May 14, 2026): ")
-            try:  # TODO: Make this validation loopy, and a separate function to call repeatedly.
-                datetime.strptime(involvement_start_date, "%B %d, %Y")
-            except ValueError:
-                print("Invalid date format. Must be 'MonthName DD, YYYY', where 'DD' is a one- or two-digit number, and YYYY is the four-digit year.")
-            involvement_end_date = input(f"End date of {involvement_type} for {event_name} (e.g. May 15, 2026; leave blank if same as start date): ") or involvement_start_date
-            if involvement_type in ["keynote", "talk", "tutorial"]:
-                presentation_title = input("Presentation title: ")
-            if involvement_type in ["keynote", "talk", "tutorial", "sprint", "booth"]:
-                involvement_url = input(f"{involvement_type} URL (leave blank if unavailable): ") or event_url
-                while not validate_url(involvement_url):
+            return False
+        else:
+            parsing_validated = False
+            while not parsing_validated:
+                parsing_url = urlparse(url)
+                if parsing_url.scheme in ["http", "https"] and parsing_url.netloc != "":
+                    print("URL is the correct format, however it has not been validated. Verify it on post creation.")
+                    return True
+                else:
                     print("Invalid URL.")
-                    involvement_url = input(f"{involvement_type} URL (leave blank if unavailable): ") or event_url
-            # TODO: STORE THIS SHIT SOMEHOW SO IT'S NOT OVERWRITTEN IN THE NEXT LOOP
-            further_involvement = input("Is the team involved in another way (y/N): ") or "N"
-            if further_involvement in ["N", "n", "no"]:
-                break
+                    return False
 
-    date = datetime.today().strftime("%B %d, %Y")
-    if post_type == "blog":
-        metadata = {
-            "date": date,
+
+def request_post_type():
+    post_type = None
+    while post_type is None:
+        post_type_entry = input("Choose post type (blog or event): ") or "blog"
+        if post_type_entry in ["blog", "event"]:
+            post_type = post_type_entry
+        else:
+            print("Invalid post type. Choose between 'blog' or 'event'.")
+    return post_type
+
+
+def request_blog_metadata():
+    blog_title = input("Blog post title: ")
+    blog_authors = input("Post author's GitHub user ID; separate multiple authors with a comma: ")
+
+    date = datetime.date.today()
+    return {
+        "title": blog_title,
+        "date": date,
+        "authors": [blog_author.strip() for blog_author in blog_authors.split(",")],
+        "categories": ["Buzz"],
+    }
+
+
+def request_event_metadata():
+    event_name = input("Event name: ")
+    event_url = None
+    while event_url is None:
+        event_url_entry = input("Event URL: ")
+        if validate_url(event_url_entry):
+            event_url = event_url_entry
+    valid_event_start_date = False
+    while not valid_event_start_date:
+        try:
+            event_start_date_input = input("Event start date (e.g. 2026-05-13): ")
+            event_start_date = datetime.datetime.strptime(event_start_date_input, "%Y-%m-%d").date()
+            valid_event_start_date = True
+        except ValueError:
+            print("Invalid date format. Must be YYYY-DD-MM format.")
+    valid_event_end_date = False
+    while not valid_event_end_date:
+        try:
+            event_end_date_input = input("Event end date (e.g. 2026-05-19; leave blank if same as event start date): ") or event_start_date_input
+            event_end_date = datetime.datetime.strptime(event_end_date_input, "%Y-%m-%d").date()
+            valid_event_end_date = True
+        except ValueError:
+            print("Invalid date format. Must be YYYY-DD-MM format.")
+    involvements = []
+    authors = set()
+    while True:
+        involvement_metadata = {}
+        involvement_types = {
+            "1": "attending",
+            "2": "keynote",
+            "3": "talk",
+            "4": "tutorial",
+            "5": "sprint",
+            "6": "booth",
+            "7": "organizing",
         }
-    elif post_type == "event":
-        metadata = {
-            "date": date,
-            "event": {},
-            "involvement": [{}],
-        }
-
-    if post_type == "blog":
-        metadata["title"] = blog_title
-        metadata["authors"] = [blog_authors]
-        metadata["categories"] = ["buzz"]
-    if post_type == "event":
-        metadata["title"] = f"We'll be at {event_name}!"
-        metadata["authors"] = [team_members]
-        metadata["categories"] = ["event"]
-        metadata["event"]["name"] = event_name
-        metadata["event"]["url"] = event_url
-        metadata["event"]["date"] = event_start_date
-        metadata["event"]["date"] = event_end_date
-        metadata["event"]["description"] = """
-        Remove this content and update with event description.
-
-        Description should begin on the line below 'description: |-' with that line left intact."""
-        metadata["involvement"][0]["type"] = involvement_type
-        metadata["involvement"][0]["team_members"] = [team_members]
+        involvement_type = None
+        while involvement_type is None:
+            for choice, type_option in involvement_types.items():
+                print(f"{choice}: {type_option}")
+            choice = input("How is the team involved? Choose a number: ")
+            if choice in involvement_types:
+                involvement_type = involvement_types[choice]
+            else:
+                print("Invalid; you must choose a number from the list.")
+        involvement_metadata["type"] = involvement_type
+        team_members = input("Enter GitHub user ID for all team members involved, separated by comma: ")
+        team_member_list = sorted([team_member.strip() for team_member in team_members.split(",")])
+        involvement_metadata["team_members"] = team_member_list
+        authors.update(team_member_list)
         if involvement_type in ["keynote", "talk", "tutorial"]:
-            metadata["involvement"][0]["presentation_title"] = presentation_title
+            presentation_title = input("Presentation title: ")
+            involvement_metadata["title"] = presentation_title
         if involvement_type in ["keynote", "talk", "tutorial", "sprint", "booth"]:
-            metadata["involvement"][0]["url"] = involvement_url
-        metadata["involvement"][0]["date"] = involvement_start_date
-        metadata["involvement"][0]["end_date"] = involvement_end_date
+            involvement_url = None
+            while involvement_url is None:
+                involvement_url_entry = input(f"{involvement_type} URL (leave blank if unavailable): ") or event_url
+                if validate_url(involvement_url_entry):
+                    involvement_url = involvement_url_entry
+                    involvement_metadata["url"] = involvement_url
+        valid_involvement_start_date = False
+        while not valid_involvement_start_date:
+            try:
+                involvement_start_date_input = input(f"Start date of {involvement_type} at {event_name} (e.g. 2026-05-14, leave blank if same as {event_name} start date): ") or event_start_date_input
+                involvement_start_date = datetime.datetime.strptime(involvement_start_date_input, "%Y-%m-%d").date()
+                valid_involvement_start_date = True
+            except ValueError:
+                print("Invalid date format. Must be YYYY-DD-MM format.")
+        valid_involvement_end_date = False
+        while not valid_involvement_end_date:
+            try:
+                involvement_end_date_input = input(f"End date of {involvement_type} (e.g. 2026-05-19; leave blank if same as {involvement_type} start date): ") or involvement_start_date_input
+                involvement_end_date = datetime.datetime.strptime(involvement_end_date_input, "%Y-%m-%d").date()
+                valid_involvement_end_date = True
+            except ValueError:
+                print("Invalid date format. Must be YYYY-DD-MM format.")
+        involvement_metadata["date"] = involvement_start_date
+        involvement_metadata["end_date"] = involvement_end_date
         if involvement_type in ["keynote", "talk", "tutorial", "sprint", "booth"]:
-            metadata["involvement"][0]["description"] = f"""
-            Remove this content and update with {involvement_type} description.
+            # if statement duplicated for the purposes of preserving desired metadata order
+            involvement_metadata["description"] = dedent(f"""\
+                Remove this content and update with {involvement_type} description.
 
-            Description should begin on the line below 'description: |-' with that line left intact."""
-        metadata["event"] = {k: metadata["event"][k] for k in
-                             ["name", "url", "date", "end_date", "description"] if
-                             k in metadata["event"]}
-        metadata["involvement"] = [{k: metadata["involvement"][0][k] for k in
-                                    ["type", "team_members", "title", "url", "date", "end_date",
-                                     "description",] if k in metadata["involvement"][0]}]
-    metadata = {k: metadata[k] for k in ["title", "date", "authors", "categories", "event", "involvement"] if k in metadata}
-    print(metadata)
+                Description should begin on the line below 'description: |-' with that line left intact.""")
+        involvements.append(involvement_metadata)
+        further_involvement = input("Is the team involved in another way? (y/N): ") or "N"
+        if further_involvement in ["N", "n", "no"]:
+            break
+
+    date = datetime.date.today()
+    return {
+        "title": f"We'll be at {event_name}!",
+        "date": date,
+        "authors": sorted(list(authors)),
+        "categories": ["Events"],
+        "event": {
+            "name": event_name,
+            "url": event_url,
+            "date": event_start_date,
+            "end_date": event_end_date,
+            "description": dedent(f"""\
+                Remove this content and update with event description.
+
+                Description should begin on the line below 'description: |-' with that line left intact.""")
+        },
+        "involvement": involvements,
+    }
 
 
-def generate_content(metadata):
-    date = datetime.strptime(metadata["date"], "%B %d, %Y")
-    new_file = "filepath"
+class NoAliasDumper(yaml.SafeDumper):
+    def ignore_aliases(self, data):
+        return True
 
-    if Path(new_file).is_file():
+    def represent_str(self, data):
+        if '\n' in data:
+            return self.represent_scalar(u'tag:yaml.org,2002:str', data, style='|')
+        return super().represent_str(data)
+
+yaml.add_representer(str, NoAliasDumper.represent_str, Dumper=NoAliasDumper)
+
+
+def generate_filename(filename_metadata):
+    filename = f"{re.sub(r"[^\w ]", "", filename_metadata["title"]).lower().replace(" ", "-")}.md"
+    Path(Path(__file__).parent.parent / f"docs/en/news/posts/{filename_metadata["date"].year}").mkdir(parents=True, exist_ok=True)
+    return Path(__file__).parent.parent / f"docs/en/news/posts/{filename_metadata["date"].year}" / filename
+
+
+def generate_entry(metadata, payload):
+    filename = generate_filename(metadata)
+
+    if filename.is_file():
         print("Post already exists.")
         pass
     else:
-        with open(new_file, "w") as w:
-            w.write(file_content)
-        print("File created -> " + new_file)
-    # call(["pycharm", new_file])  # Opens PyCharm. Update to your editor. "open" in macOS. print file path for clicky purposes
+        content = yaml.dump(metadata, Dumper=NoAliasDumper, sort_keys=False, width=9999)
+        filename.write_text(f"---\n{content}---\n{payload}")
+    print(f"File created: {filename}")
 
 
 if __name__ == "__main__":
-    events = {}
-    metadata = request_metadata()
-
-
-
-# prompt_value = input("The prompt: ")
-# event with multiple involvements:
-# a template for attending event only
-# type: attending
-# write this post first.
+    post_type = request_post_type()
+    if post_type == "blog":
+        metadata = request_blog_metadata()
+        payload = "Add blog post content here."
+    elif post_type == "event":
+        metadata = request_event_metadata()
+        payload = "{{ generate_event_post(authors, event, involvement, team) }}"
+    else:
+        raise Exception(f"Post type '{post_type}' not supported.")
+    generate_entry(metadata, payload)

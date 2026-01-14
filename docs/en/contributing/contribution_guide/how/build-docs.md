@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # Building documentation
 
 {% extends "contribute/how/build-docs.md" %}

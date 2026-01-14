@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # Writing documentation
 
 {% extends "contribute/how/write-docs.md" %}

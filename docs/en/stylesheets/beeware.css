@@ -1,25 +1,38 @@
 /* Cleans up vertical spacing on breadcrumbs. */
 .md-path {
-    margin-top: 0;
+    margin-top: 0.2rem;
     padding-top: 0;
     font-size: 1rem;
+}
+
+/* Lines up > in breadcrumbs with text */
+.md-path__item:not(:first-child)::before {
+    margin-top: 0.2rem;
 }
 
 @media screen and (min-width: 76.25em) {
   .md-path {
         flex: 54%;
-        margin-right: 2.5rem;
-        margin: 0 0.8rem;
+        margin: 0;
   }
 }
 
+/* Colors breadcrumb links */
+.md-path__link {
+    color: light-dark(#084AFF, #526CFE);
+}
+
 /* Forces all titles to line up, including pages without breadcrumbs. */
+md-path__list > .md-path__item > .md-path__link {
+    margin-top: -0.4rem;
+}
+
 .md-path__list {
-    margin-top: 1.5rem;
+    margin-top: 1.8rem;
 }
 
 .md-path__item {
-    margin-top: -0.8rem;
+    margin-top: -1.2rem;
 }
 
 /* Fixes search input location in header */
@@ -56,8 +69,7 @@
 }
 
 .md-footer {
-    position: relative;
-    margin-top: 0;
+    margin-top: 2rem;
 }
 
 @media screen and (min-width: 60em) {
@@ -503,7 +515,7 @@ h2.beeware-project ~ p {
         display: none;
     }
 
-    .md-nav--primary > .md-nav__list > .md-nav__item {
+    .md-nav--primary > .md-nav__list > .md-nav__item.md-nav__item--nested {
         display: none;
     }
 
@@ -511,6 +523,10 @@ h2.beeware-project ~ p {
     .md-nav--primary > .md-nav__list > .md-nav__item.md-nav__item--active > .md-nav .md-nav__list .md-nav__item {
         display: block;
         width: 11.25rem;
+    }
+
+    .md-post__meta > li {
+        display: unset;
     }
 
     [dir="ltr"] .md-sidebar--secondary:not([hidden]) ~ .md-content > .md-content__inner {

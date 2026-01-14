@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # Reproducing an issue
 
 {% extends "contribute/how/reproduce-issue.md" %}

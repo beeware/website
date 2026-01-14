@@ -1,8 +1,3 @@
----
-hide:
-    - navigation
----
-
 # Contributing
 
 ## Can I contribute?

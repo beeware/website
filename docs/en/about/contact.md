@@ -1,7 +1,4 @@
----
-hide:
-    - navigation
----
+
 
 If you have a general question about BeeWare usage, we have a number of
 [community communication channels](/community/getting-help/) where you

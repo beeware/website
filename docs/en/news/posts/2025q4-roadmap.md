@@ -3,6 +3,8 @@ title: 2025Q4 Roadmap
 date: 2025-10-15
 authors:
 - freakboy3742
+tags:
+- Plans
 categories:
 - Buzz
 ---

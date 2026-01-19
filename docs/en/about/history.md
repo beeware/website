@@ -20,7 +20,7 @@ However, the developer experience for someone writing Python sometimes
 reflects more of the early 90's than the new millennium. The default
 development environment for Python is still an 80x25 console window. For
 users who have come from a Windows or Apple environment, where they're
-used to highly detailed, well designed graphical interfaces, this 30
+used to highly detailed, well-designed graphical interfaces, this 30
 year flashback can be a completely alien experience.
 
 And, yes, there are IDEs (Integrated Development Environments) that

@@ -1,6 +1,8 @@
 # Branding guidelines
 
-These are the branding guidelines for BeeWare. TODO: Update to include actual guidelines.
+These are the branding guidelines for BeeWare.
+
+TODO: @freakboy3742 - please update this with formal guidelines.
 
 ## Short description
 

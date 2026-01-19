@@ -8,10 +8,6 @@ This is BeeWare. We're incredibly excited about what the future holds for Python
 
 A first-timer's [introduction](overview.md) to the BeeWare project.
 
-## [Goals](goals.md)
-
-The [goals](goals.md) of the BeeWare project.
-
 ## [History and philosophy](history.md)
 
 The [history and philosophy](history.md) of the BeeWare project.

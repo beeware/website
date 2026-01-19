@@ -1,42 +1,29 @@
+# Contact
 
-## Community communication channels
-If you have a general question about BeeWare usage, we have a number of
-options where you can ask for assistance.
+## Looking for help?
 
-We use [Discord](https://beeware.org/bee/chat) for real-time communication.
+The [core team](team.md) are always happy to answer questions and provide assistance with BeeWare. Be aware that we work in public, both with BeeWare development and the community. Asking your questions in a public forum ensures that as many people as possible are able to benefit from any answer that is give. The fact is, if you're having a problem, it's highly likely that someone else is too, or certainly will at some point in time.
 
-Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on
-Mastodon for day-to-day updates on the BeeWare project.
+## Where can you find us?
+You can engage with the BeeWare community in several different ways.
 
-Want to receive updates, hints, tips, and announcements related to
-BeeWare? [Sign up for the BeeWare Enthusiasts mailing
-list](https://eepurl.com/b2Xb4z).
+### Discord
 
-A lot of project-specific communication happens on the GitHub Issues for each project. Links for our high-profile projects can be found on our [documentation page](/docs); visit the [GitHub page for the BeeWare organization](https://github.com/beeware) for the full list of repositories.
+We use [Discord](https://beeware.org/bee/chat) for real-time communication. You can introduce yourself in the #introductions channel. The #help-with-beeware channel is available for questions and issues regarding using BeeWare. The #dev channel is available for discussion about BeeWare contributing and development. You can tell us about your BeeWare project in the #showcase channel; works-in-progress and completed projects are all welcome!
 
-We also use GitHub Discussions as a forum to discuss projects. If you
-have a question about how to use a BeeWare tool, open a discussion
-thread in the repository for that tool.
+### Mastodon
 
-## Getting Help
+Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon for day-to-day updates on the BeeWare project.
 
-If you need advice on how to contribute, anyone on the [Core Team](team.md) will
-be able to help you.
+### GitHub
 
-If you need direct help and don't feel comfortable using a public forum,
-please feel free to get in contact with any [Core
-Contributor](team.md), either by email, Mastodon, or
-Discord.
+A lot of project-specific communication happens on the GitHub Issues for each project. Links for our high-profile projects can be found on our [documentation page](../docs/index.md); visit the [GitHub page for the BeeWare organization](https://github.com/beeware) for the full list of repositories.
 
-However, be aware that if your question *can* be asked in a public
-forum, it should be. This ensures that as many people as possible are
-able to benefit from any answer that is given - if you're having a
-problem, it's highly likely someone else is having the same problem.
+We also use GitHub Discussions as a forum to discuss projects. If you have a question about how to use a BeeWare tool, open a discussion thread in the repository for that tool.
 
-In addition, the core team will *not* provide free support or debugging
-help for commercial projects. If you're not able to post your question
-on a public forum, you'll need to seek out someone willing to provide
-[commercial support](/community/) to meet for your needs. TODO: Reword or relink
+### Newsletter
+
+Want to receive updates, hints, tips, and announcements related to BeeWare? [Sign up for the BeeWare Enthusiasts mailing list](https://eepurl.com/b2Xb4z).
 
 ## Commercial support
 
@@ -44,6 +31,11 @@ Need help with your commercial BeeWare project?
 
 Although BeeWare is an open source project, there are companies and
 individuals who can provide paid support, training, and consulting.
+
+Note that the core team will *not* provide free support or debugging
+help for commercial projects. If you're not able to post your question
+on a public forum due to the content being commercially sensitive, you'll need to seek out someone willing to provide
+commercial support to meet for your needs.
 
 Contact <consulting@beeware.org> for any inquiries about these services.
 
@@ -57,6 +49,8 @@ If you have had an uncomfortable experience in a BeeWare community space, or wan
 to report a behavior problem with someone who is a member of the
 BeeWare community, the [Core Team](team.md) will be happy to manage
 your report in accordance with our [Code of Conduct reporting guide](../community/code-of-conduct.md).
+
+## Other enquiries
 
 For all media enquiries, please contact Founding Apiarist [Russell Keith-Magee](mailto:russell@beeware.org) or Senior Apiarist [Philip James](mailto:philip@beeware.org).
 

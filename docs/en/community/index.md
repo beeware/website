@@ -1,17 +1,21 @@
 # Community
 
-## BeeWare Community Code of Conduct
+## [BeeWare Community Code of Conduct](code-of-conduct.md) { #beeware-code-of-conduct }
 
-Everyone involved with BeeWare is expected to follow the [BeeWare Community Code of Conduct](code-of-conduct.md).
+We pledge to make our community welcoming, safe, and equitable for all.
+
+The guidelines within and enforcement of the [BeeWare Community Code of Conduct](code-of-conduct.md) apply equally to everyone participating in the BeeWare community, including members of the Code of Conduct Response Team.
 
 ## Where is the BeeWare community?
 
-Sprints, PyCon, Mastodon, local groups, etc.
+We're a globally distributed online community of primarily volunteers. While some of the core team are paid to work on BeeWare, the project is independent.
 
-Link to sprint guide.
+The primary place to find us is on our online forums: [Discord](https://beeware.org/bee/chat) and [GitHub](https://github.com/beeware). If you're looking for an informal way of keeping up to date, we are on [Mastodon](https://fosstodon.org/@beeware) and have a [mailing list](https://eepurl.com/b2Xb4z).
 
-We're in the discussion forums contributing to code; see our contribution guide if you want to help.
+We will from time to time also appear at [events](../news/events.md), in particular, regional PyCons. If the opportunity arises, we speak and [sprint](../contributing/index.md#sprints) at those events. There's also presentations on YouTube, and podcasts, where we talk about the BeeWare project.
 
-## Governance
+There is a group that [sponsors](../membership/index.md) the project financially by becoming [members](../membership/index.md#members).
 
-Link to Core Team, and Responsibilities.
+## [Governance](governance.md) { #governance }
+
+What is the core team, and [what do they do](governance.md)?

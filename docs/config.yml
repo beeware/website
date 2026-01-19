@@ -4,9 +4,9 @@ copyright: © Russell Keith-Magee
 nav:
   - About:
       - about/index.md
-      - Goals: about/goals.md
-      - Bee Team: about/team.md
-      - History: about/history.md
+      - What is BeeWare?: about/overview.md
+      - The Bee Team: about/team.md
+      - History and Philosophy: about/history.md
       - Contact: about/contact.md
       - Branding guidelines: about/branding.md
   - Documentation:
@@ -14,6 +14,7 @@ nav:
   - Community:
       - community/index.md
       - BeeWare Community Code of Conduct: community/code-of-conduct.md
+      - Governance: community/governance.md
   - Contributing:
       - contributing/index.md
       - First-time contributors: contributing/first-time-contributors.md
@@ -44,7 +45,8 @@ nav:
           - Release process: contributing/contribution_guide/next/release.md
           - Code style guide: contributing/contribution_guide/style/code-style-guide.md
           - Documentation style guide: contributing/contribution_guide/style/docs-style-guide.md
-      - Sprint guide: contributing/sprint_guide.md
+      - Sprint guide: contributing/sprint-guide.md
+      - Challenge coins: contributing/challenge-coins.md
   - News:
       - news/index.md
   - Sponsor:
@@ -158,6 +160,7 @@ plugins:
     categories_allowed:
       - Buzz
       - Events
+      - Resources
   autorefs:
     resolve_closest: true  # autorefs warns of the Usage headings begin duplicates without this - we will have to assign unique ids to all of them otherwise
   macros:

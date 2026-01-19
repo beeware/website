@@ -6,19 +6,19 @@ Although the contributions of volunteers of are gratefully accepted, some things
 
 Your membership helps ensure BeeWare's continued development. With your support, the BeeWare team are able to fund development, and travel to events to help new contributors and share information.
 
-In return, Members have increased access to the core team, and can help shape the direction and development priorities of the project as a whole.
+In return, members have increased access to the core team, and can help shape the direction and development priorities of the project as a whole.
 
 ## GitHub Sponsors
 
-If you're interested in supporting BeeWare, you can sponsor us through [GitHub Sponsors](https://github.com/sponsors/freakboy3742).
+If you're interested in supporting BeeWare, you can become a supporting member of the BeeWare project through [GitHub Sponsors](https://github.com/sponsors/freakboy3742).
 
-We have several levels of sponsorship available, to fit a wide range of financial circumstances.
+We have several levels of membership available, to fit a wide range of financial circumstances.
 
 TODO: Fill out sponsorship levels.
 
 ## Alternative options
 
-If you'd like to talk to someone about other branding or sponsorship opportunities, or you'd like other payment options for your membership, please direct enquiries to [Russell Keith-Magee](mailto:russell@beeware.org).
+If you'd like to talk to someone about other branding or membership opportunities, or you'd like other payment options for your membership, please direct enquiries to [Russell Keith-Magee](mailto:russell@beeware.org).
 
 ## Members
 

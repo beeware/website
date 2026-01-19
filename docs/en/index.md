@@ -9,7 +9,6 @@ hide:
 ![Brutus the Bee](images/brutus.png){ .index-intro-beeware-logo }
 
 <div class="index-intro-block" markdown="1">
-
 <div class="index-intro-content" markdown="1">
 
 # BeeWare { .index-intro-title }
@@ -22,9 +21,7 @@ Write once. Deploy everywhere.
 Write your apps in Python and release them on iOS, Android, Windows, macOS, Linux, Web, and tvOS using rich, native user interfaces. Multiple apps, one codebase, with a fully native user experience on every platform.
 
 </div>
-
 <div class="index-intro-clearfix"></div>
-
 <div class="index-intro-buttons" markdown="1">
 
 [Take the tutorial](https://tutorial.beeware.org){ .intro-tutorial-button }
@@ -34,16 +31,10 @@ Write your apps in Python and release them on iOS, Android, Windows, macOS, Linu
 [Donate and support us!](membership/index.md){ .intro-donate-button }
 
 </div>
-
 </div>
-
 </div>
-
 </div>
-
-
 <div class="index-main-content" markdown="1">
-
 <div class="index-page-content" markdown="1">
 
 ## One codebase. Multiple apps.
@@ -104,11 +95,11 @@ If all this sounds interesting, why not take a look at the [BeeWare projects](do
 
 ## Stay in touch!
 
-Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon, or [join the BeeWare enthusiasts mailing list](community/keep-informed.md) for updates, hints, tips, and announcements related to the project.
+Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon, or [join the BeeWare enthusiasts mailing list](about/contact.md#newsletter) for updates, hints, tips, and announcements related to the project.
 
 <div class="index-main-button" markdown="1">
 
-[Keep in touch!](community/index.md){ .index-main-keep-in-touch-button }
+[Keep in touch!](about/contact.md){ .index-main-keep-in-touch-button }
 
 </div>
 
@@ -117,7 +108,6 @@ Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon, or 
 BeeWare is supported by users like you! Every little bit helps: [click here to contribute](membership/index.md).
 
 </div>
-
 <div class="index-sidebar" markdown="1">
 
 ### Gold Member { .index-sidebar-gold-member }
@@ -136,10 +126,9 @@ BeeWare is supported by users like you! Every little bit helps: [click here to c
 ### Documentation
 
 <div class="index-docs" markdown="1">
-
 <div class="index-docs-links" markdown="1">
 
-[![Tiberius](../images/toga.png)](https://toga.beeware.org){ .index-docs-logo }
+[![Tiberius](images/toga.png)](https://toga.beeware.org){ .index-docs-logo }
 
 #### [Toga](https://toga.beeware.org) { .index-docs-name }
 
@@ -149,7 +138,7 @@ A Python native, OS native GUI toolkit.
 
 <div class="index-docs-links" markdown="1">
 
-[![Briefcase](../images/briefcase.png)](https://briefcase.beeware.org){ .index-docs-logo }
+[![Briefcase](images/briefcase.png)](https://briefcase.beeware.org){ .index-docs-logo }
 
 #### [Briefcase](https://briefcase.beeware.org) { .index-docs-name }
 
@@ -159,7 +148,7 @@ Convert a Python project into a standalone native application.
 
 </div>
 
-[...and much more.](docs)
+[...and much more.](docs/index.md)
 
 </div>
 </div>

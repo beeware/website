@@ -72,7 +72,7 @@ def request_event_metadata():
     valid_event_start_date = False
     while not valid_event_start_date:
         try:
-            event_start_date_input = input("Event start date (e.g. 2026-05-13): ")
+            event_start_date_input = input("Event start date (e.g. 2026-01-01): ")
             event_start_date = datetime.datetime.strptime(event_start_date_input, "%Y-%m-%d").date()
             valid_event_start_date = True
         except ValueError:
@@ -80,7 +80,7 @@ def request_event_metadata():
     valid_event_end_date = False
     while not valid_event_end_date:
         try:
-            event_end_date_input = input("Event end date (e.g. 2026-05-19; leave blank if same as event start date): ") or event_start_date_input
+            event_end_date_input = input("Event end date (e.g. 2026-01-01; leave blank if same as event start date): ") or event_start_date_input
             event_end_date = datetime.datetime.strptime(event_end_date_input, "%Y-%m-%d").date()
             valid_event_end_date = True
         except ValueError:
@@ -125,7 +125,7 @@ def request_event_metadata():
         valid_involvement_start_date = False
         while not valid_involvement_start_date:
             try:
-                involvement_start_date_input = input(f"Start date of {involvement_type} at {event_name} (e.g. 2026-05-14, leave blank if same as {event_name} start date): ") or event_start_date_input
+                involvement_start_date_input = input(f"Start date of {involvement_type} at {event_name} (e.g. 2026-01-01, leave blank if same as {event_name} start date): ") or event_start_date_input
                 involvement_start_date = datetime.datetime.strptime(involvement_start_date_input, "%Y-%m-%d").date()
                 valid_involvement_start_date = True
             except ValueError:
@@ -133,7 +133,7 @@ def request_event_metadata():
         valid_involvement_end_date = False
         while not valid_involvement_end_date:
             try:
-                involvement_end_date_input = input(f"End date of {involvement_type} (e.g. 2026-05-19; leave blank if same as {involvement_type} start date): ") or involvement_start_date_input
+                involvement_end_date_input = input(f"End date of {involvement_type} (e.g. 2026-01-01; leave blank if same as {involvement_type} start date): ") or involvement_start_date_input
                 involvement_end_date = datetime.datetime.strptime(involvement_end_date_input, "%Y-%m-%d").date()
                 valid_involvement_end_date = True
             except ValueError:
@@ -204,7 +204,7 @@ def request_resource_metadata():
         valid_resource_event_date = False
         while not valid_resource_event_date:
             try:
-                resource_event_date_input = input("Event end date (e.g. 2026-01-01): ")
+                resource_event_date_input = input("Event date (e.g. 2026-01-01): ")
                 resource_event_date = datetime.datetime.strptime(resource_event_date_input, "%Y-%m-%d").date()
                 valid_resource_event_date = True
             except ValueError:
@@ -217,13 +217,13 @@ def request_resource_metadata():
         [resource_author.strip() for resource_author in resource_authors.split(",")]
     )
     authors.update(resource_authors_list)
-
+    # TODO: update the following
     date = datetime.date.today()
     return {
         "title": blog_title,
         "date": date,
-        "authors": [blog_author.strip() for blog_author in blog_authors.split(",")],
-        "categories": ["Buzz"],
+        "authors": [resource_author.strip() for resource_author in resource_authors.split(",")],
+        "categories": ["Resources"],
     }
 
 

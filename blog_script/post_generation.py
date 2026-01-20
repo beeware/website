@@ -250,7 +250,6 @@ def generate_entry(metadata, payload):
 
     if filename.is_file():
         print("Post already exists.")
-        pass
     else:
         content = yaml.dump(metadata, Dumper=NoAliasDumper, sort_keys=False, width=9999)
         filename.write_text(f"---\n{content}---\n{payload}")

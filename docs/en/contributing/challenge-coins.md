@@ -15,7 +15,7 @@ The front and back of the BeeWare Challenge Coin.
 
 ///
 
-The BeeWare Challenge Coins are die-cast, 4.5cm (1 3/4") in diameter,
+The BeeWare Challenge Coins are die cast, 4.5cm (1 3/4") in diameter,
 and are made of a nickel/zinc alloy with enamel highlights.
 
 Any contribution to the BeeWare project earns you a coin.

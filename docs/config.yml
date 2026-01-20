@@ -153,7 +153,6 @@ plugins:
   search: {}
   blog:
     blog_dir: news
-    author_profiles: true
     post_url_format: "{categories}/{slug}"
     post_url_max_categories: 1
     categories_url_format: "{slug}"
@@ -167,6 +166,7 @@ plugins:
     module_name: macros
     include_yaml:
         - team: en/news/.authors.yml
+
   meta: {}
   rss:
     feed_title: "BeeWare: The Buzz"

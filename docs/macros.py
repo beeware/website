@@ -1,4 +1,5 @@
 import datetime
+from pathlib import Path
 from textwrap import dedent
 import yaml
 
@@ -92,7 +93,8 @@ def define_env(env):
         return "".join(content)
 
     @env.macro
-    def generate_team_page(team):
+    def generate_team_page(team, page):
+        breakpoint()
         team_page_header = dedent("""\
         So who are the people behind BeeWare? Well, there's a huge group of contributors, but the project is managed by the Bee Team.
 
@@ -111,12 +113,12 @@ def define_env(env):
 
                     ### {member_details["name"]} {{ #{member_details["name"].lower().replace(" ", "-")} }}
                     """)
-                    member_bio = member_details["bio"]
+                    member_bio = (Path(page.file.src_dir) / "about/team/freakboy3742.md").read_text()
                     try:
                         member_image_details_mastodon = f"""<div class="team-mastodon-handle">{fa("mastodon", "lg", "brands")} {member_details["mastodon"]}</div>"""
                     except KeyError:
                         member_image_details_mastodon = ""
-                    member_image_details_start = dedent(
+                    member_image_details = dedent(
                         f"""\
                     </div>
                     <div class="team-image-details" markdown="1">
@@ -130,7 +132,7 @@ def define_env(env):
                     </div>
                     </div>
                     </div>""")
-                    team_member = member_title + member_bio + member_image_details_start
+                    team_member = member_title + member_bio + member_image_details
                     if "emeritus_date" in member_details:
                         emeritus_team_member_content.append((member_details["emeritus_date"], team_member))
                     else:

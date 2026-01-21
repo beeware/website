@@ -3,8 +3,8 @@ authors:
     name: Russell Keith-Magee
     short_name: Russell
     description: Founding Apiarist
-    avatar: ../about/images/freakboy3742.png
-    url: ../about/team/#russell-keith-magee
+    avatar: /about/images/freakboy3742.png
+    url: /about/team/#russell-keith-magee
     join_date: 2013-09-05
     mastodon: "@freakboy3742@cloudisland.nz"
     email: russell@beeware.org
@@ -21,8 +21,8 @@ authors:
     name: Kattni
     short_name: Kattni
     description: Apiarist
-    avatar: ../about/images/kattni.png
-    url: ../about/team/#kattni
+    avatar: /about/images/kattni.png
+    url: /about/team/#kattni
     join_date: 2025-10-05
     mastodon: "@kattni@kattstodon.com"
     email: kattni@beeware.org
@@ -38,8 +38,8 @@ authors:
     name: Malcolm Smith
     short_name: Malcolm
     description: Apiarist
-    avatar: ../about/images/mhsmith.png
-    url: ../about/team/#malcolm-smith
+    avatar: /about/images/mhsmith.png
+    url: /about/team/#malcolm-smith
     join_date: 2022-08-31
     email: smith@chaquo.com
     bio: |
@@ -54,7 +54,7 @@ authors:
     name: Katie McLaughlin
     short_name: Katie
     description: Senior Apiarist
-    avatar: ../about/images/glasnt.png
+    avatar: /about/images/glasnt.png
     url: ..about/team/#katie-mclaughlin
     join_date: 2016-04-02
     mastodon: "@glasnt@cloudisland.nz"
@@ -71,8 +71,8 @@ authors:
     name: Philip James
     short_name: Philip
     description: Senior Apiarist
-    avatar: ../about/images/phildini.png
-    url: ../about/team/#philip-james
+    avatar: /about/images/phildini.png
+    url: /about/team/#philip-james
     join_date: 2016-06-03
     mastodon: "@phildini@phildini.net"
     email: philip@beeware.org
@@ -86,8 +86,8 @@ authors:
     name: Amber Brown
     short_name: Amber
     description: Team Member Emeritus
-    avatar: ../about/images/hawkowl.png
-    url: ../about/team/#amber-brown
+    avatar: /about/images/hawkowl.png
+    url: /about/team/#amber-brown
     join_date: 2016-10-13
     emeritus_date: 2025-12-15
     email: hawkowl@atleastfornow.net
@@ -102,8 +102,8 @@ authors:
     name: Dan Yeaw
     short_name: Dan
     description: Team Member Emeritus
-    avatar: ../about/images/danyeaw.png
-    url: ../about/team/#dan-yeaw
+    avatar: /about/images/danyeaw.png
+    url: /about/team/#dan-yeaw
     join_date: 2018-02-28
     emeritus_date: 2021-05-01
     mastodon: "@danyeaw@fosstodon.org"
@@ -118,8 +118,8 @@ authors:
     name: Russell Martin
     short_name: Russell M.
     description: Apiarist
-    avatar: ../about/images/rmartin16.png
-    url: ../about/team/#russell-martin
+    avatar: /about/images/rmartin16.png
+    url: /about/team/#russell-martin
     join_date: 2022-08-31
     email: rmartin16@gmail.com
     bio: |
@@ -131,8 +131,8 @@ authors:
     name: Christopher Swenson
     short_name: Christopher
     description: Team Member Emeritus
-    avatar: ../about/images/swenson.png
-    url: ../about/team/#christopher-swenson
+    avatar: /about/images/swenson.png
+    url: /about/team/#christopher-swenson
     join_date: 2016-09-07
     emeritus_date: 2021-05-01
     mastodon: "@chris_swenson@tweets.icu"
@@ -150,8 +150,8 @@ authors:
     name: Charles Whittington
     short_name: Charles
     description: Apiarist
-    avatar: ../about/images/halfwhitt.png
-    url: ../about/team/#charles-whittington
+    avatar: /about/images/halfwhitt.png
+    url: /about/team/#charles-whittington
     join_date: 2024-03-24
     email: charleswhitt@gmail.com
     bio: |
@@ -164,8 +164,8 @@ authors:
     name: Chiang Fong Lee
     short_name: Chiang Fong
     description: Team Member Emeritus
-    avatar: ../about/images/cflee.png
-    url: ../about/team/#chiang-fong-lee
+    avatar: /about/images/cflee.png
+    url: /about/team/#chiang-fong-lee
     join_date: 2017-03-11
     emeritus_date: 2020-06-01
     mastodon: "@cflee@hachyderm.io"
@@ -182,8 +182,8 @@ authors:
     name: Elias Dorneles
     short_name: Elias
     description: Team Member Emeritus
-    avatar: ../about/images/elias.png
-    url: ../about/team/#elias-dorneles
+    avatar: /about/images/elias.png
+    url: /about/team/#elias-dorneles
     join_date: 2017-03-01
     emeritus_date: 2020-06-03
     email: eliasdorneles@gmail.com
@@ -197,8 +197,8 @@ authors:
     name: Olga Bulat
     short_name: Olga
     description: Team Member Emeritus
-    avatar: ../about/images/obulat.png
-    url: ../about/team/#olga-bulat
+    avatar: /about/images/obulat.png
+    url: /about/team/#olga-bulat
     email: obulat@gmail.com
     join_date: 2018-03-05
     emeritus_date: 2025-12-05
@@ -211,8 +211,8 @@ authors:
     name: Sam Schott
     short_name: Sam
     description: Team Member Emeritus
-    avatar: ../about/images/samschott.png
-    url: ../about/team/#sam-schott
+    avatar: /about/images/samschott.png
+    url: /about/team/#sam-schott
     email: sam.schott@outlook.com
     join_date: 2021-07-29
     emeritus_date: 2025-12-12
@@ -225,8 +225,8 @@ authors:
     name: Charlotte Mays
     short_name: Charlotte
     description: Team Member Emeritus
-    avatar: ../about/images/flowerncsu.png
-    url: ../about/team/#charlotte-mays
+    avatar: /about/images/flowerncsu.png
+    url: /about/team/#charlotte-mays
     mastodon: "@charlotte@hachyderm.io"
     email: charlotte@charlottemays.me
     join_date: 2017-08-17
@@ -241,8 +241,8 @@ authors:
     name: Sagi Shadur
     short_name: Sagi Shadur
     description: Team Member Emeritus
-    avatar: ../about/images/saroad2.png
-    url: ../about/team/#sagi-shadur
+    avatar: /about/images/saroad2.png
+    url: /about/team/#sagi-shadur
     email: saroad2@gmail.com
     join_date: 2020-05-31
     emeritus_date: 2025-12-15

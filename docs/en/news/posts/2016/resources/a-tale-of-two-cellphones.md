@@ -20,4 +20,5 @@ resource:
     dive into the work the BeeWare project has been doing to make Python as
     simple to use on Mobile as it is on other platforms.
 ---
+
 {{ generate_resource_post(resource) }}

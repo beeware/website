@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 The BeeWare Project wants to make it possible for all Python developers to write native apps for desktop and mobile platforms. We have solid support for most desktop operating systems and iOS, but we know our Android support is lacking. The BeeWare core team knows what needs to be done to address the problem - what we’ve been missing are time and resources.
 
 <!-- more -->

@@ -26,4 +26,5 @@ involvement:
     Source to establish a reputation on the world stage without leaving our
     obscure backwater - and the pitfalls to watch for along the way.
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

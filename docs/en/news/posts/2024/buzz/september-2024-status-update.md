@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 In September, BeeWare hit an important milestone for Android support, made good progress on packaging for iOS, and landed some significant changes to Toga.
 
 <!-- more -->

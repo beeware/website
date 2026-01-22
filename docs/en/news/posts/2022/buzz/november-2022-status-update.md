@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 November has brought some very important improvements to BeeWare. Although these changes don't have an immediate impact for users, they're going to form a vital part of our work going forward.
 
 <!-- more -->

@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 In the blink of an eye, Google Summer of Code (GSoC) 2018 has come to an end. During the three months long coding period, I have contributed several patches in VOC repository of BeeWare, all working towards the ultimate end goal of running <span class="title-ref">asyncio</span> module in VOC. In this blog post (which is my first actual blog post by the way 😄), I will document what I have done so far, why I couldn't make it to the end goal (yea, unfortunately I couldn't get <span class="title-ref">asyncio</span> to work at the end of GSoC 2018), and what's left that needs to be done in order to achieve the end goal (or at least make part of <span class="title-ref">asyncio</span> work).
 
 <!-- more -->

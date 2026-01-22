@@ -72,4 +72,5 @@ involvement:
     tour through over a dozen other languages and some of their quirks, to
     prove how no language is without fault.
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

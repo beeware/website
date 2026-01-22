@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 How time flies! Progress in October was a little slower than in past months; preparing for and attending DjangoCon US, plus some well-earned holiday leave reduced the amount of time we had to work on new features. However, we were able to make a number of significant improvements.
 
 <!-- more -->

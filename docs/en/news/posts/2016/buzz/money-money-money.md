@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 At PyCon AU 2015, and again at DjangoCon US 2015, I gave a talk entitled "Money Money Money: Writing software, in a rich (wo)man's world". The talk was a summary of the issues around one of the biggest problems that I see facing the open source community: how to provide the resources that are needed to develop and maintain the software that we, as a community depend upon. This means providing maintenance and support for established projects, large and small; but also providing an ecosystem where new ideas can be incubated, developed and matured until they present compelling alternatives or significant benefits over closed source offerings.
 
 <!-- more -->

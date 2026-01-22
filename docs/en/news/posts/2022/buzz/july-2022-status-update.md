@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Another month of important updates to the BeeWare project! This month, our focus was on packaging improvements on Linux and Windows.
 
 In addition the technical progress, we welcomed [Malcolm Smith (@mhsmith on GitHub)](https://github.com/mhsmith) to the Anaconda BeeWare team! Malcolm brings his considerable experience developing and maintaining [Chaquopy](https://github.com/chaquo), a set of tools and libraries for building Android applications that use Python. Chaquopy tackles the "Python on Android" problem from the perspective of adding Python to an existing Android Studio project rather than writing apps entirely with Python; as a result, it features much tighter integration with native Android Studio tooling. One particularly interesting feature of Chaquopy is that it supports binary dependencies on Android - a key feature that BeeWare's Android tooling currently lacks. Historically, Chaquopy was a closed source tool with licenses available for open source projects; however, as a result of joining Anaconda, Malcolm has [released Chaquopy as an Open Source project](https://chaquo.com/chaquopy/chaquopy-is-now-open-source/)!

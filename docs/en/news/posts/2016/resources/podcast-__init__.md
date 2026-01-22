@@ -15,4 +15,5 @@ resource:
     `Podcast.__init__`, where they talk about the past and future of
     BeeWare, tea sets, and mental health.
 ---
+
 {{ generate_resource_post(resource) }}

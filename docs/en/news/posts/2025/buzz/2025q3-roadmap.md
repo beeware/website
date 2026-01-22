@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 In Q2, BeeWare reached some public milestones in our iOS binary packaging, and saw some unexpected improvements in our documentation and website. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment of features that will be made available on a specific deadline.
 
 <!-- more -->

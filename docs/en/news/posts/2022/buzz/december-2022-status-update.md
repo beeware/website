@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 This status update is a little earlier than our usual end-of-month report because the team will be taking a well-earned break to spend time with family and friends over the holiday and new year period. As a result, we've got less to report than in past months; however, some significant progress and improvements have been made.
 
 <!-- more -->

@@ -22,4 +22,5 @@ resource:
     will also see how you can use those tools to target execution
     environments other than the CPython virtual machine.
 ---
+
 {{ generate_resource_post(resource) }}

@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 August has been a slow month due to some personal leave, and some unexpected road bumps from GitHub - but BeeWare has still made some notable progress.
 
 <!-- more -->

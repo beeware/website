@@ -1,6 +1,7 @@
 ---
 title: BeeWare docs
 ---
+
 # Documentation { .documentation }
 
 <div class="docs-page" markdown="1">

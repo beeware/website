@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 December has been a short month due to end-of-year holidays, but BeeWare has still made some important progress.
 
 <!-- more -->

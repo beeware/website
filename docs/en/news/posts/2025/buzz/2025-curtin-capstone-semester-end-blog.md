@@ -11,6 +11,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Over the past semester, a team of final year students from [Curtin University](https://www.curtin.edu.au) has been collaborating with the BeeWare Project as part of a capstone project for their degrees. Here's a summary of what they've done so far this semester, and what they have planned for the rest of the year.
 
 <!-- more -->

@@ -21,4 +21,5 @@ involvement:
   end_date: 2017-06-09
   description: Keynote
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 With Q3 completed, it's time to provide an update on the long term goals and priorities of the BeeWare project. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment of features that will be made available on a specific deadline.
 
 <!-- more -->

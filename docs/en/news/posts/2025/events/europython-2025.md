@@ -52,4 +52,5 @@ involvement:
   date: 2025-07-19
   end_date: 2025-07-20
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

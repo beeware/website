@@ -38,4 +38,5 @@ involvement:
   date: 2016-06-03
   end_date: 2016-06-03
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

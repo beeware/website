@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 9 months ago, we [announced that the BeeWare Project was the recipient of a PSF Education Grant](https://beeware.org/news/buzz/beeware-project-awarded-a-psf-education-grant/). In late 2019, we [choose Asheesh Laroia to do the work](https://beeware.org/news/buzz/we-have-a-contractor-for-our-android-contract/). Today, we're proud to announce that BeeWare's Android support has reached a point where it is ready for mass consumption.
 
 <!-- more -->

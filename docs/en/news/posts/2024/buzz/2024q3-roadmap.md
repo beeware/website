@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 We're halfway through the year, and BeeWare has seen another quarter of significant progress. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment of features that will be made available on a specific deadline.
 
 <!-- more -->

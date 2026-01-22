@@ -29,4 +29,5 @@ resource:
     (The talk was unfortunately not recorded, but Katie has recorded a
     screencast for us!)
 ---
+
 {{ generate_resource_post(resource) }}

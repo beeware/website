@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 One of the benefits of having the support of an organisation like Anaconda is that we are now in a position to make more concrete commitments on project goals, and the likely timeframe when key features will be delivered. To that end, in addition to monthly status updates, we're going to start publishing regular updates on our project roadmap so the community has a better idea what to expect over the coming months.
 
 <!-- more -->

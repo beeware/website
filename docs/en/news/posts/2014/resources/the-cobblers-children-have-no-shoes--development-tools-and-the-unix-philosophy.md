@@ -16,4 +16,5 @@ resource:
     In this talk, Dr. Russell Keith-Magee describes how development tools
     have lacked the progression of the applications made with them.
 ---
+
 {{ generate_resource_post(resource) }}

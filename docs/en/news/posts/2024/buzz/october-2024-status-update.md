@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 In October, BeeWare saw some important releases, plus more good progress on binary packaging for iOS.
 
 <!-- more -->

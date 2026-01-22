@@ -27,4 +27,5 @@ resource:
     single page webapp - without making any changes to the application's
     codebase.
 ---
+
 {{ generate_resource_post(resource) }}

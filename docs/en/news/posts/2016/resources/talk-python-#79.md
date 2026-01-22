@@ -21,4 +21,5 @@ resource:
     and more, possible. We're speaking with Russell Keith-Magee, founder of
     the BeeWare project.
 ---
+
 {{ generate_resource_post(resource) }}

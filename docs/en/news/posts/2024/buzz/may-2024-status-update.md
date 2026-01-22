@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 BeeWare activity in May was dominated by preparing for and attending PyCon US in Pittsburgh. That event generated a lot of activity in the BeeWare project - but we've also added some other significant improvements.
 
 <!-- more -->

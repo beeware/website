@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Google Summer of Code 2017 is coming to an end. After three month of working on the BeeWare project, I would like to summarise my work and share my experiences.
 
 <!-- more -->

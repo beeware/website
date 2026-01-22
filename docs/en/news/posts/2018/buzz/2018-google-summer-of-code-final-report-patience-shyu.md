@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Google Summer of Code is coming to an end. I've spent the summer working on optimizing the [VOC compiler](https://github.com/beeware/voc), and I’m super excited to share the results.
 
 <!-- more -->

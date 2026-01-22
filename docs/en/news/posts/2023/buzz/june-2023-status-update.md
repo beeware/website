@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 We're half way through the year! Work on the widget audit is almost complete; but that's not all we've been working on.
 
 <!-- more -->

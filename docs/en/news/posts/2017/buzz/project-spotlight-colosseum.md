@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 *This article was originally published on the BeeWare Enthusiasts mailing list. If you'd like to receive regular updates about the BeeWare project, why not* [subscribe](/about/contact.md#newsletter)?
 
 <!-- more -->

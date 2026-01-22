@@ -13,4 +13,5 @@ resource:
     Elias Dorneles writes on why he thinks BeeWare is awesome, and why you
     should help build it.
 ---
+
 {{ generate_resource_post(resource) }}

@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 At PyCon US 2016, Philip James became a Core Contributor to BeeWare!
 
 He wrote up some of his thoughts about the process in his article [Tips for Becoming a Core Contributor](https://phildini.dev/tips-becoming-core-contributor).

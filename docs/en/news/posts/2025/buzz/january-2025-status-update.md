@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 It's the start of a new year, and we've already seen some big improvements to BeeWare!
 
 <!-- more -->

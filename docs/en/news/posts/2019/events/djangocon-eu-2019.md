@@ -21,4 +21,5 @@ involvement:
   date: 2019-04-13
   end_date: 2019-04-13
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

@@ -24,4 +24,5 @@ involvement:
     perspective on why it is successful, where it is lacking, and what
     challenges face us as a community going into the future.
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

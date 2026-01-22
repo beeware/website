@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 The biggest challenge for any Open Source project is finding the resources needed to support development - and the BeeWare project is no exception.
 
 To date, BeeWare has been primarily driven by the efforts of volunteers. We've been able to achieve amazing things with those volunteer efforts, demonstrating that Python is a viable language for GUI development on macOS, Windows, Linux, iOS and Android, as well as providing a proof-of-concept demonstration on Web. However, there are still lots of features that we'd like to add, and lots of ongoing maintenance that needs to be done as operating systems and hardware platforms evolve.

@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Even with the impediment of end-of-year holidays restricting the availability of the core team, BeeWare has still seen some significant progress during December.
 
 <!-- more -->

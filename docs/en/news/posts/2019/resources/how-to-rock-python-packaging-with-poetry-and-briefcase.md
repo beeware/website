@@ -13,4 +13,5 @@ resource:
     Dan wrote a blog post about how to use Poetry and Briefcase to packaging
     your library or application.
 ---
+
 {{ generate_resource_post(resource) }}

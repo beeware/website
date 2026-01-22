@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 After almost 4 months of work on [Google Summer of Code](https://developers.google.com/open-source/gsoc/) 2017, finally I'm completing my proposal. Every widget migration and every commit/PR/issue/discussion with my mentors about [Cricket](https://github.com/beeware/cricket) , [Toga](/docs/index.md#toga) and [rubicon-objc](/docs/index.md#rubicon-objective-c) were detailed on the [Issue 58](https://github.com/beeware/cricket/issues/58).
 
 <!-- more -->

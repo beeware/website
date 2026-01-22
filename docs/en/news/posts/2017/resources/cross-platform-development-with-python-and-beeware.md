@@ -13,4 +13,5 @@ resource:
     Katie wrote an article about BeeWare and her PyCon US 2017 talk for
     OpenSource.com.
 ---
+
 {{ generate_resource_post(resource) }}

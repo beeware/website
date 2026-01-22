@@ -29,4 +29,5 @@ resource:
     In this talk, Dr Russell Keith-Magee will explore the problems, and the
     potential solutions, to these problems.
 ---
+
 {{ generate_resource_post(resource) }}

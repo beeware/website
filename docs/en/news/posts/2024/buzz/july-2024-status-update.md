@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 July saw a lot of our attention being consumed by the upcoming Python 3.13 release; but we've also seen some other improvements to the BeeWare suite.
 
 <!-- more -->

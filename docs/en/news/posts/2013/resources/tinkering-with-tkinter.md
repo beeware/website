@@ -33,4 +33,5 @@ resource:
     In this talk, you'll get a re-introduction to an old friend, and an
     explanation of why, in a web and mobile world, you should care.
 ---
+
 {{ generate_resource_post(resource) }}

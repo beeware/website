@@ -32,4 +32,5 @@ involvement:
     that make the process of creating an iOS, OS X, tvOS or watchOS project
     in Python relatively easy.
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

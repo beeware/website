@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 November has been a busy month, seeing improvements in documentation, a number of improvements to Briefcase, Linux support in Toga, and the first iOS binary wheels written in Rust!
 
 <!-- more -->

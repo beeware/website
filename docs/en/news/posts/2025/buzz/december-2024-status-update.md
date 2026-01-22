@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Work in December (and the publication of this update!) was slowed by the end-of-year break; but BeeWare still made some significant progress to round out the year.
 
 <!-- more -->

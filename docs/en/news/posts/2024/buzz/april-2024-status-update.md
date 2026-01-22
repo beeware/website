@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 This month has seen BeeWare reach one major milestone, almost reach a second, as well as landing several smaller improvements.
 
 <!-- more -->

@@ -13,4 +13,5 @@ resource:
     Anthony Shaw walks through the process of using Briefcase, Toga, and the
     Python iOS support tools to build a remote control app for his TV.
 ---
+
 {{ generate_resource_post(resource) }}

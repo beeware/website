@@ -30,4 +30,5 @@ involvement:
     to build a GUI app, and deploy that app on desktop, mobile, and the
     web - all from a single Python codebase.
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

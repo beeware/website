@@ -16,4 +16,5 @@ resource:
     In this lightning talk, Dr Russell Keith-Magee announces Toga, a
     cross-platform widget tool kit.
 ---
+
 {{ generate_resource_post(resource) }}

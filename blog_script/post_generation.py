@@ -243,7 +243,8 @@ if __name__ == "__main__":
     if post_type == "blog":
         metadata = request_blog_metadata()
         payload = dedent("""\
-            Add blog post introduction here.
+
+            Add blog post introduction here. Leave newline between frontmatter and content.
 
             <!-- more -->
 
@@ -251,10 +252,9 @@ if __name__ == "__main__":
         )
     elif post_type == "event":
         metadata = request_event_metadata()
-        payload = "{{ generate_event_post(authors, event, involvement, team) }}"
+        payload = "\n{{ generate_event_post(authors, event, involvement, team) }}"
     elif post_type == "resource":
         metadata = request_resource_metadata()
-        payload = "{{ generate_resource_post(resource) }}"
-    else:
-        raise Exception(f"Post type '{post_type}' not supported.")
+        payload = "\n{{ generate_resource_post(resource) }}"
+
     generate_entry(metadata, payload)

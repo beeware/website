@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 In July, BeeWare hit some more major milestones in our work on mobile packaging - but we also found time to make some improvements to other parts of BeeWare.
 
 <!-- more -->

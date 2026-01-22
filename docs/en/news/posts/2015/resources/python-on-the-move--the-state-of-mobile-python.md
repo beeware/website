@@ -27,4 +27,5 @@ resource:
     using Python on mobile devices, the work that is currently being done,
     areas where more work is required, and the prospects for the future.
 ---
+
 {{ generate_resource_post(resource) }}

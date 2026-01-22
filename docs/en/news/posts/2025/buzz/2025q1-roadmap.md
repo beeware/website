@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Progress in Q4 was slower than anticipated, but there have been some notable success in achieving BeeWare's overall project goals. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment of features that will be made available on a specific deadline.
 
 <!-- more -->

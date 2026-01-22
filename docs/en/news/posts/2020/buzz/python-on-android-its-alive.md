@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 For the last couple of months, we've had a contractor ([Asheesh Laroia](https://twitter.com/asheeshlaroia)) [working on fixing Android support in the BeeWare suite of tools](https://beeware.org/news/buzz/we-have-a-contractor-for-our-android-contract/).
 
 I've incredibly happy to announce that we've just hit our first major milestone: a working pure-Python application, running on an Android device!

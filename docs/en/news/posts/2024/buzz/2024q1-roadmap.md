@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 It's the start of a new year, which means it's time to cast our minds forward to what BeeWare will bring in the coming year. 2023 saw some major milestones in stability and features; in 2024, we're going to build on that foundation. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment of features that will be made available on a specific deadline.
 
 <!-- more -->

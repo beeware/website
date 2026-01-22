@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Today, the BeeWare project is making 2 changes to the way we organize our community.
 
 Firstly, we're going to **move our real-time chat community from Gitter to Discord**.

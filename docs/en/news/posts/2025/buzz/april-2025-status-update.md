@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 April was a shortened development month due to the Easter break, plus some other employer-related travel commitments, but we've still been able to make some important progress in the BeeWare ecosystem.
 
 <!-- more -->

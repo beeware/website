@@ -58,4 +58,5 @@ involvement:
     of your Django project. You'll also learn how to use Django's custom
     user model in practice.
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

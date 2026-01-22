@@ -12,4 +12,5 @@ resource:
   description: |-
     Dan wrote a blog post about how to build your own Toga GUI Widget.
 ---
+
 {{ generate_resource_post(resource) }}

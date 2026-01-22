@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Welcome to the BeeWare project's new website!
 
 The original BeeWare website was written a couple of years ago, when BeeWare was still a highly experimental project. The old website was a single page affair, with individual projects maintaining their own web identity. Over time, the number of contributors has grown, the number of subprojects has grown, and the number of core team members has tripled.

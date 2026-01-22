@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 2023 is halfway done, and BeeWare continues to make steady progress. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment of features that will be made available on a specific deadline.
 
 <!-- more -->

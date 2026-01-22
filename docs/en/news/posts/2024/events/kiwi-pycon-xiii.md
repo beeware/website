@@ -24,4 +24,5 @@ involvement:
 
     In this keynote, Dr Keith-Magee will reflect on how Python, and computing as a whole, has changed over the years. He will also look at what hasn't changed - and make some predictions about what the future may hold for Python.
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

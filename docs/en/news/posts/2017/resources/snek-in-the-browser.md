@@ -26,4 +26,5 @@ resource:
     multi-platform native API wrapper; a combination of which can be used to
     build an entire web platform in Python only.
 ---
+
 {{ generate_resource_post(resource) }}

@@ -25,4 +25,5 @@ involvement:
   end_date: 2019-06-16
   description: ''
 ---
+
 {{ generate_event_post(authors, event, involvement, team) }}

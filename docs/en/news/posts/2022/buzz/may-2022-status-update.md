@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 It's been another busy month at the hive! The progress we made in May isn't as obvious as last month - but the changes that have been made are an essential part of ensuring we have a stable foundation for future work on the BeeWare ecosystem.
 
 <!-- more -->

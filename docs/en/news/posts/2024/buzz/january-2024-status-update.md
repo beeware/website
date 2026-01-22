@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 January has seen some long awaited and high profile features added to BeeWare.
 
 <!-- more -->

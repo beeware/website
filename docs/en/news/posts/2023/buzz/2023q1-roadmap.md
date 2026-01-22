@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 Welcome to a new year! 2022 saw some amazing progress for BeeWare; and we've got some big plans for 2023. As always, this roadmap should be read as a guide to what we aim to focus on over the coming quarter, rather than a hard commitment of features that will be made available on a specific deadline.
 
 <!-- more -->

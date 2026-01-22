@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 BeeWare is now hiring!
 
 The position is a full time, Mid- to Senior position. You will be working full time in the Open Source group at Anaconda, on the BeeWare suite of tools. Full details of the position [can be found on Greenhouse](https://boards.greenhouse.io/anaconda/jobs/4211521).

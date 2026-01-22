@@ -6,6 +6,7 @@ authors:
 categories:
 - Buzz
 ---
+
 The main focus of the BeeWare team during August was binary module support on mobile platforms. Although we haven't got the final results of this work yet, we have significant progress to report for both iOS and Android. We've also had a number of other improvements land over the course of the month.
 
 <!-- more -->

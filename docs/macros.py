@@ -151,11 +151,12 @@ def define_env(env):
                     <div class="team-member" markdown="1">
                     <div class="team-bio" markdown="1">
 
-                    ### {member_details["name"]} {{ #{member_details["name"].lower().replace(" ", "-")} }}
+                    ### {member_details["name"]} {{ #{github_id} }}
                     """)
-                    member_bio = (Path(page.file.src_dir) / "about/team/freakboy3742.md").read_text()
+                    member_bio = (Path(page.file.src_dir) / f"about/team/{github_id}.md").read_text()
                     try:
-                        member_image_details_mastodon = f"""<div class="team-mastodon-handle">{fa("mastodon", "lg", "brands")} {member_details["mastodon"]}</div>"""
+                        mastodon = member_details["mastodon"].split("@")
+                        member_image_details_mastodon = f"""<div class="team-mastodon-handle" markdown="1">{fa("mastodon", "lg", "brands")} [{member_details["mastodon"]}](https://{mastodon[2]}/@{mastodon[1]})</div>"""
                     except KeyError:
                         member_image_details_mastodon = ""
                     member_image_details = dedent(
@@ -166,9 +167,9 @@ def define_env(env):
                     ![{member_details["name"]}](/{member_details["avatar"]})
 
                     <div class="team-contact-details" markdown="1">
-                    <div class="team-github-handle">{fa("github", "lg", "brands")} {github_id}</div>
+                    <div class="team-github-handle" markdown="1">{fa("github", "lg", "brands")} [{github_id}](https://github.com/{github_id})</div>
                     {member_image_details_mastodon}
-                    <div class="team-email">{fa("envelope", "lg", "solid")} {member_details['email']}</div>
+                    <div class="team-email" markdown="1">{fa("envelope", "lg", "solid")} <{member_details['email']}></div>
                     </div>
                     </div>
                     </div>""")

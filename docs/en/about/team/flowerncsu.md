@@ -1,0 +1,5 @@
+Charlotte has been coding for more years than she likes to admit, and
+has a passion for building cool things and helping other people learn
+how to build cool things. She is among the organizers of PyLadies RDU,
+and can often be found making things out of yarn when not making things
+out of code.

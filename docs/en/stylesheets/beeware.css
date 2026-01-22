@@ -370,6 +370,7 @@ h2#sidebar {
     padding-top: 2.5rem;
     max-width: 38%;
     font-size: 0.85rem;
+    line-height: 0.5rem;
 }
 
 .team-image-details img {

@@ -4,4 +4,4 @@ title: Resources
 
 # Resources
 
-**TODO: Add text here.**
+**Want to learn more about BeeWare? Here are some resources that might be useful.**

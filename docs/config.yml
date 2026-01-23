@@ -1,8 +1,63 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 copyright: © Russell Keith-Magee
 
+nav:
+  - About:
+      - about/index.md
+      - What is BeeWare?: about/overview.md
+      - The Bee Team: about/team.md
+      - History and Philosophy: about/history.md
+      - Contact: about/contact.md
+      - Branding guidelines: about/branding.md
+  - Documentation:
+      - docs/index.md
+  - Community:
+      - community/index.md
+      - BeeWare Community Code of Conduct: community/code-of-conduct.md
+      - Governance: community/governance.md
+  - Contributing:
+      - contributing/index.md
+      - First-time contributors: contributing/first-time-contributors.md
+      - Contribution guide:
+          - contributing/guide/index.md
+          - Fix an issue: contributing/guide/what/fix-issue.md
+          - Implement a new feature: contributing/guide/what/implement-feature.md
+          - Write documentation: contributing/guide/what/write-docs.md
+          - Triage an issue: contributing/guide/what/triage.md
+          - Review a pull request: contributing/guide/what/review-pr.md
+          - Propose a new feature: contributing/guide/what/propose-feature.md
+          - Translate content: contributing/guide/what/translate.md
+          - Use the tools: contributing/guide/what/use-tools.md
+          - Setting up a development environment: contributing/guide/how/dev-environment.md
+          - Reproducing an issue: contributing/guide/how/reproduce-issue.md
+          - Working from a branch: contributing/guide/how/branches.md
+          - Avoiding scope creep: contributing/guide/how/scope-creep.md
+          - Writing, running, and testing code: contributing/guide/how/write-code.md
+          - Building documentation: contributing/guide/how/build-docs.md
+          - Writing documentation: contributing/guide/how/write-docs.md
+          - Adding a change note: contributing/guide/how/change-note.md
+          - Submitting a pull request: contributing/guide/how/submit-pr.md
+          - Providing a review: contributing/guide/how/review-pr.md
+          - Submitting a new issue: contributing/guide/how/new-issue.md
+          - Proposing a new feature: contributing/guide/how/propose-feature.md
+          - Translating content: contributing/guide/how/translate.md
+          - Pull request review process: contributing/guide/next/pr-review.md
+          - Release process: contributing/guide/next/release.md
+          - Code style guide: contributing/guide/style/code-style-guide.md
+          - Documentation style guide: contributing/guide/style/docs-style-guide.md
+      - Sprint guide: contributing/sprint-guide.md
+      - Challenge coins: contributing/challenge-coins.md
+  - News:
+      - news/index.md
+  - Sponsor:
+      - membership/index.md
+
 not_in_nav: |
   /index.md
+
+exclude_docs: |  # This is the only way to keep the build from parsing the team bio files.
+  !.*
+  /about/team/
 
 validation:
   omitted_files: warn
@@ -13,6 +68,13 @@ validation:
 extra:
   project_name: beeware
   formal_name: BeeWare
+  hide_dev_links: true
+  website: true
+  translated: true
+  min_python_version: "3.10"  # The oldest supported Python version
+  min_python_version_tag: "310"  # The tag version of the minimum python version
+  recent_python_version: "3.13"  # The newest Python version known to work on all platforms
+  docs_python_version: "3.13"  # The version of Python required to build the documentation
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/beeware
@@ -23,6 +85,15 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://beeware.org/bee/chat/
       name: BeeWare on Discord
+    - icon: fontawesome/solid/square-rss
+      name: BeeWare blog RSS feed
+      link: https://beeware.org/news/buzz/atom.xml
+  github_icon: <i class="fa-github fa-brands" aria-hidden="true"></i>
+  generator: false
+
+
+extra_css:
+  - stylesheets/beeware.css
 
 theme:
   name: material
@@ -32,10 +103,12 @@ theme:
   features:
     - content.tabs.link
     - toc.follow
-    - navigation.indexes
-    - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.sections
+    - navigation.path
+    - navigation.expand
     - search.suggest
     - search.highlight
     - search.share
@@ -66,6 +139,7 @@ markdown_extensions:
   pymdownx.superfences: {}
   pymdownx.blocks.admonition: {}
   pymdownx.blocks.caption: {}
+  pymdownx.details: {}
   pymdownx.blocks.tab:
     alternate_style: true
   pymdownx.snippets:
@@ -76,10 +150,39 @@ markdown_extensions:
     permalink: true
     title: On this page
   attr_list: {}
+  md_in_html: {}
+  admonition: {}  # Enabled for all admonition types EXCEPT note and admonition (which defaults to note)
 
 plugins:
   search: {}
-  autorefs: {}
-  literate-nav:
-    nav_file: SUMMARY.md
-  macros: {}
+  blog:
+    blog_dir: news
+    post_url_format: "{categories}/{slug}"
+    post_url_max_categories: 1
+    categories_url_format: "{slug}"
+    categories_allowed:
+      - Buzz
+      - Events
+      - Resources
+  autorefs:
+    resolve_closest: true  # autorefs warns of the Usage headings begin duplicates without this - we will have to assign unique ids to all of them otherwise
+  macros:
+    module_name: macros
+    include_yaml:
+        - team: en/news/.authors.yml
+
+  meta: {}
+  rss:
+    feed_title: "BeeWare: The Buzz"
+    feed_description: News and events for the BeeWare project.
+    match_path: "news/posts/.*"
+    use_git: false  # Forces it to read the dates from the frontmatter.
+    date_from_meta:
+      as_creation: "date"
+      datetime_format: "%Y-%m-%d"
+    categories:
+      - categories
+    feeds_filenames:
+      rss_created: news/buzz/atom.xml
+#    image: images/brutus.png  # Update to a Brutus URL
+    abstract_chars_count: -1

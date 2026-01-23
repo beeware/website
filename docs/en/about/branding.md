@@ -1,18 +1,20 @@
 # Branding guidelines
 
-These are the branding guidelines for BeeWare.
+## Referring to the project
 
-TODO: @freakboy3742 - please update this with formal guidelines.
+This project should be referred to as **The BeeWare Project**, or **BeeWare**.
 
-## Short description
+### Short description
 
 BeeWare is a collection of tools and libraries to aid in writing application user interfaces in Python.
 
-## Long description
+### Long description
 
 BeeWare is a collection of tools and libraries to aid in writing application user interfaces in Python. It enables developers to write applications for iPhone, Android, Linux, macOS and Windows that are indistinguishable from natively written applications.
 
 ## Logos
+
+The following images are official logos of the BeeWare project. They are trademarks of the BeeWare Project; they can be used nominatively, but should not be used imply an official association with the project that does not exist. If you have any questions about logo usage, contact [Founding Apiarist Russell Keith-Magee](mailto:russell@beeware.org).
 
 ### BeeWare logo
 
@@ -22,7 +24,7 @@ BeeWare is a collection of tools and libraries to aid in writing application use
 - [Medium](images/beeware-519.png)
 - [Vector](images/beeware.eps)
 
-### BeeWare (wide) logo
+### BeeWare logo (wide)
 
 ![BeeWare logo (wide)](images/beeware-wide-143.png)
 

@@ -101,7 +101,7 @@ authors:
   cflee:
     name: Chiang Fong Lee
     short_name: Chiang Fong
-    pronoun: she
+    pronoun: he
     description: Team Member Emeritus
     avatar: about/images/cflee.png
     url: about/team/#cflee
@@ -112,6 +112,7 @@ authors:
   eliasdorneles:
     name: Elias Dorneles
     short_name: Elias
+    pronoun: he
     description: Team Member Emeritus
     avatar: about/images/elias.png
     url: about/team/#eliasdorneles
@@ -121,6 +122,7 @@ authors:
   obulat:
     name: Olga Bulat
     short_name: Olga
+    pronoun: she
     description: Team Member Emeritus
     avatar: about/images/obulat.png
     url: about/team/#obulat
@@ -130,6 +132,7 @@ authors:
   samschott:
     name: Sam Schott
     short_name: Sam
+    pronoun: he
     description: Team Member Emeritus
     avatar: about/images/samschott.png
     url: about/team/#samschott
@@ -139,6 +142,7 @@ authors:
   flowerncsu:
     name: Charlotte Mays
     short_name: Charlotte
+    pronoun: she
     description: Team Member Emeritus
     avatar: about/images/flowerncsu.png
     url: about/team/#flowerncsu
@@ -149,6 +153,7 @@ authors:
   saroad2:
     name: Sagi Shadur
     short_name: Sagi Shadur
+    pronoun: he
     description: Team Member Emeritus
     avatar: about/images/saroad2.png
     url: about/team/#saroad2

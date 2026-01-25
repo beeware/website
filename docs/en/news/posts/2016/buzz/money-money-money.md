@@ -15,7 +15,7 @@ It's been almost 18 months since I first presented this talk, but the issue pers
 
 However, despite this attention, it *still* doesn't get anywhere near as much attention as it should. And it's an issue that is of pressing importance to me, as the BeeWare project is looking for ways to fund the development needed to take us from "interesting technical demo" to "compelling technical solution".
 
-A few months back, it was suggested that I should publish a blog post to accompany the video presentation. I dragged my feet on doing this, until industrious BeeWare contributor and all-around nice guy [Elias Dorneles](http://eliasdorneles.github.io) offered to take my speakers notes and convert it into a transcript.
+A few months back, it was suggested that I should publish a blog post to accompany the video presentation. I dragged my feet on doing this, until industrious BeeWare contributor and all-around nice guy [<nospell>Elias Dorneles</nospell>](http://eliasdorneles.github.io) offered to take my speakers notes and convert it into a transcript.
 
 So - here it is. Money Money Money: Writing software, in a rich <nospell>(wo)man's</nospell> world. If you've got any questions, disagreements, requests to present this at your conference, or just a generic offer of a bag of cash, you can reach me at <russell@keith-magee.com>.
 
@@ -57,7 +57,7 @@ Another example - GnuPG - <nospell>Werner Koch</nospell> almost went bankrupt tr
 
 Those are both examples that ended with funding; but it's not all happy endings.
 
-Take the example of Capistrano. Hugely popular configuration management tool around 2007-8, maintained by <nospell>Jamis Buck</nospell>. In 2008, citing burnout and maintenance overhead, he famously withdrew support for Windows, saying "Windows may be the 800 pounds gorilla in the room, but it's not my gorilla, and it's not in my room". This was an incredibly unpopular move; but even with that scale down, Jamis burned out in 2009, abandoning Capistrano, and a number of other projects, without maintainers.
+Take the example of Capistrano. Hugely popular configuration management tool around 2007-8, maintained by <nospell>Jamis</nospell> Buck. In 2008, citing burnout and maintenance overhead, he famously withdrew support for Windows, saying "Windows may be the 800 pounds gorilla in the room, but it's not my gorilla, and it's not in my room". This was an incredibly unpopular move; but even with that scale down, <nospell>Jamis</nospell> burned out in 2009, abandoning Capistrano, and a number of other projects, without maintainers.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Hi I&#39;m an engineer at a well-funded company and we need this feature can someone implement it for free?&quot; -- Every FOSS mailing list.</p>&mdash; <nospell>Christophe (@Xof) <a href="https://twitter.com/Xof/status/622113231218192384">July 17, 2015</a></nospell></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -75,7 +75,7 @@ movement - how to reconcile the discrepancy between the clear demand for
 a software product, and the ability to convert that demand into the time
 and resources needed to service that demand.
 
-### Free software: Dream vs Realty
+### Free software: Dream vs Reality
 
 Although the theory says that anyone can contribute to a free software
 project, in reality, every single project of any significance has
@@ -92,14 +92,14 @@ We're in a room full of Python users. Django is a free software project.
 
 - Who in this room has found a bug in Django, or has a niggling thing
   they'd like to see fixed Django API?
-- Who has turn that niggle into a bug report to Django?
+- Who has turned that niggle into a bug report to Django?
 - Who has submitted a patch to Django for that niggle?
 - Of those, who have had that patch committed?
 
 Note
 
 When this is done in front of a live audience, at each question, there
-are less people raising their hands
+are fewer people raising their hands
 
 ### Products vs Projects
 
@@ -151,16 +151,14 @@ deliver a project faster or better by throwing more people at it. 9
 women can't make a baby in 1 month - a project doesn't just need
 resources - it needs the *right* resources, in the right quantities. And
 ultimately, that means projects finding a way to get the resources they
-need to be self sustaining.
+need to be self-sustaining.
 
 So, that means that if we want free software to be maintained, and
 maintained well, we need to find a way to fund it's maintenance.
 
 ### Use value vs Sale value
 
-18 years ago, Eric S Raymond published an essay entitled "Cathedral and
-the Bazaar". This essay catalyzed the start of the open source
-movement - a redefinition of "free software" to make it clear that the openness, not price, was the important property. What isn't as well remembered is that "Cathedral and the Bazaar" isn't the only essay Raymond wrote at that time. He published 2 other essays shortly after <nospell>CatB - "Homesteading the Noosphere",</nospell> about the social organization and motivations behind free software projects, and The Magic Cauldron, about the *economics* of Free software.
+18 years ago, Eric S Raymond published an essay entitled "Cathedral and the Bazaar". This essay catalyzed the start of the open source movement - a redefinition of "free software" to make it clear that the openness, not price, was the important property. What isn't as well remembered is that "Cathedral and the Bazaar" isn't the only essay Raymond wrote at that time. He published 2 other essays shortly after <nospell>CatB - "Homesteading the Noosphere",</nospell> about the social organization and motivations behind free software projects, and The Magic Cauldron, about the *economics* of Free software.
 
 One of the key distinctions that Raymond highlights in that essay is the difference between Use value and Sale value.
 
@@ -182,7 +180,7 @@ Unfortunately, the dirty little secret of the tech writing scene is that nobody 
 
 One area that *does* pay well is selling training. Employers are willing to pay big bucks for training courses; if you can put together a 3 day intensive workshop, you can sell it over and over again.
 
-You can productize your offering. The source code remains free, but a simple, easy-to-use installer costs money. This works really great when when what you have is a clearly identifiable product - like an IDE.
+You can productize your offering. The source code remains free, but a simple, easy-to-use installer costs money. This works really great when what you have is a clearly identifiable product - like an IDE.
 
 One specific model of productization is SaaS - give the code away for free, but pay for the convenience of having someone else administer it for you. Any open source web software is a good example of this - you can install the software on your own servers, but honestly, unless you've got a reason, you use someone else's hosted solution and let them take care of it for you.
 
@@ -190,7 +188,7 @@ But, SaaS is only viable if you can deliver *as a service* - which means it's re
 
 So what else can you sell?
 
-You can sell access to the developers. If you're the maintainer of a project, you're in the best position to provide support, or debug complex problems - which means you're in a prime position to sell support and consulting. <span class="title-ref"><nospell>Honza Král &lt;https://twitter.com/honzakral&gt;</nospell></span> from ElasticSearch calls this the "Ghostbusters" business model - "Who you gonna call?"
+You can sell access to the developers. If you're the maintainer of a project, you're in the best position to provide support, or debug complex problems - which means you're in a prime position to sell support and consulting. <nospell>Honza Král &lt;https://twitter.com/honzakral&gt;</nospell> from ElasticSearch calls this the "Ghostbusters" business model - "Who you gonna call?"
 
 You can sell access to the software. Trolltech did this with Qt; Riverbank still does with the PyQt bindings. The library itself is GPL - but if you want to use it on a closed source project, you can, for a hefty fee. This has the advantage that it forces commercial interests to pay for what they're using; but it also discourages small scale commercial tinkering - if I'm writing a new tool, and I'm forced to choose between open sourcing my tool or a $1000 price tag, I'll probably choose a different toolkit.
 
@@ -320,14 +318,14 @@ market for cloud hosting, which means more money for their core
 business - either directly (like Rackspace), or indirectly (like Red Hat,
 because cloud servers still need operating systems).
 
-Node.js is funded by Joyent for similar reasons - Joyent is making a
+<nospell>Node.js</nospell> is funded by <nospell>Joyent</nospell> for similar reasons - <nospell>Joyent</nospell> is making a
 long play that if it's easier to develop web software, more people will
-write web software, increasing the market for Joyent's services.
+write web software, increasing the market for <nospell>Joyent's</nospell> services.
 
-However, Node.js is also a cautionary tale about corporate interests -
+However, <nospell>Node.js</nospell> is also a cautionary tale about corporate interests -
 what happens when the community and the corporate sponsor disagree about
 the direction of the project? Well, you get project splits, like the
-io.js split. Corporate money can corrupt. You need to be careful that
+<nospell>io.js</nospell> split. Corporate money can corrupt. You need to be careful that
 project governance is independent of the funding source.
 
 Having a single corporate master also puts the project the risk if that
@@ -367,7 +365,7 @@ The Wordpress ecosystem has fundamentally embraced the fact that money needs to 
 
 In that vein, I'd like to make a controversial proposal.
 
-What if [PyPI](https://pypi.python.org/pypi) was a revenue stream? What if, when I registered an application with [PyPI](https://pypi.python.org/pypi), I could specify a price - either per install, or per version, or per-app, or per-month. When I <span class="title-ref">pip install</span>, the cost just gets added to my PyPI account, and I get a monthly charge on my credit card; and that gets passed back to the developer projects.
+What if [PyPI](https://pypi.python.org/pypi) was a revenue stream? What if, when I registered an application with [PyPI](https://pypi.python.org/pypi), I could specify a price - either per install, or per version, or per-app, or per-month. When I `pip install`, the cost just gets added to my PyPI account, and I get a monthly charge on my credit card; and that gets passed back to the developer projects.
 
 If PyPI stats are to be believed, Django is downloaded from PyPI more than 1 million times per month. If there was a 10c toll on each download, that would raise $100,000 per month - enough to pay for 10 full-time well paid developers, or a metric buttload of diversity, outreach, DjangoGirls, and community support.
 

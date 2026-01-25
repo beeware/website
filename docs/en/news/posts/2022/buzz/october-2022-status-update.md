@@ -24,7 +24,7 @@ During October:
 - We added the ability to [retrieve widgets by ID](https://github.com/beeware/toga/pull/1599) to the Toga API.
 - We made a big change to the way that [Toga backends are discovered](https://github.com/beeware/toga/pull/1534). This new approach has two major advantages - firstly, it means third-parties can register their own backends; but more importantly, it means that code no longer needs to explicitly provide a backend. This simplifies the creation of test cases - but it also means that icons, images and fonts no longer need to be "late bound". This is an internal detail, but it significantly simplifies the code using those data types.
 - We added the ability to [create Image objects from raw data](https://github.com/beeware/toga/pull/1588), rather than an image file.
-- We started the process of modernising the layout and tooling of the Toga repository. Some of these changes have already landed; more will come in the coming days. This ensures that we have a stable foundation for future work on Toga.
+- We started the process of modernizing the layout and tooling of the Toga repository. Some of these changes have already landed; more will come in the coming days. This ensures that we have a stable foundation for future work on Toga.
 
 ## What's next?
 

@@ -34,7 +34,7 @@ To get you started, we're going to ask a few questions so we can gauge your inte
 
 4. **Are you familiar with GitHub contribution processes?**
 
-    Do you use GitHub (or a similar code-sharing site) for hosting your own code or contributing to others' projects? Do you know what CI (continuous integration) is? Have you contributed to a project that has pre-commit hooks? If I asked you to "rebase your PR against main", would you know what to do?
+    Do you use GitHub (or a similar code-sharing site) for hosting your own code or contributing to others' projects? Do you know what CI (continuous integration) is? Have you contributed to a project that has pre-commit hooks? If I asked you to "`rebase` your PR against main", would you know what to do?
 
 5. **Have you contributed to an Open Source project before?**
 

@@ -18,7 +18,7 @@ During May, BeeWare saw a number of major improvements - many of which came as a
 - We made a major set of updates to the BeeWare website, [transitioning all the content to Markdown](https://github.com/beeware/beeware.github.io/pull/629), and [moving the translation infrastructure to Weblate](https://github.com/beeware/beeware.github.io/pull/637).
 - We modified the Briefcase new project wizard to [draw default values from a user's Git configuration, where possible](https://github.com/beeware/briefcase/pull/2271)
 - We modified Briefcase's handling of licenses to [use SPDX standard abbreviations](https://github.com/beeware/briefcase/pull/2272)
-- We optimised the handling of signing on macOS to [remove a redundant ad hoc signing pass when packaging an app](https://github.com/beeware/briefcase/pull/2302)
+- We optimized the handling of signing on macOS to [remove a redundant ad hoc signing pass when packaging an app](https://github.com/beeware/briefcase/pull/2302)
 - We improved [warnings for users who have an old version of Python](https://github.com/beeware/briefcase/pull/2305), which would result in them having an old version of Briefcase, but be unaware of this fact.
 - We modified Briefcase to [use the system certificate store](https://github.com/beeware/briefcase/pull/2308). This should remove a very common source of errors on some corporate-managed VPNs. We also improved error handling to [provide more context for any remaining SSL or related connection errors](https://github.com/beeware/briefcase/pull/2318).
 - We improved error messages when [one of the required wheels can't be found on iOS and macOS](https://github.com/beeware/briefcase/pull/2303)
@@ -26,8 +26,8 @@ During May, BeeWare saw a number of major improvements - many of which came as a
 - We [improved the error handling when an app doesn't return valid window content as part of its startup method](https://github.com/beeware/toga/pull/3471)
 - We [added a mechanism for detecting dark mode on Android](https://github.com/beeware/toga/pull/3467)
 - We [significantly improved the handling of type annotations](https://github.com/beeware/toga/pull/3359), allowing for Toga's lazy loading main module.
-- We made some modifications to the WebView widget, [adding support for setting content at time of construction](https://github.com/beeware/toga/pull/3400), and [simplifying the interface for setting static content](https://github.com/beeware/toga/pull/3401)
-- Our student contributors have continued to work on Toga's web backend. They've added new [TimeInput](https://github.com/beeware/toga/pull/3405) widget, and they've begun planning some larger contributions to Briefcase and Toga to improve the tools for testing the Web backend. There should be a blog post in a couple of weeks that details their plans for the remainder of the year.
+- We made some modifications to the `WebView` widget, [adding support for setting content at time of construction](https://github.com/beeware/toga/pull/3400), and [simplifying the interface for setting static content](https://github.com/beeware/toga/pull/3401)
+- Our student contributors have continued to work on Toga's web backend. They've added new [`TimeInput`](https://github.com/beeware/toga/pull/3405) widget, and they've begun planning some larger contributions to Briefcase and Toga to improve the tools for testing the Web backend. There should be a blog post in a couple of weeks that details their plans for the remainder of the year.
 
 ## What's next?
 
@@ -37,7 +37,7 @@ So, in June, we'll be changing focus. We're aiming to take a look at Briefcase, 
 
 We're also hoping to follow up on some of our discussion with the Python core team at PyCon, and begin the process of integrating the production of iOS and Android binary artefacts into Python releases. This will hopefully also involve integrating iOS and Android into CPython's pre-merge CI tooling, which will hopefully limit the incidence of changes that are landed into CPython that break iOS and Android.
 
-Lastly, we'll continue to work on Python Emscripten support. Last month, we thought we were one issue away from a working buildbot; however, some new issues have emerged since then. We still hope to have a working buildbot before 3.14 is finalised, which will restore Emscripten to Tier 3 status.
+Lastly, we'll continue to work on Python Emscripten support. Last month, we thought we were one issue away from a working buildbot; however, some new issues have emerged since then. We still hope to have a working buildbot before 3.14 is finalized, which will restore Emscripten to Tier 3 status.
 
 ## Want to get involved?
 

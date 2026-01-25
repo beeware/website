@@ -32,7 +32,7 @@ involvement:
 - type: talk
   team_members:
   - freakboy3742
-  title: Red User, Blue User, MyUser, auth.User
+  title: Red User, Blue User, <nospell>MyUser, auth.User</nospell>
   url: ''
   date: 2017-08-04
   end_date: 2017-08-04

@@ -20,7 +20,7 @@ During December:
 - We fixed a [bug preventing the use of local file references in requirements when building Linux AppImages](https://github.com/beeware/briefcase/pull/993). As a side effect, this change also makes it much easier to get a debug session inside the Docker container used to build AppImages.
 - We merged the [first draft of the Toga GUI testbed](https://github.com/beeware/toga/pull/1687). There is still a lot of work to be done on this testbed, but it provides a solid foundation on which we can build tests of Toga's cross-platform GUI behavior.
 - We added support for [mouse events on the Canvas on GTK](https://github.com/beeware/toga/pull/1710).
-- We corrected a bug on Windows where local date formats would cause the DateInput widget to crash.
+- We corrected a bug on Windows where local date formats would cause the `DateInput` widget to crash.
 - We fixed [a bug in Rubicon that would cause background threads to stall on iOS](https://github.com/beeware/rubicon-objc/pull/238).
 
 ## What's next?

@@ -28,7 +28,7 @@ Our Q3 goals are:
 
 ## Longer term goals
 
-Our longer term goals are also [largely unchanged](../../2022/buzz/2022q4-roadmap.md). Toga 1.0 remains an important goal; once we're at 100% test coverage, we will be in much better place to provide estimates about Toga 1.0. Upstreaming is an area where we have some good news - as a result of discussions at Pycon US, we've received support for raising iOS and Android to the status of Tier 3 supported platforms in CPython, with the initial goal of having this in place for Python 3.13. You should expect to see movement on upstreaming towards the end of this year, and early next year. A forge for mobile packages is also remains an important goal; the completion of upstreaming work will make the goal of building a forge much more viable.
+Our longer term goals are also [largely unchanged](../../2022/buzz/2022q4-roadmap.md). Toga 1.0 remains an important goal; once we're at 100% test coverage, we will be in much better place to provide estimates about Toga 1.0. Upstreaming is an area where we have some good news - as a result of discussions at PyCon US, we've received support for raising iOS and Android to the status of Tier 3 supported platforms in CPython, with the initial goal of having this in place for Python 3.13. You should expect to see movement on upstreaming towards the end of this year, and early next year. A forge for mobile packages is also remains an important goal; the completion of upstreaming work will make the goal of building a forge much more viable.
 
 ## Summary
 

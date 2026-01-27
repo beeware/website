@@ -47,7 +47,7 @@ Want to get involved? Here are some open issues that would be a great place to g
 2. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 3. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
 4. [Add support for the ANDROID\_HOME environment variable](https://github.com/beeware/briefcase/issues/463)
-5. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+5. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 6. [Detect a failure when trying to install on an Android device that is too old](https://github.com/beeware/briefcase/issues/1157)
 7. [Use the on-device clock to filter Android device logs](https://github.com/beeware/briefcase/issues/1146)
 8. [Add an APK packaging target for Android](https://github.com/beeware/briefcase/issues/1136)

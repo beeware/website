@@ -14,13 +14,13 @@ This month has seen BeeWare reach one major milestone, almost reach a second, as
 ## What we've done
 
 - iOS is [officially a Tier 3 supported platform for CPython](https://peps.python.org/pep-0011/#tier-3)! All the patches needed to support iOS have been merged, and a [buildbot has been deployed](https://buildbot.python.org/all/#/builders/1380) to verify that CPython can run on iOS. As a result, [PEP 730 has been moved into "Final" status](https://peps.python.org/pep-0730/).
-- Android support in CPython is getting very close to completion. The last three patches (adding a [test harness for running the test suite on Android](https://github.com/python/cpython/pull/117878), [redirecting stdout and stderr to the Android log](https://github.com/python/cpython/pull/118063), and [updating sysconfig to support Android](https://github.com/python/cpython/pull/118352)) are currently in review; once those have been merged, and a buildbot has been deployed, Android should also be at Tier 3 status.
+- Android support in CPython is getting very close to completion. The last three patches (adding a [test harness for running the test suite on Android](https://github.com/python/cpython/pull/117878), [redirecting `stdout` and `stderr` to the Android log](https://github.com/python/cpython/pull/118063), and [updating `sysconfig` to support Android](https://github.com/python/cpython/pull/118352)) are currently in review; once those have been merged, and a buildbot has been deployed, Android should also be at Tier 3 status.
 - We landed a new [Geolocation service for Toga](https://github.com/beeware/toga/pull/2462), providing access to GPS data on mobile devices and macOS.
 - We made some [modifications to how Toga handles application icons](https://github.com/beeware/toga/pull/2527), removing the need to duplicate the icon in application data. These changes are in final review.
 - We added a new wizard to [add a Briefcase configuration to an existing Python project](https://github.com/beeware/briefcase/pull/1231).
 - We [modified how Briefcase handles splash screens on mobile devices](https://github.com/beeware/briefcase/pull/1751), and corrected some issues with icons seen on recent Android releases.
 - We [corrected a problem in Rubicon ObjC](https://github.com/beeware/rubicon-objc/pull/446) caused by a change to the `ctypes` module in CPython 3.13. It might be possible to upstream this fix to CPython itself; but for now, Rubicon ObjC is able to support Python 3.13.0a6.
-- We drafted a new tutorial step about [customising application appearance](https://github.com/beeware/beeware/pull/327). This update is in review, and should be live in the near future.
+- We drafted a new tutorial step about [customizing application appearance](https://github.com/beeware/beeware/pull/327). This update is in review, and should be live in the near future.
 
 ## What's next?
 
@@ -33,12 +33,12 @@ Want to get involved? Here are some open issues that would be a great place to g
 1. [Update the Toga testbed test suite to use Pixel 7 Pro device sizes](https://github.com/beeware/toga/issues/2251)
 2. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 3. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
-4. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+4. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 5. [Add support for custom PyPI repositories](https://github.com/beeware/briefcase/issues/1270)
 6. [Document how to debug an application in popular IDEs](https://github.com/beeware/briefcase/issues/1393)
 7. [Correctly handle incomplete project deletions](https://github.com/beeware/briefcase/issues/394)
 8. [Add an option to select the Android base image when creating new emulators](https://github.com/beeware/briefcase/issues/737)
-9. [Print notarisation log failures when building macOS apps](https://github.com/beeware/briefcase/issues/1472)
+9. [Print notarization log failures when building macOS apps](https://github.com/beeware/briefcase/issues/1472)
 10. [Add an API to replace a child of a widget](https://github.com/beeware/toga/issues/2301)
 11. [Add an API to entirely replace the style of a widget](https://github.com/beeware/toga/issues/2305)
 12. [Add the ability to define content when creating a window](https://github.com/beeware/toga/issues/2307)

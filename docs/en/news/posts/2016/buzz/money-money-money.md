@@ -11,7 +11,7 @@ At PyCon AU 2015, and again at DjangoCon US 2015, I gave a talk entitled <nospel
 
 <!-- more -->
 
-It's been almost 18 months since I first presented this talk, but the issue persists. I haven't been alone in noticing and drawing attention to this issue, either. [Nadia Eghbal](https://twitter.com/nayafia) was commissioned to write a white paper for the Ford Foundation entitled [Roads and Bridges](http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) highlighting the chronic need for resources to support the basic infrastructure that underpins large parts of the modern economy. <nospell>Eric Holscher</nospell> (maintainer of [Read the Docs](https://readthedocs.com)) [blogged about the problems he's had raising funds](http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/), despite the fact that the service he delivers is a widely used - arguably indispensable - part of the Python ecosystem.
+It's been almost 18 months since I first presented this talk, but the issue persists. I haven't been alone in noticing and drawing attention to this issue, either. [<nospell>Nadia Eghbal</nospell>](https://twitter.com/nayafia) was commissioned to write a white paper for the Ford Foundation entitled [Roads and Bridges](http://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) highlighting the chronic need for resources to support the basic infrastructure that underpins large parts of the modern economy. <nospell>Eric Holscher</nospell> (maintainer of [Read the Docs](https://readthedocs.com)) [blogged about the problems he's had raising funds](http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/), despite the fact that the service he delivers is a widely used - arguably indispensable - part of the Python ecosystem.
 
 However, despite this attention, it *still* doesn't get anywhere near as much attention as it should. And it's an issue that is of pressing importance to me, as the BeeWare project is looking for ways to fund the development needed to take us from "interesting technical demo" to "compelling technical solution".
 
@@ -288,4 +288,4 @@ This is a discussion we need to have as a community - and I'm eager to have that
 
 - <russell@keith-magee.com>
 - [@freakboy3742](https://twitter.com/freakboy3742)
-- [cecinestpasun.com](https://cecinestpasun.com)
+- [<nospell>cecinestpasun.com</nospell>](https://cecinestpasun.com)

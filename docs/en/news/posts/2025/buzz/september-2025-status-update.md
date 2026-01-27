@@ -21,7 +21,7 @@ September has been a busy month for conference travel, but we've also managed to
 - We added code to CPython that handles [Apple's recently announced requirement for Privacy Manifests](https://github.com/python/cpython/pull/139163).
 - We [updated CPython's Android CI](https://github.com/python/cpython/pull/138649) to use the same set of test options as the other platforms.
 - We contributed changes to CMake [improving the handling of Android Python modules](https://gitlab.kitware.com/cmake/cmake/-/merge_requests/11153).
-- We added an [ActivityIndicator widget for Android](https://github.com/beeware/toga/pull/3729).
+- We added an [`ActivityIndicator` widget for Android](https://github.com/beeware/toga/pull/3729).
 - We [improved the size hinting of `DateInput` and `TimeInput` widgets on iOS](https://github.com/beeware/toga/pull/3581).
 - We [enabled focus handling on Table and Tree widgets on desktop platforms](https://github.com/beeware/toga/pull/3768).
 - We investigated a number of reported issues relating to the macOS and iOS 26 releases, the rollout of the new "Liquid Glass" style, and what BeeWare needs to do in order to comply with this new style.

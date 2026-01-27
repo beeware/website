@@ -1,16 +1,16 @@
 matrix:
 - name: markdown
-  hunspell:
+  hunspell:  # I am unsure if this is necessary, but if we ever want to use a custom dict, this is how to do it.
     d: en_US
   aspell:
     lang: en
-    d: en_US
+    d: en_US  # Same as above.
     mode:
       - markdown
       - url
       - email
-    ignore-case: true  # I'm not sure this is doing anything.
-    ignore-accents: true  # I'm not sure this is doing anything.
+    ignore-case: true  # This is definitely working. Add capitalised words only for proper nouns, etc., to spelling_wordlist.
+    ignore-accents: true  # Uncertain what this is doing, but leaving it in.
   dictionary:
     wordlists:
     - docs/spelling_wordlist
@@ -38,7 +38,6 @@ matrix:
         - 'code'
         - 'pre'
         - 'div'
-        - 'a'
         - 'nospell'
         - 'script'
   - pyspelling.filters.context:
@@ -53,7 +52,7 @@ matrix:
         # Ignore the single line Snippets syntax
         - open: '-8<- '
           close: '$'
-        # Ignore the .md URLs - appears to be fixed by mode: url above
+        # Ignore the .md URLs - appears to be fixed by mode: url above, leaving in place for now
         #- open: 'https?:'
         #  close: '\.md(:[-\w]+)?'
         # Ignore urls in frontmatter - This is still necessary with mode: url
@@ -65,6 +64,6 @@ matrix:
         # Ignore numbers with a suffix, e.g. dates
         - open: '[0-9]+'
           close: '[rshndt]*'
-        # Ignore version numbers - TODO: verify this does what I think it does
+        # Ignore version numbers
         - open: '[0-9\.]+[a-z]*'
           close: '[0-9]*'

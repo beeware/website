@@ -214,7 +214,6 @@ plugins:
     module_name: macros
     include_yaml:
         - team: en/news/.authors.yml
-
   meta: {}
   rss:
     feed_title: "BeeWare: The Buzz"

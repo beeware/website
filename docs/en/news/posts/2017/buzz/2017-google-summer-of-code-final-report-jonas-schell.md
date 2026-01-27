@@ -41,7 +41,7 @@ Toga talks to native GUI frameworks, hence I had to get a good understanding abo
 
 ## Other work I did
 
-- PR: Translated part of the beeware.org webpage into german. [(PR #173)](https://github.com/beeware/beeware.github.io/pull/173)
+- PR: Translated part of the beeware.org webpage into German. [(PR #173)](https://github.com/beeware/beeware.github.io/pull/173)
 - Helped newcomers on Gitter and GitHub.
 - Tested if Toga would profit from static typing [(toga/static\_typing)](https://github.com/Ocupe/toga/tree/static_typing).
 - Created an implementation test suite based on the <nospell>AST</nospell> module.

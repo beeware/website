@@ -1,4 +1,4 @@
-# Sprint Guide
+# Sprint Guide { #sprints }
 
 ## Welcome to the BeeWare Sprints!
 

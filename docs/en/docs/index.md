@@ -26,7 +26,7 @@ title: BeeWare docs
 
 [![Tiberius](../images/toga.png)](https://toga.beeware.org){ .featured-logo }
 
-## [Toga](https://toga.beeware.org) { .featured-name }
+## [Toga](https://toga.beeware.org) { .featured-name #toga }
 
 A Python native, OS native GUI toolkit.
 
@@ -36,14 +36,14 @@ A Python native, OS native GUI toolkit.
 
 [![Briefcase](../images/briefcase.png)](https://briefcase.beeware.org){ .featured-logo }
 
-## [Briefcase](https://briefcase.beeware.org) { .featured-name }
+## [Briefcase](https://briefcase.beeware.org) { .featured-name #briefcase }
 
 Convert a Python project into a standalone native application.
 
 </div>
 </div>
 
-## Other tools { .other-tools }
+## Other tools { .other-tools #other-tools }
 
 Utilities used by and applications built with BeeWare tools.
 

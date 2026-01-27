@@ -1,4 +1,4 @@
-# History and Philosophy
+# History and Philosophy { #history-and-philosophy }
 
 ## History
 
@@ -30,7 +30,7 @@ Even then, it's easy to think of a project in a vacuum, as the sum of all contri
 
 A diverse community is a strong community. This means accepting people of all levels of experience, from all backgrounds, of all races, creeds, orientations and expressions. The BeeWare project is committed to developing and maintaining a inclusive, diverse and welcoming community.
 
-To back this up, we have an open offer to mentor anyone who wants to get involved as a contributor, and a [Code of Conduct](../community/code-of-conduct.md) that is rigorously enforced. Any reports of violations of that code of conduct - even by senior community members - will be treated with respect and acted upon appropriately.
+To back this up, we have an open offer to mentor anyone who wants to get involved as a contributor, and a [Code of Conduct](/community/code-of-conduct.md) that is rigorously enforced. Any reports of violations of that code of conduct - even by senior community members - will be treated with respect and acted upon appropriately.
 
 ### Healthy and sustainable
 

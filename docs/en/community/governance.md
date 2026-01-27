@@ -1,4 +1,4 @@
-# Governance
+# Governance { #governance }
 
 Those busy bees on the [Core Team](/about/team.md) have a number of responsibilities to keep the hive that is BeeWare moving. This is an evolving project, so this page is subject to change.
 

@@ -1,5 +1,5 @@
 ---
-title: 2025 Curtin University Capstone Project
+title: 2025 Curtin University Capstone Project - Semester End
 date: 2025-06-13
 authors:
 - kavi2du

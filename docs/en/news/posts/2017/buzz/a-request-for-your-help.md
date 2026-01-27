@@ -15,14 +15,14 @@ For most of this time, BeeWare has been a volunteer effort. Initially, it was a 
 
 Of particular note is the [team of 7 people](/about/team.md) who have joined the project as apiarists, helping share the load of project maintenance. I can't thank these people enough - without their assistance, I wouldn't have made anywhere near as much progress over the last year.
 
-You may have noticed that over the last few months, progress has been especially rapid. This is because, for the last six months, BeeWare development has been partially funded by very accommodating employers at [Jambon Software](https://www.jambonsw.com). My contract with Jambon allowed me to spend significant periods of time being paid to work on BeeWare - and, not surprisingly, it was possible to make enormous progress as a result. The last 6 months has seen:
+You may have noticed that over the last few months, progress has been especially rapid. This is because, for the last six months, BeeWare development has been partially funded by very accommodating employers at [<nospell>Jambon</nospell> Software](https://www.jambonsw.com). My contract with <nospell>Jambon</nospell> allowed me to spend significant periods of time being paid to work on BeeWare - and, not surprisingly, it was possible to make enormous progress as a result. The last 6 months has seen:
 
 - Extensive improvements to Batavia and VOC;
 - An Android backend for Toga;
 - A Django backend for Toga, enabling Toga apps to be deployed as web apps;
 - A WinForms backend for Toga, enabling Toga apps to run on Windows with a modern appearance;
 
-Unfortunately, my contract with Jambon is coming to a close - which means my contributions to BeeWare will go back to being what my spare time allows.
+Unfortunately, my contract with <nospell>Jambon</nospell> is coming to a close - which means my contributions to BeeWare will go back to being what my spare time allows.
 
 This also means the rate of progress will also slow. There's still plenty to do: there's plenty of the Python standard library to port to Batavia and VOC; Toga needs much wider widget support; Colosseum needs to be extended so it supports the full CSS box model, not just CSS3 Flexbox; and the tools that started it all - Cricket, Bugjar, Duvet, and others - all need to be ported to Toga.
 

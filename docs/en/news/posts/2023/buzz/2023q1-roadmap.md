@@ -17,7 +17,7 @@ Progress in Q4 was not as significant as we originally planned. A combination of
 
 We were able to hit our goal for **Web deployment**. We've restored the Toga web backend to a working state, and we've added a Web deployment backend to Briefcase. There's still a lot of work required before Web deployment is a viable as a production solution, but the initial pieces are now in place.
 
-We were also able to hit our goals on **housekeeping**. We've made a lot of improvements to the base infrastructure of repositories, enabling Black, pre-commit, and towncrier in Toga, and improving coverage reporting (including getting to 100% branch coverage in Briefcase's test suite).
+We were also able to hit our goals on **housekeeping**. We've made a lot of improvements to the base infrastructure of repositories, enabling Black, pre-commit, and `towncrier` in Toga, and improving coverage reporting (including getting to 100% branch coverage in Briefcase's test suite).
 
 We've made significant progress on improving the **testing** story for BeeWare apps. We've added the ability for Briefcase projects to run normal Python test suites inside a packaged app, and we've demonstrated that we can use this capability to run CI for iOS and Android apps (as well as desktop platforms). This feature will be included in the next Briefcase release.
 

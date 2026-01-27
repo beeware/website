@@ -1,4 +1,4 @@
-# We need your help!
+# We need your help! { #we-need-your-help }
 
 Although the contributions of volunteers of are gratefully accepted, some things take money.
 
@@ -41,7 +41,7 @@ If you use my work to support your large corporation, please consider sponsoring
 
 If you'd like to talk to someone about other branding or membership opportunities, or you'd like other payment options for your membership, please direct enquiries to [Russell Keith-Magee](mailto:russell@beeware.org).
 
-## Current Members
+## Current Members { #current-members }
 
 ### Gold Members
 

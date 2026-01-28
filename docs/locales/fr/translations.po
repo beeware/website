@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-28 01:50-0400\n"
+"POT-Creation-Date: 2026-01-28 02:07-0400\n"
 "PO-Revision-Date: 2026-01-11 01:01+0000\n"
 "Last-Translator: kursk140 <yannick.monnier.1@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/beeware/website/"
@@ -15,6 +15,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.17.5\n"
 
 #: docs/en/about/branding.md:1
+#: docs/en/titles.md:11
 msgid "Branding guidelines"
 msgstr ""
 
@@ -3126,15 +3127,11 @@ msgid "The Bee Team"
 msgstr ""
 
 #: docs/en/titles.md:7
-msgid "History and Philosophy"
+msgid "History and philosophy"
 msgstr ""
 
 #: docs/en/titles.md:9
 msgid "Contact"
-msgstr ""
-
-#: docs/en/titles.md:11
-msgid "Branding Guidelines"
 msgstr ""
 
 #: docs/en/titles.md:15

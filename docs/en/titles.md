@@ -4,11 +4,11 @@ What is BeeWare?
 
 The Bee Team
 
-History and Philosophy
+History and philosophy
 
 Contact
 
-Branding Guidelines
+Branding guidelines
 
 Documentation
 

@@ -15,7 +15,7 @@ April was dominated by preparation and attendance at PyCon US 2023 - but we've s
 
 PyCon US saw a lot of BeeWare activity:
 
-- We presented 2 talks at PyCon US - one on [Briefcase](https://us.pycon.org/2023/schedule/presentation/20/), and one on the [state of Android support on Python](https://us.pycon.org/2023/schedule/presentation/145/). Videos of these talks should appear on the [PyCon US Youtube channel](https://www.youtube.com/pyconus) in the near future.
+- We presented 2 talks at PyCon US - one on [Briefcase](https://us.pycon.org/2023/schedule/presentation/20/), and one on the [state of Android support on Python](https://us.pycon.org/2023/schedule/presentation/145/). Videos of these talks should appear on the [PyCon US YouTube channel](https://www.youtube.com/pyconus) in the near future.
 - We presented at the [Language Summit](https://us.pycon.org/2023/events/language-summit/), where we received provisional approval to push for iOS and Android to become Tier 3 supported platforms in CPython 3.13.
 - We presented at the [Packaging Summit](https://us.pycon.org/2023/events/packaging-summit/), providing the needs of packaging from a mobile perspective.
 - We had a booth in the community section of the conference show floor.

@@ -45,6 +45,7 @@ FOSS
 Facebooks
 Flatpak
 Flexbox
+Fortran
 FreeBSD
 GPG
 GPL
@@ -114,6 +115,7 @@ PyQt
 PyScript
 PySide
 PyXero
+Pygame
 Pyodide
 Pystone
 Pythonista
@@ -249,7 +251,6 @@ productize
 productized
 profiler
 protestors
-pygame
 reStructuredText
 reconfiguring
 rehint

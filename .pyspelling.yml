@@ -1,7 +1,5 @@
 matrix:
 - name: markdown
-  hunspell:  # I am unsure if this is necessary, but if we ever want to use a custom dict, this is how to do it.
-    d: en_US
   aspell:
     lang: en
     d: en_US  # Same as above.
@@ -9,8 +7,6 @@ matrix:
       - markdown
       - url
       - email
-    ignore-case: true  # This is definitely working. Add capitalised words only for proper nouns, etc., to spelling_wordlist.
-    ignore-accents: true  # Uncertain what this is doing, but leaving it in.
   dictionary:
     wordlists:
     - docs/spelling_wordlist
@@ -68,3 +64,6 @@ matrix:
         # Ignore URLs in Markdown links - This shouldn't be necessary, but here we are.
         - open: '\]\('
           close: '\)'
+        # Ignore attrlist class names
+        - open: '\{ \.'
+          close: '\}'

@@ -16,7 +16,7 @@ This month, we have less to report by raw feature count - but the changes we *ha
 - Our primary focus this month has been making the changes to CPython needed to add support for [iOS](https://github.com/python/cpython/issues/114099) and [Android](https://github.com/python/cpython/issues/116622). We've made major progress towards this goal: all the patches required for iOS have been merged; a large number of patches have been submitted for Android, with only a small number still required. This month, we have:
   - [Added test exclusions to support running the test suite on Android](https://github.com/python/cpython/pull/115918)
   - [Fixed some issues with the process of building an Android `libPython`](https://github.com/python/cpython/pull/115955)
-  - [Modified `sys.platform` identification for Android so it returns "android" not "linux"](https://github.com/python/cpython/pull/116215)
+  - [Modified `sys.platform` identification for Android so it returns "android" not <nospell>"linux"</nospell>](https://github.com/python/cpython/pull/116215)
   - [Added an API to get device and OS information on Android](https://github.com/python/cpython/pull/116674)
   - [Modified `ctypes` so it can load libraries on Android](https://github.com/python/cpython/pull/116379)
   - [Modified a signals test to make it more reliable on more platforms](https://github.com/python/cpython/pull/116423)

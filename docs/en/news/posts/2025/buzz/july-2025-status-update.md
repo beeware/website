@@ -26,7 +26,7 @@ In July, BeeWare hit some more major milestones in our work on mobile packaging 
 - We reviewed our contribution guides for [Briefcase](https://github.com/beeware/briefcase/pull/2363) and [Toga](https://github.com/beeware/toga/pull/3597) to remove inconsistencies in the contribution experience.
 - We added a [`DateInput` widget to Toga's GTK backend](https://github.com/beeware/toga/pull/3647).
 - We [completed a review of Toga's example code to ensure that they all run without warnings, and use the current preferred syntax for describing styles](https://github.com/beeware/toga/pull/3638).
-- We [corrected the naming of the wheel for Toga's Winforms backend](https://github.com/beeware/toga/pull/3648) to reflect that it contains a platform-specific binary.
+- We [corrected the naming of the wheel for Toga's WinForms backend](https://github.com/beeware/toga/pull/3648) to reflect that it contains a platform-specific binary.
 - We added [a shorthand property for defining all the features of a widget's font in one declaration](https://github.com/beeware/toga/pull/3631).
 - We [simplified Toga's color representations to be better aligned with CSS color interpretations](https://github.com/beeware/toga/pull/3665).
 - We [refactored Toga's font handling](https://github.com/beeware/toga/pull/3569) so that font loading logic (and, in particular, error handling) is consistent across platforms.

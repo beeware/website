@@ -49,7 +49,7 @@ Overall it was great learning experience and fun. Big thanks to my mentors Russe
 
 ### Some other bug fixes done in the meantime
 
-- <https://github.com/beeware/batavia/pull/566>
-- <https://github.com/beeware/batavia/pull/597>
-- <https://github.com/beeware/batavia/pull/623>
-- <https://github.com/beeware/batavia/pull/565>
+- <nospell><https://github.com/beeware/batavia/pull/566></nospell>
+- <nospell><https://github.com/beeware/batavia/pull/597></nospell>
+- <nospell><https://github.com/beeware/batavia/pull/623></nospell>
+- <nospell><https://github.com/beeware/batavia/pull/565></nospell>

@@ -37,7 +37,6 @@ matrix:
       ignores:
         - 'code'
         - 'pre'
-        - 'div'
         - 'nospell'
         - 'script'
   - pyspelling.filters.context:
@@ -67,3 +66,6 @@ matrix:
         # Ignore version numbers
         - open: '[0-9\.]+[a-z]*'
           close: '[0-9]*'
+        # Ignore URLs in Markdown links - This shouldn't be necessary, but here we are.
+        - open: '\]\('
+          close: '\)'

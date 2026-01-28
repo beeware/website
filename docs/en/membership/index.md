@@ -57,10 +57,10 @@ With more than 45 million users, [Anaconda](https://anaconda.com/) is the most p
 <div class="pro-member-avatar" markdown="1">![Lincoln Loop logo](images/lincolnloop.png)</div> <div class="pro-member-name">Lincoln Loop</div>
 </div>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Al Sweigart](images/asweigart.png)</div> <div class="pro-member-name">Al Sweigart</div>
+<div class="pro-member-avatar" markdown="1">![Al <nospell>Sweigart</nospell>](images/asweigart.png)</div> <div class="pro-member-name">Al <nospell>Sweigart</nospell></div>
 </div>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Matthias Kestenholz](images/mkestenholz.png)</div> <div class="pro-member-name">Matthias Kestenholz</div>
+<div class="pro-member-avatar" markdown="1">![Matthias <nospell>Kestenholz</nospell>](images/mkestenholz.png)</div> <div class="pro-member-name">Matthias <nospell>Kestenholz</nospell></div>
 </div>
 </nospell>
 

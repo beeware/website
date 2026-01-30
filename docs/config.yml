@@ -179,23 +179,52 @@ theme:
         name: Switch to system preference
 
 markdown_extensions:
+  # PyMdown Extensions
   pymdownx.highlight: {}
   pymdownx.superfences: {}
-  pymdownx.blocks.admonition: {}
   pymdownx.blocks.caption: {}
-  pymdownx.details: {}
+  pymdownx.blocks.admonition:
+    types:
+      - note
+      - abstract
+      - info
+      - tip
+      - success
+      - question
+      - warning
+      - failure
+      - danger
+      - bug
+      - example
+      - quote
+  pymdownx.blocks.details:
+    types:
+      - {name: details-note, class: note}
+      - {name: details-abstract, class: abstract}
+      - {name: details-info, class: info}
+      - {name: details-tip, class: tip}
+      - {name: details-success, class: success}
+      - {name: details-question, class: question}
+      - {name: details-warning, class: warning}
+      - {name: details-failure, class: failure}
+      - {name: details-danger, class: danger}
+      - {name: details-bug, class: bug}
+      - {name: details-example, class: example}
+      - {name: details-quote, class: quote}
   pymdownx.blocks.tab:
     alternate_style: true
   pymdownx.snippets:
     base_path: ["docs"]
     url_download: true
     check_paths: true
+  # Python Markdown extensions
   toc:
     permalink: true
     title: On this page
   attr_list: {}
   md_in_html: {}
-  admonition: {}  # Enabled for all admonition types EXCEPT note and admonition (which defaults to note)
+  smarty:
+    smart_quotes: false
 
 plugins:
   search: {}
@@ -230,3 +259,13 @@ plugins:
       rss_created: news/buzz/atom.xml
 #    image: images/brutus.png  # Update to a Brutus URL
     abstract_chars_count: -1
+  redirects:
+    redirect_maps:
+      "bee/briefcase-bootstraps.md": "https://briefcase.beeware.org/en/latest/reference/commands/new.html#third-party-bootstraps"
+      "bee/chat.md": "https://discord.gg/AjYYm8cyQM"
+      "bee/coc.md": "community/code-of-conduct.md"
+      "bee/join.md": "membership/index.md"
+      "bee/podium.md": "https://github.com/beeware/podium"
+      "bee/signup.md": "about/contact.md"
+      "bee/sprint.md": "contributing/sprint-guide.md"
+      "bee/sprints.md": "contributing/sprint-guide.md"

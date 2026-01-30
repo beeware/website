@@ -24,7 +24,7 @@ Work in December (and the publication of this update!) was slowed by the end-of-
 - We added [explicit support for passing options to pip](https://github.com/beeware/briefcase/pull/2059) when installing dependencies with Briefcase. This is mostly useful for specifying alternative package repositories (with `--index-url` or `--extra-index-url`) or local folders that contain wheels (with `--find-links`); but any pip arguments can be passed down to the pip invocation.
 - We [corrected an error in the default D-Bus configuration of Flatpak apps](https://github.com/beeware/briefcase/pull/2075).
 - We resolved a [long-standing memory management issue in Rubicon](https://github.com/beeware/rubicon-objc/pull/543). This change removes almost all need for manual memory management of ObjC objects, making iOS and macOS development much more robust. It also resolves some memory leak issues on Toga's iOS backend.
-- We added support for CPython to [stream stdout and stderr to the system log on iOS and macOS](https://github.com/python/cpython/pull/127592). This change included a improved tool for running CPython test suites, making it possible to stream the output of a CPython test suite while the test suite is running, and to run the an arbitrary test suite, not just the CPython test suite.
+- We added support for CPython to [stream `stdout` and `stderr` to the system log on iOS and macOS](https://github.com/python/cpython/pull/127592). This change included a improved tool for running CPython test suites, making it possible to stream the output of a CPython test suite while the test suite is running, and to run the an arbitrary test suite, not just the CPython test suite.
 - Our patch [adding a test-sources configuration in `cibuildwheel`](https://github.com/pypa/cibuildwheel/pull/2062) has been accepted, and should be merged in a couple of days.
 - We reviewed a large number of improvements to Emscripten support in CPython.
 
@@ -39,7 +39,7 @@ Want to get involved? Here are some open issues that would be a great place to g
 1. [Update the Toga testbed test suite to use Pixel 7 Pro device sizes](https://github.com/beeware/toga/issues/2251)
 2. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 3. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
-4. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+4. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 5. [Document how to debug an application in popular IDEs](https://github.com/beeware/briefcase/issues/1393)
 6. [Add an option to select the Android base image when creating new emulators](https://github.com/beeware/briefcase/issues/737)
 7. [Add an API to request that an app be given focus](https://github.com/beeware/toga/issues/3032)

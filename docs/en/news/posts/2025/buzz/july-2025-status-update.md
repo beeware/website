@@ -14,7 +14,7 @@ In July, BeeWare hit some more major milestones in our work on mobile packaging 
 ## What we've done
 
 - We attended [EuroPython](https://ep2025.europython.eu), where we gave a tutorial and a talk, attended the WebAssembly summit, and ran a sprint - at which we gave out 25 BeeWare challenge coins to first-time contributors.
-- [`cibuildwheel` 3.1](https://pypi.org/project/cibuildwheel/3.1.0/) has been released - which includes support for building Android wheels! As a result, we've been able to submit a pull request for [lru-dict](https://github.com/amitdev/lru-dict/pull/74); we're expecting to submit Android support PRs for other projects in the coming months.
+- [`cibuildwheel` 3.1](https://pypi.org/project/cibuildwheel/3.1.0/) has been released - which includes support for building Android wheels! As a result, we've been able to submit a pull request for [`lru-dict`](https://github.com/amitdev/lru-dict/pull/74); we're expecting to submit Android support PRs for other projects in the coming months.
 - We started the process of [adding Android builds to CPython's CI](https://github.com/python/cpython/pull/137186). This also means we're in a position to [generate Android release artefacts as part of the release process](https://github.com/python/release-tools/pull/265) - possibly as soon as Python 3.14.
 - The [Emscripten buildbot is now passing all tests](https://buildbot.python.org/#/builders/1810)! This formally [restores Emscripten to the Tier-3 support level](https://peps.python.org/pep-0011/#tier-3).
 - [Pillow 11.3.0](https://pypi.org/project/pillow/11.3.0/#files) has been released, including official iOS wheels.
@@ -26,7 +26,7 @@ In July, BeeWare hit some more major milestones in our work on mobile packaging 
 - We reviewed our contribution guides for [Briefcase](https://github.com/beeware/briefcase/pull/2363) and [Toga](https://github.com/beeware/toga/pull/3597) to remove inconsistencies in the contribution experience.
 - We added a [`DateInput` widget to Toga's GTK backend](https://github.com/beeware/toga/pull/3647).
 - We [completed a review of Toga's example code to ensure that they all run without warnings, and use the current preferred syntax for describing styles](https://github.com/beeware/toga/pull/3638).
-- We [corrected the naming of the wheel for Toga's Winforms backend](https://github.com/beeware/toga/pull/3648) to reflect that it contains a platform-specific binary.
+- We [corrected the naming of the wheel for Toga's WinForms backend](https://github.com/beeware/toga/pull/3648) to reflect that it contains a platform-specific binary.
 - We added [a shorthand property for defining all the features of a widget's font in one declaration](https://github.com/beeware/toga/pull/3631).
 - We [simplified Toga's color representations to be better aligned with CSS color interpretations](https://github.com/beeware/toga/pull/3665).
 - We [refactored Toga's font handling](https://github.com/beeware/toga/pull/3569) so that font loading logic (and, in particular, error handling) is consistent across platforms.

@@ -1,5 +1,5 @@
 ---
-title: Pybee is awesome
+title: PyBee is awesome
 date: 2016-10-28
 authors:
 - eliasdorneles

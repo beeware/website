@@ -50,7 +50,7 @@ Want to get involved? Here are some open issues that would be a great place to g
 
 8. [Improve validation of project names in the Briefcase wizard](https://github.com/beeware/briefcase/issues/1011)
 
-9. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+9. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 
 10. [Correct the capture of log messages on the web backend](https://github.com/beeware/briefcase/issues/1090)
 

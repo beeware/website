@@ -35,7 +35,7 @@ Want to get involved? Here are some open issues that would be a great place to g
 
 1. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 2. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
-3. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+3. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 4. [Provide an option to override app settings from the command line](https://github.com/beeware/briefcase/issues/1115)
 5. [Add support for custom PyPI repositories](https://github.com/beeware/briefcase/issues/1270)
 6. [Document how to debug an application in popular IDEs](https://github.com/beeware/briefcase/issues/1393)

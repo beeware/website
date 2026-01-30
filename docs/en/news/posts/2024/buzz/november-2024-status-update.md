@@ -20,7 +20,7 @@ In November, BeeWare made more good progress on mobile packaging - however, that
 - We've started work on some modifications to how the CPython iOS testbed project is run. This has become necessary because of [a change introduced in Xcode 16](https://github.com/python/cpython/issues/126925), but in order to fix the problem, we'll also be able to [improve the reporting of test output during a test run](https://github.com/python/cpython/issues/126821), and also make the test harness useful as a generic utility for *any* iOS project.
 - We've made good progress towards resolving a [long-standing memory management issue in Rubicon](https://github.com/beeware/rubicon-objc/pull/543). This change will remove almost all need for manual memory management of ObjC objects, making iOS and macOS development much more robust.
 - We resolved a number of CPython test stability issues on Android. In most cases, this wasn't an indicator of a broken feature, but of an unstable test - but as a result of the extensive testing done by CPython as a project, even a small instability can manifest as a semi-regular test failure.
-- We've started work on [modifying Toga's web backend to be compatible with Micropython](https://github.com/beeware/toga/pull/2976). This significantly reduces the startup time for a Toga app; we're hoping to be able to spend a lot more time on the web backend in the coming year.
+- We've started work on [modifying Toga's web backend to be compatible with MicroPython](https://github.com/beeware/toga/pull/2976). This significantly reduces the startup time for a Toga app; we're hoping to be able to spend a lot more time on the web backend in the coming year.
 - We've [formally taken on responsibility for restoring Emscripten to Tier 3 support in CPython](https://github.com/python/steering-council/issues/256), and reviewed a number of patches aimed at restoring Emscripten support.
 
 ## What's next?
@@ -36,7 +36,7 @@ Want to get involved? Here are some open issues that would be a great place to g
 1. [Update the Toga testbed test suite to use Pixel 7 Pro device sizes](https://github.com/beeware/toga/issues/2251)
 2. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 3. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
-4. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+4. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 5. [Document how to debug an application in popular IDEs](https://github.com/beeware/briefcase/issues/1393)
 6. [Add an option to select the Android base image when creating new emulators](https://github.com/beeware/briefcase/issues/737)
 7. [Add an API to entirely replace the style of a widget](https://github.com/beeware/toga/issues/2305)

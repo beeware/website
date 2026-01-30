@@ -13,7 +13,7 @@ April was a shortened development month due to the Easter break, plus some other
 
 ## What we've done
 
-- We contributed changes to [the Meson buildsystem](https://github.com/numpy/meson/pull/19) that support building on iOS; we have a [second set of changes](https://github.com/mesonbuild/meson/pull/14541) in review. We also have an [iOS support PR for Meson-python](https://github.com/mesonbuild/meson-python/pull/731), the library that provides the PEP 517 build interface for Meson-based Python projects. Work on the [patch for NumPy to support iOS builds](https://github.com/numpy/numpy/pull/28759) also continued.
+- We contributed changes to [the Meson build-system](https://github.com/numpy/meson/pull/19) that support building on iOS; we have a [second set of changes](https://github.com/mesonbuild/meson/pull/14541) in review. We also have an [iOS support PR for Meson-python](https://github.com/mesonbuild/meson-python/pull/731), the library that provides the PEP 517 build interface for Meson-based Python projects. Work on the [patch for NumPy to support iOS builds](https://github.com/numpy/numpy/pull/28759) also continued.
 - We landed some changes to CPython's iOS testbed to [accommodate changes introduced in Xcode 16.3](https://github.com/python/cpython/pull/133132).
 - We modified CPython's iOS compiler shims to ensure [better support for enforcing minimum iOS version levels](https://github.com/python/cpython/pull/133184).
 - We contributed some improvements to CPython's build system to clean up [warnings due to over-specified linking requirements](https://github.com/python/cpython/pull/133081).

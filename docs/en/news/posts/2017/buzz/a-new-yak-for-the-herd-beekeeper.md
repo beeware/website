@@ -13,7 +13,7 @@ Testing is a skill that is a vital part of every programmer's training. Learning
 
 An important step in "leveling up" your testing experience is to start using a Continuous Integration, or CI service. A CI service is a tool that automatically runs your test suite every time someone makes a change - or every time someone proposes a change in the form of a pull request. Using a CI service makes sure that your code *always* passes your test suite - you can't accidentally slip in a change that breaks a test, because you'll get a big red warning notification.
 
-CI is such an important service that many companies exist solely to provide CI-as-a-service. The BeeWare project has, for various projects, used [TravisCI](https://travis-ci.org) and [CircleCI](https://circleci.com). Both these tools provide free tiers for open source projects, and have generously sponsored BeeWare with capacity upgrades at various times.
+CI is such an important service that many companies exist solely to provide CI-as-a-service. The BeeWare project has, for various projects, used <nospell>[TravisCI](https://travis-ci.org) and [CircleCI](https://circleci.com)</nospell>. Both these tools provide free tiers for open source projects, and have generously sponsored BeeWare with capacity upgrades at various times.
 
 However, the BeeWare has had an interesting relationship with commercial CI services. This is for two reasons.
 

@@ -22,13 +22,13 @@ Overall it was great learning experience and fun. Big thanks to my mentors Russe
 ### Lists and <nospell>dicts</nospell>
 
 - [Pop, remove and insert methods for lists](https://github.com/beeware/batavia/pull/518)
-- [Pop, popitem, fromkeys and setdefault for <nospell>dicts</nospell>](https://github.com/beeware/batavia/pull/560)
+- [Pop, `popitem`, `fromkeys` and `setdefault` for <nospell>dicts</nospell>](https://github.com/beeware/batavia/pull/560)
 
 ### JSON module
 
-- [Encoding JSON (JSONEncoder, dump and dumps)](https://github.com/beeware/batavia/pull/577)
-- [Decoding JSON (JSONDecoder, parse)](https://github.com/beeware/batavia/pull/586)
-- [Bug fix regarding cricket and test generation for JSONEncoder](https://github.com/beeware/batavia/pull/589)
+- [Encoding JSON (`JSONEncoder`, dump and dumps)](https://github.com/beeware/batavia/pull/577)
+- [Decoding JSON (`JSONDecoder`, parse)](https://github.com/beeware/batavia/pull/586)
+- [Bug fix regarding cricket and test generation for `JSONEncoder`](https://github.com/beeware/batavia/pull/589)
 
 ### Generators
 
@@ -49,7 +49,7 @@ Overall it was great learning experience and fun. Big thanks to my mentors Russe
 
 ### Some other bug fixes done in the meantime
 
-- <https://github.com/beeware/batavia/pull/566>
-- <https://github.com/beeware/batavia/pull/597>
-- <https://github.com/beeware/batavia/pull/623>
-- <https://github.com/beeware/batavia/pull/565>
+- <nospell><https://github.com/beeware/batavia/pull/566></nospell>
+- <nospell><https://github.com/beeware/batavia/pull/597></nospell>
+- <nospell><https://github.com/beeware/batavia/pull/623></nospell>
+- <nospell><https://github.com/beeware/batavia/pull/565></nospell>

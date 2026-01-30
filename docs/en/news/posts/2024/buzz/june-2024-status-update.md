@@ -17,7 +17,7 @@ In June, BeeWare made a lot of progress, landing lots of new features - many of 
 - We modified Briefcase to [distribute the stub binaries as standalone artefacts, rather than including them in the app template](https://github.com/beeware/briefcase/pull/1849). We also [significantly optimized how Briefcase uses templates](https://github.com/beeware/briefcase/pull/1855). Between these two changes, the download size required for a first project on macOS has been reduced from around 200MB, to less than 4MB.
 - We [isolated Briefcase's use of Cookiecutter](https://github.com/beeware/briefcase/pull/1864) so that all of Briefcase's cached content is contained in Briefcase's own cache folder.
 - We [added support for distribution certificates on macOS](https://github.com/beeware/briefcase/pull/1856).
-- We [modified Toga's APIs to use namedtuple types for Size and Position references](https://github.com/beeware/toga/pull/2585).
+- We [modified Toga's APIs to use `namedtuple` types for Size and Position references](https://github.com/beeware/toga/pull/2585).
 - We corrected a number of stability issues with Toga's testbed CI, and [added CI testing for Wayland on Linux](https://github.com/beeware/toga/pull/2670).
 - We completed a [major overhaul of typing in Toga's API surface](https://github.com/beeware/toga/pull/2252).
 - We [added support for conditional coverage in Toga's testing](https://github.com/beeware/toga/pull/2642). It is now possible to get a clean coverage report without running the test suite on every Python version and every platform.
@@ -38,7 +38,7 @@ Want to get involved? Here are some open issues that would be a great place to g
 1. [Update the Toga testbed test suite to use Pixel 7 Pro device sizes](https://github.com/beeware/toga/issues/2251)
 2. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 3. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
-4. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+4. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 5. [Add support for custom PyPI repositories](https://github.com/beeware/briefcase/issues/1270)
 6. [Document how to debug an application in popular IDEs](https://github.com/beeware/briefcase/issues/1393)
 7. [Add an option to select the Android base image when creating new emulators](https://github.com/beeware/briefcase/issues/737)

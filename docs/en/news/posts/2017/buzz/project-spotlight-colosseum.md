@@ -19,9 +19,9 @@ That's where [Colosseum](https://github.com/beeware/colosseum) comes in. Colosse
 
 But Colosseum as a project has many other possible uses. It could be used anywhere that there is a need for describing layout *outside* a browser context. For example, Colosseum could be the cornerstone of a HTML to PDF renderer that *doesn't* require the involvement of a browser. It could also be used as a test harness and reference implementation for the CSS specification itself, providing a lightweight way to encode and test proposed changes to the specification.
 
-The current implementation is based on Facebook's [yoga](https://github.com/facebook/yoga) project - it was originally a line-for-line port of yoga's javascript codebase into Python. However, yoga only implements the Flexbox portion of the CSS3 specification.
+The current implementation is based on Facebook's [yoga](https://github.com/facebook/yoga) project - it was originally a line-for-line port of yoga's JavaScript codebase into Python. However, yoga only implements the Flexbox portion of the CSS3 specification.
 
-This week, we started a big project: rewriting Colosseum to be a fully standard-compliant CSS engine. The work so far can be found in the globe branch of the colosseum repository on GitHub. The first goal is CSS2.1 compliance, with an implementation of the traditional CSS box model and flow layout. Once we've got a reasonable implementation of that, we'll look to adding Grid and Flexbox layouts from the CSS3 specification set.
+This week, we started a big project: rewriting Colosseum to be a fully standard-compliant CSS engine. The work so far can be found in the globe branch of the Colosseum repository on GitHub. The first goal is CSS2.1 compliance, with an implementation of the traditional CSS box model and flow layout. Once we've got a reasonable implementation of that, we'll look to adding Grid and Flexbox layouts from the CSS3 specification set.
 
 This is obviously a big job. [CSS is a big specification](https://www.w3.org/TR/CSS/#css-levels), so there's a lot of work to be done - but that also means there's lots of places to contribute! Pick a paragraph of the CSS specification, build some test cases that demonstrate the cases described in that paragraph, and submit a patch implementing that behavior!
 

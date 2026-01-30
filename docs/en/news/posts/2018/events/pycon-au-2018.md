@@ -25,7 +25,7 @@ involvement:
 
     Then came the web - an environment where only JavaScript was available. 20 years ago, when JavaScript was only being used to do minor animation effects, that wasn't really a problem. However, the demands of modern web design require moving more and more business logic into the browser.
 
-    What do you do if your business logic isn't a good match for JavaScript's capabilities, or if you have a significant body of existing business logic that is written in Python, not Javascript? Do you have to re-implement all your existing logic? Or are there ways to get your non-Javascript code running in the browser?
+    What do you do if your business logic isn't a good match for JavaScript's capabilities, or if you have a significant body of existing business logic that is written in Python, not JavaScript? Do you have to re-implement all your existing logic? Or are there ways to get your non-JavaScript code running in the browser?
 
     In this talk, you'll learn about a range of techniques that can be used to execute Python code in the browser, including some options that are starting to emerge from the browser standardization process.
 - type: sprint

@@ -22,6 +22,8 @@ Conda
 Curtin
 Cyber
 DOM
+DMG
+DMGs
 DSF
 Dependabot
 Disqus
@@ -72,6 +74,7 @@ Maturin
 MicroPython
 Microbenchmarks
 Miniconf
+MkDocs
 NumPy
 O'Reilly
 OSCON
@@ -110,6 +113,7 @@ Roadmap
 SCM
 SDK
 SaaS
+SciPy
 Snek
 Sonoma
 TODO
@@ -225,6 +229,7 @@ repo
 roadmap
 rollout
 runtimes
+scikit
 subclasses
 subclassing
 submitters
@@ -248,7 +253,7 @@ visionOS
 watchOS
 webhooks
 webpage
-
+xgboost
 
 abonie
 akaptur

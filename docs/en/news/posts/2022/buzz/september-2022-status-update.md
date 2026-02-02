@@ -21,7 +21,7 @@ During September:
 - We [reworked the way Briefcase manages integrations with the tools needed to build apps](https://github.com/beeware/briefcase/pull/801). This was a mammoth project, but as a result the process of verifying tools is faster, and a number of bugs related to having stale builds have been resolved.
 - We've made a number of improvements to console handling of log messages, especially on Windows
 - We improved error handling in Toga when [TLS1.2 or TLS1.3 isn't supported by Windows](https://github.com/beeware/toga/pull/1589).
-- We started conversations with the teams at Anaconda responsible for conda about using Conda as a base for Briefcase apps, and on using Conda-forge style infrastructure to support binary packaging. Nothing concrete has come from these conversations yet; these conversations are ongoing.
+- We started conversations with the teams at Anaconda responsible for `conda` about using Conda as a base for Briefcase apps, and on using Conda-forge style infrastructure to support binary packaging. Nothing concrete has come from these conversations yet; these conversations are ongoing.
 
 ### Binary package support you say?
 

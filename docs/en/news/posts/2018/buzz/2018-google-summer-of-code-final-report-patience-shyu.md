@@ -23,7 +23,7 @@ The idea is that the benchmarking suite is not to be run as part of the full tes
 
 ### Pystone
 
-[Pystone](https://github.com/beeware/voc/blob/master/tests/benchmarks/pystone.py) is a Python [Dhrystone](https://en.wikipedia.org/wiki/Dhrystone), a standard benchmark for testing the performance of Python on a machine. Here are the before and after results on my machine:
+[Pystone](https://github.com/beeware/voc/blob/master/tests/benchmarks/pystone.py) is a Python [<nospell>Dhrystone</nospell>](https://en.wikipedia.org/wiki/Dhrystone), a standard benchmark for testing the performance of Python on a machine. Here are the before and after results on my machine:
 
 May 10th, 2018:
 
@@ -93,23 +93,23 @@ I will wrap this up by giving big thanks to [Russ](https://github.com/freakboy37
 - [Optimize Zero Argument Function Calls](https://github.com/beeware/voc/pull/864)
 - [Remove Code Objects](https://github.com/beeware/voc/pull/869)
 - [Comparisons Optimization](https://github.com/beeware/voc/pull/875)
-- [Loop optimization by reusing StopIterations](https://github.com/beeware/voc/pull/881)
+- [Loop optimization by reusing `StopIteration`](https://github.com/beeware/voc/pull/881)
 - [String cleanup/optimization](https://github.com/beeware/voc/pull/893)
 - [Dictionary access optimization](https://github.com/beeware/voc/pull/899)
 - [Create functions only when needed](https://github.com/beeware/voc/pull/902)
 
 ### Bug Fixes and Miscellaneous
 
-- [Fix Method repr](https://github.com/beeware/voc/pull/837)
+- [Fix Method `repr`](https://github.com/beeware/voc/pull/837)
 - [Fix custom substitutions](https://github.com/beeware/voc/pull/846)
 - [Fix List Bug](https://github.com/beeware/voc/pull/852)
 - [Remove Unnecessary Instruction](https://github.com/beeware/voc/pull/865)
-- [Fix \_\_setitem\_\_ error messages](https://github.com/beeware/voc/pull/884)
+- [Fix `__setitem__` error messages](https://github.com/beeware/voc/pull/884)
 - [Fix contains/not contains bugs and refactor](https://github.com/beeware/voc/pull/877)
 - [Add tests for problematic exception raising](https://github.com/beeware/voc/pull/883)
 - [Add test for with + exception combo](https://github.com/beeware/voc/pull/887)
-- [Add test for wrong iter error message](https://github.com/beeware/voc/pull/889)
-- [Add tests for globals bug](https://github.com/beeware/voc/pull/891)
+- [Add test for wrong `iter` error message](https://github.com/beeware/voc/pull/889)
+- [Add tests for `globals` bug](https://github.com/beeware/voc/pull/891)
 - [Remove unnecessary type casts and clean up](https://github.com/beeware/voc/pull/894)
 - [Add test for problematic builtin function call](https://github.com/beeware/voc/pull/904)
 - [Introduce org/python/Object type tests](https://github.com/beeware/voc/pull/905)

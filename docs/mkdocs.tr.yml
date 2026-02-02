@@ -1,0 +1,15 @@
+INHERIT: config.yml
+site_name: BeeWare
+site_url: https://beeware.org/
+docs_dir: tr
+
+theme:
+  language: tr
+
+extra:
+  translation_type: machine
+
+plugins:
+  macros:
+    include_yaml:
+        - team: tr/news/.authors.yml

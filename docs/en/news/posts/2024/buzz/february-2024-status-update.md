@@ -15,7 +15,7 @@ February may be the shortest month, but that doesn't mean we've got any less pro
 
 - [PEP 738](https://peps.python.org/pep-0738/), adding official Android support to CPython, has been formally submitted to the Python Steering Council for approval.
 - We've started landing patches in CPython to add formal support for [iOS](https://github.com/python/cpython/issues/114099) and [Android](https://github.com/python/cpython/issues/71052). There are more patches in review, and more to come, but so far we've landed patches that:
-  - [Fix the compilation of the grp module on Android](https://github.com/python/cpython/pull/114876)
+  - [Fix the compilation of the `grp` module on Android](https://github.com/python/cpython/pull/114876)
   - [Disable tests that can't run on mobile platforms](https://github.com/python/cpython/pull/114889)
   - [Refactor the CPython build system to allow for some of the oddities of iOS as a platform](https://github.com/python/cpython/pull/115120)
   - [Add build targets for compiling iOS-compatible frameworks](https://github.com/python/cpython/pull/115390)
@@ -42,12 +42,12 @@ Want to get involved? Here are some open issues that would be a great place to g
 1. [Update the Toga testbed test suite to use Pixel 7 Pro device sizes](https://github.com/beeware/toga/issues/2251)
 2. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 3. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
-4. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+4. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 5. [Add support for custom PyPI repositories](https://github.com/beeware/briefcase/issues/1270)
 6. [Document how to debug an application in popular IDEs](https://github.com/beeware/briefcase/issues/1393)
 7. [Correctly handle incomplete project deletions](https://github.com/beeware/briefcase/issues/394)
 8. [Add an option to select the Android base image when creating new emulators](https://github.com/beeware/briefcase/issues/737)
-9. [Print notarisation log failures when building macOS apps](https://github.com/beeware/briefcase/issues/1472)
+9. [Print notarization log failures when building macOS apps](https://github.com/beeware/briefcase/issues/1472)
 10. [Add an API to replace a child of a widget](https://github.com/beeware/toga/issues/2301)
 11. [Add an API to entirely replace the style of a widget](https://github.com/beeware/toga/issues/2305)
 12. [Add the ability to define content when creating a window](https://github.com/beeware/toga/issues/2307)

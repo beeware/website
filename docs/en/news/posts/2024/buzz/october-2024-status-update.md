@@ -16,7 +16,7 @@ In October, BeeWare saw some important releases, plus more good progress on bina
 - Most importantly, we released [Briefcase 0.3.20](https://pypi.org/project/briefcase/0.3.20/) and [Toga 0.4.8](https://pypi.org/project/toga/0.4.8/), including support for Python 3.13 - which includes the official support in Python for iOS and Android! This is a major milestone for BeeWare as a project, representing a significant portion of the work done over the last 12 months.
 - We've prepared an [initial patch to `cibuildwheel` that is able to build and test simple iOS wheels](https://github.com/freakboy3742/cibuildwheel/tree/ios-support). This patch isn't ready to submit upstream, but it is able to build simple iOS wheels.
 - We've submitted a patch to Pillow to [isolate its build system from Homebrew when building on macOS](https://github.com/python-pillow/Pillow/pull/8497). This is essential for iOS support, as it's easy for Homebrew macOS ARM64 binaries to leak into iOS builds; but it also has benefits for macOS builds.
-- We've made [a number of improvements to multibuild](https://github.com/multi-build/multibuild), the tooling that Pillow uses to compile non-Python binary dependencies.
+- We've made [a number of improvements to `multibuild`](https://github.com/multi-build/multibuild), the tooling that Pillow uses to compile non-Python binary dependencies.
 - We've [modified the CPython iOS testbed project](https://github.com/python/cpython/pull/126169) so that it can be used as a testbed for *any* iOS Python project.
 - We've [improved error reporting when Briefcase can't clone a template](https://github.com/beeware/briefcase/pull/2033).
 - We've switched to using `httpx` instead of `requests` for [Briefcase's internal download handling](https://github.com/beeware/briefcase/pull/2041). This provides slightly better error handling, better options for improving HTTP/2 usage, and we're now consistently using `httpx` in Briefcase and in our example code.
@@ -36,7 +36,7 @@ Want to get involved? Here are some open issues that would be a great place to g
 1. [Update the Toga testbed test suite to use Pixel 7 Pro device sizes](https://github.com/beeware/toga/issues/2251)
 2. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 3. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
-4. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+4. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 5. [Add support for custom PyPI repositories](https://github.com/beeware/briefcase/issues/1270)
 6. [Document how to debug an application in popular IDEs](https://github.com/beeware/briefcase/issues/1393)
 7. [Add an option to select the Android base image when creating new emulators](https://github.com/beeware/briefcase/issues/737)

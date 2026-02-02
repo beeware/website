@@ -25,7 +25,7 @@ involvement:
     the last 10 years have one thing in common: they all promote programming
     language monocultures. The platform manufacturers provide a single
     language, and strongly encourage all developers to use that one language
-    for all projects - Javascript for browsers; Objective C (or Swift) for
+    for all projects - JavaScript for browsers; Objective C (or Swift) for
     iOS; and Java for Android.
 
     The open source world is populated with a wide range of programming
@@ -49,7 +49,7 @@ involvement:
 - type: talk
   team_members:
   - glasnt
-  title: Javascript is <nospell>Awe-ful</nospell>
+  title: JavaScript is <nospell>Awe-ful</nospell>
   url: https://www.youtube.com/watch?v=k3brfCZSFiQ
   date: 2017-01-18
   end_date: 2017-01-18

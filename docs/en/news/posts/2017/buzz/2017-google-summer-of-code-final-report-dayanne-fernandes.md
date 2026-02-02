@@ -7,7 +7,7 @@ categories:
 - Buzz
 ---
 
-After almost 4 months of work on [Google Summer of Code](https://developers.google.com/open-source/gsoc/) 2017, finally I'm completing my proposal. Every widget migration and every commit/PR/issue/discussion with my mentors about [Cricket](https://github.com/beeware/cricket) , [Toga](/docs/index.md#toga) and [rubicon-objc](/docs/index.md#rubicon-objective-c) were detailed on the [Issue 58](https://github.com/beeware/cricket/issues/58).
+After almost 4 months of work on [Google Summer of Code](https://developers.google.com/open-source/gsoc/) 2017, finally I'm completing my proposal. Every widget migration and every commit/PR/issue/discussion with my mentors about [Cricket](https://github.com/beeware/cricket) , [Toga](/docs/index.md#toga) and [Rubicon-ObjC](/docs/index.md#rubicon-objective-c) were detailed on the [Issue 58](https://github.com/beeware/cricket/issues/58).
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ The best way to show that a product is reliable to the customers is use it. So, 
 
 ## Results
 
-The proposal focus not only on the port of [<nospell>Tkinter</nospell>](https://docs.python.org/2/library/tkinter.html) to [Toga](/docs/index.md#toga), but on mapping the necessary widgets for a real application using [Toga](/docs/index.md#toga) framework. To help me to map this I studied more about [<nospell>Tkinter</nospell>](https://docs.python.org/2/library/tkinter.html), [Toga](/docs/index.md#toga), [Colosseum](https://github.com/beeware/colosseum), [rubicon-objc](/docs/index.md#rubicon-objective-c), [Objective-C](https://developer.apple.com/documentation/objectivec), [Cocoa](http://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html) and [CSS](https://www.w3.org/Style/CSS/).
+The proposal focus not only on the port of [<nospell>Tkinter</nospell>](https://docs.python.org/2/library/tkinter.html) to [Toga](/docs/index.md#toga), but on mapping the necessary widgets for a real application using [Toga](/docs/index.md#toga) framework. To help me to map this I studied more about [<nospell>Tkinter</nospell>](https://docs.python.org/2/library/tkinter.html), [Toga](/docs/index.md#toga), [Colosseum](https://github.com/beeware/colosseum), [Rubicon-ObjC](/docs/index.md#rubicon-objective-c), [Objective-C](https://developer.apple.com/documentation/objectivec), [Cocoa](http://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/Cocoa.html) and [CSS](https://www.w3.org/Style/CSS/).
 
 The work I did during GSoC were sent through the [PR 65](https://github.com/beeware/cricket/pull/65), reported on the [Issue 58](https://github.com/beeware/cricket/issues/58) and the final demonstration of the work [can be seen in this link](https://youtu.be/5kz_CmQYFYE). There were widgets used on [Cricket](https://github.com/beeware/cricket) that weren't ready yet on [Toga](/docs/index.md#toga), so some improvements were necessary on [Toga](/docs/index.md#toga) so that I could use them on [Cricket](https://github.com/beeware/cricket). In summary here are some PRs and issues that I contributed to get my work done in [Cricket](https://github.com/beeware/cricket):
 
@@ -47,7 +47,7 @@ Merged PR that I sent to [Cricket](https://github.com/beeware/cricket):
 
 - [PR 60](https://github.com/beeware/cricket/pull/60) : Fix test coverage, solved [Issue 59](https://github.com/beeware/cricket/issues/59)
 
-Merged PR that I sent to [rubicon-objc](/docs/index.md#rubicon-objective-c):
+Merged PR that I sent to [`rubicon-objc`](/docs/index.md#rubicon-objective-c):
 
 - [PR 34](https://github.com/beeware/rubicon-objc/pull/34) : \[Doc\] Add reference to `NSObject`
 
@@ -65,7 +65,7 @@ Closed issues that I reported to [Toga](/docs/index.md#toga):
 - [Issue 169](https://github.com/beeware/toga/issues/169) : \[Cocoa\] Addition of 2 empty boxes on an `OptionContainer` emits error from [Toga](/docs/index.md#toga) Cocoa platform, was fixed by [Russell Keith-Magee](https://github.com/freakboy3742)
 - [Issue 181](https://github.com/beeware/toga/issues/181) : \[Core\]\[Cocoa\] "Hide" option for widgets, was solved by me
 - [Issue 187](https://github.com/beeware/toga/issues/187) : \[Cocoa\] Errors on `MultilineTextInput`, was fixed by me
-- [Issue 189](https://github.com/beeware/toga/issues/189) : \[Cocoa\] `ProgressBar` doesn't appears in a Box, was fixed by [Jonas Schell](https://github.com/Ocupe)
+- [Issue 189](https://github.com/beeware/toga/issues/189) : \[Cocoa\] `ProgressBar` doesn't appears in a Box, was fixed by [Jonas <nospell>Schell</nospell>](https://github.com/Ocupe)
 - [Issue 194](https://github.com/beeware/toga/issues/194) : \[Cocoa\] The frame of the `MultilineTextInput` doesn't appear, was fixed by [Russell Keith-Magee](https://github.com/freakboy3742)
 - [Issue 195](https://github.com/beeware/toga/issues/195) : \[Cocoa\] `ProgressBar` doesn't appear inside of a Box oriented by row, was fixed by [Russell Keith-Magee](https://github.com/freakboy3742)
 - [Issue 196](https://github.com/beeware/toga/issues/196) : \[Cocoa\] Set max value and value on a `ProgressBar` doesn't make any effect on the layout, was fixed by [Russell Keith-Magee](https://github.com/freakboy3742)
@@ -81,7 +81,7 @@ Closed issue that I reported to [Cricket](https://github.com/beeware/cricket):
 
 - [Issue 59](https://github.com/beeware/cricket/issues/59) : Run selected doesn't count/ runs every test selected in a test module, was fixed by me
 
-Open issue that I reported to [rubicon-objc](/docs/index.md#rubicon-objective-c) [Jonas Obrist](https://github.com/ojii) repository:
+Open issue that I reported to [`rubicon-objc`](/docs/index.md#rubicon-objective-c) [Jonas <nospell>Obrist</nospell>](https://github.com/ojii) repository:
 
 - [Issue 1](https://github.com/ojii/rubicon-objc/issues/1) : Segfault when iterate through a `NSIndexSet` using block notation
 
@@ -101,4 +101,4 @@ I truly believe that [Toga](/docs/index.md#toga) will be the official framework 
 
 ## Final Considerations
 
-I would like to truly thank my mentors [Russell Keith-Magee](https://github.com/freakboy3742) and [<nospell>Elias Dorneles</nospell>](https://github.com/eliasdorneles) for guide and help me so much during this period. The opportunity to be part of this community was a great honor to me, thank you so much to accept me in this program [Russell Keith-Magee](https://github.com/freakboy3742). Also, I want to thank [Philip James](https://github.com/phildini) that made some reviews in my PRs and [Jonas Schell](https://github.com/Ocupe) that fixed one issue that I sent to [Toga](/docs/index.md#toga).
+I would like to truly thank my mentors [Russell Keith-Magee](https://github.com/freakboy3742) and [<nospell>Elias Dorneles</nospell>](https://github.com/eliasdorneles) for guide and help me so much during this period. The opportunity to be part of this community was a great honor to me, thank you so much to accept me in this program [Russell Keith-Magee](https://github.com/freakboy3742). Also, I want to thank [Philip James](https://github.com/phildini) that made some reviews in my PRs and [Jonas <nospell>Schell</nospell>](https://github.com/Ocupe) that fixed one issue that I sent to [Toga](/docs/index.md#toga).

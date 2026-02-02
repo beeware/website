@@ -46,7 +46,7 @@ If you'd like to talk to someone about other branding or membership opportunitie
 
 ### Gold Members
 
-<img class="anaconda_light_mode" src="../images/anaconda-dark.png" alt="Anaconda logo"/> <img class="anaconda_dark_mode" src="../images/anaconda-light.png" alt="Anaconda logo"/>
+<a href="https://www.anaconda.com/"><img class="anaconda_light_mode" src="../images/anaconda-dark.png" alt="Anaconda logo"/> <img class="anaconda_dark_mode" src="../images/anaconda-light.png" alt="Anaconda logo"/></a>
 
 With more than 45 million users, [Anaconda](https://anaconda.com/) is the most popular operating system for AI providing access to the foundational open-source Python packages used in modern AI, data science and machine learning through a seamless platform. Anaconda pioneered the use of Python for data science, championed its vibrant community, and continues to steward open-source projects that make tomorrow’s innovations possible. Their enterprise-grade solutions enable corporate, research, and academic institutions around the world to harness the power of open-source for competitive advantage, groundbreaking research, and a better world.
 
@@ -57,10 +57,10 @@ With more than 45 million users, [Anaconda](https://anaconda.com/) is the most p
 <div class="pro-member-avatar" markdown="1">![Lincoln Loop logo](images/lincolnloop.png)</div> <div class="pro-member-name">Lincoln Loop</div>
 </div>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Al Sweigart](images/asweigart.png)</div> <div class="pro-member-name">Al Sweigart</div>
+<div class="pro-member-avatar" markdown="1">![Al <nospell>Sweigart</nospell>](images/asweigart.png)</div> <div class="pro-member-name">Al <nospell>Sweigart</nospell></div>
 </div>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Matthias Kestenholz](images/mkestenholz.png)</div> <div class="pro-member-name">Matthias Kestenholz</div>
+<div class="pro-member-avatar" markdown="1">![Matthias <nospell>Kestenholz</nospell>](images/mkestenholz.png)</div> <div class="pro-member-name">Matthias <nospell>Kestenholz</nospell></div>
 </div>
 </nospell>
 

@@ -13,7 +13,7 @@ June has been a busy month, with some big improvements to BeeWare's websites and
 
 ## What we've done
 
-- [`cibuildwheel` 3.0](https://pypi.org/project/cibuildwheel/3.0.0/) has been released - including iOS support! As a result, we've been able to submit pull requests for [lru-dict](https://github.com/amitdev/lru-dict/pull/73) and [Pillow](https://github.com/python-pillow/Pillow/pull/9030), proposing the addition of iOS support. Work on [adding Android support](https://github.com/pypa/cibuildwheel/pull/2349) is still underway.
+- [`cibuildwheel` 3.0](https://pypi.org/project/cibuildwheel/3.0.0/) has been released - including iOS support! As a result, we've been able to submit pull requests for [`lru-dict`](https://github.com/amitdev/lru-dict/pull/73) and [Pillow](https://github.com/python-pillow/Pillow/pull/9030), proposing the addition of iOS support. Work on [adding Android support](https://github.com/pypa/cibuildwheel/pull/2349) is still underway.
 - An [Emscripten CPython buildbot is now live](https://buildbot.python.org/#/builders/1810)! The buildbot is currently failing 2 tests; but having a buildbot *at all* is a major step towards restoring Tier-3 support, and will help detect regressions on Emscripten as a platform.
 - We've started a big review of the structure of our documentation, with a view to resolving a number of inconsistencies between platforms. This review will also involve a visual refresh, making BeeWare docs have a style consistent with the homepage; and improvements to how the documentation for BeeWare's individual projects fit into the overall BeeWare website.
 - We added [iCloud detection to Briefcase](https://github.com/beeware/briefcase/pull/2336). iCloud Drive synchronization adds metadata to some folders that prevents signing infrastructure from working; this has been a recurring source of problems during tutorials.
@@ -23,7 +23,7 @@ June has been a busy month, with some big improvements to BeeWare's websites and
 - We added a [Slider widget to the Web backend](https://github.com/beeware/toga/pull/3527).
 - We added a `DateInput` widget to the [iOS](https://github.com/beeware/toga/pull/3483) and [macOS](https://github.com/beeware/toga/pull/3574) backends.
 - We added a `TimeInput` widget to the [iOS](https://github.com/beeware/toga/pull/3536) and [macOS](https://github.com/beeware/toga/pull/3574) backends.
-- We added an [ActivityIndicator widget to the WinForms backend](https://github.com/beeware/toga/pull/3473).
+- We added an [`ActivityIndicator` widget to the WinForms backend](https://github.com/beeware/toga/pull/3473).
 - We modified the handling of Toga app paths so that [requesting a path guarantees that it exists](https://github.com/beeware/toga/pull/3543). This is a significant improvement to user experience, as it's no longer necessary to "check and create" every time you access an app path.
 - We resolved a long-standing instability in the macOS and iOS testbed app that [caused intermittent failures in the `WebView` tests](https://github.com/beeware/toga/pull/3557)
 - We added a new [topic guide on managing file system access in Toga apps](https://github.com/beeware/toga/pull/3552).

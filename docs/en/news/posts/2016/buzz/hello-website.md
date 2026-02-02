@@ -15,7 +15,7 @@ The original BeeWare website was written a couple of years ago, when BeeWare was
 
 As the BeeWare project grew in complexity, the old website was no longer keeping up with the needs of the project, so the core team took some time out from working on BeeWare itself, and rewrote the site.
 
-The new website uses [Lektor](https://www.getlektor.com), a static site generator tool written by well known Pythonista [Armin Ronacher](http://lucumr.pocoo.org/). This allows us to continue hosting the website using GitHub Pages, but gives us the flexibility to define a light database for the many types of content we need to manage.
+The new website uses [Lektor](https://www.getlektor.com), a static site generator tool written by well known Pythonista [<nospell>Armin Ronacher</nospell>](http://lucumr.pocoo.org/). This allows us to continue hosting the website using GitHub Pages, but gives us the flexibility to define a light database for the many types of content we need to manage.
 
 Although we're launching the site today, it's not complete. There's still content that needs to be written, and styling that needs to be fixed. However, we think that the new site is better than the old one, and therefore it's not worth delaying the launch any longer.
 

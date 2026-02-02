@@ -26,11 +26,11 @@ October saw the release of Python 3.14, which brought about a lot of release-rel
 - We corrected an issue with [desktop icon association in GNOME apps](https://github.com/beeware/briefcase-linux-system-template/pull/41).
 - We modified [how we create the macOS stub app used by Briefcase](https://github.com/beeware/briefcase-macOS-Xcode-template/pull/96). This change was necessary to ensure that Briefcase apps contain support for macOS 26 "Liquid Glass" styles.
 - We corrected an issue on macOS where [`ScrollContainer` and `OptionContainer` would not refresh their layout while being dynamically resized](https://github.com/beeware/toga/pull/3793).
-- We made a [small change to the Winforms event loop that should improve performance of network-intensive code](https://github.com/beeware/toga/pull/3823).
+- We made a [small change to the WinForms event loop that should improve performance of network-intensive code](https://github.com/beeware/toga/pull/3823).
 - We landed [some Toga-related upgrades to Podium, BeeWare's slide presentation app](https://github.com/beeware/podium/pull/65).
 - We [completed our transition to the use of PEP 735 dependency groups](https://github.com/beeware/.github/pull/251) across all BeeWare repositories. This means our published wheels will no longer include the list of development requirements; it also means we can [retire some utility workflows](https://github.com/beeware/.github/pull/258) that were previously required.
 - We added [automated draft translation workflows for new tutorial content.](https://github.com/beeware/beeware-tutorial/pull/13).
-- We upgraded all of our CI configurations to [retire the use of the soon-to-be-deprecated macos-13 runner](https://github.com/beeware/.github/pull/247).
+- We upgraded all of our CI configurations to [retire the use of the soon-to-be-deprecated `macos-13` runner](https://github.com/beeware/.github/pull/247).
 
 ## What's next?
 

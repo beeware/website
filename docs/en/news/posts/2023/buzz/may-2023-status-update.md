@@ -13,7 +13,7 @@ May has been another month of steady progress - mostly on widget testing, but al
 
 ## What we've done
 
-- We've completed the audit of the [`TextInput`, `PasswordInput`,](https://github.com/beeware/toga/pull/1944) and [`MultilineTextInput`](https://github.com/beeware/toga/pull/1938) widgets; we've completed the audit of [`NumberInput`](https://github.com/beeware/toga/pull/1946), [`WebView`](https://github.com/beeware/toga/pull/1949), [`DateInput`, `TimeInput`](https://github.com/beeware/toga/pull/1951), and [Selection](https://github.com/beeware/toga/pull/1955) on macOS, iOS and GTK; and we've begun the audit of [ImageView](https://github.com/beeware/toga/pull/1956).
+- We've completed the audit of the [`TextInput`, `PasswordInput`,](https://github.com/beeware/toga/pull/1944) and [`MultilineTextInput`](https://github.com/beeware/toga/pull/1938) widgets; we've completed the audit of [`NumberInput`](https://github.com/beeware/toga/pull/1946), [`WebView`](https://github.com/beeware/toga/pull/1949), [`DateInput`, `TimeInput`](https://github.com/beeware/toga/pull/1951), and [`Selection`](https://github.com/beeware/toga/pull/1955) on macOS, iOS and GTK; and we've begun the audit of [`ImageView`](https://github.com/beeware/toga/pull/1956).
 - We've added documentation and tests for the input validation API as part of the `TextInput` audit.
 - We've added documentation and tests for `ListSource` as part of the Selection audit, and modified the implementation of Selection to use a `ListSource`.
 - We [refactored the implementation of Dialog](https://github.com/beeware/toga/pull/1948) so that it is architecturally consistent with the rest of Toga; this will hopefully also lead to an easier testing story.
@@ -36,7 +36,7 @@ Want to get involved? Here are some open issues that would be a great place to g
 1. [Filter out a message generated after Xcode updates](https://github.com/beeware/briefcase/issues/780)
 2. [Add the ability to configure the ABIs built by an Android project](https://github.com/beeware/briefcase/issues/808)
 3. [Add support for the ANDROID\_HOME environment variable](https://github.com/beeware/briefcase/issues/463)
-4. [Rationalize the application of adhoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
+4. [Rationalize the application of ad hoc signing on macOS](https://github.com/beeware/briefcase/issues/1099)
 5. [Detect a failure when trying to install on an Android device that is too old](https://github.com/beeware/briefcase/issues/1157)
 6. [Use the on-device clock to filter Android device logs](https://github.com/beeware/briefcase/issues/1146)
 7. [Add an APK packaging target for Android](https://github.com/beeware/briefcase/issues/1136)

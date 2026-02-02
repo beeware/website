@@ -3,6 +3,9 @@ site_name: BeeWare
 site_url: https://beeware.org/
 docs_dir: fr
 
+theme:
+  language: fr
+
 extra:
   translation_type: original
 

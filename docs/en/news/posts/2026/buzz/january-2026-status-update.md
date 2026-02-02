@@ -49,7 +49,6 @@ We've started 2026 with a buzz --- a flurry of BeeWare activity on Toga's Canvas
 
 Much of this work is due to the contributions of members of the BeeWare community. Thanks to Alec Delaney ([@tekktrik](https://github.com/tekktrik)), Barak ([@BarakXYZ](https://github.com/BarakXYZ)), Corran Webster ([@corranwebster](https://github.com/corranwebster)), Harsh Kumar ([@thisisharsh7](https://github.com/thisisharsh7)), John ([@johnzhou721](https://github.com/johnzhou721)), [@kshivani06](https://github.com/kshivani06), Mike Maietta ([@mmaietta](https://github.com/mmaietta)), [@MTwem](https://github.com/MTwem), [@Nabhye](https://github.com/Nabhye), [@rasmusJenle](https://github.com/rasmusJenle), [@timrid](https://github.com/timrid), Tom Arn ([@t-arn](https://github.com/t-arn)), and [@YapWC](https://github.com/YapWC) for their code and documentation contributions this month.
 
-
 ## What's next?
 
 In the coming month, we're going to start work on improving Positron to better support PyScript apps. We're also going to perform some API design work around capabilities that are currently missing from Toga. This will include a design for Table and Tree widgets for mobile platforms, as well as tackling some high-level app navigation issues. Some of these discussions have already started this month; they will continue until we have finalized designs that can be implemented.

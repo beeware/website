@@ -11,6 +11,10 @@ tox-uv = [
     "tox-uv == 1.29.0",
 ]
 
+wlc = [
+    "wlc == 1.17.2",
+]
+
 dev = [
     {include-group = "pre-commit"},
     {include-group = "tox-uv"},
@@ -19,9 +23,14 @@ dev = [
 docs = [
     # TODO: Restore to beeware/beeware-docs-tools before going live.
     # "beeware-docs-tools @ git+https://github.com/beeware/beeware-docs-tools",
-    "beeware-docs-tools @ git+https://github.com/kattni/beeware-docs-tools@tooling/website-mkdocs-migration",
-    # "beeware-docs-tools @ file://../beeware-docs-tools",
+    # "beeware-docs-tools @ git+https://github.com/kattni/beeware-docs-tools@tooling/website-mkdocs-migration",
+    "beeware-docs-tools @ file://../beeware-docs-tools",
     {include-group = "redirects"},
+]
+
+translate = [
+    {include-group = "tox-uv"},
+    {include-group = "wlc"},
 ]
 
 [tool.rumdl]

@@ -1,8 +1,4 @@
-# About { #about }
-
-## BeeWare: The IDEs of Python
-
-This is BeeWare. We're incredibly excited about what the future holds for Python. We hope you'll join us on this journey.
+# About BeeWare { #about }
 
 ## [What is BeeWare?](overview.md)
 

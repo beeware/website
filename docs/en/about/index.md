@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # About BeeWare { #about }
 
 ## [What is BeeWare?](overview.md)

@@ -16,7 +16,7 @@ hide:
 
 # BeeWare { .index-intro-title }
 
-Write once. Deploy everywhere. <!-- rumdl-disable-line MD013 -->
+Write once. Deploy everywhere.
 { .index-intro-subtitle }
 
 <div class="index-intro-summary" markdown="1">

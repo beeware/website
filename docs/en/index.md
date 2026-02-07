@@ -101,7 +101,7 @@ Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon, or 
 
 <div class="index-main-button" markdown="1">
 
-[Keep in touch!](about/contact.md){ .index-main-keep-in-touch }
+[Keep in touch!](about/contact.md){ .index-main-keep }
 
 </div>
 

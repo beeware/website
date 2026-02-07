@@ -171,7 +171,7 @@ a.index-main-contribute:hover {
 }
 
 a.intro-donate:hover,
-a.index-main-keep-in-touch:hover {
+a.index-main-keep:hover {
     color: #FFFFFF;
     background-color: #218838;
     border-color: #1e7e34;;
@@ -190,7 +190,7 @@ and (max-width: 1220px) {
     }
 
     a.index-main-contribute,
-    a.index-main-keep-in-touch {
+    a.index-main-keep {
         display: inline-block;
         width: 15rem;
     }
@@ -260,7 +260,7 @@ and (max-width: 1220px) {
     }
 
     a.index-main-contribute,
-    a.index-main-keep-in-touch {
+    a.index-main-keep {
         display: inline-block;
         width: 25rem;
     }
@@ -299,13 +299,13 @@ and (max-width: 1220px) {
     margin-right: 0.5rem;
 }
 
-.index-main {
+.index-main-button {
     display: flex;
     justify-content: center;
 }
 
 a.index-main-contribute,
-a.index-main-keep-in-touch {
+a.index-main-keep {
     padding: .5rem 1rem;
     margin: 0 0.5rem 0 0;
     font-size: 1rem;
@@ -319,7 +319,7 @@ a.index-main-keep-in-touch {
     background-color: #007BFF;
 }
 
-a.index-main-keep-in-touch {
+a.index-main-keep {
     background-color: #28A745;
 }
 

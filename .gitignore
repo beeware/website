@@ -6,3 +6,5 @@ comment.md
 .rumdl_cache
 .tox
 __pycache__
+venv*/
+.envrc

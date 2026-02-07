@@ -1,7 +1,5 @@
 # History and Philosophy { #history-and-philosophy }
 
-## History
-
 The BeeWare project started with a simple question: Why aren't the tools that we use as Python developers improving at the same rate as the rest of the technology we use on a daily basis?
 
 Python has proven itself as a highly capable language - approachable for newcomers, but powerful in the hands of experts. Python is rapidly becoming a major part of the data analysis, scientific computing, and web development landscape. And initiatives like [Django Girls](https://djangogirls.org/) have demonstrated that using Python, it is possible to provide a 1-day training courses that introducing people with no programming experience to Python; and at the end of a day, attendees have developed and deployed a database-backed dynamic website, deployed to a publicly visible server.
@@ -12,7 +10,7 @@ And, yes, there are IDEs (Integrated Development Environments) that provide a na
 
 And so, we're left with an interesting schism, between the "old way" of Unix development in a console window, and the "new way" of all-in-one IDEs.
 
-### The Unix Philosophy
+## The Unix Philosophy
 
 However, it doesn't have to be that way. The core tenet of the Unix Philosophy is that "each tool does one thing, well". This is a very powerful philosophy, and it enables the composition of extremely powerful toolchains by putting together a suite of extremely focused, independent tools.
 

@@ -91,7 +91,7 @@ If all this sounds interesting, why not take a look at the [BeeWare projects](do
 
 <div class="index-main-button" markdown="1">
 
-[Contribute to BeeWare](contributing/index.md){ .index-main-contribute-button }
+[Contribute to BeeWare](contributing/index.md){ .index-main-contribute }
 
 </div>
 
@@ -101,7 +101,7 @@ Follow [@beeware@fosstodon.org](https://fosstodon.org/@beeware) on Mastodon, or 
 
 <div class="index-main-button" markdown="1">
 
-[Keep in touch!](about/contact.md){ .index-main-keep-in-touch-button }
+[Keep in touch!](about/contact.md){ .index-main-keep-in-touch }
 
 </div>
 

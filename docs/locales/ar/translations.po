@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-06 13:18+0800\n"
+"POT-Creation-Date: 2026-02-07 17:51+0800\n"
 "PO-Revision-Date: 2025-05-27 20:44+EST\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1737,7 +1737,7 @@ msgstr "[تابع البرنامج التعليمي]{1}{ .docs-tutorial-button }
 msgid "Featured tools { .featured-tools }"
 msgstr "الأدوات المميزة { .featured-tools }"
 
-#: docs/en/docs/index.md:23 docs/en/index.md:127
+#: docs/en/docs/index.md:23 docs/en/index.md:126
 #, fuzzy
 msgid "[![Tiberius]{1}]{2}"
 msgstr "[![تيبيريوس]{1}]{2}"
@@ -1747,12 +1747,12 @@ msgstr "[![تيبيريوس]{1}]{2}"
 msgid "[Toga]{1} { .featured-name #toga }"
 msgstr "[Toga]{1} { .featured-name #toga }"
 
-#: docs/en/docs/index.md:27 docs/en/index.md:133
+#: docs/en/docs/index.md:27 docs/en/index.md:132
 #, fuzzy
 msgid "A Python native, OS native GUI toolkit."
 msgstr "مجموعة أدوات واجهة مستخدم رسومية أصلية من بايثون ونظام تشغيل أصلي."
 
-#: docs/en/docs/index.md:33 docs/en/index.md:137
+#: docs/en/docs/index.md:33 docs/en/index.md:136
 #, fuzzy
 msgid "[![Briefcase]{1}]{2}"
 msgstr "[![Briefcase]{1}]{2}"
@@ -1762,7 +1762,7 @@ msgstr "[![Briefcase]{1}]{2}"
 msgid "[Briefcase]{1} { .featured-name #briefcase }"
 msgstr "[Briefcase]{1} { .featured-name #briefcase }"
 
-#: docs/en/docs/index.md:37 docs/en/index.md:143
+#: docs/en/docs/index.md:37 docs/en/index.md:142
 #, fuzzy
 msgid "Convert a Python project into a standalone native application."
 msgstr "تحويل مشروع Python إلى تطبيق أصلي مستقل."
@@ -1907,7 +1907,7 @@ msgstr "هل تريد المساهمة في BeeWare؟ اطلع على [دليل 
 msgid "Or, if you just want to support the project financially, you can [become a financial member of the project.]{1}"
 msgstr "أو، إذا كنت ترغب فقط في دعم المشروع مالياً، يمكنك [أن تصبح عضواً مالياً في المشروع.]{1}"
 
-#: docs/en/docs/index.md:141 docs/en/index.md:93
+#: docs/en/docs/index.md:141 docs/en/index.md:92
 #, fuzzy
 msgid "Stay in touch!"
 msgstr "ابق على اتصال!"
@@ -1924,223 +1924,223 @@ msgstr "![بروتوس النحلة]{1}{ .index-intro-beeware-logo }"
 
 #: docs/en/index.md:11
 #, fuzzy
-msgid "BeeWare { .index-intro-title }"
-msgstr "BeeWare { .index-intro-title }"
+msgid "BeeWare"
+msgstr "BeeWare"
 
 #: docs/en/index.md:13
 #, fuzzy
-msgid "Write once. Deploy everywhere. {1} { .index-intro-subtitle }"
-msgstr "اكتب مرة واحدة. انشر في كل مكان. {1} { .index-intro-subtitle }"
+msgid "Write once. Deploy everywhere."
+msgstr "اكتب مرة واحدة. انشر في كل مكان."
 
-#: docs/en/index.md:18
+#: docs/en/index.md:17
 #, fuzzy
 msgid "Write your apps in Python and release them on iOS, Android, Windows, macOS, Linux, Web, and tvOS using rich, native user interfaces. Multiple apps, one codebase, with a fully native user experience on every platform."
 msgstr "اكتب تطبيقاتك بلغة Python وقم بإصدارها على أنظمة iOS و Android و Windows و macOS و Linux و Web و tvOS باستخدام واجهات مستخدم أصلية غنية. تطبيقات متعددة، قاعدة برمجية واحدة، مع تجربة مستخدم أصلية بالكامل على كل منصة."
 
-#: docs/en/index.md:24
+#: docs/en/index.md:23
 #, fuzzy
-msgid "[Take the tutorial]{1}{ .intro-tutorial-button }"
-msgstr "[تابع البرنامج التعليمي]{1}{ .intro-tutorial-button }"
+msgid "[Take the tutorial]{1}{ .intro-tutorial }"
+msgstr "[تابع البرنامج التعليمي]{1}{ .intro-tutorial }"
 
-#: docs/en/index.md:26
+#: docs/en/index.md:25
 #, fuzzy
-msgid "[I want to contribute]{1}{ .intro-contribute-button }"
-msgstr "[أريد المساهمة]{1}{ .intro-contribute-button }"
+msgid "[I want to contribute]{1}{ .intro-contribute }"
+msgstr "[أريد المساهمة]{1}{ .intro-contribute }"
 
-#: docs/en/index.md:28
+#: docs/en/index.md:27
 #, fuzzy
-msgid "[Donate and support us!]{1}{ .intro-donate-button }"
-msgstr "[تبرع وادعمنا!]{1}{ .intro-donate-button }"
+msgid "[Donate and support us!]{1}{ .intro-donate }"
+msgstr "[تبرع وادعمنا!]{1}{ .intro-donate }"
 
-#: docs/en/index.md:37
+#: docs/en/index.md:36
 #, fuzzy
 msgid "One codebase. Multiple apps."
 msgstr "قاعدة برمجية واحدة. تطبيقات متعددة."
 
-#: docs/en/index.md:39
+#: docs/en/index.md:38
 #, fuzzy
 msgid "BeeWare allows you to write your app in Python and release it on multiple platforms. No need to rewrite the app in multiple programming languages. It means **no issues** with build tools, environments, compatibility, etc."
 msgstr "يتيح لك BeeWare كتابة تطبيقك بلغة Python وإصداره على منصات متعددة. لا حاجة لإعادة كتابة التطبيق بلغات برمجة متعددة. يعني **لا مشاكل** مع أدوات الإنشاء والبيئات والتوافق وما إلى ذلك."
 
-#: docs/en/index.md:41
+#: docs/en/index.md:40
 #, fuzzy
 msgid "Python native tools..."
 msgstr "أدوات Python الأصلية..."
 
-#: docs/en/index.md:43
+#: docs/en/index.md:42
 #, fuzzy
-msgid "![Python logo]{1}{ .index-main-python-logo }"
-msgstr "![Python logo]{1}{ .index-main-python-logo }"
+msgid "![Python logo]{1}{ .index-right-logo }"
+msgstr "![شعار Python]{1}{ .index-right-logo }"
 
-#: docs/en/index.md:45
+#: docs/en/index.md:44
 #, fuzzy
 msgid "Python has proven itself as a highly capable language - approachable for newcomers, but powerful in the hands of experts. Why shouldn't you be able to **use Python everywhere** that you need to tell a computer to do something? And shouldn't your tools **exploit all the capabilities of Python** as a language, not just the bits that map nicely to a C binding?"
 msgstr "لقد أثبتت بايثون نفسها كلغة ذات قدرات عالية - يسهل على الوافدين الجدد استخدامها، لكنها قوية في أيدي الخبراء. لماذا لا ينبغي أن تكون قادرًا على **استخدام لغة بايثون في كل مكان** تحتاج فيه إلى إخبار الحاسوب بفعل شيء ما؟ ولماذا لا ينبغي لأدواتك أن **تستغل جميع قدرات بايثون** كلغة، وليس فقط الأجزاء التي تتوافق بشكل جيد مع لغة C؟"
 
-#: docs/en/index.md:47
+#: docs/en/index.md:46
 #, fuzzy
 msgid "...on mobile & desktop..."
 msgstr "...على الهاتف المحمول والكمبيوتر المكتبي..."
 
-#: docs/en/index.md:49
+#: docs/en/index.md:48
 #, fuzzy
-msgid "![Cross-platform]{1}{ .index-main-cross-platform-logo }"
-msgstr "![عبر الأنظمة الأساسية]{1}{ .index-main-cross-platform-logo }"
+msgid "![Cross-platform]{1}{ .index-left-logo }"
+msgstr "![عبر الأنظمة الأساسية]{1}{ .index-left-logo }"
 
-#: docs/en/index.md:51
+#: docs/en/index.md:50
 #, fuzzy
 msgid "Modern computing doesn't happen in an 80x25 console window. It happens on **phones, tablets, and desktop machines** with rich user interfaces. Shouldn't you be able to use Python in all those locations, and **exploit the unique capabilities of those platforms**?"
 msgstr "الحوسبة الحديثة لا تحدث في نافذة وحدة تحكم 80x25. إنها تحدث على **الهواتف والأجهزة اللوحية وأجهزة سطح المكتب** مع واجهات مستخدم غنية. ألا يجب أن تكون قادرًا على استخدام Python في جميع هذه المواقع، و **استغلال القدرات الفريدة لتلك المنصات**؟"
 
-#: docs/en/index.md:53
+#: docs/en/index.md:52
 #, fuzzy
 msgid "...behaving natively. { .behaving-index }"
 msgstr "...يتصرف بشكل طبيعي. { .behaving-index }"
 
-#: docs/en/index.md:55
+#: docs/en/index.md:54
 #, fuzzy
-msgid "![Native]{1}{ .index-main-native-logo }"
-msgstr "![Native]{1}{ .index-main-native-logo }"
+msgid "![Native]{1}{ .index-right-logo }"
+msgstr "![Native]{1}{ .index-right-logo }"
 
-#: docs/en/index.md:57
+#: docs/en/index.md:56
 #, fuzzy
 msgid "End users shouldn't have to care what language their tools are written in. And that starts with looking and behaving **like completely native tools**. Native appearance, native behavior, delivered in the way a native app is delivered. Why shouldn't your Python tools fit in just as well as a native tool?"
 msgstr "لا ينبغي أن يهتم المستخدمون النهائيون باللغة المكتوبة بها أدواتهم. ويبدأ ذلك بأن تبدو وتتصرف ** كأدوات أصلية تمامًا**. المظهر الأصلي، والسلوك الأصلي، وتقديمها بالطريقة التي يتم بها تقديم تطبيق أصلي. لماذا لا يجب أن تتلاءم أدوات Python الخاصة بك مع الأدوات الأصلية تمامًا مثل الأدوات الأصلية؟"
 
-#: docs/en/index.md:59
+#: docs/en/index.md:58
 #, fuzzy
 msgid "This is BeeWare."
 msgstr "هذه هي BeeWare."
 
-#: docs/en/index.md:61
+#: docs/en/index.md:60
 #, fuzzy
-msgid "![Brutus the Bee]{1}{ .index-main-brutus-logo }"
-msgstr "![بروتوس النحلة]{1}{ .index-main-brutus-logo }"
+msgid "![Brutus the Bee]{1}{ .index-left-logo }"
+msgstr "![بروتوس النحلة]{1}{ .index-left-logo }"
 
-#: docs/en/index.md:63
+#: docs/en/index.md:62
 #, fuzzy
 msgid "This is what BeeWare provides. Tools to help you write Python code with a rich, **native user interface**; and the libraries and support code necessary to get that code running on **iOS, Android, macOS, Linux, Windows, tvOS, and more**."
 msgstr "هذا ما توفره BeeWare. أدوات لمساعدتك في كتابة كود Python بواجهة مستخدم غنية **وأصلية**؛ والمكتبات ورمز الدعم اللازم لتشغيل هذا الكود على **أنظمة iOS و Android و macOS و Linux و Windows و tvOS وغيرها**."
 
-#: docs/en/index.md:65
+#: docs/en/index.md:64
 #, fuzzy
 msgid "Open source"
 msgstr "مفتوح المصدر"
 
-#: docs/en/index.md:67
+#: docs/en/index.md:66
 #, fuzzy
-msgid "![Open source]{1}{ .index-main-open-source-logo }"
-msgstr "![مصدر مفتوح]{1}{ .index-main-open-source-logo }"
+msgid "![Open source]{1}{ .index-right-logo }"
+msgstr "![مصدر مفتوح]{1}{ .index-right-logo }"
 
-#: docs/en/index.md:69
+#: docs/en/index.md:68
 #, fuzzy
 msgid "The open source development process has proven itself to be the most reliable way to develop robust and reliable software. That's why the entire BeeWare suite of tools are BSD licensed, and **available for all to use and modify**."
 msgstr "أثبتت عملية التطوير مفتوحة المصدر أنها الطريقة الأكثر موثوقية لتطوير برامج قوية وموثوقة. لهذا السبب، فإن مجموعة أدوات BeeWare بأكملها مرخصة بموجب رخصة BSD، و**متاحة للجميع للاستخدام والتعديل**."
 
-#: docs/en/index.md:71
+#: docs/en/index.md:70
 #, fuzzy
 msgid "All contributions welcome"
 msgstr "نرحب بجميع المساهمات"
 
-#: docs/en/index.md:73
+#: docs/en/index.md:72
 #, fuzzy
-msgid "![Hands]{1}{ .index-main-hands-logo }"
-msgstr "![الأيدي]{1}{ .index-main-hands-logo }"
+msgid "![Hands]{1}{ .index-left-logo }"
+msgstr "![الأيدي]{1}{ .index-left-logo }"
 
-#: docs/en/index.md:75
+#: docs/en/index.md:74
 #, fuzzy
 msgid "But it's not just about code. A successful software project requires documentation, design skills, feedback and bug reports. The BeeWare community acknowledges that **all contributions are important** — not just the ones that come as a pull request on GitHub."
 msgstr "لكن الأمر لا يتعلق فقط بالرمز البرمجي. فمشروع البرمجيات الناجح يتطلب التوثيق ومهارات التصميم والملاحظات وتقارير الأخطاء. يقر مجتمع BeeWare بأن ** جميع المساهمات مهمة** - وليس فقط تلك التي تأتي كطلب سحب على GitHub."
 
-#: docs/en/index.md:77
+#: docs/en/index.md:76
 #, fuzzy
 msgid "From diversity comes strength"
 msgstr "التنوع يولد القوة"
 
-#: docs/en/index.md:79
+#: docs/en/index.md:78
 #, fuzzy
-msgid "![Diversity]{1}{ .index-main-diversity-logo }"
-msgstr "![التنوع]{1}{ .index-main-diversity-logo }"
+msgid "![Diversity]{1}{ .index-right-logo }"
+msgstr "![التنوع]{1}{ .index-right-logo }"
 
-#: docs/en/index.md:81
+#: docs/en/index.md:80
 #, fuzzy
 msgid "A diverse community is a strong community. This means accepting people of all levels of experience, from all backgrounds, of all races, creeds, orientations and expressions. The BeeWare project is committed to **developing and maintaining a diverse, welcoming community**. We have an **open offer to mentor anyone** who wants to get involved as a contributor, backed up by a [Code of Conduct]{1} that is rigorously enforced."
 msgstr "المجتمع المتنوع هو مجتمع قوي. وهذا يعني قبول الأشخاص من جميع مستويات الخبرة، ومن جميع الخلفيات، ومن جميع الأعراق، والمعتقدات، والتوجهات، والتعبيرات. يلتزم مشروع BeeWare **بتطوير وصيانة مجتمع متنوع ومرحب**. لدينا **عرض مفتوح لتوجيه أي شخص** يرغب في المشاركة كمساهم، مدعومًا بـ [مدونة قواعد السلوك]{1} التي يتم تطبيقها بصرامة."
 
-#: docs/en/index.md:83
+#: docs/en/index.md:82
 #, fuzzy
 msgid "Contribute!"
 msgstr "ساهم!"
 
-#: docs/en/index.md:85
+#: docs/en/index.md:84
 #, fuzzy
 msgid "If all this sounds interesting, why not take a look at the [BeeWare projects]{1} and see how you can use them when developing Python applications? Or, if you'd like to contribute, and you've never contributed to open source before, start with our [guide for first time contributors]{2}. If you feel ready to dive straight in, check out the [documentation]{3} or our guide on [what you can do to help]{4}."
 msgstr "إذا كان كل هذا يبدو مثيرًا للاهتمام، فلماذا لا تلقي نظرة على [مشاريع BeeWare]{1} وترى كيف يمكنك استخدامها عند تطوير تطبيقات Python؟ أو، إذا كنت ترغب في المساهمة، ولم تساهم من قبل في أي مشروع مفتوح المصدر، فابدأ بـ [دليل المساهمين الجدد]{2}. إذا كنت تشعر أنك مستعد للانطلاق مباشرة، فراجع [الوثائق]{3} أو دليلنا حول [ما يمكنك القيام به للمساعدة]{4}."
 
-#: docs/en/index.md:89
+#: docs/en/index.md:88
 #, fuzzy
-msgid "[Contribute to BeeWare]{1}{ .index-main-contribute-button }"
-msgstr "[ساهم في BeeWare]{1}{ .index-main-contribute-button }"
+msgid "[Contribute to BeeWare]{1}{ .index-main-contribute }"
+msgstr "[ساهم في BeeWare]{1}{ .index-main-contribute }"
 
-#: docs/en/index.md:95
+#: docs/en/index.md:94
 #, fuzzy
 msgid "Follow [@beeware@fosstodon.org]{1} on Mastodon, or [join the BeeWare enthusiasts mailing list]{2} for updates, hints, tips, and announcements related to the project."
 msgstr "تابع [@beeware@fosstodon.org]{1} على Mastodon، أو [انضم إلى قائمة بريدية لمحبي BeeWare]{2} للحصول على التحديثات والنصائح والإرشادات والإعلانات المتعلقة بالمشروع."
 
-#: docs/en/index.md:99
+#: docs/en/index.md:98
 #, fuzzy
-msgid "[Keep in touch!]{1}{ .index-main-keep-in-touch-button }"
-msgstr "[ابق على اتصال!]{1}{ .index-main-keep-in-touch-button }"
+msgid "[Keep in touch!]{1}{ .index-main-keep-in-touch }"
+msgstr "[ابق على اتصال!]{1}{ .index-main-keep-in-touch }"
 
-#: docs/en/index.md:103
+#: docs/en/index.md:102
 #, fuzzy
 msgid "Members"
 msgstr "الأعضاء"
 
-#: docs/en/index.md:105
+#: docs/en/index.md:104
 #, fuzzy
 msgid "BeeWare is supported by users like you! Every little bit helps: [click here to contribute]{1}."
 msgstr "BeeWare مدعوم من قبل مستخدمين مثلك! كل مساهمة صغيرة تساعد: [انقر هنا للمساهمة]{1}."
 
-#: docs/en/index.md:110
+#: docs/en/index.md:109
 #, fuzzy
 msgid "Gold Member { .index-sidebar-gold-member }"
 msgstr "عضو ذهبي { .index-sidebar-gold-member }"
 
-#: docs/en/index.md:114
+#: docs/en/index.md:113
 #, fuzzy
 msgid "Latest news"
 msgstr "آخر الأخبار"
 
-#: docs/en/index.md:116
+#: docs/en/index.md:115
 msgid "{{ latest_news(files) }}"
 msgstr "{{ latest_news(files) }}"
 
-#: docs/en/index.md:118
+#: docs/en/index.md:117
 #, fuzzy
 msgid "Upcoming events"
 msgstr "الأحداث القادمة"
 
-#: docs/en/index.md:120
+#: docs/en/index.md:119
 msgid "{{ upcoming_events(files) }}"
 msgstr "{{ upcoming_events(files) }}"
 
-#: docs/en/index.md:122 docs/en/titles.md:15
+#: docs/en/index.md:121 docs/en/titles.md:15
 #, fuzzy
 msgid "Documentation"
 msgstr "التوثيق"
 
-#: docs/en/index.md:129
+#: docs/en/index.md:128
 #, fuzzy
 msgid "[Toga]{1} { .index-docs-name }"
 msgstr "[Toga]{1} { .index-docs-name }"
 
-#: docs/en/index.md:139
+#: docs/en/index.md:138
 #, fuzzy
 msgid "[Briefcase]{1} { .index-docs-name }"
 msgstr "[Briefcase]{1} { .index-docs-name }"
 
-#: docs/en/index.md:147
+#: docs/en/index.md:146
 #, fuzzy
 msgid "[...and much more.]{1}"
 msgstr "[...وغير ذلك الكثير.]{1}"

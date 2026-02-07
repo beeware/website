@@ -180,16 +180,17 @@ a.index-main-keep-in-touch:hover {
 @media screen and (min-width: 760px)
 and (max-width: 1220px) {
     .index-intro-content h1 {
-        font-size: 5rem;
+        font-size: 6rem;
         margin-bottom: 0;
     }
 
     .index-intro-content h2 {
-        font-size: 1.5rem;
+        margin-top: 1rem;
+        font-size: 1.8rem;
     }
 
-    a.index-main-contribute-button,
-    a.index-main-keep-in-touch-button {
+    a.index-main-contribute,
+    a.index-main-keep-in-touch {
         display: inline-block;
         width: 15rem;
     }
@@ -208,6 +209,7 @@ and (max-width: 1220px) {
     }
 
     .index-intro-content h2 {
+        margin-top: 1rem;
         font-size: 2.2rem;
     }
 }
@@ -257,8 +259,8 @@ and (max-width: 1220px) {
         padding-left: 4rem;
     }
 
-    a.index-main-contribute-button,
-    a.index-main-keep-in-touch-button {
+    a.index-main-contribute,
+    a.index-main-keep-in-touch {
         display: inline-block;
         width: 25rem;
     }
@@ -297,13 +299,13 @@ and (max-width: 1220px) {
     margin-right: 0.5rem;
 }
 
-.index-main-button {
+.index-main {
     display: flex;
     justify-content: center;
 }
 
-a.index-main-contribute-button,
-a.index-main-keep-in-touch-button {
+a.index-main-contribute,
+a.index-main-keep-in-touch {
     padding: .5rem 1rem;
     margin: 0 0.5rem 0 0;
     font-size: 1rem;
@@ -317,7 +319,7 @@ a.index-main-keep-in-touch-button {
     background-color: #007BFF;
 }
 
-a.index-main-keep-in-touch-button {
+a.index-main-keep-in-touch {
     background-color: #28A745;
 }
 
@@ -404,19 +406,19 @@ h2.other-tools {
 }
 
 @media screen and (max-width: 43.125rem) {
-    .docs-tutorial-button {
+    .docs-tutorial {
         width: 11rem;
         margin: 0 0.5rem;
     }
 }
 
 @media screen and (min-width: 43.125rem) {
-    .docs-tutorial-button {
+    .docs-tutorial {
         width: 20rem;
     }
 }
 
-a.docs-tutorial-button {
+a.docs-tutorial {
     padding: .5rem 1rem;
     font-size: 1.25rem;
     line-height: 1.5;
@@ -432,7 +434,7 @@ a.docs-tutorial-button {
     background-color: #007BFF;
 }
 
-a.docs-tutorial-button:hover {
+a.docs-tutorial:hover {
     color: white;
     background-color: #0069D9;
     border-color: #0062CC;

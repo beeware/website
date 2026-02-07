@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-06 13:18+0800\n"
+"POT-Creation-Date: 2026-02-07 17:51+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1421,7 +1421,7 @@ msgstr ""
 msgid "Featured tools { .featured-tools }"
 msgstr ""
 
-#: docs/en/docs/index.md:23 docs/en/index.md:127
+#: docs/en/docs/index.md:23 docs/en/index.md:126
 msgid "[![Tiberius]{1}]{2}"
 msgstr ""
 
@@ -1429,11 +1429,11 @@ msgstr ""
 msgid "[Toga]{1} { .featured-name #toga }"
 msgstr ""
 
-#: docs/en/docs/index.md:27 docs/en/index.md:133
+#: docs/en/docs/index.md:27 docs/en/index.md:132
 msgid "A Python native, OS native GUI toolkit."
 msgstr ""
 
-#: docs/en/docs/index.md:33 docs/en/index.md:137
+#: docs/en/docs/index.md:33 docs/en/index.md:136
 msgid "[![Briefcase]{1}]{2}"
 msgstr ""
 
@@ -1441,7 +1441,7 @@ msgstr ""
 msgid "[Briefcase]{1} { .featured-name #briefcase }"
 msgstr ""
 
-#: docs/en/docs/index.md:37 docs/en/index.md:143
+#: docs/en/docs/index.md:37 docs/en/index.md:142
 msgid "Convert a Python project into a standalone native application."
 msgstr ""
 
@@ -1557,7 +1557,7 @@ msgstr ""
 msgid "Or, if you just want to support the project financially, you can [become a financial member of the project.]{1}"
 msgstr ""
 
-#: docs/en/docs/index.md:141 docs/en/index.md:93
+#: docs/en/docs/index.md:141 docs/en/index.md:92
 msgid "Stay in touch!"
 msgstr ""
 
@@ -1570,182 +1570,182 @@ msgid "![Brutus the Bee]{1}{ .index-intro-beeware-logo }"
 msgstr ""
 
 #: docs/en/index.md:11
-msgid "BeeWare { .index-intro-title }"
+msgid "BeeWare"
 msgstr ""
 
 #: docs/en/index.md:13
-msgid "Write once. Deploy everywhere. {1} { .index-intro-subtitle }"
+msgid "Write once. Deploy everywhere."
 msgstr ""
 
-#: docs/en/index.md:18
+#: docs/en/index.md:17
 msgid "Write your apps in Python and release them on iOS, Android, Windows, macOS, Linux, Web, and tvOS using rich, native user interfaces. Multiple apps, one codebase, with a fully native user experience on every platform."
 msgstr ""
 
-#: docs/en/index.md:24
-msgid "[Take the tutorial]{1}{ .intro-tutorial-button }"
+#: docs/en/index.md:23
+msgid "[Take the tutorial]{1}{ .intro-tutorial }"
 msgstr ""
 
-#: docs/en/index.md:26
-msgid "[I want to contribute]{1}{ .intro-contribute-button }"
+#: docs/en/index.md:25
+msgid "[I want to contribute]{1}{ .intro-contribute }"
 msgstr ""
 
-#: docs/en/index.md:28
-msgid "[Donate and support us!]{1}{ .intro-donate-button }"
+#: docs/en/index.md:27
+msgid "[Donate and support us!]{1}{ .intro-donate }"
 msgstr ""
 
-#: docs/en/index.md:37
+#: docs/en/index.md:36
 msgid "One codebase. Multiple apps."
 msgstr ""
 
-#: docs/en/index.md:39
+#: docs/en/index.md:38
 msgid "BeeWare allows you to write your app in Python and release it on multiple platforms. No need to rewrite the app in multiple programming languages. It means **no issues** with build tools, environments, compatibility, etc."
 msgstr ""
 
-#: docs/en/index.md:41
+#: docs/en/index.md:40
 msgid "Python native tools..."
 msgstr ""
 
-#: docs/en/index.md:43
-msgid "![Python logo]{1}{ .index-main-python-logo }"
+#: docs/en/index.md:42
+msgid "![Python logo]{1}{ .index-right-logo }"
 msgstr ""
 
-#: docs/en/index.md:45
+#: docs/en/index.md:44
 msgid "Python has proven itself as a highly capable language - approachable for newcomers, but powerful in the hands of experts. Why shouldn't you be able to **use Python everywhere** that you need to tell a computer to do something? And shouldn't your tools **exploit all the capabilities of Python** as a language, not just the bits that map nicely to a C binding?"
 msgstr ""
 
-#: docs/en/index.md:47
+#: docs/en/index.md:46
 msgid "...on mobile & desktop..."
 msgstr ""
 
-#: docs/en/index.md:49
-msgid "![Cross-platform]{1}{ .index-main-cross-platform-logo }"
+#: docs/en/index.md:48
+msgid "![Cross-platform]{1}{ .index-left-logo }"
 msgstr ""
 
-#: docs/en/index.md:51
+#: docs/en/index.md:50
 msgid "Modern computing doesn't happen in an 80x25 console window. It happens on **phones, tablets, and desktop machines** with rich user interfaces. Shouldn't you be able to use Python in all those locations, and **exploit the unique capabilities of those platforms**?"
 msgstr ""
 
-#: docs/en/index.md:53
+#: docs/en/index.md:52
 msgid "...behaving natively. { .behaving-index }"
 msgstr ""
 
-#: docs/en/index.md:55
-msgid "![Native]{1}{ .index-main-native-logo }"
+#: docs/en/index.md:54
+msgid "![Native]{1}{ .index-right-logo }"
 msgstr ""
 
-#: docs/en/index.md:57
+#: docs/en/index.md:56
 msgid "End users shouldn't have to care what language their tools are written in. And that starts with looking and behaving **like completely native tools**. Native appearance, native behavior, delivered in the way a native app is delivered. Why shouldn't your Python tools fit in just as well as a native tool?"
 msgstr ""
 
-#: docs/en/index.md:59
+#: docs/en/index.md:58
 msgid "This is BeeWare."
 msgstr ""
 
-#: docs/en/index.md:61
-msgid "![Brutus the Bee]{1}{ .index-main-brutus-logo }"
+#: docs/en/index.md:60
+msgid "![Brutus the Bee]{1}{ .index-left-logo }"
 msgstr ""
 
-#: docs/en/index.md:63
+#: docs/en/index.md:62
 msgid "This is what BeeWare provides. Tools to help you write Python code with a rich, **native user interface**; and the libraries and support code necessary to get that code running on **iOS, Android, macOS, Linux, Windows, tvOS, and more**."
 msgstr ""
 
-#: docs/en/index.md:65
+#: docs/en/index.md:64
 msgid "Open source"
 msgstr ""
 
-#: docs/en/index.md:67
-msgid "![Open source]{1}{ .index-main-open-source-logo }"
+#: docs/en/index.md:66
+msgid "![Open source]{1}{ .index-right-logo }"
 msgstr ""
 
-#: docs/en/index.md:69
+#: docs/en/index.md:68
 msgid "The open source development process has proven itself to be the most reliable way to develop robust and reliable software. That's why the entire BeeWare suite of tools are BSD licensed, and **available for all to use and modify**."
 msgstr ""
 
-#: docs/en/index.md:71
+#: docs/en/index.md:70
 msgid "All contributions welcome"
 msgstr ""
 
-#: docs/en/index.md:73
-msgid "![Hands]{1}{ .index-main-hands-logo }"
+#: docs/en/index.md:72
+msgid "![Hands]{1}{ .index-left-logo }"
 msgstr ""
 
-#: docs/en/index.md:75
+#: docs/en/index.md:74
 msgid "But it's not just about code. A successful software project requires documentation, design skills, feedback and bug reports. The BeeWare community acknowledges that **all contributions are important** — not just the ones that come as a pull request on GitHub."
 msgstr ""
 
-#: docs/en/index.md:77
+#: docs/en/index.md:76
 msgid "From diversity comes strength"
 msgstr ""
 
-#: docs/en/index.md:79
-msgid "![Diversity]{1}{ .index-main-diversity-logo }"
+#: docs/en/index.md:78
+msgid "![Diversity]{1}{ .index-right-logo }"
 msgstr ""
 
-#: docs/en/index.md:81
+#: docs/en/index.md:80
 msgid "A diverse community is a strong community. This means accepting people of all levels of experience, from all backgrounds, of all races, creeds, orientations and expressions. The BeeWare project is committed to **developing and maintaining a diverse, welcoming community**. We have an **open offer to mentor anyone** who wants to get involved as a contributor, backed up by a [Code of Conduct]{1} that is rigorously enforced."
 msgstr ""
 
-#: docs/en/index.md:83
+#: docs/en/index.md:82
 msgid "Contribute!"
 msgstr ""
 
-#: docs/en/index.md:85
+#: docs/en/index.md:84
 msgid "If all this sounds interesting, why not take a look at the [BeeWare projects]{1} and see how you can use them when developing Python applications? Or, if you'd like to contribute, and you've never contributed to open source before, start with our [guide for first time contributors]{2}. If you feel ready to dive straight in, check out the [documentation]{3} or our guide on [what you can do to help]{4}."
 msgstr ""
 
-#: docs/en/index.md:89
-msgid "[Contribute to BeeWare]{1}{ .index-main-contribute-button }"
+#: docs/en/index.md:88
+msgid "[Contribute to BeeWare]{1}{ .index-main-contribute }"
 msgstr ""
 
-#: docs/en/index.md:95
+#: docs/en/index.md:94
 msgid "Follow [@beeware@fosstodon.org]{1} on Mastodon, or [join the BeeWare enthusiasts mailing list]{2} for updates, hints, tips, and announcements related to the project."
 msgstr ""
 
-#: docs/en/index.md:99
-msgid "[Keep in touch!]{1}{ .index-main-keep-in-touch-button }"
+#: docs/en/index.md:98
+msgid "[Keep in touch!]{1}{ .index-main-keep-in-touch }"
 msgstr ""
 
-#: docs/en/index.md:103
+#: docs/en/index.md:102
 msgid "Members"
 msgstr ""
 
-#: docs/en/index.md:105
+#: docs/en/index.md:104
 msgid "BeeWare is supported by users like you! Every little bit helps: [click here to contribute]{1}."
 msgstr ""
 
-#: docs/en/index.md:110
+#: docs/en/index.md:109
 msgid "Gold Member { .index-sidebar-gold-member }"
 msgstr ""
 
-#: docs/en/index.md:114
+#: docs/en/index.md:113
 msgid "Latest news"
 msgstr ""
 
-#: docs/en/index.md:116
+#: docs/en/index.md:115
 msgid "{{ latest_news(files) }}"
 msgstr ""
 
-#: docs/en/index.md:118
+#: docs/en/index.md:117
 msgid "Upcoming events"
 msgstr ""
 
-#: docs/en/index.md:120
+#: docs/en/index.md:119
 msgid "{{ upcoming_events(files) }}"
 msgstr ""
 
-#: docs/en/index.md:122 docs/en/titles.md:15
+#: docs/en/index.md:121 docs/en/titles.md:15
 msgid "Documentation"
 msgstr ""
 
-#: docs/en/index.md:129
+#: docs/en/index.md:128
 msgid "[Toga]{1} { .index-docs-name }"
 msgstr ""
 
-#: docs/en/index.md:139
+#: docs/en/index.md:138
 msgid "[Briefcase]{1} { .index-docs-name }"
 msgstr ""
 
-#: docs/en/index.md:147
+#: docs/en/index.md:146
 msgid "[...and much more.]{1}"
 msgstr ""
 

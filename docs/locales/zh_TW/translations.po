@@ -1746,7 +1746,7 @@ msgstr "[![提比略]{1}]{2}"
 #: docs/en/docs/index.md:25
 #, fuzzy
 msgid "[Toga]{1} { .featured-name #toga }"
-msgstr "[托加]{1} { .featured-name #toga }"
+msgstr "[Toga]{1} { .featured-name #toga }"
 
 #: docs/en/docs/index.md:27 docs/en/index.md:132
 #, fuzzy
@@ -1996,7 +1996,7 @@ msgstr "現代運算並非發生在 80x25 的控制台視窗中。它發生在�
 #: docs/en/index.md:52
 #, fuzzy
 msgid "...behaving natively. { .behaving-index }"
-msgstr "...表現得像本地人一樣。{ .behaving-index }"
+msgstr "...表現得像本地人一樣。 { .behaving-index }"
 
 #: docs/en/index.md:54
 #, fuzzy
@@ -2134,7 +2134,7 @@ msgstr "文件"
 #: docs/en/index.md:128
 #, fuzzy
 msgid "[Toga]{1} { .index-docs-name }"
-msgstr "[托加]{1} { .index-docs-name }"
+msgstr "[Toga]{1} { .index-docs-name }"
 
 #: docs/en/index.md:138
 #, fuzzy

@@ -1676,7 +1676,7 @@ msgstr "[![提比略]{1}]{2}"
 #: docs/en/docs/index.md:25
 #, fuzzy
 msgid "[Toga]{1} { .featured-name #toga }"
-msgstr "[托加]{1} { .featured-name #toga }"
+msgstr "[Toga]{1} { .featured-name #toga }"
 
 #: docs/en/docs/index.md:27 docs/en/index.md:132
 msgid "A Python native, OS native GUI toolkit."
@@ -1914,7 +1914,7 @@ msgstr "现代计算不是在 80x25 的命令行窗口中进行的。它发生�
 #: docs/en/index.md:52
 #, fuzzy
 msgid "...behaving natively. { .behaving-index }"
-msgstr "...表现得像本地程序一样。{ .behaving-index }"
+msgstr "...表现得像本地程序一样。 { .behaving-index }"
 
 #: docs/en/index.md:54
 #, fuzzy
@@ -2043,7 +2043,7 @@ msgstr "文档"
 #: docs/en/index.md:128
 #, fuzzy
 msgid "[Toga]{1} { .index-docs-name }"
-msgstr "[托加]{1} { .index-docs-name }"
+msgstr "[Toga]{1} { .index-docs-name }"
 
 #: docs/en/index.md:138
 #, fuzzy

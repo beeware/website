@@ -93,12 +93,11 @@ md-path__list > .md-path__item > .md-path__link {
     border-bottom-right-radius: 15px;
 }
 
-.index-intro-subtitle {
-    font-size: 1.4rem;
+.index-intro-content h2 {
     font-family: Cutive, serif;
 }
 
-h1.index-intro-title a.headerlink,
+.index-intro-content h1 a.headerlink,
 .index-main-content h2 a.headerlink,
 .index-main-content h4 a.headerlink {
     display: none;
@@ -106,6 +105,7 @@ h1.index-intro-title a.headerlink,
 
 .index-page-content {
     padding: 0 2rem 0 0;
+    max-width: 47rem;
 }
 
 .index-sidebar {
@@ -177,6 +177,47 @@ a.index-main-keep-in-touch-button:hover {
     border-color: #1e7e34;;
 }
 
+@media screen and (min-width: 760px)
+and (max-width: 1220px) {
+    .index-intro-content h1 {
+        font-size: 5rem;
+        margin-bottom: 0;
+    }
+
+    .index-intro-content h2 {
+        font-size: 1.5rem;
+    }
+
+    a.index-main-contribute-button,
+    a.index-main-keep-in-touch-button {
+        display: inline-block;
+        width: 15rem;
+    }
+
+    a.intro-tutorial-button,
+    a.intro-contribute-button,
+    a.intro-donate-button {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 1220px) {
+    .index-intro-content h1 {
+        font-size: 8rem;
+        margin-bottom: 0;
+    }
+
+    .index-intro-content h2 {
+        font-size: 2.2rem;
+    }
+}
+
+@media screen and (max-width: 1030px){
+    .index-intro-beeware-logo {
+        width: 250px;
+    }
+}
+
 @media screen and (min-width: 690px) {
     .index-intro-block {
         display: flex;
@@ -216,30 +257,10 @@ a.index-main-keep-in-touch-button:hover {
         padding-left: 4rem;
     }
 
-    h1.index-intro-title {
-        font-size: 5rem;
-        margin-bottom: 0;
-    }
-
     a.index-main-contribute-button,
     a.index-main-keep-in-touch-button {
         display: inline-block;
         width: 25rem;
-    }
-}
-
-/* This specific width is where the BeeWare title on the homepage needs to be made
-   smaller. It also works for the buttons at the bottom of the homepage. */
-@media screen and (max-width: 760px) {
-    h1.index-intro-title {
-        font-size: 3rem;
-        margin-bottom: 0;
-    }
-
-    a.index-main-contribute-button,
-    a.index-main-keep-in-touch-button {
-        display: inline-block;
-        width: 15rem;
     }
 }
 
@@ -250,14 +271,7 @@ a.index-main-keep-in-touch-button:hover {
     }
 
     .index-sidebar {
-        max-width: 24rem;
-        margin-left: 1.6rem;
-    }
-}
-
-@media screen and (max-width: 1220px) {
-    .index-intro-beeware-logo {
-        width: 200px;
+        max-width: 25rem;
     }
 }
 
@@ -268,28 +282,9 @@ a.index-main-keep-in-touch-button:hover {
         justify-content: right;
     }
 
-    .index-sidebar {
-        display: flex;
-        flex-direction: column;
-        max-width: 24rem;
-        margin: 30px;
-        padding: 15px;
-        height: fit-content;
-        border-radius: 10px;
-    }
-
     .index-intro-beeware-logo {
         width: 200px;
     }
-}
-
-@media screen and (max-width: 1000px) {
-    a.intro-tutorial-button,
-    a.intro-contribute-button,
-    a.intro-donate-button {
-        font-size: 1rem;
-    }
-
 }
 
 .index-main-python-logo,
@@ -589,7 +584,7 @@ h1 .news {
 @media screen and (max-width: 1220px) {
     .md-post__content p,
     .md-post .post-title,
-    .md-content__inner {
+    .md-content__inner:has(.md-post) {
         max-width: 45rem;
     }
 }

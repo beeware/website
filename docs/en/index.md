@@ -14,10 +14,9 @@ hide:
 <div class="index-intro-block" markdown="1">
 <div class="index-intro-content" markdown="1">
 
-# BeeWare { .index-intro-title }
+# BeeWare
 
-Write once. Deploy everywhere.
-{ .index-intro-subtitle }
+## Write once. Deploy everywhere.
 
 <div class="index-intro-summary" markdown="1">
 

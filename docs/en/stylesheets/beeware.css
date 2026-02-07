@@ -132,9 +132,9 @@ h3.index-sidebar-gold-member {
     margin-right: 0.5rem;
 }
 
-a.intro-tutorial-button,
-a.intro-contribute-button,
-a.intro-donate-button {
+a.intro-tutorial,
+a.intro-contribute,
+a.intro-donate {
     padding: .5rem 1rem;
     margin: 0 0.5rem 0 0;
     font-size: 1.25rem;
@@ -158,20 +158,20 @@ a.intro-donate-button {
     visibility: hidden;
 }
 
-a.intro-donate-button {
+a.intro-donate {
     background-color: #28A745;
 }
 
-a.intro-tutorial-button:hover,
-a.intro-contribute-button:hover,
-a.index-main-contribute-button:hover {
+a.intro-tutorial:hover,
+a.intro-contribute:hover,
+a.index-main-contribute:hover {
     color: #FFFFFF;
     background-color: #0069D9;
     border-color: #0062CC;
 }
 
-a.intro-donate-button:hover,
-a.index-main-keep-in-touch-button:hover {
+a.intro-donate:hover,
+a.index-main-keep-in-touch:hover {
     color: #FFFFFF;
     background-color: #218838;
     border-color: #1e7e34;;
@@ -194,9 +194,9 @@ and (max-width: 1220px) {
         width: 15rem;
     }
 
-    a.intro-tutorial-button,
-    a.intro-contribute-button,
-    a.intro-donate-button {
+    a.intro-tutorial,
+    a.intro-contribute,
+    a.intro-donate {
         font-size: 1rem;
     }
 }
@@ -287,17 +287,12 @@ and (max-width: 1220px) {
     }
 }
 
-.index-main-python-logo,
-.index-main-native-logo,
-.index-main-open-source-logo,
-.index-main-diversity-logo {
+.index-right-logo {
     float: right;
     margin-left: 0.5rem;
 }
 
-.index-main-cross-platform-logo,
-.index-main-brutus-logo,
-.index-main-hands-logo {
+.index-left-logo {
     float: left;
     margin-right: 0.5rem;
 }

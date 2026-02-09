@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-07 17:51+0800\n"
+"POT-Creation-Date: 2026-02-09 05:45+0000\n"
 "PO-Revision-Date: 2025-07-20 14:03+0000\n"
 "Last-Translator: Michaela Dušková <duskova.misa@hotmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/beeware/website/cs/>\n"
@@ -1415,8 +1415,8 @@ msgstr "Existuje mnoho způsobů, jak přispět k BeeWare. [Průvodce přispív�
 
 #: docs/en/contributing/index.md:17
 #, fuzzy
-msgid "[Sprints]{1} { #sprints }"
-msgstr "[Sprinty]{1} { #sprints }"
+msgid "[Sprints]{1}"
+msgstr "[Sprinty]{1}"
 
 #: docs/en/contributing/index.md:19
 #, fuzzy
@@ -1730,8 +1730,8 @@ msgstr "Jste novým uživatelem BeeWare? { .tutorial-text }"
 
 #: docs/en/docs/index.md:12
 #, fuzzy
-msgid "[Take the tutorial]{1}{ .docs-tutorial-button }"
-msgstr "[Projděte si výukový program]{1}{ .docs-tutorial-button }"
+msgid "[Take the tutorial]{1}{ .docs-tutorial }"
+msgstr "[Projděte si výukový program]{1}{ .docs-tutorial }"
 
 #: docs/en/docs/index.md:17
 #, fuzzy
@@ -2090,8 +2090,8 @@ msgstr "Sledujte [@beeware@fosstodon.org]{1} na Mastodonu nebo [se připojte k m
 
 #: docs/en/index.md:98
 #, fuzzy
-msgid "[Keep in touch!]{1}{ .index-main-keep-in-touch }"
-msgstr "[Zůstaňte v kontaktu!]{1}{ .index-main-keep-in-touch }"
+msgid "[Keep in touch!]{1}{ .index-main-keep }"
+msgstr "[Zůstaňte v kontaktu!]{1}{ .index-main-keep }"
 
 #: docs/en/index.md:102
 #, fuzzy

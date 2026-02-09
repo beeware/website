@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-07 17:51+0800\n"
+"POT-Creation-Date: 2026-02-09 05:45+0000\n"
 "PO-Revision-Date: 2025-12-01 03:24+0000\n"
 "Last-Translator: Russell Keith-Magee <russell@keith-magee.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/beeware/website/de/>\n"
@@ -1414,8 +1414,8 @@ msgstr "Es gibt viele Möglichkeiten, zu BeeWare beizutragen. Der [Beitragsleitf
 
 #: docs/en/contributing/index.md:17
 #, fuzzy
-msgid "[Sprints]{1} { #sprints }"
-msgstr "[Sprints]{1} { #sprints }"
+msgid "[Sprints]{1}"
+msgstr "[Sprints]{1}"
 
 #: docs/en/contributing/index.md:19
 #, fuzzy
@@ -1728,8 +1728,8 @@ msgstr "Neu bei BeeWare? { .tutorial-text }"
 
 #: docs/en/docs/index.md:12
 #, fuzzy
-msgid "[Take the tutorial]{1}{ .docs-tutorial-button }"
-msgstr "[Tutorial starten]{1}{ .docs-tutorial-button }"
+msgid "[Take the tutorial]{1}{ .docs-tutorial }"
+msgstr "[Tutorial absolvieren]{1}{ .docs-tutorial }"
 
 #: docs/en/docs/index.md:17
 #, fuzzy
@@ -2080,8 +2080,8 @@ msgstr "Folgen Sie [@beeware@fosstodon.org]{1} auf Mastodon oder [treten Sie der
 
 #: docs/en/index.md:98
 #, fuzzy
-msgid "[Keep in touch!]{1}{ .index-main-keep-in-touch }"
-msgstr "[Bleiben Sie in Kontakt!]{1}{ .index-main-keep-in-touch }"
+msgid "[Keep in touch!]{1}{ .index-main-keep }"
+msgstr "[Bleiben Sie in Kontakt!]{1}{ .index-main-keep }"
 
 #: docs/en/index.md:102
 #, fuzzy

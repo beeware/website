@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-07 17:51+0800\n"
+"POT-Creation-Date: 2026-02-09 05:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1162,7 +1162,7 @@ msgid "There are plenty of ways to contribute to BeeWare. The [contribution guid
 msgstr ""
 
 #: docs/en/contributing/index.md:17
-msgid "[Sprints]{1} { #sprints }"
+msgid "[Sprints]{1}"
 msgstr ""
 
 #: docs/en/contributing/index.md:19
@@ -1414,7 +1414,7 @@ msgid "New to BeeWare? { .tutorial-text }"
 msgstr ""
 
 #: docs/en/docs/index.md:12
-msgid "[Take the tutorial]{1}{ .docs-tutorial-button }"
+msgid "[Take the tutorial]{1}{ .docs-tutorial }"
 msgstr ""
 
 #: docs/en/docs/index.md:17
@@ -1702,7 +1702,7 @@ msgid "Follow [@beeware@fosstodon.org]{1} on Mastodon, or [join the BeeWare enth
 msgstr ""
 
 #: docs/en/index.md:98
-msgid "[Keep in touch!]{1}{ .index-main-keep-in-touch }"
+msgid "[Keep in touch!]{1}{ .index-main-keep }"
 msgstr ""
 
 #: docs/en/index.md:102

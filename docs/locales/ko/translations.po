@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-07 17:51+0800\n"
+"POT-Creation-Date: 2026-02-09 05:45+0000\n"
 "PO-Revision-Date: 2025-05-27 20:44+EST\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1415,8 +1415,8 @@ msgstr "BeeWare에 기여할 수 있는 방법은 다양합니다. [기여 가�
 
 #: docs/en/contributing/index.md:17
 #, fuzzy
-msgid "[Sprints]{1} { #sprints }"
-msgstr "[스프린트]{1} { #sprints }"
+msgid "[Sprints]{1}"
+msgstr "[스프린트]{1}"
 
 #: docs/en/contributing/index.md:19
 #, fuzzy
@@ -1730,8 +1730,8 @@ msgstr "BeeWare를 처음 사용하시나요? { .tutorial-text }"
 
 #: docs/en/docs/index.md:12
 #, fuzzy
-msgid "[Take the tutorial]{1}{ .docs-tutorial-button }"
-msgstr "[튜토리얼 시작하기]{1}{ .docs-tutorial-button }"
+msgid "[Take the tutorial]{1}{ .docs-tutorial }"
+msgstr "[튜토리얼을 시작하세요]{1}{ .docs-tutorial }"
 
 #: docs/en/docs/index.md:17
 #, fuzzy
@@ -2090,8 +2090,8 @@ msgstr "Mastodon에서 [@beeware@fosstodon.org]{1}을 팔로우하거나, 프로
 
 #: docs/en/index.md:98
 #, fuzzy
-msgid "[Keep in touch!]{1}{ .index-main-keep-in-touch }"
-msgstr "[계속 연락해요!]{1}{ .index-main-keep-in-touch }"
+msgid "[Keep in touch!]{1}{ .index-main-keep }"
+msgstr "[계속 연락해요!]{1}{ .index-main-keep }"
 
 #: docs/en/index.md:102
 #, fuzzy

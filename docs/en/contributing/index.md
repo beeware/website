@@ -14,7 +14,7 @@ Is this your first time contributing to an open source project? We're here to he
 
 There are plenty of ways to contribute to BeeWare. The [contribution guide](guide/index.md) covers everything you need to know to provide your contribution.
 
-## [Sprints](sprint-guide.md) { #sprints }
+## [Sprints](sprint-guide.md)
 
 Are you joining the BeeWare project at a **sprint**? A sprint is an unstructured gathering where we work on BeeWare and related projects, and introduce new contributors to the contribution process. If this is your first time sprinting, BeeWare has a [guide for getting started with BeeWare sprints](sprint-guide.md).
 

@@ -13,7 +13,7 @@ title: BeeWare docs
 
 ## New to BeeWare? { .tutorial-text }
 
-[Take the tutorial](https://tutorial.beeware.org){ .docs-tutorial-button }
+[Take the tutorial](https://tutorial.beeware.org){ .docs-tutorial }
 
 </div>
 </div>

@@ -1,15 +1,5 @@
 # What is BeeWare? { #what-is-beeware }
 
-## Meet Brutus
-
-![Brutus the Bee](../images/brutus.png)
-
-Brutus the Bee is the mascot of the BeeWare project. He's a busy little worker bee.
-
-Fun fact: a person who keeps bees is called an **apiarist** - a name that the BeeWare project uses to describe the core team. This also reflects the relationship that the core team wishes to have with the community - we're shepherds of the community, and we'll provide direction, but we know the real work is done by the community as a whole.
-
-## A first-timer's introduction to BeeWare
-
 Python has proven itself as a highly capable language - approachable for newcomers, but powerful in the hands of experts. The BeeWare Project aims to take the power of Python as a language, and use it to enable users of all skill levels to develop applications with native user interfaces.
 
 The end goal of the BeeWare project: To be able to do for mobile and desktop user-facing software the same thing that Django has done for web software - to put into the hands of users a set of tools and libraries that enables them to develop rich, native user interfaces, and deploy them to their devices. This includes:
@@ -22,6 +12,14 @@ The end goal of the BeeWare project: To be able to do for mobile and desktop use
 The aim is that this set of tools will be easy enough to use for complete newcomers to use in a Django Girls-like setting; but powerful enough that they could be used to drive the next Instagram, Pinterest or Disqus.
 
 We're not just about software, though. We also aim to be a project with a social conscience. We aim to develop and maintain a diverse and inclusive community, and we have a Code of Conduct that is rigorously enforced. We also aspire to develop a healthy and sustainable community - one that is aware of mental health issues of its participants, and provides the resources for people to start engaging, and continue to engage with the community.
+
+## Meet Brutus
+
+![Brutus the Bee](../images/brutus.png)
+
+Brutus the Bee is the mascot of the BeeWare project. He's a busy little worker bee.
+
+Fun fact: a person who keeps bees is called an **apiarist** - a name that the BeeWare project uses to describe the core team. This also reflects the relationship that the core team wishes to have with the community - we're shepherds of the community, and we'll provide direction, but we know the real work is done by the community as a whole.
 
 ## Where to from here?
 

@@ -11,6 +11,10 @@ tox-uv = [
     "tox-uv == 1.29.0",
 ]
 
+wlc = [
+    "wlc == 1.17.2",
+]
+
 dev = [
     {include-group = "pre-commit"},
     {include-group = "tox-uv"},
@@ -20,14 +24,19 @@ docs = [
     # TODO: Restore to beeware/beeware-docs-tools before going live.
     # "beeware-docs-tools @ git+https://github.com/beeware/beeware-docs-tools",
     "beeware-docs-tools @ git+https://github.com/kattni/beeware-docs-tools@tooling/website-mkdocs-migration",
-#     "beeware-docs-tools @ file://../beeware-docs-tools",
+    # "beeware-docs-tools @ file://../beeware-docs-tools",
     {include-group = "redirects"},
+]
+
+translate = [
+    {include-group = "tox-uv"},
+    {include-group = "wlc"},
 ]
 
 [tool.rumdl]
 flavor = "mkdocs"
 include = ["**/*.md"]
-exclude = ["comment.md", "docs-redirect/en/README.md", "CODE_OF_CONDUCT.md", "docs/en/titles.md"]
+exclude = ["comment.md", "docs-redirect/en/README.md"]
 respect-gitignore = true
 
 # Disable rules:

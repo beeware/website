@@ -13,7 +13,7 @@ title: BeeWare docs
 
 ## New to BeeWare? { .tutorial-text }
 
-[Take the tutorial](https://tutorial.beeware.org){ .docs-tutorial-button }
+[Take the tutorial](https://tutorial.beeware.org){ .docs-tutorial }
 
 </div>
 </div>
@@ -57,7 +57,7 @@ Applications maintained by the BeeWare team that are built using BeeWare's tools
 
 <div class="other-tools-info" markdown="1">
 
-#### [Podium](https://github.com/beeware/podium) { .podium-name }
+#### [Podium](https://github.com/beeware/podium) { .podium-name #podium }
 
 <div class="podium-info" markdown="1">
 
@@ -78,7 +78,7 @@ Pieces used by other BeeWare tools that can be useful on their own.
 
 <div class="other-tools-info" markdown="1">
 
-#### [Rubicon Objective-C](https://rubicon.beeware.org) { .rubicon-name }
+#### [Rubicon Objective-C](https://rubicon.beeware.org) { .rubicon-name #rubicon-objective-c }
 
 <div class="rubicon-info" markdown="1">
 
@@ -94,7 +94,7 @@ A library for bridging between Python and the Objective-C language runtimes.
 
 <div class="other-tools-info" markdown="1">
 
-#### [Python Apple Support](https://github.com/beeware/python-apple-support) { .python-apple-name }
+#### [Python Apple Support](https://github.com/beeware/python-apple-support) { .python-apple-name #python-apple-support }
 
 <div class="python-apple-info" markdown="1">
 
@@ -110,7 +110,7 @@ A meta-package for building a version of Python that can be embedded into a macO
 
 <div class="other-tools-info" markdown="1">
 
-#### [Chaquopy](https://chaquo.com/chaquopy/) { .chaquopy-name }
+#### [Chaquopy](https://chaquo.com/chaquopy/) { .chaquopy-name #chaquopy }
 
 <div class="chaquopy-info" markdown="1">
 

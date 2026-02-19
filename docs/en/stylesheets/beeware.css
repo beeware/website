@@ -93,12 +93,11 @@ md-path__list > .md-path__item > .md-path__link {
     border-bottom-right-radius: 15px;
 }
 
-.index-intro-subtitle {
-    font-size: 1.4rem;
+.index-intro-content h2 {
     font-family: Cutive, serif;
 }
 
-h1.index-intro-title a.headerlink,
+.index-intro-content h1 a.headerlink,
 .index-main-content h2 a.headerlink,
 .index-main-content h4 a.headerlink {
     display: none;
@@ -106,6 +105,7 @@ h1.index-intro-title a.headerlink,
 
 .index-page-content {
     padding: 0 2rem 0 0;
+    max-width: 47rem;
 }
 
 .index-sidebar {
@@ -132,9 +132,9 @@ h3.index-sidebar-gold-member {
     margin-right: 0.5rem;
 }
 
-a.intro-tutorial-button,
-a.intro-contribute-button,
-a.intro-donate-button {
+a.intro-tutorial,
+a.intro-contribute,
+a.intro-donate {
     padding: .5rem 1rem;
     margin: 0 0.5rem 0 0;
     font-size: 1.25rem;
@@ -158,23 +158,66 @@ a.intro-donate-button {
     visibility: hidden;
 }
 
-a.intro-donate-button {
+a.intro-donate {
     background-color: #28A745;
 }
 
-a.intro-tutorial-button:hover,
-a.intro-contribute-button:hover,
-a.index-main-contribute-button:hover {
+a.intro-tutorial:hover,
+a.intro-contribute:hover,
+a.index-main-contribute:hover {
     color: #FFFFFF;
     background-color: #0069D9;
     border-color: #0062CC;
 }
 
-a.intro-donate-button:hover,
-a.index-main-keep-in-touch-button:hover {
+a.intro-donate:hover,
+a.index-main-keep:hover {
     color: #FFFFFF;
     background-color: #218838;
     border-color: #1e7e34;;
+}
+
+@media screen and (min-width: 760px)
+and (max-width: 1220px) {
+    .index-intro-content h1 {
+        font-size: 6rem;
+        margin-bottom: 0;
+    }
+
+    .index-intro-content h2 {
+        margin-top: 1rem;
+        font-size: 1.8rem;
+    }
+
+    a.index-main-contribute,
+    a.index-main-keep {
+        display: inline-block;
+        width: 15rem;
+    }
+
+    a.intro-tutorial,
+    a.intro-contribute,
+    a.intro-donate {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 1220px) {
+    .index-intro-content h1 {
+        font-size: 8rem;
+        margin-bottom: 0;
+    }
+
+    .index-intro-content h2 {
+        margin-top: 1rem;
+        font-size: 2.2rem;
+    }
+}
+
+@media screen and (max-width: 1030px){
+    .index-intro-beeware-logo {
+        width: 250px;
+    }
 }
 
 @media screen and (min-width: 690px) {
@@ -216,30 +259,10 @@ a.index-main-keep-in-touch-button:hover {
         padding-left: 4rem;
     }
 
-    h1.index-intro-title {
-        font-size: 5rem;
-        margin-bottom: 0;
-    }
-
-    a.index-main-contribute-button,
-    a.index-main-keep-in-touch-button {
+    a.index-main-contribute,
+    a.index-main-keep {
         display: inline-block;
         width: 25rem;
-    }
-}
-
-/* This specific width is where the BeeWare title on the homepage needs to be made
-   smaller. It also works for the buttons at the bottom of the homepage. */
-@media screen and (max-width: 760px) {
-    h1.index-intro-title {
-        font-size: 3rem;
-        margin-bottom: 0;
-    }
-
-    a.index-main-contribute-button,
-    a.index-main-keep-in-touch-button {
-        display: inline-block;
-        width: 15rem;
     }
 }
 
@@ -250,14 +273,7 @@ a.index-main-keep-in-touch-button:hover {
     }
 
     .index-sidebar {
-        max-width: 24rem;
-        margin-left: 1.6rem;
-    }
-}
-
-@media screen and (max-width: 1220px) {
-    .index-intro-beeware-logo {
-        width: 200px;
+        max-width: 25rem;
     }
 }
 
@@ -268,41 +284,17 @@ a.index-main-keep-in-touch-button:hover {
         justify-content: right;
     }
 
-    .index-sidebar {
-        display: flex;
-        flex-direction: column;
-        max-width: 24rem;
-        margin: 30px;
-        padding: 15px;
-        height: fit-content;
-        border-radius: 10px;
-    }
-
     .index-intro-beeware-logo {
         width: 200px;
     }
 }
 
-@media screen and (max-width: 1000px) {
-    a.intro-tutorial-button,
-    a.intro-contribute-button,
-    a.intro-donate-button {
-        font-size: 1rem;
-    }
-
-}
-
-.index-main-python-logo,
-.index-main-native-logo,
-.index-main-open-source-logo,
-.index-main-diversity-logo {
+.index-right-logo {
     float: right;
     margin-left: 0.5rem;
 }
 
-.index-main-cross-platform-logo,
-.index-main-brutus-logo,
-.index-main-hands-logo {
+.index-left-logo {
     float: left;
     margin-right: 0.5rem;
 }
@@ -312,8 +304,8 @@ a.index-main-keep-in-touch-button:hover {
     justify-content: center;
 }
 
-a.index-main-contribute-button,
-a.index-main-keep-in-touch-button {
+a.index-main-contribute,
+a.index-main-keep {
     padding: .5rem 1rem;
     margin: 0 0.5rem 0 0;
     font-size: 1rem;
@@ -327,7 +319,7 @@ a.index-main-keep-in-touch-button {
     background-color: #007BFF;
 }
 
-a.index-main-keep-in-touch-button {
+a.index-main-keep {
     background-color: #28A745;
 }
 
@@ -414,19 +406,19 @@ h2.other-tools {
 }
 
 @media screen and (max-width: 43.125rem) {
-    .docs-tutorial-button {
+    .docs-tutorial {
         width: 11rem;
         margin: 0 0.5rem;
     }
 }
 
 @media screen and (min-width: 43.125rem) {
-    .docs-tutorial-button {
+    .docs-tutorial {
         width: 20rem;
     }
 }
 
-a.docs-tutorial-button {
+a.docs-tutorial {
     padding: .5rem 1rem;
     font-size: 1.25rem;
     line-height: 1.5;
@@ -442,7 +434,7 @@ a.docs-tutorial-button {
     background-color: #007BFF;
 }
 
-a.docs-tutorial-button:hover {
+a.docs-tutorial:hover {
     color: white;
     background-color: #0069D9;
     border-color: #0062CC;
@@ -589,7 +581,7 @@ h1 .news {
 @media screen and (max-width: 1220px) {
     .md-post__content p,
     .md-post .post-title,
-    .md-content__inner {
+    .md-content__inner:has(.md-post) {
         max-width: 45rem;
     }
 }

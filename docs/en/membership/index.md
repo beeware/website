@@ -52,7 +52,6 @@ With more than 45 million users, [Anaconda](https://anaconda.com/) is the most p
 
 ### Professional Members { #enthusiasts }
 
-<nospell>
 <div class="pro-members" markdown="1">
 <div class="pro-member-avatar" markdown="1">![Lincoln Loop logo](images/lincolnloop.png)</div> <div class="pro-member-name">Lincoln Loop</div>
 </div>
@@ -62,25 +61,22 @@ With more than 45 million users, [Anaconda](https://anaconda.com/) is the most p
 <div class="pro-members" markdown="1">
 <div class="pro-member-avatar" markdown="1">![Matthias <nospell>Kestenholz</nospell>](images/mkestenholz.png)</div> <div class="pro-member-name">Matthias <nospell>Kestenholz</nospell></div>
 </div>
-</nospell>
 
 ### Enthusiasts { #enthusiasts }
 
-<nospell>
 - Timothy Bell
-- Wes Broadway
-- Gerard Blais
+- <nospell>Wes Broadway</nospell>
+- <nospell>Gerard Blais</nospell>
 - Harry Percival
 - Michael Field
-- Eric Froemling
-- Michal Sladek
-- Stefane Fermigier
-</nospell>
+- <nospell>Eric Froemling</nospell>
+- <nospell>Michal Sladek</nospell>
+- <nospell>Stefane Fermigier</nospell>
+
 <!-- GitHub Sponsors -->
-<nospell>
+
 - Katie McLaughlin
 - Emil Lerner
-- Hassan Hashmi
+- <nospell>Hassan Hashmi</nospell>
 - Greg Turner
-- David Cramer
-</nospell>
+- <nospell>David Cramer</nospell>

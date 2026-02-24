@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-24 13:00+0800\n"
+"POT-Creation-Date: 2026-02-24 01:07+0000\n"
 "PO-Revision-Date: 2025-05-27 20:44+EST\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -596,6 +596,16 @@ msgstr "چیانگ فونگ{1} از دوران لینوکس {2}ماندریوا{
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "وقتی برای کاهش استرس به کد دست نمی‌زند، وقتش را صرف ور رفتن با خودکارهای فانتوم و صفحه‌کلیدهای مکانیکی می‌کند. او هنوز درس جدا نگه داشتن انگشتان جوهرآلود از کاپ‌های زیبا را نیاموخته است."
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "دکتر کورن وبستر ریاضیدانی است که از دههٔ ۹۰ میلادی رابط‌های کاربری گرافیکی را در پایتون توسعه داده و سال‌هاست در دنیای پایتون علمی فعال بوده است، از جمله مدتی به‌عنوان هم‌رئیس کنفرانس SciPy.نقش‌های او در طول سال‌ها از استاد دانشگاهی تا دانشمند داده، توسعه‌دهندهٔ نرم‌افزار، مدیر و هکر متن‌باز متغیر بوده است، اما همواره یک نقطهٔ مشترک داشته: معلم و راهنما بودن."
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "کورران بنیان‌گذار و مدیر ارشد [Unital Software]{1} است و مربی دوره‌های آموزشی پایتون علمی در [Diller Digital]{2} می‌باشد. وقتی مشغول نوشتن کد پایتون نیست، آشپزی می‌کند، با میکروکنترلرها و قطارهای تی‌گیج سر و کله می‌زند و هر لحظه آماده است تا تارهای عنکبوتی را از روی دوچرخه کوهستانش پاک کند."
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy

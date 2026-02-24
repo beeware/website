@@ -26,12 +26,16 @@ Chaquopy
 Chaquopy's
 Conda
 Cookiecutter
+Corran
 Curtin
 Cyber
 Cygwin
 DOM
+DMG
+DMGs
 DSF
 Dependabot
+Diller
 Disqus
 DjangoCon
 DjangoGirls
@@ -82,6 +86,7 @@ Matplotlib
 Maturin
 MicroPython
 Microbenchmarks
+MkDocs
 NumPy
 O'Reilly
 OSCON
@@ -141,6 +146,7 @@ Trolltech
 UI
 UIs
 UX
+Unital
 VC
 VCs
 VOC
@@ -253,6 +259,8 @@ profiler
 protestors
 reStructuredText
 reconfiguring
+regex
+regexes
 rehint
 reimplement
 renderer
@@ -260,6 +268,7 @@ repo
 roadmap
 rollout
 runtimes
+scikit
 subclasses
 subclassing
 subcommand
@@ -289,7 +298,7 @@ watchOS
 webhooks
 webpage
 widget's
-
+xgboost
 
 abonie
 akaptur

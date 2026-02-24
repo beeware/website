@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-24 13:00+0800\n"
+"POT-Creation-Date: 2026-02-24 01:07+0000\n"
 "PO-Revision-Date: 2025-12-01 03:24+0000\n"
 "Last-Translator: Russell Keith-Magee <russell@keith-magee.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/beeware/website/de/>\n"
@@ -596,6 +596,16 @@ msgstr "Chiang Fong{1} gibt seit den Tagen von {2}Mandriva{3} Linux vor, ein Sys
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "Wenn er nicht gerade mit Code herumspielt, um {1}Stress abzubauen{2}, verbringt er seine Zeit damit, mit Füllfederhaltern und mechanischen Tastaturen zu hantieren. Er muss noch lernen, dass man mit tintenverschmierten Fingern keine hübschen Tastenkappen anfassen sollte."
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "Dr. Corran Webster ist Mathematiker, der seit den 90er Jahren grafische Benutzeroberflächen in Python entwickelt und seit vielen Jahren in der wissenschaftlichen Python-Welt aktiv ist, unter anderem als Co-Vorsitzender der SciPy-Konferenz. Im Laufe der Jahre hatte er verschiedene Funktionen inne, von Akademiker über Datenwissenschaftler und Softwareentwickler bis hin zu Manager und Open-Source-Hacker, wobei er stets als Lehrer und Mentor tätig war."
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "Corran ist Gründer und Geschäftsführer von [Unital Software]{1} und Dozent für wissenschaftliche Python-Schulungen bei [Diller Digital]{2}. Wenn er nicht gerade Python-Code schreibt, kocht er, bastelt an Mikrocontrollern und T-Gauge-Zügen herum und wird jeden Tag bald die Spinnweben von seinem Mountainbike entfernen."
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy

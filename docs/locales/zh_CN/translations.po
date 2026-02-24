@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-24 13:00+0800\n"
-"PO-Revision-Date: 2025-11-03 17:51+0000\n"
+"POT-Creation-Date: 2026-02-24 01:07+0000\n"
+"PO-Revision-Date: 2026-02-19 02:18+0000\n"
 "Last-Translator: John <johnzhou721@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/beeware/website/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -15,22 +15,18 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.18.1\n"
 
 #: docs/en/about/branding.md:1 docs/en/titles.md:13
-#, fuzzy
 msgid "Branding guidelines"
-msgstr "品牌指南"
+msgstr "品牌规范"
 
 #: docs/en/about/branding.md:3
-#, fuzzy
 msgid "Referring to the project"
-msgstr "关于该项目"
+msgstr "项目引用方式"
 
 #: docs/en/about/branding.md:5
-#, fuzzy
 msgid "This project should be referred to as **The BeeWare Project**, or **BeeWare**."
-msgstr "该项目应称为**The BeeWare Project**，或简称**BeeWare**。"
+msgstr "该项目应被称为 **The BeeWare Project**（BeeWare 项目），简称 **BeeWare**。"
 
 #: docs/en/about/branding.md:7
-#, fuzzy
 msgid "Short description"
 msgstr "简短描述"
 
@@ -39,7 +35,6 @@ msgid "BeeWare is a collection of tools and libraries to aid in writing applicat
 msgstr "BeeWare 是一组工具和库，用于帮助使用 Python 编写应用程序用户界面。"
 
 #: docs/en/about/branding.md:11
-#, fuzzy
 msgid "Long description"
 msgstr "长描述"
 
@@ -48,82 +43,66 @@ msgid "BeeWare is a collection of tools and libraries to aid in writing applicat
 msgstr "BeeWare 是一组工具和库，用于帮助使用 Python 编写应用程序用户界面。它使开发人员能够为 iPhone、Android、Linux、macOS 和 Windows 编写应用程序，成品无异于使用原生方式编写的应用程序。"
 
 #: docs/en/about/branding.md:15
-#, fuzzy
 msgid "Logos"
-msgstr "标志"
+msgstr "标识"
 
 #: docs/en/about/branding.md:17
-#, fuzzy
 msgid "The following images are official logos of the BeeWare project. They are trademarks of the BeeWare Project; they can be used nominatively, but should not be used imply an official association with the project that does not exist. If you have any questions about logo usage, contact [Founding Apiarist Russell Keith-Magee]{1}."
-msgstr "以下图像为BeeWare项目的官方徽标。它们是BeeWare项目的商标；可作标识性使用，但不得暗示与项目存在实际不存在的官方关联。若对徽标使用有任何疑问，请联系[创始养蜂人Russell Keith-Magee]{1}。"
+msgstr "以下是 BeeWare 项目的官方标识。它们是 BeeWare 项目的商标；它们可以标识性使用，但不得用于暗示与 BeeWare 项目的并非存在的官方关联。若对标识的使用有任何疑问，请联系[创始养蜂人Russell Keith-Magee]{1}。"
 
 #: docs/en/about/branding.md:19
-#, fuzzy
 msgid "BeeWare logo"
-msgstr "BeeWare 标志"
+msgstr "BeeWare 标识"
 
 #: docs/en/about/branding.md:21
-#, fuzzy
 msgid "![BeeWare logo]{1}"
-msgstr "![BeeWare 徽标]{1}"
+msgstr "![BeeWare 标识]{1}"
 
 #: docs/en/about/branding.md:23 docs/en/about/branding.md:31 docs/en/about/branding.md:40 docs/en/about/branding.md:49
-#, fuzzy
 msgid "[Small]{1}"
 msgstr "[小]{1}"
 
 #: docs/en/about/branding.md:24 docs/en/about/branding.md:32 docs/en/about/branding.md:41 docs/en/about/branding.md:50
-#, fuzzy
 msgid "[Medium]{1}"
-msgstr "[Medium]{1}"
+msgstr "[中]{1}"
 
 #: docs/en/about/branding.md:25 docs/en/about/branding.md:34 docs/en/about/branding.md:43 docs/en/about/branding.md:53
-#, fuzzy
 msgid "[Vector]{1}"
-msgstr "[Vector]{1}"
+msgstr "[矢量图]{1}"
 
 #: docs/en/about/branding.md:27
-#, fuzzy
 msgid "BeeWare logo (wide)"
-msgstr "BeeWare 标志（宽版）"
+msgstr "BeeWare 徽标"
 
 #: docs/en/about/branding.md:29
-#, fuzzy
 msgid "![BeeWare logo (wide)]{1}"
-msgstr "![BeeWare 标志（宽版）]{1}"
+msgstr "![BeeWare 徽标]{1}"
 
 #: docs/en/about/branding.md:33 docs/en/about/branding.md:42 docs/en/about/branding.md:51
-#, fuzzy
 msgid "[Large]{1}"
 msgstr "[大]{1}"
 
 #: docs/en/about/branding.md:36
-#, fuzzy
 msgid "BeeWare Enthusiasts logo"
-msgstr "BeeWare爱好者徽标"
+msgstr "BeeWare 爱好者徽标"
 
 #: docs/en/about/branding.md:38
-#, fuzzy
 msgid "![BeeWare Enthusiasts logo]{1}"
 msgstr "![BeeWare爱好者徽标]{1}"
 
 #: docs/en/about/branding.md:45
-#, fuzzy
 msgid "Brutus the Bee"
-msgstr "布鲁图斯蜜蜂"
+msgstr "蜜蜂 Brutus"
 
 #: docs/en/about/branding.md:47 docs/en/about/overview.md:18
-#, fuzzy
 msgid "![Brutus the Bee]{1}"
-msgstr "![布鲁图斯蜜蜂]{1}"
+msgstr "![蜜蜂 Brutus]{1}"
 
 #: docs/en/about/branding.md:52
-#, fuzzy
 msgid "[X-large]{1}"
-msgstr "[特大]{1}"
+msgstr "[超大]{1}"
 
 #: docs/en/about/contact.md:1
-#, fuzzy
 msgid "Contact { #contact }"
 msgstr "联系 { #contact }"
 
@@ -567,6 +546,16 @@ msgstr "江丰{1}从{2}Mandriva{3} Linux时代起就假装自己是系统管理�
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "闲暇时，他若非在代码里{1}找乐子{2}，便沉迷于把玩钢笔和机械键盘。至今他仍没学会一个道理：墨渍沾满的手指，可别碰那些漂亮的键帽。"
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "科兰·韦伯斯特博士是一位数学家，自90年代起便开始用Python构建图形用户界面，并在科学Python领域活跃多年，曾担任SciPy会议联合主席。他历经学术研究、数据科学、软件开发、管理岗位及开源黑客等多重角色，但始终贯穿着教师与导师的共同特质。"
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "科兰是[Unital Software]{1}的创始人兼首席执行官，同时担任[Diller Digital]{2}科学Python培训课程的讲师。当他不在编写Python代码时，他喜欢烹饪、摆弄微控制器和T轨距火车，而且随时准备擦去那辆山地车上的蜘蛛网。"
 
 #: docs/en/about/team/danyeaw.md:1
 msgid "Dan leads teams to design safety in to complex automotive and mobility systems, and dreams of using BeeWare tools to help model these systems."

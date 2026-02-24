@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-24 13:00+0800\n"
+"POT-Creation-Date: 2026-02-24 01:07+0000\n"
 "PO-Revision-Date: 2025-05-27 20:44+EST\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -597,6 +597,16 @@ msgstr "장풍{1}은 {2}만드리바{3} 리눅스 시절부터 시스템 관리�
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "코드를 만지작거리며 {1}스트레스를 풀지 않을 때{2}, 그는 만년필과 기계식 키보드를 만지작거리며 시간을 보낸다. 잉크 묻은 손가락으로 예쁜 키캡을 만지지 말아야 한다는 교훈을 아직도 배우지 못했다."
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "코란 웹스터 박사는 90년대부터 파이썬으로 그래픽 사용자 인터페이스를 구축해 온 수학자로, SciPy 컨퍼런스 공동 의장을 역임하는 등 수년간 과학계 파이썬 분야에서 활발히 활동해 왔습니다. 그는 학계에서 데이터 과학자, 소프트웨어 개발자, 관리자, 오픈소스 해커에 이르기까지 다양한 역할을 수행해 왔지만, 항상 교육자이자 멘토로서의 공통된 역할을 수행해 왔습니다."
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "코란은 [유니탈 소프트웨어]{1}의 창립자이자 대표이며, [딜러 디지털]{2}에서 과학적 파이썬 교육 과정 강사로 활동하고 있습니다. 파이썬 코드를 작성하지 않을 때는 요리를 하거나, 마이크로컨트롤러와 T-게이지 기차를 만지작거리며 시간을 보내고, 언젠가는 산악 자전거에 쌓인 거미줄을 털어낼 계획입니다."
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy

@@ -53,30 +53,30 @@ With more than 45 million users, [Anaconda](https://anaconda.com/) is the most p
 ### Professional Members { #enthusiasts }
 
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Lincoln Loop logo](images/lincolnloop.png)</div> <div class="pro-member-name">Lincoln Loop</div>
+<div class="pro-member-avatar" markdown="1">![<nospell>Lincoln Loop logo</nospell>](images/lincolnloop.png)</div> <div class="pro-member-name"><nospell>Lincoln Loop</nospell></div>
 </div>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Al <nospell>Sweigart</nospell>](images/asweigart.png)</div> <div class="pro-member-name">Al <nospell>Sweigart</nospell></div>
+<div class="pro-member-avatar" markdown="1">![<nospell>Al Sweigart</nospell>](images/asweigart.png)</div> <div class="pro-member-name"><nospell>Al Sweigart</nospell></div>
 </div>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Matthias <nospell>Kestenholz</nospell>](images/mkestenholz.png)</div> <div class="pro-member-name">Matthias <nospell>Kestenholz</nospell></div>
+<div class="pro-member-avatar" markdown="1">![<nospell>Matthias Kestenholz</nospell>](images/mkestenholz.png)</div> <div class="pro-member-name"><nospell>Matthias Kestenholz</nospell></div>
 </div>
 
 ### Enthusiasts { #enthusiasts }
 
-- Timothy Bell
+- <nospell>Timothy Bell</nospell>
 - <nospell>Wes Broadway</nospell>
 - <nospell>Gerard Blais</nospell>
-- Harry Percival
-- Michael Field
+- <nospell>Harry Percival</nospell>
+- <nospell>Michael Field</nospell>
 - <nospell>Eric Froemling</nospell>
 - <nospell>Michal Sladek</nospell>
 - <nospell>Stefane Fermigier</nospell>
 
 <!-- GitHub Sponsors -->
 
-- Katie McLaughlin
-- Emil Lerner
+- <nospell>Katie McLaughlin</nospell>
+- <nospell>Emil Lerner</nospell>
 - <nospell>Hassan Hashmi</nospell>
-- Greg Turner
+- <nospell>Greg Turner</nospell>
 - <nospell>David Cramer</nospell>

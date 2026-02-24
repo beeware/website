@@ -98,6 +98,15 @@ authors:
     url: about/team/#halfwhitt
     join_date: 2024-03-24
     email: charleswhitt@gmail.com
+  corranwebster:
+    name: Corran Webster
+    short_name: Corran
+    pronoun: he
+    description: Apiarist
+    avatar: about/images/corranwebster.png
+    url: about/team/#corranwebster
+    join_date: 2026-02-23
+    email: cwebster@unital.dev
   cflee:
     name: Chiang Fong Lee
     short_name: Chiang Fong

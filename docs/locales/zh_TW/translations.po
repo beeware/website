@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-19 03:44+0000\n"
+"POT-Creation-Date: 2026-02-24 01:07+0000\n"
 "PO-Revision-Date: 2025-07-04 20:36+0000\n"
 "Last-Translator: John <johnzhou721@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/projects/beeware/website/zh_Hant/>\n"
@@ -597,6 +597,16 @@ msgstr "江豐{1}自{2}Mandriva{3} Linux時代起便假裝自己是系統管理�
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "當他不在{1}敲打程式碼來紓壓{2}時，便會把玩鋼筆與機械鍵盤。至今他仍未領悟到：沾滿墨漬的手指與精緻鍵帽絕不該相遇。"
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "科蘭·韋伯斯特博士是一位數學家，自九〇年代起便以Python語言開發圖形使用者介面，並在科學Python領域活躍多年，曾擔任SciPy會議的聯合主席。他歷年來的職涯歷程涵蓋學術研究、資料科學家、軟體開發者、管理職及開源駭客等多重角色，但始終貫穿著教育者與導師的共通主軸。"
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "科倫是[Unital Software]{1}的創辦人暨負責人，同時擔任[Diller Digital]{2}科學Python培訓課程的講師。當他不在編寫Python程式碼時，他熱衷於烹飪、擺弄微控制器和T軌距火車模型，而且隨時準備為那輛登山車拂去積塵。"
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy

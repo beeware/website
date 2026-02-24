@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-19 03:44+0000\n"
+"POT-Creation-Date: 2026-02-24 01:07+0000\n"
 "PO-Revision-Date: 2025-07-20 14:03+0000\n"
 "Last-Translator: Michaela Dušková <duskova.misa@hotmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/beeware/website/cs/>\n"
@@ -597,6 +597,16 @@ msgstr "Chiang Fong{1} se od dob {2}Mandriva{3} Linux tváří jako systémový 
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "Když zrovna neprogramuje, aby {1}odreagoval stres{2}, tráví čas hraním si s plnicími pery a mechanickými klávesnicemi. Ještě se musí naučit, že inkoustem potřísněné prsty a hezké klávesy nejdou dohromady."
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "Dr. Corran Webster je matematik, který se od 90. let zabývá vývojem grafických uživatelských rozhraní v jazyce Python a již mnoho let působí v oblasti vědeckého využití jazyka Python, mimo jiné jako spolupředseda konference SciPy. V průběhu let zastával různé role, od akademika přes datového vědce, softwarového vývojáře a manažera až po open source hackera, ale vždy s jedním společným jmenovatelem – byl učitelem a mentorem."
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "Corran je zakladatelem a ředitelem společnosti [Unital Software]{1} a lektorem vědeckých kurzů programování v jazyce Python ve společnosti [Diller Digital]{2}. Když zrovna nepíše kód v jazyce Python, vaří, hraje si s mikrokontroléry a modely vlaků v měřítku T a brzy se chystá očistit své horské kolo od pavučin."
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy

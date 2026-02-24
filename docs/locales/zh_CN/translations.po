@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-19 03:44+0000\n"
+"POT-Creation-Date: 2026-02-24 01:07+0000\n"
 "PO-Revision-Date: 2026-02-19 02:18+0000\n"
 "Last-Translator: John <johnzhou721@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/beeware/website/zh_Hans/>\n"
@@ -546,6 +546,16 @@ msgstr "江丰{1}从{2}Mandriva{3} Linux时代起就假装自己是系统管理�
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "闲暇时，他若非在代码里{1}找乐子{2}，便沉迷于把玩钢笔和机械键盘。至今他仍没学会一个道理：墨渍沾满的手指，可别碰那些漂亮的键帽。"
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "科兰·韦伯斯特博士是一位数学家，自90年代起便开始用Python构建图形用户界面，并在科学Python领域活跃多年，曾担任SciPy会议联合主席。他历经学术研究、数据科学、软件开发、管理岗位及开源黑客等多重角色，但始终贯穿着教师与导师的共同特质。"
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "科兰是[Unital Software]{1}的创始人兼首席执行官，同时担任[Diller Digital]{2}科学Python培训课程的讲师。当他不在编写Python代码时，他喜欢烹饪、摆弄微控制器和T轨距火车，而且随时准备擦去那辆山地车上的蜘蛛网。"
 
 #: docs/en/about/team/danyeaw.md:1
 msgid "Dan leads teams to design safety in to complex automotive and mobility systems, and dreams of using BeeWare tools to help model these systems."

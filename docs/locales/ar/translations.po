@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-19 03:44+0000\n"
+"POT-Creation-Date: 2026-02-24 01:07+0000\n"
 "PO-Revision-Date: 2025-05-27 20:44+EST\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -596,6 +596,16 @@ msgstr "تظاهر تشيانغ فونغ{1} بأنه مسؤول أنظمة من�
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "عندما لا يكون منشغلاً بكتابة الأكواد {1}لتخفيف التوتر{2}، يقضي وقته في العبث بأقلام الحبر السائل واللوحات المفاتيح الميكانيكية. لم يتعلم بعد درس عدم مزج أصابعه الملطخة بالحبر مع أغطية المفاتيح الجميلة."
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "الدكتور كوران ويبستر هو عالم رياضيات يعمل على بناء واجهات مستخدم رسومية في لغة Python منذ التسعينيات، ونشط في عالم Python العلمي لسنوات عديدة، بما في ذلك فترة عمله كرئيس مشارك لمؤتمر SciPy. تراوحت أدواره على مر السنين بين الأكاديمي وعالم البيانات ومطور البرمجيات والمدير والمخترق مفتوح المصدر، ولكن دائمًا مع وجود خيط مشترك بينها وهو كونه معلمًا وموجهًا."
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "كوران هو مؤسس ومدير شركة [Unital Software]{1} ومدرب في دورات تدريبية علمية على لغة البرمجة Python في [Diller Digital]{2}. عندما لا يكون مشغولاً بكتابة أكواد Python، فإنه يطبخ ويقضي وقته في العبث بالميكروكونترولر والقطارات ذات المقياس T، وسوف ينظف العنكبوت من دراجته الجبلية في أي يوم من الأيام."
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy

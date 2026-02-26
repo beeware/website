@@ -44,7 +44,7 @@ jobs:
         run: python -m pip install -U pip
 
       - name: Install tox
-        run: python -m pip install --group translate
+        run: python -m pip install --group docs
 
       - name: Build the site
         run: python -m tox -e docs-all

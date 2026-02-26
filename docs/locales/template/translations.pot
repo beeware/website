@@ -1865,8 +1865,60 @@ msgstr ""
 msgid "Professional Members { #enthusiasts }"
 msgstr ""
 
-#: docs/en/membership/index.md:67
+#: docs/en/membership/index.md:65
 msgid "Enthusiasts { #enthusiasts }"
+msgstr ""
+
+#: docs/en/membership/index.md:67
+msgid "Timothy Bell"
+msgstr ""
+
+#: docs/en/membership/index.md:68
+msgid "Wes Broadway"
+msgstr ""
+
+#: docs/en/membership/index.md:69
+msgid "Gerard Blais"
+msgstr ""
+
+#: docs/en/membership/index.md:70
+msgid "Harry Percival"
+msgstr ""
+
+#: docs/en/membership/index.md:71
+msgid "Michael Field"
+msgstr ""
+
+#: docs/en/membership/index.md:72
+msgid "Eric Froemling"
+msgstr ""
+
+#: docs/en/membership/index.md:73
+msgid "Michal Sladek"
+msgstr ""
+
+#: docs/en/membership/index.md:74
+msgid "Stefane Fermigier"
+msgstr ""
+
+#: docs/en/membership/index.md:78
+msgid "Katie McLaughlin"
+msgstr ""
+
+#: docs/en/membership/index.md:79
+msgid "Emil Lerner"
+msgstr ""
+
+#: docs/en/membership/index.md:80
+msgid "Hassan Hashmi"
+msgstr ""
+
+#: docs/en/membership/index.md:81
+msgid "Greg Turner"
+msgstr ""
+
+#: docs/en/membership/index.md:82
+msgid "David Cramer"
 msgstr ""
 
 #: docs/en/titles.md:3

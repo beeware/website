@@ -44,6 +44,10 @@ jobs:
             pyproject.toml
             .pre-commit-config.yaml
 
+      - name: Install system dependencies
+        run: |
+          sudo apt-get install aspell aspell-en
+
       - name: Update pip
         run: python -m pip install -U pip
 
@@ -71,10 +75,6 @@ jobs:
           cache-dependency-path: |
             pyproject.toml
             .pre-commit-config.yaml
-
-      - name: Install system dependencies
-        run: |
-          sudo apt-get install aspell aspell-en
 
       - name: Update pip
         run: python -m pip install -U pip

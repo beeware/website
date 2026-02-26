@@ -1,0 +1,4 @@
+.envrc
+_build/
+venv/
+__pycache__

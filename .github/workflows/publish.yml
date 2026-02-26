@@ -43,8 +43,8 @@ jobs:
       - name: Update pip
         run: python -m pip install -U pip
 
-      - name: Install tox
-        run: python -m pip install --group docs
+      - name: Install Tox
+        run: python -m pip install --group 'tox-uv'
 
       - name: Build the site
         run: python -m tox -e docs-all

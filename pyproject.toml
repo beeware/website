@@ -23,7 +23,6 @@ dev = [
 docs = [
     "beeware-docs-tools @ git+https://github.com/beeware/beeware-docs-tools",
     {include-group = "redirects"},
-    {include-group = "tox-uv"},
 ]
 
 translate = [

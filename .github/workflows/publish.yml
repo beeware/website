@@ -1,5 +1,4 @@
 name: Publish site
-
 on:
   push:
     branches:
@@ -47,10 +46,6 @@ jobs:
 
       - name: Build the site
         run: python -m tox -e docs-all
-
-      - name: Set up English as the default site
-        run: |
-          cp -r _build/html/en/* _build/html
 
       - name: Deploy the built files
         uses: JamesIves/github-pages-deploy-action@v4

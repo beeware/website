@@ -18,4 +18,3 @@ build:
     build:
       html:
         - python -m tox -e docs-all -- --output=$READTHEDOCS_OUTPUT/html/
-        - cp -r $READTHEDOCS_OUTPUT/html/en/* $READTHEDOCS_OUTPUT/html

@@ -7,7 +7,7 @@ categories:
 - Buzz
 ---
 
-For the last couple of months, we've had a contractor ([<nospell>Asheesh Laroia</nospell>](https://twitter.com/asheeshlaroia)) [working on fixing Android support in the BeeWare suite of tools](https://beeware.org/news/buzz/we-have-a-contractor-for-our-android-contract/).
+For the last couple of months, we've had a contractor ([<nospell>Asheesh Laroia</nospell>](https://twitter.com/asheeshlaroia)) [working on fixing Android support in the BeeWare suite of tools](../../2019/buzz/we-have-a-contractor-for-our-android-contract.md).
 
 I've incredibly happy to announce that we've just hit our first major milestone: a working pure-Python application, running on an Android device!
 
@@ -15,7 +15,7 @@ I've incredibly happy to announce that we've just hit our first major milestone:
 
 <iframe width="710" height="400" src="https://www.youtube.com/embed/g2B2wbgVq7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This isn't the end of the project - it's just the beginning. There's still lots of fine tuning to be done (especially on the size of the support libraries), and we need to integrate this support into [Briefcase](https://beeware.org/project/briefcase/) and [Toga](https://beeware.org/project/toga/).
+This isn't the end of the project - it's just the beginning. There's still lots of fine tuning to be done (especially on the size of the support libraries), and we need to integrate this support into [Briefcase](https://briefcase.beeware.org/) and [Toga](https://toga.beeware.org/).
 
 However, in the meantime, if you're adventurous, you can take <nospell>Asheesh's</nospell> work-in-progress for a spin. His [Python Android Support repository](https://github.com/paulproteus/Python-Android-support) contains the current state of the work, and includes fairly comprehensive instructions for getting started. You'll need to know at least a little bit about native Android programming to make full use of this repository at the moment; but if you want to replicate the results from the video, that repository (and the other repositories it links to) should have everything you need.
 

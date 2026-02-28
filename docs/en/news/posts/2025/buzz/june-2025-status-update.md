@@ -29,7 +29,7 @@ June has been a busy month, with some big improvements to BeeWare's websites and
 - We added a new [topic guide on managing file system access in Toga apps](https://github.com/beeware/toga/pull/3552).
 - We modified the handling of font specifications in Toga apps. You can now provide [a list of fonts](https://github.com/beeware/toga/pull/3526), as you would in CSS, and the first available font in that list will be used.
 - We [corrected a number of issues with document-based apps](https://github.com/beeware/toga/pull/3570). This was detected while upgrading Podium, BeeWare's slide presentation tool, to use a recent version of Toga.
-- Our Curtin students [delivered their mid-year report](https://beeware.org/news/buzz/2025-curtin-capstone-semester-end-blog/) - including plans for the work they're intending to complete in the second half of the year.
+- Our Curtin students [delivered their mid-year report](2025-curtin-capstone-semester-end-blog.md) - including plans for the work they're intending to complete in the second half of the year.
 - We completed the process of migrating BeeWare's core projects to use Ruff, rather than a combination of `flake8`, `sort`, `pyupgrade`, and more.
 
 ## What's next?

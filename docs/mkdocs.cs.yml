@@ -8,8 +8,3 @@ theme:
 
 extra:
   translation_type: machine
-
-plugins:
-  macros:
-    include_yaml:
-        - team: cs/news/.authors.yml

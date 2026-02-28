@@ -36,7 +36,7 @@ msgstr "توضیحات کوتاه"
 #: docs/en/about/branding.md:9
 #, fuzzy
 msgid "BeeWare is a collection of tools and libraries to aid in writing application user interfaces in Python."
-msgstr "بی‌ویر مجموعه‌ای از ابزارها و کتابخانه‌هاست که به نوشتن رابط‌های کاربری برنامه‌ها در پایتون کمک می‌کند."
+msgstr "BeeWare مجموعه‌ای از ابزارها و کتابخانه‌هاست که به نوشتن رابط‌های کاربری برنامه‌ها در پایتون کمک می‌کند."
 
 #: docs/en/about/branding.md:11
 #, fuzzy
@@ -46,7 +46,7 @@ msgstr "توضیحات طولانی"
 #: docs/en/about/branding.md:13
 #, fuzzy
 msgid "BeeWare is a collection of tools and libraries to aid in writing application user interfaces in Python. It enables developers to write applications for iPhone, Android, Linux, macOS and Windows that are indistinguishable from natively written applications."
-msgstr "بی‌ویر مجموعه‌ای از ابزارها و کتابخانه‌هاست که به نوشتن رابط‌های کاربری برنامه‌ها در پایتون کمک می‌کند. این مجموعه به توسعه‌دهندگان امکان می‌دهد برنامه‌هایی برای آیفون، اندروید، لینوکس، مک‌اواس و ویندوز بنویسند که از نظر کیفیت با برنامه‌های بومی تفاوتی ندارند."
+msgstr "BeeWare مجموعه‌ای از ابزارها و کتابخانه‌هاست که به نوشتن رابط‌های کاربری برنامه‌ها در پایتون کمک می‌کند. این مجموعه به توسعه‌دهندگان امکان می‌دهد برنامه‌هایی برای آیفون، اندروید، لینوکس، مک‌اواس و ویندوز بنویسند که از نظر کیفیت با برنامه‌های بومی تفاوتی ندارند."
 
 #: docs/en/about/branding.md:15
 #, fuzzy
@@ -101,7 +101,7 @@ msgstr "[بزرگ]{1}"
 #: docs/en/about/branding.md:36
 #, fuzzy
 msgid "BeeWare Enthusiasts logo"
-msgstr "لوگوی علاقه‌مندان بی‌ویر"
+msgstr "لوگوی علاقه‌مندان BeeWare"
 
 #: docs/en/about/branding.md:38
 #, fuzzy
@@ -406,7 +406,7 @@ msgstr "یک پروژهٔ محاسباتی مدرن نمی‌تواند بزرگ
 #: docs/en/about/history.md:58
 #, fuzzy
 msgid "BeeWare embraces mobile and other emerging platforms (like watches and set-top-boxes) as a first class citizen of the computing ecosystem - because if people have these devices, why shouldn't they be able to write software for them in Python."
-msgstr "بی‌ویر پلتفرم‌های موبایل و سایر پلتفرم‌های نوظهور (مانند ساعت‌ها و دستگاه‌های گیرنده تلویزیون) را به‌عنوان شهروند درجه یک اکوسیستم محاسباتی در آغوش می‌گیرد – چون اگر مردم این دستگاه‌ها را دارند، چرا نباید بتوانند برای آن‌ها با پایتون نرم‌افزار بنویسند؟"
+msgstr "BeeWare پلتفرم‌های موبایل و سایر پلتفرم‌های نوظهور (مانند ساعت‌ها و دستگاه‌های گیرنده تلویزیون) را به‌عنوان شهروند درجه یک اکوسیستم محاسباتی در آغوش می‌گیرد – چون اگر مردم این دستگاه‌ها را دارند، چرا نباید بتوانند برای آن‌ها با پایتون نرم‌افزار بنویسند؟"
 
 #: docs/en/about/history.md:60
 #, fuzzy
@@ -431,7 +431,7 @@ msgstr "تم‌ها همچنین بسیاری از مزایای دسترسی‌�
 #: docs/en/about/history.md:68
 #, fuzzy
 msgid "BeeWare uses native widgets and native functionality, rather than using a theme-based approach to application development."
-msgstr "بی‌ویر به جای استفاده از رویکرد مبتنی بر تم در توسعهٔ اپلیکیشن، از ویجت‌ها و قابلیت‌های بومی استفاده می‌کند."
+msgstr "BeeWare به جای استفاده از رویکرد مبتنی بر تم در توسعهٔ اپلیکیشن، از ویجت‌ها و قابلیت‌های بومی استفاده می‌کند."
 
 #: docs/en/about/history.md:70
 #, fuzzy
@@ -461,12 +461,12 @@ msgstr "تجربهٔ استفاده از هر ابزاری با فرایند ن�
 #: docs/en/about/index.md:1
 #, fuzzy
 msgid "About BeeWare { #about }"
-msgstr "درباره بی‌ویر { #about }"
+msgstr "درباره BeeWare { #about }"
 
 #: docs/en/about/index.md:3
 #, fuzzy
 msgid "[What is BeeWare?]{1}"
-msgstr "[بی‌ویر چیست؟]{1}"
+msgstr "[BeeWare چیست؟]{1}"
 
 #: docs/en/about/index.md:5
 #, fuzzy
@@ -516,7 +516,7 @@ msgstr "علاقه‌مند به استفاده از لوگوی BeeWare هستی
 #: docs/en/about/overview.md:1
 #, fuzzy
 msgid "What is BeeWare? { #what-is-beeware }"
-msgstr "بی‌ویر چیست؟ { #what-is-beeware }"
+msgstr "BeeWare چیست؟ { #what-is-beeware }"
 
 #: docs/en/about/overview.md:3
 #, fuzzy
@@ -635,7 +635,7 @@ msgstr "شارلوت سال‌هاست برنامه‌نویسی می‌کند،
 #: docs/en/about/team/freakboy3742.md:1
 #, fuzzy
 msgid "Dr Russell Keith-Magee is the founder of the BeeWare project. He joined the Django core team in 2006, and for 5 years, was President of the Django Software Foundation. He has been a member of the CPython core team since May 2024."
-msgstr "دکتر راسل کیت-میگی بنیان‌گذار پروژه بی‌ویر است. او در سال ۲۰۰۶ به تیم اصلی جانگو پیوست و به مدت ۵ سال، رئیس بنیاد نرم‌افزار جانگو بود. او از ماه مه ۲۰۲۴ عضو تیم اصلی سی‌پایتون بوده است."
+msgstr "دکتر راسل کیت-میگی بنیان‌گذار پروژه BeeWare است. او در سال ۲۰۰۶ به تیم اصلی جانگو پیوست و به مدت ۵ سال، رئیس بنیاد نرم‌افزار جانگو بود. او از ماه مه ۲۰۲۴ عضو تیم اصلی سی‌پایتون بوده است."
 
 #: docs/en/about/team/freakboy3742.md:3
 #, fuzzy
@@ -685,7 +685,7 @@ msgstr "مالکوم یک مهندس ارشد نرم‌افزار در گروه 
 #: docs/en/about/team/obulat.md:1
 #, fuzzy
 msgid "Olga is a python and BeeWare enthusiast, also interested in {1}NLP{2}, geography and languages."
-msgstr "اولگا علاقه‌مند به پایتون و بی‌ویر است و همچنین به {1}NLP{2}، جغرافیا و زبان‌ها علاقه‌مند است."
+msgstr "اولگا علاقه‌مند به پایتون و BeeWare است و همچنین به {1}NLP{2}، جغرافیا و زبان‌ها علاقه‌مند است."
 
 #: docs/en/about/team/obulat.md:3
 #, fuzzy
@@ -940,7 +940,7 @@ msgstr "جامعه { #community }"
 #: docs/en/community/index.md:3
 #, fuzzy
 msgid "[BeeWare Community Code of Conduct]{1} { #code-of-conduct }"
-msgstr "[آیین‌نامهٔ رفتار جامعهٔ بی‌ویر]{1} { #code-of-conduct }"
+msgstr "[آیین‌نامهٔ رفتار جامعهٔ BeeWare]{1} { #code-of-conduct }"
 
 #: docs/en/community/index.md:5
 #, fuzzy
@@ -1455,7 +1455,7 @@ msgstr "راهنمای اسپرینت { #sprints }"
 #: docs/en/contributing/sprint-guide.md:3
 #, fuzzy
 msgid "Welcome to the BeeWare Sprints!"
-msgstr "به اسپرینت‌های بی‌ویر خوش آمدید!"
+msgstr "به اسپرینت‌های BeeWare خوش آمدید!"
 
 #: docs/en/contributing/sprint-guide.md:5
 #, fuzzy
@@ -1865,12 +1865,12 @@ msgstr "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 #: docs/en/docs/index.md:119
 #, fuzzy
 msgid "The BeeWare Project { .beeware-project }"
-msgstr "پروژه بی‌ویر { .beeware-project }"
+msgstr "پروژه BeeWare { .beeware-project }"
 
 #: docs/en/docs/index.md:121
 #, fuzzy
 msgid "BeeWare is more than a suite of tools for building amazing apps. It's also an amazing open source community!"
-msgstr "بی‌ویر بیش از مجموعه‌ای از ابزارها برای ساخت اپلیکیشن‌های شگفت‌انگیز است. این همچنین یک جامعهٔ متن‌باز شگفت‌انگیز است!"
+msgstr "BeeWare بیش از مجموعه‌ای از ابزارها برای ساخت اپلیکیشن‌های شگفت‌انگیز است. این همچنین یک جامعهٔ متن‌باز شگفت‌انگیز است!"
 
 #: docs/en/docs/index.md:123 docs/en/titles.md:19
 #, fuzzy
@@ -1890,7 +1890,7 @@ msgstr "درباره پروژه"
 #: docs/en/docs/index.md:129
 #, fuzzy
 msgid "Learn more [about the history and goals of the BeeWare project]{1}."
-msgstr "بیشتر بیاموزید [دربارهٔ تاریخچه و اهداف پروژهٔ بی‌ویر]{1}."
+msgstr "بیشتر بیاموزید [دربارهٔ تاریخچه و اهداف پروژهٔ BeeWare]{1}."
 
 #: docs/en/docs/index.md:131
 #, fuzzy
@@ -1935,7 +1935,7 @@ msgstr "![بروتوس زنبور]{1}{ .index-intro-beeware-logo }"
 #: docs/en/index.md:11
 #, fuzzy
 msgid "BeeWare"
-msgstr "بی‌ویر"
+msgstr "BeeWare"
 
 #: docs/en/index.md:13
 #, fuzzy
@@ -2020,7 +2020,7 @@ msgstr "کاربران نهایی نباید نگران باشند که ابزا
 #: docs/en/index.md:58
 #, fuzzy
 msgid "This is BeeWare."
-msgstr "این بی‌ویر است."
+msgstr "این BeeWare است."
 
 #: docs/en/index.md:60
 #, fuzzy
@@ -2090,7 +2090,7 @@ msgstr "اگر همه این‌ها جالب به نظر می‌رسد، چرا 
 #: docs/en/index.md:88
 #, fuzzy
 msgid "[Contribute to BeeWare]{1}{ .index-main-contribute }"
-msgstr "[مشارکت در بی‌ویر]{1}{ .index-main-contribute }"
+msgstr "[مشارکت در BeeWare]{1}{ .index-main-contribute }"
 
 #: docs/en/index.md:94
 #, fuzzy
@@ -2368,7 +2368,7 @@ msgstr "درباره"
 #: docs/en/titles.md:5
 #, fuzzy
 msgid "What is BeeWare?"
-msgstr "بی‌ویر چیست؟"
+msgstr "BeeWare چیست؟"
 
 #: docs/en/titles.md:7
 #, fuzzy

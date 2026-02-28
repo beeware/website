@@ -110,6 +110,9 @@ extra:
     - name: Español
       link: /es/
       lang: es
+    - name: فارسی
+      link: /fa/
+      lang: fa
     - name: Français
       link: /fr/
       lang: fr

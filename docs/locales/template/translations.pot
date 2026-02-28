@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-19 03:44+0000\n"
+"POT-Creation-Date: 2026-02-28 04:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -479,6 +479,14 @@ msgstr ""
 
 #: docs/en/about/team/cflee.md:3
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
+msgstr ""
+
+#: docs/en/about/team/corranwebster.md:1
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr ""
+
+#: docs/en/about/team/corranwebster.md:3
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
 msgstr ""
 
 #: docs/en/about/team/danyeaw.md:1
@@ -1857,8 +1865,60 @@ msgstr ""
 msgid "Professional Members { #enthusiasts }"
 msgstr ""
 
-#: docs/en/membership/index.md:67
+#: docs/en/membership/index.md:65
 msgid "Enthusiasts { #enthusiasts }"
+msgstr ""
+
+#: docs/en/membership/index.md:67
+msgid "Timothy Bell"
+msgstr ""
+
+#: docs/en/membership/index.md:68
+msgid "Wes Broadway"
+msgstr ""
+
+#: docs/en/membership/index.md:69
+msgid "Gerard Blais"
+msgstr ""
+
+#: docs/en/membership/index.md:70
+msgid "Harry Percival"
+msgstr ""
+
+#: docs/en/membership/index.md:71
+msgid "Michael Field"
+msgstr ""
+
+#: docs/en/membership/index.md:72
+msgid "Eric Froemling"
+msgstr ""
+
+#: docs/en/membership/index.md:73
+msgid "Michal Sladek"
+msgstr ""
+
+#: docs/en/membership/index.md:74
+msgid "Stefane Fermigier"
+msgstr ""
+
+#: docs/en/membership/index.md:78
+msgid "Katie McLaughlin"
+msgstr ""
+
+#: docs/en/membership/index.md:79
+msgid "Emil Lerner"
+msgstr ""
+
+#: docs/en/membership/index.md:80
+msgid "Hassan Hashmi"
+msgstr ""
+
+#: docs/en/membership/index.md:81
+msgid "Greg Turner"
+msgstr ""
+
+#: docs/en/membership/index.md:82
+msgid "David Cramer"
 msgstr ""
 
 #: docs/en/titles.md:3

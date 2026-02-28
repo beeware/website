@@ -52,35 +52,31 @@ With more than 45 million users, [Anaconda](https://anaconda.com/) is the most p
 
 ### Professional Members { #enthusiasts }
 
-<nospell>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Lincoln Loop logo](images/lincolnloop.png)</div> <div class="pro-member-name">Lincoln Loop</div>
+<div class="pro-member-avatar" markdown="1">![<nospell>Lincoln Loop logo</nospell>](images/lincolnloop.png)</div> <div class="pro-member-name"><nospell>Lincoln Loop</nospell></div>
 </div>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Al <nospell>Sweigart</nospell>](images/asweigart.png)</div> <div class="pro-member-name">Al <nospell>Sweigart</nospell></div>
+<div class="pro-member-avatar" markdown="1">![<nospell>Al Sweigart</nospell>](images/asweigart.png)</div> <div class="pro-member-name"><nospell>Al Sweigart</nospell></div>
 </div>
 <div class="pro-members" markdown="1">
-<div class="pro-member-avatar" markdown="1">![Matthias <nospell>Kestenholz</nospell>](images/mkestenholz.png)</div> <div class="pro-member-name">Matthias <nospell>Kestenholz</nospell></div>
+<div class="pro-member-avatar" markdown="1">![<nospell>Matthias Kestenholz</nospell>](images/mkestenholz.png)</div> <div class="pro-member-name"><nospell>Matthias Kestenholz</nospell></div>
 </div>
-</nospell>
 
 ### Enthusiasts { #enthusiasts }
 
-<nospell>
-- Timothy Bell
-- Wes Broadway
-- Gerard Blais
-- Harry Percival
-- Michael Field
-- Eric Froemling
-- Michal Sladek
-- Stefane Fermigier
-</nospell>
+- <nospell>Timothy Bell</nospell>
+- <nospell>Wes Broadway</nospell>
+- <nospell>Gerard Blais</nospell>
+- <nospell>Harry Percival</nospell>
+- <nospell>Michael Field</nospell>
+- <nospell>Eric Froemling</nospell>
+- <nospell>Michal Sladek</nospell>
+- <nospell>Stefane Fermigier</nospell>
+
 <!-- GitHub Sponsors -->
-<nospell>
-- Katie McLaughlin
-- Emil Lerner
-- Hassan Hashmi
-- Greg Turner
-- David Cramer
-</nospell>
+
+- <nospell>Katie McLaughlin</nospell>
+- <nospell>Emil Lerner</nospell>
+- <nospell>Hassan Hashmi</nospell>
+- <nospell>Greg Turner</nospell>
+- <nospell>David Cramer</nospell>

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-19 03:44+0000\n"
+"POT-Creation-Date: 2026-02-28 04:06+0000\n"
 "PO-Revision-Date: 2025-06-12 00:01+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/beeware/website/es/>\n"
@@ -597,6 +597,16 @@ msgstr "Chiang Fong{1} ha estado fingiendo ser administrador de sistemas desde l
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "Cuando no está jugando con el código para {1}desestresarse{2}, pasa el tiempo jugando con plumas estilográficas y teclados mecánicos. Todavía tiene que aprender la lección de no mezclar los dedos manchados de tinta con las bonitas teclas."
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "El Dr. Corran Webster es un matemático que lleva desde los años 90 creando interfaces gráficas de usuario en Python y que lleva muchos años trabajando en el mundo científico de Python, incluyendo un periodo como copresidente de la conferencia SciPy. A lo largo de los años, ha desempeñado diversas funciones, desde académico hasta científico de datos, pasando por desarrollador de software, gestor y hacker de código abierto, pero siempre con un denominador común: ser profesor y mentor."
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "Corran es el fundador y director de [Unital Software]{1} y profesor de cursos de formación científica en Python en [Diller Digital]{2}. Cuando no está escribiendo código Python, le gusta cocinar, trastear con microcontroladores y trenes de vía estrecha, y está pensando en limpiar las telarañas de su bicicleta de montaña cualquier día de estos."
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy
@@ -2279,10 +2289,75 @@ msgstr "Con más de 45 millones de usuarios, [Anaconda]{1} es el sistema operati
 msgid "Professional Members { #enthusiasts }"
 msgstr "Miembros profesionales { #enthusiasts }"
 
-#: docs/en/membership/index.md:67
+#: docs/en/membership/index.md:65
 #, fuzzy
 msgid "Enthusiasts { #enthusiasts }"
 msgstr "Entusiastas { #enthusiasts }"
+
+#: docs/en/membership/index.md:67
+#, fuzzy
+msgid "Timothy Bell"
+msgstr "Timothy Bell"
+
+#: docs/en/membership/index.md:68
+#, fuzzy
+msgid "Wes Broadway"
+msgstr "Wes Broadway"
+
+#: docs/en/membership/index.md:69
+#, fuzzy
+msgid "Gerard Blais"
+msgstr "Gerard Blais"
+
+#: docs/en/membership/index.md:70
+#, fuzzy
+msgid "Harry Percival"
+msgstr "Harry Percival"
+
+#: docs/en/membership/index.md:71
+#, fuzzy
+msgid "Michael Field"
+msgstr "Campo de Miguel"
+
+#: docs/en/membership/index.md:72
+#, fuzzy
+msgid "Eric Froemling"
+msgstr "Eric Froemling"
+
+#: docs/en/membership/index.md:73
+#, fuzzy
+msgid "Michal Sladek"
+msgstr "Michal Sladek"
+
+#: docs/en/membership/index.md:74
+#, fuzzy
+msgid "Stefane Fermigier"
+msgstr "Stefane Fermigier"
+
+#: docs/en/membership/index.md:78
+#, fuzzy
+msgid "Katie McLaughlin"
+msgstr "Katie McLaughlin"
+
+#: docs/en/membership/index.md:79
+#, fuzzy
+msgid "Emil Lerner"
+msgstr "Emil Lerner"
+
+#: docs/en/membership/index.md:80
+#, fuzzy
+msgid "Hassan Hashmi"
+msgstr "Hassan Hashmi"
+
+#: docs/en/membership/index.md:81
+#, fuzzy
+msgid "Greg Turner"
+msgstr "Greg Turner"
+
+#: docs/en/membership/index.md:82
+#, fuzzy
+msgid "David Cramer"
+msgstr "David Cramer"
 
 #: docs/en/titles.md:3
 #, fuzzy

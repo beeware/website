@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-19 03:44+0000\n"
+"POT-Creation-Date: 2026-02-28 04:06+0000\n"
 "PO-Revision-Date: 2025-05-27 20:44+EST\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -87,7 +87,7 @@ msgstr "[벡터]{1}"
 #: docs/en/about/branding.md:27
 #, fuzzy
 msgid "BeeWare logo (wide)"
-msgstr "비웨어 로고 (와이드)"
+msgstr "BeeWare 로고 (와이드)"
 
 #: docs/en/about/branding.md:29
 #, fuzzy
@@ -102,7 +102,7 @@ msgstr "[대형]{1}"
 #: docs/en/about/branding.md:36
 #, fuzzy
 msgid "BeeWare Enthusiasts logo"
-msgstr "비웨어 애호가 로고"
+msgstr "BeeWare 애호가 로고"
 
 #: docs/en/about/branding.md:38
 #, fuzzy
@@ -467,7 +467,7 @@ msgstr "BeeWare에 관하여 { #about }"
 #: docs/en/about/index.md:3
 #, fuzzy
 msgid "[What is BeeWare?]{1}"
-msgstr "[비웨어란 무엇인가?]{1}"
+msgstr "[BeeWare란 무엇인가?]{1}"
 
 #: docs/en/about/index.md:5
 #, fuzzy
@@ -552,7 +552,7 @@ msgstr "브루투스를 만나다"
 #: docs/en/about/overview.md:20
 #, fuzzy
 msgid "Brutus the Bee is the mascot of the BeeWare project. He's a busy little worker bee."
-msgstr "꿀벌 브루투스는 비웨어 프로젝트의 마스코트입니다. 그는 바쁜 작은 일벌입니다."
+msgstr "꿀벌 브루투스는 BeeWare 프로젝트의 마스코트입니다. 그는 바쁜 작은 일벌입니다."
 
 #: docs/en/about/overview.md:22
 #, fuzzy
@@ -598,6 +598,16 @@ msgstr "장풍{1}은 {2}만드리바{3} 리눅스 시절부터 시스템 관리�
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "코드를 만지작거리며 {1}스트레스를 풀지 않을 때{2}, 그는 만년필과 기계식 키보드를 만지작거리며 시간을 보낸다. 잉크 묻은 손가락으로 예쁜 키캡을 만지지 말아야 한다는 교훈을 아직도 배우지 못했다."
 
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "코란 웹스터 박사는 90년대부터 파이썬으로 그래픽 사용자 인터페이스를 구축해 온 수학자로, SciPy 컨퍼런스 공동 의장을 역임하는 등 수년간 과학계 파이썬 분야에서 활발히 활동해 왔습니다. 그는 학계에서 데이터 과학자, 소프트웨어 개발자, 관리자, 오픈소스 해커에 이르기까지 다양한 역할을 수행해 왔지만, 항상 교육자이자 멘토로서의 공통된 역할을 수행해 왔습니다."
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "코란은 [유니탈 소프트웨어]{1}의 창립자이자 대표이며, [딜러 디지털]{2}에서 과학적 파이썬 교육 과정 강사로 활동하고 있습니다. 파이썬 코드를 작성하지 않을 때는 요리를 하거나, 마이크로컨트롤러와 T-게이지 기차를 만지작거리며 시간을 보내고, 언젠가는 산악 자전거에 쌓인 거미줄을 털어낼 계획입니다."
+
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy
 msgid "Dan leads teams to design safety in to complex automotive and mobility systems, and dreams of using BeeWare tools to help model these systems."
@@ -631,7 +641,7 @@ msgstr "러셀 키스-마기 박사는 BeeWare 프로젝트의 창립자입니�
 #: docs/en/about/team/freakboy3742.md:3
 #, fuzzy
 msgid "Russell is a Principal Software Engineer in the Open Source group at [Anaconda]{1} [(a BeeWare Gold sponsor)]{2}."
-msgstr "러셀은 [아나콘다]{1} [(비웨어 골드 스폰서)]{2}의 오픈소스 그룹에서 수석 소프트웨어 엔지니어로 근무하고 있습니다."
+msgstr "러셀은 [아나콘다]{1} [(BeeWare 골드 스폰서)]{2}의 오픈소스 그룹에서 수석 소프트웨어 엔지니어로 근무하고 있습니다."
 
 #: docs/en/about/team/glasnt.md:1
 #, fuzzy
@@ -901,7 +911,7 @@ msgstr "양봉가가 되기"
 #: docs/en/community/governance.md:59
 #, fuzzy
 msgid "Introduction of a new Apiarist into the team is at the sole discretion of the existing Core Team. While there are not currently any solid rules to this, in general, someone will be invited to be an Apiarist on a BeeWare project if they have demonstrated solid contributions to the project. This can also be extended to someone with specific domain knowledge (for example, iOS/macOS) which might be lacking in the existing team. It also doesn't have to be based on commits. Anyone who is able to demonstrate a vested interest in the project in general may ask to be given permission to commit to the project."
-msgstr "새로운 아피어리스트를 팀에 영입하는 것은 기존 코어 팀의 단독 재량으로 재량에 따라 결정됩니다. 현재 이에 대한 명확한 규칙은 없지만 에 대한 확실한 규칙은 없지만, 일반적으로 누군가가 비웨어 프로젝트의 BeeWare 프로젝트에 기여한 공로를 입증한 경우 프로젝트에 대한 기여를 입증한 경우 초대됩니다. 또한 특정 도메인에 대한 지식이 있는 사람에게도 적용될 수 있습니다. 특정 도메인에 대한 지식(예: iOS/macOS)이 있는 사람으로 확장될 수도 있습니다. 기존 팀. 또한 커밋을 기반으로 할 필요도 없습니다. 다음과 같은 사람이라면 누구나 프로젝트 전반에 대한 기득권을 증명할 수 있는 사람은 누구나 프로젝트에 커밋할 수 있는 권한을 요청할 수 있습니다."
+msgstr "새로운 아피어리스트를 팀에 영입하는 것은 기존 코어 팀의 단독 재량으로 재량에 따라 결정됩니다. 현재 이에 대한 명확한 규칙은 없지만 에 대한 확실한 규칙은 없지만, 일반적으로 누군가가 BeeWare 프로젝트의 BeeWare 프로젝트에 기여한 공로를 입증한 경우 프로젝트에 대한 기여를 입증한 경우 초대됩니다. 또한 특정 도메인에 대한 지식이 있는 사람에게도 적용될 수 있습니다. 특정 도메인에 대한 지식(예: iOS/macOS)이 있는 사람으로 확장될 수도 있습니다. 기존 팀. 또한 커밋을 기반으로 할 필요도 없습니다. 다음과 같은 사람이라면 누구나 프로젝트 전반에 대한 기득권을 증명할 수 있는 사람은 누구나 프로젝트에 커밋할 수 있는 권한을 요청할 수 있습니다."
 
 #: docs/en/community/governance.md:61
 #, fuzzy
@@ -1005,7 +1015,7 @@ msgstr "/// caption"
 #: docs/en/contributing/challenge-coins.md:11
 #, fuzzy
 msgid "The front and back of the BeeWare Challenge Coin."
-msgstr "비웨어 챌린지 코인의 앞면과 뒷면."
+msgstr "BeeWare 챌린지 코인의 앞면과 뒷면."
 
 #: docs/en/contributing/challenge-coins.md:13 docs/en/contributing/challenge-coins.md:29 docs/en/contributing/challenge-coins.md:43 docs/en/contributing/sprint-guide.md:71
 msgid "///"
@@ -1014,7 +1024,7 @@ msgstr "///"
 #: docs/en/contributing/challenge-coins.md:15
 #, fuzzy
 msgid "The BeeWare Challenge Coins are die cast, 4.5cm (1 3/4\") in diameter, and are made of a nickel/zinc alloy with enamel highlights."
-msgstr "비웨어 챌린지 코인은 직경 4.5cm(1 3/4\")의 다이캐스트 주화입니다, 에나멜 하이라이트가 있는 니켈/아연 합금으로 제작되었습니다."
+msgstr "BeeWare 챌린지 코인은 직경 4.5cm(1 3/4\")의 다이캐스트 주화입니다, 에나멜 하이라이트가 있는 니켈/아연 합금으로 제작되었습니다."
 
 #: docs/en/contributing/challenge-coins.md:17
 #, fuzzy
@@ -1039,7 +1049,7 @@ msgstr "![BeeWare 야크 목동 도전 코인]{1}{ width=300px }"
 #: docs/en/contributing/challenge-coins.md:27
 #, fuzzy
 msgid "The front and back of the BeeWare Yak Herder Coin."
-msgstr "비웨어 야크 목동 코인의 앞면과 뒷면."
+msgstr "BeeWare 야크 목동 코인의 앞면과 뒷면."
 
 #: docs/en/contributing/challenge-coins.md:31
 #, fuzzy
@@ -1816,12 +1826,12 @@ msgstr "다른 BeeWare 도구에서 사용되는 조각들로, 단독으로도 �
 #: docs/en/docs/index.md:73
 #, fuzzy
 msgid "[![Rubicon]{1}]{2}"
-msgstr "[![루비콘]{1}]{2}"
+msgstr "[![Rubicon]{1}]{2}"
 
 #: docs/en/docs/index.md:77
 #, fuzzy
 msgid "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
-msgstr "[루비콘 Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
+msgstr "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 
 #: docs/en/docs/index.md:81
 #, fuzzy
@@ -1856,7 +1866,7 @@ msgstr "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 #: docs/en/docs/index.md:119
 #, fuzzy
 msgid "The BeeWare Project { .beeware-project }"
-msgstr "비웨어 프로젝트 { .beeware-project }"
+msgstr "BeeWare 프로젝트 { .beeware-project }"
 
 #: docs/en/docs/index.md:121
 #, fuzzy
@@ -1926,7 +1936,7 @@ msgstr "![벌 브루투스]{1}{ .index-intro-beeware-logo }"
 #: docs/en/index.md:11
 #, fuzzy
 msgid "BeeWare"
-msgstr "비웨어"
+msgstr "BeeWare"
 
 #: docs/en/index.md:13
 #, fuzzy
@@ -2011,7 +2021,7 @@ msgstr "최종 사용자는 도구가 어떤 언어로 작성되었는지 신경
 #: docs/en/index.md:58
 #, fuzzy
 msgid "This is BeeWare."
-msgstr "이것은 비웨어입니다."
+msgstr "이것은 BeeWare입니다."
 
 #: docs/en/index.md:60
 #, fuzzy
@@ -2219,7 +2229,7 @@ msgstr "프로페셔널: 월 50달러"
 #: docs/en/membership/index.md:27
 #, fuzzy
 msgid "If you use BeeWare in a professional context, please consider sponsoring at the Professional level. You will receive a Sponsor badge on your profile, and your name will be listed on the BeeWare project website (unless you choose to make your sponsorship private)."
-msgstr "비웨어를 업무 환경에서 사용하신다면, 프로페셔널 등급의 후원자 등록을 고려해 주십시오. 프로필에 후원자 배지가 표시되며, 후원자 명단이 비웨어 프로젝트 웹사이트에 공개됩니다(후원자 정보를 비공개로 설정하지 않는 경우)."
+msgstr "BeeWare를 업무 환경에서 사용하신다면, 프로페셔널 등급의 후원자 등록을 고려해 주십시오. 프로필에 후원자 배지가 표시되며, 후원자 명단이 BeeWare 프로젝트 웹사이트에 공개됩니다(후원자 정보를 비공개로 설정하지 않는 경우)."
 
 #: docs/en/membership/index.md:29
 #, fuzzy
@@ -2281,10 +2291,75 @@ msgstr "4,500만 명 이상의 사용자를 보유한 [아나콘다]{1}은 현�
 msgid "Professional Members { #enthusiasts }"
 msgstr "전문 회원 { #enthusiasts }"
 
-#: docs/en/membership/index.md:67
+#: docs/en/membership/index.md:65
 #, fuzzy
 msgid "Enthusiasts { #enthusiasts }"
 msgstr "매니아들 { #enthusiasts }"
+
+#: docs/en/membership/index.md:67
+#, fuzzy
+msgid "Timothy Bell"
+msgstr "티모시 벨"
+
+#: docs/en/membership/index.md:68
+#, fuzzy
+msgid "Wes Broadway"
+msgstr "웨스 브로드웨이"
+
+#: docs/en/membership/index.md:69
+#, fuzzy
+msgid "Gerard Blais"
+msgstr "제라르 블레"
+
+#: docs/en/membership/index.md:70
+#, fuzzy
+msgid "Harry Percival"
+msgstr "해리 퍼시벌"
+
+#: docs/en/membership/index.md:71
+#, fuzzy
+msgid "Michael Field"
+msgstr "마이클 필드"
+
+#: docs/en/membership/index.md:72
+#, fuzzy
+msgid "Eric Froemling"
+msgstr "에릭 프로믈링"
+
+#: docs/en/membership/index.md:73
+#, fuzzy
+msgid "Michal Sladek"
+msgstr "미할 슬라데크"
+
+#: docs/en/membership/index.md:74
+#, fuzzy
+msgid "Stefane Fermigier"
+msgstr "스테판 페르미지에"
+
+#: docs/en/membership/index.md:78
+#, fuzzy
+msgid "Katie McLaughlin"
+msgstr "케이티 맥클라플린"
+
+#: docs/en/membership/index.md:79
+#, fuzzy
+msgid "Emil Lerner"
+msgstr "에밀 레르너"
+
+#: docs/en/membership/index.md:80
+#, fuzzy
+msgid "Hassan Hashmi"
+msgstr "하산 하쉬미"
+
+#: docs/en/membership/index.md:81
+#, fuzzy
+msgid "Greg Turner"
+msgstr "그레그 터너"
+
+#: docs/en/membership/index.md:82
+#, fuzzy
+msgid "David Cramer"
+msgstr "데이비드 크레이머"
 
 #: docs/en/titles.md:3
 #, fuzzy

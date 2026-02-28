@@ -20,16 +20,14 @@ This year our team has had the exciting opportunity to contribute to BeeWare for
 
 Meet the Team:
 
-<nospell>
-- Kavidu Abeykoon Mudiyanselagedara ([kavi2du](https://github.com/kavi2du)); Information Technology
-- Callum Horton ([Stringer90](https://github.com/Stringer90)); Software Engineering
-- Caydn Lee ([caydnn](https://github.com/caydnn)); Software Engineering
-- Jaeden Mah ([JMah007](https://github.com/JMah007)); Computer Science
-- Mitchell Pontague ([mEp3ii2](https://github.com/mEp3ii2)); Software Engineering
-- Veronica Taniputra ([vt37](https://github.com/vt37)); Cyber Security
-</nospell>
+- <nospell>Kavidu Abeykoon Mudiyanselagedara</nospell> ([<nospell>kavi2du</nospell>](https://github.com/kavi2du)); Information Technology
+- <nospell>Callum Horton</nospell> ([<nospell>Stringer90</nospell>](https://github.com/Stringer90)); Software Engineering
+- <nospell>Caydn Lee</nospell> ([<nospell>caydnn</nospell>](https://github.com/caydnn)); Software Engineering
+- <nospell>Jaeden Mah</nospell> ([<nospell>JMah007</nospell>](https://github.com/JMah007)); Computer Science
+- <nospell>Mitchell Pontague</nospell> ([<nospell>mEp3ii2</nospell>](https://github.com/mEp3ii2)); Software Engineering
+- <nospell>Veronica Taniputra</nospell> ([<nospell>vt37</nospell>](https://github.com/vt37)); Cyber Security
 
-In the first semester, our team gained exposure to the BeeWare ecosystem through tackling a variety of small bug fixes within Briefcase and Toga, creating widgets for the web backend in Toga and completing small research tasks into the mechanisms within the BeeWare tools. More details about our first semester contributions can be found [in our first semester report](https://beeware.org/news/buzz/2025-curtin-capstone-semester-end-blog). After this, the team split off into pairs to plan out larger deliverable contributions that would add or changes features within BeeWare.
+In the first semester, our team gained exposure to the BeeWare ecosystem through tackling a variety of small bug fixes within Briefcase and Toga, creating widgets for the web backend in Toga and completing small research tasks into the mechanisms within the BeeWare tools. More details about our first semester contributions can be found [in our first semester report](2025-curtin-capstone-semester-end-blog.md). After this, the team split off into pairs to plan out larger deliverable contributions that would add or changes features within BeeWare.
 
 It is these deliverables that the team worked on in the second semester.
 

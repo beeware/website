@@ -7,7 +7,7 @@ categories:
 - Buzz
 ---
 
-9 months ago, we [announced that the BeeWare Project was the recipient of a PSF Education Grant](https://beeware.org/news/buzz/beeware-project-awarded-a-psf-education-grant/). In late 2019, we [choose <nospell>Asheesh Laroia</nospell> to do the work](https://beeware.org/news/buzz/we-have-a-contractor-for-our-android-contract/). Today, we're proud to announce that BeeWare's Android support has reached a point where it is ready for mass consumption.
+9 months ago, we [announced that the BeeWare Project was the recipient of a PSF Education Grant](../../2019/buzz/beeware-project-awarded-a-psf-education-grant.md). In late 2019, we [choose <nospell>Asheesh Laroia</nospell> to do the work](../../2019/buzz/we-have-a-contractor-for-our-android-contract.md). Today, we're proud to announce that BeeWare's Android support has reached a point where it is ready for mass consumption.
 
 <!-- more -->
 
@@ -21,4 +21,4 @@ There's still plenty of work to be done, though. There are still a lot of widget
 
 All of those are significant projects in themselves, and will require effort comparable to that required to add Android as a supported platform. And so, we're looking for the financial support to make that happen. We're applying for new grants as opportunities arise, but the most helpful source of funds are the ongoing funds that come from memberships. Ongoing funding means we can focus on improving BeeWare, rather than chasing grants. It means being able to hire *permanent* staff, rather than offering short term contracts. And it means being able to make long term plans and promises to the community.
 
-If this project proves anything, it's that money makes things happen. If you're excited by the prospects of Python on mobile platforms, please consider [joining the BeeWare Project as a financial member](https://beeware.org/membership/). Or, if you've got experience with commercialization of Open Source projects, or any other ideas for how we could [please get in touch](mailto:contact@beeware.org).
+If this project proves anything, it's that money makes things happen. If you're excited by the prospects of Python on mobile platforms, please consider [joining the BeeWare Project as a financial member][we-need-your-help]. Or, if you've got experience with commercialization of Open Source projects, or any other ideas for how we could [please get in touch](mailto:contact@beeware.org).

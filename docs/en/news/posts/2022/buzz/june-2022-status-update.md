@@ -24,7 +24,7 @@ During June:
 - We've made some [more improvements to Toga `Webview`s](https://github.com/beeware/toga/pull/1504), ensuring that the current URL is accessible through the Python API.
 - We've [addressed a long standing bug](https://github.com/beeware/toga/pull/1514) that would cause Toga apps to be unable to find their local resource folders, depending on how the app was invoked. More importantly, this change has been accompanied by additions to the test suite. This is the start of being able to test runtime behavior of apps, which will be an increasing important feature moving forward.
 - We've [added a stack trace dialog for Windows](https://github.com/beeware/toga/pull/1513). A version of this dialog will be integrated into future improvements in Windows packaging.
-- Finally, we published our [Q3 roadmap](https://beeware.org/news/buzz/2022q3-roadmap/).
+- Finally, we published our [Q3 roadmap](2022q3-roadmap.md).
 
 ## What's next?
 

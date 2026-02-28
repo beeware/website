@@ -110,6 +110,9 @@ extra:
     - name: Español
       link: /es/
       lang: es
+    - name: فارسی
+      link: /fa/
+      lang: fa
     - name: Français
       link: /fr/
       lang: fr
@@ -129,10 +132,10 @@ extra:
       link: /tr/
       lang: tr
     - name: 中文(简体)
-      link: /zh-cn/
+      link: /zh_CN/
       lang: zh-Hant
     - name: 中文(繁體)
-      link: /zh-tw/
+      link: /zh_TW/
       lang: zh-TW
 
 

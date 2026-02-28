@@ -24,14 +24,12 @@ This year our team has had the exciting opportunity to contribute to BeeWare for
 
 Meet the Team:
 
-<nospell>
-- Kavidu Abeykoon Mudiyanselagedara ([kavi2du](https://github.com/kavi2du)); Information Technology
-- Callum Horton ([Stringer90](https://github.com/Stringer90)); Software Engineering
-- Caydn Lee ([caydnn](https://github.com/caydnn)); Software Engineering
-- Jaeden Mah ([JMah007](https://github.com/JMah007)); Computer Science
-- Mitchell Pontague ([mEp3ii2](https://github.com/mEp3ii2)); Software Engineering
-- Veronica Taniputra ([vt37](https://github.com/vt37)); Cyber Security
-</nospell>
+- <nospell>Kavidu Abeykoon Mudiyanselagedara</nospell> ([<nospell>kavi2du</nospell>](https://github.com/kavi2du)); Information Technology
+- <nospell>Callum Horton</nospell> ([<nospell>Stringer90</nospell>](https://github.com/Stringer90)); Software Engineering
+- <nospell>Caydn Lee</nospell> ([<nospell>caydnn</nospell>](https://github.com/caydnn)); Software Engineering
+- <nospell>Jaeden Mah</nospell> ([<nospell>JMah007</nospell>](https://github.com/JMah007)); Computer Science
+- <nospell>Mitchell Pontague</nospell> ([<nospell>mEp3ii2</nospell>](https://github.com/mEp3ii2)); Software Engineering
+- <nospell>Veronica Taniputra</nospell> ([<nospell>vt37</nospell>](https://github.com/vt37)); Cyber Security
 
 ## What We’ve Worked On
 

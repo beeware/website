@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-28 12:27+0800\n"
+"POT-Creation-Date: 2026-02-28 05:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -595,6 +595,16 @@ msgstr "Chiang Fong{1}は{2}Mandriva{3} Linuxの時代からシステム管理�
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "コードをいじって{1}ストレス解消{2}しない時は、万年筆やメカニカルキーボードをいじっている。インクまみれの指で美しいキーキャップを触ってはいけないという教訓を、まだ学べていない。"
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "コラン・ウェブスター博士は数学者であり、1990年代からPythonでグラフィカルユーザーインターフェースを構築し、長年にわたり科学分野のPythonコミュニティで活躍してきた。SciPyカンファレンスの共同議長を務めた経験も持つ。これまでの経歴は、学術研究者からデータサイエンティスト、ソフトウェア開発者、管理者、オープンソースハッカーまで多岐にわたるが、一貫して教師および指導者としての役割を担ってきた。"
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "コランは[Unital Software]{1}の創設者兼代表であり、[Diller Digital]{2}で科学向けPythonトレーニングコースの講師を務めています。Pythonコードを書いていない時は、料理をしたり、マイクロコントローラーやTゲージ鉄道模型をいじったり、近いうちにマウンテンバイクの埃を払うつもりです。"
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy
@@ -2279,10 +2289,75 @@ msgstr "4,500万人以上のユーザーを有する[Anaconda]{1}は、AI分野�
 msgid "Professional Members { #enthusiasts }"
 msgstr "プロフェッショナル会員 { #enthusiasts }"
 
-#: docs/en/membership/index.md:67
+#: docs/en/membership/index.md:65
 #, fuzzy
 msgid "Enthusiasts { #enthusiasts }"
 msgstr "愛好家 { #enthusiasts }"
+
+#: docs/en/membership/index.md:67
+#, fuzzy
+msgid "Timothy Bell"
+msgstr "ティモシー・ベル"
+
+#: docs/en/membership/index.md:68
+#, fuzzy
+msgid "Wes Broadway"
+msgstr "ウェス・ブロードウェイ"
+
+#: docs/en/membership/index.md:69
+#, fuzzy
+msgid "Gerard Blais"
+msgstr "ジェラール・ブレー"
+
+#: docs/en/membership/index.md:70
+#, fuzzy
+msgid "Harry Percival"
+msgstr "ハリー・パーシバル"
+
+#: docs/en/membership/index.md:71
+#, fuzzy
+msgid "Michael Field"
+msgstr "マイケル・フィールド"
+
+#: docs/en/membership/index.md:72
+#, fuzzy
+msgid "Eric Froemling"
+msgstr "エリック・フロームリング"
+
+#: docs/en/membership/index.md:73
+#, fuzzy
+msgid "Michal Sladek"
+msgstr "ミハル・スラデク"
+
+#: docs/en/membership/index.md:74
+#, fuzzy
+msgid "Stefane Fermigier"
+msgstr "ステファヌ・フェルミジェール"
+
+#: docs/en/membership/index.md:78
+#, fuzzy
+msgid "Katie McLaughlin"
+msgstr "ケイティ・マクラフリン"
+
+#: docs/en/membership/index.md:79
+#, fuzzy
+msgid "Emil Lerner"
+msgstr "エミル・ラーナー"
+
+#: docs/en/membership/index.md:80
+#, fuzzy
+msgid "Hassan Hashmi"
+msgstr "ハッサン・ハシミ"
+
+#: docs/en/membership/index.md:81
+#, fuzzy
+msgid "Greg Turner"
+msgstr "グレッグ・ターナー"
+
+#: docs/en/membership/index.md:82
+#, fuzzy
+msgid "David Cramer"
+msgstr "デビッド・クレイマー"
 
 #: docs/en/titles.md:3
 #, fuzzy

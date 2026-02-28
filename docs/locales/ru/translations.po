@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-28 12:27+0800\n"
+"POT-Creation-Date: 2026-02-28 05:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -595,6 +595,16 @@ msgstr "Чианг Фонг{1} притворялся системным адм�
 #, fuzzy
 msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
 msgstr "Когда он не занимается программированием, чтобы {1}снять стресс{2}, он проводит время, играя с перьевыми ручками и механическими клавиатурами. Ему еще предстоит усвоить урок о том, что не следует смешивать чернильные пальцы с красивыми клавишами."
+
+#: docs/en/about/team/corranwebster.md:1
+#, fuzzy
+msgid "Dr Corran Webster is a mathematician who has been building graphical user interfaces in Python since the 90's and has been active in the scientific Python world for many years, including a stint as co-chair of the SciPy conference. His roles over the years have ranged from academic to data scientist to software developer to manager to open source hacker, but always with a common thread of being a teacher and mentor."
+msgstr "Доктор Корран Вебстер — математик, который с 90-х годов занимается созданием графических интерфейсов пользователя на языке Python и на протяжении многих лет активно участвует в научном сообществе Python, в том числе в качестве сопредседателя конференции SciPy. На протяжении многих лет он занимал различные должности — от академического сотрудника до специалиста по обработке данных, разработчика программного обеспечения, менеджера и хакера открытого исходного кода, — но всегда оставался учителем и наставником."
+
+#: docs/en/about/team/corranwebster.md:3
+#, fuzzy
+msgid "Corran is the Founder and Principal at [Unital Software]{1} and is an instructor for scientific Python training courses at [Diller Digital]{2}. When not writing Python code, he cooks, messes around with micro-controllers and T-gauge trains, and will clean the cobwebs off that mountain bike any day now."
+msgstr "Корран является основателем и директором компании [Unital Software]{1} и преподавателем научных курсов по Python в [Diller Digital]{2}. Когда он не пишет код на Python, он готовит, возится с микроконтроллерами и моделями поездов T-gauge, а также собирается в любой день очистить свой горный велосипед от паутины."
 
 #: docs/en/about/team/danyeaw.md:1
 #, fuzzy
@@ -2279,10 +2289,75 @@ msgstr "С более чем 45 миллионами пользователей 
 msgid "Professional Members { #enthusiasts }"
 msgstr "Профессиональные члены { #enthusiasts }"
 
-#: docs/en/membership/index.md:67
+#: docs/en/membership/index.md:65
 #, fuzzy
 msgid "Enthusiasts { #enthusiasts }"
 msgstr "Энтузиасты { #enthusiasts }"
+
+#: docs/en/membership/index.md:67
+#, fuzzy
+msgid "Timothy Bell"
+msgstr "Тимоти Белл"
+
+#: docs/en/membership/index.md:68
+#, fuzzy
+msgid "Wes Broadway"
+msgstr "Уэс Бродвей"
+
+#: docs/en/membership/index.md:69
+#, fuzzy
+msgid "Gerard Blais"
+msgstr "Жерар Блэ"
+
+#: docs/en/membership/index.md:70
+#, fuzzy
+msgid "Harry Percival"
+msgstr "Гарри Персиваль"
+
+#: docs/en/membership/index.md:71
+#, fuzzy
+msgid "Michael Field"
+msgstr "Майкл Филд"
+
+#: docs/en/membership/index.md:72
+#, fuzzy
+msgid "Eric Froemling"
+msgstr "Эрик Фромлинг"
+
+#: docs/en/membership/index.md:73
+#, fuzzy
+msgid "Michal Sladek"
+msgstr "Михал Сладек"
+
+#: docs/en/membership/index.md:74
+#, fuzzy
+msgid "Stefane Fermigier"
+msgstr "Стефан Фермижье"
+
+#: docs/en/membership/index.md:78
+#, fuzzy
+msgid "Katie McLaughlin"
+msgstr "Кэти МакЛафлин"
+
+#: docs/en/membership/index.md:79
+#, fuzzy
+msgid "Emil Lerner"
+msgstr "Эмиль Лернер"
+
+#: docs/en/membership/index.md:80
+#, fuzzy
+msgid "Hassan Hashmi"
+msgstr "Хасан Хашми"
+
+#: docs/en/membership/index.md:81
+#, fuzzy
+msgid "Greg Turner"
+msgstr "Грег Тернер"
+
+#: docs/en/membership/index.md:82
+#, fuzzy
+msgid "David Cramer"
+msgstr "Дэвид Крамер"
 
 #: docs/en/titles.md:3
 #, fuzzy

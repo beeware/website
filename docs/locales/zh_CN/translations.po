@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-27 04:05+0000\n"
-"PO-Revision-Date: 2026-02-19 02:18+0000\n"
+"POT-Creation-Date: 2026-02-28 04:06+0000\n"
+"PO-Revision-Date: 2026-02-28 03:07+0000\n"
 "Last-Translator: John <johnzhou721@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/beeware/website/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -107,105 +107,86 @@ msgid "Contact { #contact }"
 msgstr "联系 { #contact }"
 
 #: docs/en/about/contact.md:3
-#, fuzzy
 msgid "Looking for help? { #looking-for-help }"
 msgstr "需要帮助吗？ { #looking-for-help }"
 
 #: docs/en/about/contact.md:5
-#, fuzzy
 msgid "The [core team]{1} are always happy to answer questions and provide assistance with BeeWare. Be aware that we work in public, both with BeeWare development and the community. Asking your questions in a public forum ensures that as many people as possible are able to benefit from any answer that is give. The fact is, if you're having a problem, it's highly likely that someone else is too, or certainly will at some point in time."
-msgstr "核心团队{1}始终乐于解答问题并为BeeWare提供协助。请注意，我们以公开方式开展工作，无论是BeeWare开发还是社区事务皆如此。在公共论坛提问能确保尽可能多的人从解答中获益。事实上，若您遇到某个问题，极有可能其他人也正面临相同困境，或将来某个时刻必然会遇到。"
+msgstr "[核心团队]{1}始终乐于解答问题，并为提供 BeeWare 的使用帮助。请注意，我们无论是 BeeWare 开发还是社区都以公开方式展开工作。在公共论坛提问能确保尽可能多的人从解答中获益，因为若您遇到某个问题，极有可能其他人也面临或将会面临相同的问题。"
 
 #: docs/en/about/contact.md:7
-#, fuzzy
 msgid "Where can you find us? { #where-can-you-find-us }"
 msgstr "在哪里可以找到我们？ { #where-can-you-find-us }"
 
 #: docs/en/about/contact.md:9
-#, fuzzy
 msgid "You can engage with the BeeWare community in several different ways."
 msgstr "您可以通过多种方式参与 BeeWare 社区。"
 
 #: docs/en/about/contact.md:11
-#, fuzzy
 msgid "Discord { #discord }"
-msgstr "不和 { #discord }"
+msgstr "Discord { #discord }"
 
 #: docs/en/about/contact.md:13
-#, fuzzy
 msgid "We use [Discord]{1} for real-time communication. You can introduce yourself in the #introductions channel. The #help-with-beeware channel is available for questions and issues regarding using BeeWare. The #dev channel is available for discussion about BeeWare contributing and development. You can tell us about your BeeWare project in the #showcase channel; works-in-progress and completed projects are all welcome!"
-msgstr "我们使用[Discord]{1}进行实时沟通。您可以在#introductions频道进行自我介绍。#help-with-beeware频道用于解答BeeWare使用相关的问题与疑难。#dev频道则用于讨论BeeWare的贡献与开发事宜。您可以在#showcase频道分享自己的BeeWare项目——无论是进行中的作品还是已完成的项目，我们都热烈欢迎！"
+msgstr "我们使用 [Discord]{1} 进行实时沟通。您可以在 #introductions 频道中介绍自己；#help-with-beeware 频道可用于解答与 BeeWare 使用相关的问题与疑难；#dev 频道用于讨论 BeeWare 的贡献与开发事宜；可以在#showcase 频道上分享自己的 BeeWare 项目——不管是否已经完成，我们都热烈欢迎！"
 
 #: docs/en/about/contact.md:15
-#, fuzzy
 msgid "Mastodon { #mastodon }"
-msgstr "巨齿鲸 { #mastodon }"
+msgstr "Mastodon { #mastodon }"
 
 #: docs/en/about/contact.md:17
-#, fuzzy
 msgid "Follow [@beeware@fosstodon.org]{1} on Mastodon for day-to-day updates on the BeeWare project."
-msgstr "在Mastodon上关注[@beeware@fosstodon.org]{1}，获取BeeWare项目的日常更新。"
+msgstr "在 Mastodon 上关注 [@beeware@fosstodon.org]{1}，可获取 BeeWare 项目的日常更新。"
 
 #: docs/en/about/contact.md:19
-#, fuzzy
 msgid "GitHub { #github }"
 msgstr "GitHub { #github }"
 
 #: docs/en/about/contact.md:21
-#, fuzzy
 msgid "A lot of project-specific communication happens on the GitHub Issues for each project. Links for our high-profile projects can be found on our [documentation page]{1}; visit the [GitHub page for the BeeWare organization]{2} for the full list of repositories."
-msgstr "许多项目相关的沟通都发生在各项目的GitHub问题跟踪系统中。我们重点项目的链接可在[文档页面]{1}上找到；访问[BeeWare组织的GitHub主页]{2}可查看完整仓库列表。"
+msgstr "许多项目相关的沟通都发生在各项目的 GitHub Issues 系统中。我们重点项目的 GitHub 链接可在我们的[文档页面]{1}上找到；访问 [BeeWare 组织的 GitHub 主页]{2}即可查看完整仓库列表。"
 
 #: docs/en/about/contact.md:23
 msgid "We also use GitHub Discussions as a forum to discuss projects. If you have a question about how to use a BeeWare tool, open a discussion thread in the repository for that tool."
 msgstr "我们还将 GitHub Discussions 用作讨论项目的论坛。如果您有关于如何使用 BeeWare 工具的问题，请在该工具的代码库中开设讨论主题。"
 
 #: docs/en/about/contact.md:25
-#, fuzzy
 msgid "Newsletter { #newsletter }"
 msgstr "新闻通讯 { #newsletter }"
 
 #: docs/en/about/contact.md:27
-#, fuzzy
 msgid "Want to receive updates, hints, tips, and announcements related to BeeWare? [Sign up for the BeeWare Enthusiasts mailing list]{1}."
-msgstr "想接收与BeeWare相关的更新、提示、技巧和公告吗？[立即订阅BeeWare爱好者邮件列表]{1}。"
+msgstr "想接收与 BeeWare 相关的更新、贴士、技巧和公告吗？[订阅 BeeWare 爱好者邮件列表]{1}。"
 
 #: docs/en/about/contact.md:29
-#, fuzzy
 msgid "Commercial support { #commercial-support }"
 msgstr "商业支持 { #commercial-support }"
 
 #: docs/en/about/contact.md:31
-#, fuzzy
 msgid "Need help with your commercial BeeWare project?"
-msgstr "需要帮助完成您的商业BeeWare项目吗？"
+msgstr "需要我们在您的商业 BeeWare 项目上提供帮助吗？"
 
 #: docs/en/about/contact.md:33
 msgid "Although BeeWare is an open source project, there are companies and individuals who can provide paid support, training, and consulting."
 msgstr "虽然 BeeWare 是一个开源项目，但也有一些公司和个人可以提供有偿支持、培训和咨询。"
 
 #: docs/en/about/contact.md:35
-#, fuzzy
 msgid "Note that the core team will *not* provide free support or debugging help for commercial projects. If you're not able to post your question on a public forum due to the content being commercially sensitive, you'll need to seek out someone willing to provide commercial support to meet for your needs."
-msgstr "请注意，核心团队*不会*为商业项目提供免费支持或调试帮助。若因内容涉及商业机密而无法在公共论坛发帖提问，您需要自行寻找愿意提供商业支持的服务商来满足您的需求。"
+msgstr "请注意，核心团队*不会*为商业项目提供免费支持或调试帮助。若因内容涉及商业机密并无法在公共论坛发帖提问，请自行寻找愿意提供商业支持的服务来满足您的需求。"
 
 #: docs/en/about/contact.md:37
-#, fuzzy
 msgid "Contact {1} for any inquiries about these services."
 msgstr "有关这些服务的任何咨询，请联系 {1}。"
 
 #: docs/en/about/contact.md:39
-#, fuzzy
 msgid "Reporting security issues { #reporting-security-issues }"
 msgstr "报告安全问题 { #reporting-security-issues }"
 
 #: docs/en/about/contact.md:41
-#, fuzzy
 msgid "If you want to report a security problem with one of the BeeWare tools, please contact the [Core Team]{1}."
-msgstr "若需报告BeeWare工具的安全问题，请联系[核心团队]{1}。"
+msgstr "如果您想要报告 BeeWare 工具中的安全问题，请联系[核心团队]{1}。"
 
 #: docs/en/about/contact.md:43
-#, fuzzy
 msgid "Reporting Code of Conduct issues { #reporting-code-of-conduct-issues }"
 msgstr "报告行为准则问题 { #reporting-code-of-conduct-issues }"
 

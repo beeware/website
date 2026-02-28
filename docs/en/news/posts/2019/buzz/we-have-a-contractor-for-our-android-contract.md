@@ -7,7 +7,7 @@ categories:
 - Buzz
 ---
 
-A couple of months ago, we [announced](https://beeware.org/news/buzz/beeware-project-awarded-a-psf-education-grant/) that the BeeWare project had received a grant from the PSF to improve our support for Android. At that time, we issued a call for contractors to help us complete this work.
+A couple of months ago, we [announced](beeware-project-awarded-a-psf-education-grant.md) that the BeeWare project had received a grant from the PSF to improve our support for Android. At that time, we issued a call for contractors to help us complete this work.
 
 We're very happy to announce that we've now selected a contractor: <nospell>**Asheesh Laroia**</nospell>.
 

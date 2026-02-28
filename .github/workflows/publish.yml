@@ -18,7 +18,8 @@ env:
   FORCE_COLOR: "1"
 
 jobs:
-  deploy:
+  publish:
+    name: Build and publish site
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -48,8 +49,9 @@ jobs:
         run: python -m tox -e docs-all
 
       - name: Deploy the built files
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.8.0
         with:
           folder: _build/html  # The folder the action should deploy.
+          branch: gh-pages  # The branch to which the action should deploy.
           git-config-name: github-actions[bot]
           git-config-email: 41898282+github-actions[bot]@users.noreply.github.com

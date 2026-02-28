@@ -110,6 +110,9 @@ extra:
     - name: Español
       link: /es/
       lang: es
+    - name: فارسی
+      link: /fa/
+      lang: fa
     - name: Français
       link: /fr/
       lang: fr
@@ -129,10 +132,10 @@ extra:
       link: /tr/
       lang: tr
     - name: 中文(简体)
-      link: /zh-cn/
+      link: /zh_CN/
       lang: zh-Hant
     - name: 中文(繁體)
-      link: /zh-tw/
+      link: /zh_TW/
       lang: zh-TW
 
 
@@ -261,6 +264,7 @@ plugins:
     abstract_chars_count: -1
   redirects:
     redirect_maps:
+      # shortlinks
       "bee/briefcase-bootstraps.md": "https://briefcase.beeware.org/en/latest/reference/commands/new.html#third-party-bootstraps"
       "bee/chat.md": "https://discord.gg/AjYYm8cyQM"
       "bee/coc.md": "community/code-of-conduct.md"
@@ -269,3 +273,5 @@ plugins:
       "bee/signup.md": "about/contact.md"
       "bee/sprint.md": "contributing/sprint-guide.md"
       "bee/sprints.md": "contributing/sprint-guide.md"
+      # Historical links of significance
+      "community/behavior/code-of-conduct.md": "community/code-of-conduct.md"

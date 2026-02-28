@@ -1,0 +1,2415 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-28 12:27+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.18.1\n"
+
+#: docs/en/about/branding.md:1 docs/en/titles.md:13
+#, fuzzy
+msgid "Branding guidelines"
+msgstr "ブランディングガイドライン"
+
+#: docs/en/about/branding.md:3
+#, fuzzy
+msgid "Referring to the project"
+msgstr "プロジェクトを参照する"
+
+#: docs/en/about/branding.md:5
+#, fuzzy
+msgid "This project should be referred to as **The BeeWare Project**, or **BeeWare**."
+msgstr "このプロジェクトは**The BeeWare Project**、または**BeeWare**と呼称すべきである。"
+
+#: docs/en/about/branding.md:7
+#, fuzzy
+msgid "Short description"
+msgstr "短い説明"
+
+#: docs/en/about/branding.md:9
+#, fuzzy
+msgid "BeeWare is a collection of tools and libraries to aid in writing application user interfaces in Python."
+msgstr "BeeWareは、Pythonでアプリケーションのユーザーインターフェースを作成する際に役立つツールとライブラリの集合体です。"
+
+#: docs/en/about/branding.md:11
+#, fuzzy
+msgid "Long description"
+msgstr "長い説明"
+
+#: docs/en/about/branding.md:13
+#, fuzzy
+msgid "BeeWare is a collection of tools and libraries to aid in writing application user interfaces in Python. It enables developers to write applications for iPhone, Android, Linux, macOS and Windows that are indistinguishable from natively written applications."
+msgstr "BeeWareは、Pythonでアプリケーションのユーザーインターフェースを作成するためのツールとライブラリの集合体です。これにより開発者は、iPhone、Android、Linux、macOS、Windows向けに、ネイティブで書かれたアプリケーションと見分けがつかないアプリケーションを作成できます。"
+
+#: docs/en/about/branding.md:15
+#, fuzzy
+msgid "Logos"
+msgstr "ロゴ"
+
+#: docs/en/about/branding.md:17
+#, fuzzy
+msgid "The following images are official logos of the BeeWare project. They are trademarks of the BeeWare Project; they can be used nominatively, but should not be used imply an official association with the project that does not exist. If you have any questions about logo usage, contact [Founding Apiarist Russell Keith-Magee]{1}."
+msgstr "以下の画像はBeeWareプロジェクトの公式ロゴです。これらはBeeWareプロジェクトの商標であり、名称使用は可能ですが、プロジェクトとの公式な関連性を暗示する目的での使用は避けてください。ロゴの使用に関する質問がある場合は、創設養蜂家ラッセル・キース＝マギー{1}までお問い合わせください。"
+
+#: docs/en/about/branding.md:19
+#, fuzzy
+msgid "BeeWare logo"
+msgstr "BeeWare ロゴ"
+
+#: docs/en/about/branding.md:21
+#, fuzzy
+msgid "![BeeWare logo]{1}"
+msgstr "![BeeWareロゴ]{1}"
+
+#: docs/en/about/branding.md:23 docs/en/about/branding.md:31 docs/en/about/branding.md:40 docs/en/about/branding.md:49
+#, fuzzy
+msgid "[Small]{1}"
+msgstr "[小]{1}"
+
+#: docs/en/about/branding.md:24 docs/en/about/branding.md:32 docs/en/about/branding.md:41 docs/en/about/branding.md:50
+#, fuzzy
+msgid "[Medium]{1}"
+msgstr "[Medium]{1}"
+
+#: docs/en/about/branding.md:25 docs/en/about/branding.md:34 docs/en/about/branding.md:43 docs/en/about/branding.md:53
+#, fuzzy
+msgid "[Vector]{1}"
+msgstr "[ベクトル]{1}"
+
+#: docs/en/about/branding.md:27
+#, fuzzy
+msgid "BeeWare logo (wide)"
+msgstr "BeeWare ロゴ（ワイド）"
+
+#: docs/en/about/branding.md:29
+#, fuzzy
+msgid "![BeeWare logo (wide)]{1}"
+msgstr "![BeeWare ロゴ (ワイド)]{1}"
+
+#: docs/en/about/branding.md:33 docs/en/about/branding.md:42 docs/en/about/branding.md:51
+#, fuzzy
+msgid "[Large]{1}"
+msgstr "[大]{1}"
+
+#: docs/en/about/branding.md:36
+#, fuzzy
+msgid "BeeWare Enthusiasts logo"
+msgstr "BeeWare愛好家のロゴ"
+
+#: docs/en/about/branding.md:38
+#, fuzzy
+msgid "![BeeWare Enthusiasts logo]{1}"
+msgstr "![BeeWare愛好家のロゴ]{1}"
+
+#: docs/en/about/branding.md:45
+#, fuzzy
+msgid "Brutus the Bee"
+msgstr "ブルータス・ザ・ビー"
+
+#: docs/en/about/branding.md:47 docs/en/about/overview.md:18
+#, fuzzy
+msgid "![Brutus the Bee]{1}"
+msgstr "![ブルータス・ザ・ビー]{1}"
+
+#: docs/en/about/branding.md:52
+#, fuzzy
+msgid "[X-large]{1}"
+msgstr "[特大]{1}"
+
+#: docs/en/about/contact.md:1
+#, fuzzy
+msgid "Contact { #contact }"
+msgstr "お問い合わせ { #contact }"
+
+#: docs/en/about/contact.md:3
+#, fuzzy
+msgid "Looking for help? { #looking-for-help }"
+msgstr "お困りですか？ { #looking-for-help }"
+
+#: docs/en/about/contact.md:5
+#, fuzzy
+msgid "The [core team]{1} are always happy to answer questions and provide assistance with BeeWare. Be aware that we work in public, both with BeeWare development and the community. Asking your questions in a public forum ensures that as many people as possible are able to benefit from any answer that is give. The fact is, if you're having a problem, it's highly likely that someone else is too, or certainly will at some point in time."
+msgstr "[コアチーム]{1}は、BeeWareに関する質問への回答や支援を喜んで行います。ただし、BeeWareの開発もコミュニティ活動も公開の場で行っている点にご留意ください。公開フォーラムで質問を投げかけることで、回答から得られる恩恵を可能な限り多くの人々が享受できるようになります。実際、あなたが直面している問題は、他の誰かも同様に経験している可能性が高く、あるいはいずれ必ず直面する問題であると言えるでしょう。"
+
+#: docs/en/about/contact.md:7
+#, fuzzy
+msgid "Where can you find us? { #where-can-you-find-us }"
+msgstr "どこで私たちを見つけられますか？ { #where-can-you-find-us }"
+
+#: docs/en/about/contact.md:9
+#, fuzzy
+msgid "You can engage with the BeeWare community in several different ways."
+msgstr "BeeWareコミュニティには、いくつかの異なる方法で参加できます。"
+
+#: docs/en/about/contact.md:11
+#, fuzzy
+msgid "Discord { #discord }"
+msgstr "不和 { #discord }"
+
+#: docs/en/about/contact.md:13
+#, fuzzy
+msgid "We use [Discord]{1} for real-time communication. You can introduce yourself in the #introductions channel. The #help-with-beeware channel is available for questions and issues regarding using BeeWare. The #dev channel is available for discussion about BeeWare contributing and development. You can tell us about your BeeWare project in the #showcase channel; works-in-progress and completed projects are all welcome!"
+msgstr "リアルタイムコミュニケーションには[Discord]{1}を利用しています。自己紹介は#introductionsチャンネルで行ってください。BeeWareの使用に関する質問や問題については#help-with-beewareチャンネルをご利用ください。BeeWareへの貢献や開発に関する議論は#devチャンネルで行っています。ご自身のBeeWareプロジェクトについては#showcaseチャンネルでご紹介ください。進行中のプロジェクトも完成したプロジェクトも大歓迎です！"
+
+#: docs/en/about/contact.md:15
+#, fuzzy
+msgid "Mastodon { #mastodon }"
+msgstr "マストドン { #mastodon }"
+
+#: docs/en/about/contact.md:17
+#, fuzzy
+msgid "Follow [@beeware@fosstodon.org]{1} on Mastodon for day-to-day updates on the BeeWare project."
+msgstr "BeeWareプロジェクトの日常的な更新情報は、Mastodonで[@beeware@fosstodon.org]{1}をフォローしてください。"
+
+#: docs/en/about/contact.md:19
+#, fuzzy
+msgid "GitHub { #github }"
+msgstr "GitHub { #github }"
+
+#: docs/en/about/contact.md:21
+#, fuzzy
+msgid "A lot of project-specific communication happens on the GitHub Issues for each project. Links for our high-profile projects can be found on our [documentation page]{1}; visit the [GitHub page for the BeeWare organization]{2} for the full list of repositories."
+msgstr "各プロジェクトのGitHub Issuesでは、プロジェクト固有のコミュニケーションが多く行われています。主要プロジェクトへのリンクは[ドキュメントページ]{1}に掲載されています。リポジトリの完全な一覧については、[BeeWare組織のGitHubページ]{2}をご覧ください。"
+
+#: docs/en/about/contact.md:23
+#, fuzzy
+msgid "We also use GitHub Discussions as a forum to discuss projects. If you have a question about how to use a BeeWare tool, open a discussion thread in the repository for that tool."
+msgstr "また、プロジェクトの議論の場としてGitHub Discussionsを利用しています。BeeWareツールの使用方法に関する質問がある場合は、該当ツールのリポジトリでディスカッションスレッドを開いてください。"
+
+#: docs/en/about/contact.md:25
+#, fuzzy
+msgid "Newsletter { #newsletter }"
+msgstr "ニュースレター { #newsletter }"
+
+#: docs/en/about/contact.md:27
+#, fuzzy
+msgid "Want to receive updates, hints, tips, and announcements related to BeeWare? [Sign up for the BeeWare Enthusiasts mailing list]{1}."
+msgstr "BeeWareに関する最新情報、ヒント、コツ、お知らせを受け取りませんか？[BeeWare愛好家メーリングリストに登録する]{1}"
+
+#: docs/en/about/contact.md:29
+#, fuzzy
+msgid "Commercial support { #commercial-support }"
+msgstr "商用サポート { #commercial-support }"
+
+#: docs/en/about/contact.md:31
+#, fuzzy
+msgid "Need help with your commercial BeeWare project?"
+msgstr "商用BeeWareプロジェクトでお困りですか？"
+
+#: docs/en/about/contact.md:33
+#, fuzzy
+msgid "Although BeeWare is an open source project, there are companies and individuals who can provide paid support, training, and consulting."
+msgstr "BeeWareはオープンソースプロジェクトですが、有料サポート、トレーニング、コンサルティングを提供できる企業や個人が存在します。"
+
+#: docs/en/about/contact.md:35
+#, fuzzy
+msgid "Note that the core team will *not* provide free support or debugging help for commercial projects. If you're not able to post your question on a public forum due to the content being commercially sensitive, you'll need to seek out someone willing to provide commercial support to meet for your needs."
+msgstr "コアチームは商用プロジェクトに対する無料サポートやデバッグ支援を*提供しません*。内容が商業的に機密であるため公開フォーラムに質問を投稿できない場合は、ご自身のニーズを満たす商用サポートを提供してくれる人物を探す必要があります。"
+
+#: docs/en/about/contact.md:37
+#, fuzzy
+msgid "Contact {1} for any inquiries about these services."
+msgstr "これらのサービスに関するお問い合わせは、{1}までご連絡ください。"
+
+#: docs/en/about/contact.md:39
+#, fuzzy
+msgid "Reporting security issues { #reporting-security-issues }"
+msgstr "セキュリティ問題の報告 { #reporting-security-issues }"
+
+#: docs/en/about/contact.md:41
+#, fuzzy
+msgid "If you want to report a security problem with one of the BeeWare tools, please contact the [Core Team]{1}."
+msgstr "BeeWareツールのいずれかに関するセキュリティ問題を報告したい場合は、[コアチーム]{1}までご連絡ください。"
+
+#: docs/en/about/contact.md:43
+#, fuzzy
+msgid "Reporting Code of Conduct issues { #reporting-code-of-conduct-issues }"
+msgstr "行動規範に関する問題の報告 { #reporting-code-of-conduct-issues }"
+
+#: docs/en/about/contact.md:45
+#, fuzzy
+msgid "If you have had an uncomfortable experience in a BeeWare community space, or want to report a behavior problem with someone who is a member of the BeeWare community, the [Code of Conduct Response Team]{1} will be happy to manage your report in accordance with our [Code of Conduct]{2}."
+msgstr "BeeWareコミュニティスペースで不快な体験をされた場合、またはBeeWareコミュニティのメンバーである人物の行動上の問題を報告したい場合は、[行動規範対応チーム]{1}が当社の[行動規範]{2}に基づき、喜んでご報告に対応いたします。"
+
+#: docs/en/about/contact.md:47
+#, fuzzy
+msgid "Other enquiries { #other-enquiries }"
+msgstr "その他のお問い合わせ { #other-enquiries }"
+
+#: docs/en/about/contact.md:49
+#, fuzzy
+msgid "For all media enquiries, please contact Founding Apiarist [Russell Keith-Magee]{1} or Senior Apiarist [Philip James]{2}."
+msgstr "メディアに関するお問い合わせは、創設養蜂家［ラッセル・キース＝マギー］{1} または上級養蜂家［フィリップ・ジェームズ］{2} までご連絡ください。"
+
+#: docs/en/about/contact.md:51
+#, fuzzy
+msgid "For all other enquiries, please contact Founding Apiarist [Russell Keith-Magee]{1}."
+msgstr "その他のお問い合わせは、創設養蜂家 [ラッセル・キース＝マギー]{1} までご連絡ください。"
+
+#: docs/en/about/history.md:1
+#, fuzzy
+msgid "History and Philosophy { #history-and-philosophy }"
+msgstr "歴史と哲学 { #history-and-philosophy }"
+
+#: docs/en/about/history.md:3
+#, fuzzy
+msgid "The BeeWare project started with a simple question: Why aren't the tools that we use as Python developers improving at the same rate as the rest of the technology we use on a daily basis?"
+msgstr "BeeWareプロジェクトは、ある単純な疑問から始まりました：なぜPython開発者が使用するツールは、日常的に利用する他の技術と同じ速度で進化しないのか？"
+
+#: docs/en/about/history.md:5
+#, fuzzy
+msgid "Python has proven itself as a highly capable language - approachable for newcomers, but powerful in the hands of experts. Python is rapidly becoming a major part of the data analysis, scientific computing, and web development landscape. And initiatives like [Django Girls]{1} have demonstrated that using Python, it is possible to provide a 1-day training courses that introducing people with no programming experience to Python; and at the end of a day, attendees have developed and deployed a database-backed dynamic website, deployed to a publicly visible server."
+msgstr "Pythonは高い能力を持つ言語としてその実力を証明しています。初心者にも親しみやすく、一方で専門家の手にかかれば強力な力を発揮します。Pythonはデータ分析、科学計算、ウェブ開発の分野において急速に主要な役割を担う存在となりつつあります。 また[Django Girls]{1}のような取り組みは、Pythonを用いることでプログラミング未経験者向けの1日トレーニングコースを提供可能であることを実証しています。参加者は1日の終わりまでに、データベース連携の動的ウェブサイトを開発・構築し、公開サーバーへデプロイする成果を上げています。"
+
+#: docs/en/about/history.md:7
+#, fuzzy
+msgid "However, the developer experience for someone writing Python sometimes reflects more of the early 90's than the new millennium. The default development environment for Python is still an 80x25 console window. For users who have come from a Windows or Apple environment, where they're used to highly detailed, well-designed graphical interfaces, this 30 year flashback can be a completely alien experience."
+msgstr "しかし、Pythonを書く開発者の体験は、新世紀というよりむしろ90年代初頭を彷彿とさせる。Pythonのデフォルト開発環境は今なお80x25のコンソールウィンドウだ。WindowsやApple環境から来たユーザーにとって、精緻で洗練されたグラフィカルインターフェースに慣れた彼らにとって、この30年前の回帰は全くの異世界体験となる。"
+
+#: docs/en/about/history.md:9
+#, fuzzy
+msgid "And, yes, there are IDEs (Integrated Development Environments) that provide a native application experience for writing code. But those tools require you to adopt, wholesale, the IDE's way of looking at a project. They often introduce as many headaches to the development process as they solve."
+msgstr "そして、確かにコードを書くためのネイティブアプリケーション体験を提供するIDE（統合開発環境）は存在します。しかし、それらのツールはプロジェクトの見方というIDEの考え方を丸ごと採用することを要求します。それらは解決する問題と同じくらい多くの頭痛の種を開発プロセスにもたらすことが多いのです。"
+
+#: docs/en/about/history.md:11
+#, fuzzy
+msgid "And so, we're left with an interesting schism, between the \"old way\" of Unix development in a console window, and the \"new way\" of all-in-one IDEs."
+msgstr "こうして、コンソールウィンドウでのUnix開発という「古い方法」と、オールインワンIDEという「新しい方法」との間に、興味深い分裂が残されている。"
+
+#: docs/en/about/history.md:13
+#, fuzzy
+msgid "The Unix Philosophy"
+msgstr "Unixの哲学"
+
+#: docs/en/about/history.md:15
+#, fuzzy
+msgid "However, it doesn't have to be that way. The core tenet of the Unix Philosophy is that \"each tool does one thing, well\". This is a very powerful philosophy, and it enables the composition of extremely powerful toolchains by putting together a suite of extremely focused, independent tools."
+msgstr "しかし、必ずしもそうである必要はない。Unix哲学の核心は「各ツールは一つのことを、よく行う」という理念である。これは非常に強力な哲学であり、極めて特化した独立したツール群を組み合わせることで、極めて強力なツールチェーンの構築を可能にする。"
+
+#: docs/en/about/history.md:17
+#, fuzzy
+msgid "Unfortunately, most UNIX tools have convolved this to also mean \"all tools must use a console interface\". However, there's nothing in the UNIX philosophy that says that tools have to use a console interface - it's just turned out that way."
+msgstr "残念ながら、ほとんどのUNIXツールはこれを「すべてのツールはコンソールインターフェースを使用しなければならない」という意味にも拡大解釈してきた。しかし、UNIXの哲学にはツールがコンソールインターフェースを使用しなければならないとはどこにも書かれていない——単にそうなってしまっただけである。"
+
+#: docs/en/about/history.md:19
+#, fuzzy
+msgid "The BeeWare project started with the premise we can have the best of both worlds. We can have a chain of composable tools that each do one thing, well. But those tools can also expose their functionality using a rich graphical user interface."
+msgstr "BeeWareプロジェクトは、両方の長所を兼ね備えられるという前提で始まりました。それぞれが単一の機能を優れた形で担う、組み合わせて使えるツール群を実現できるのです。しかしそれらのツールは、豊富なグラフィカルユーザーインターフェースを通じてその機能性を公開することも可能です。"
+
+#: docs/en/about/history.md:21
+#, fuzzy
+msgid "More than just code"
+msgstr "単なるコード以上のもの"
+
+#: docs/en/about/history.md:23
+#, fuzzy
+msgid "It's about more than just code, though. A successful software project requires documentation, design skills, feedback and bug reports. The BeeWare community acknowledges that *all* contributions are important - not just the ones that come as a pull request on GitHub."
+msgstr "しかし、それは単なるコード以上のものです。成功するソフトウェアプロジェクトには、ドキュメント、設計スキル、フィードバック、バグ報告が必要です。BeeWareコミュニティは、*すべての*貢献が重要であることを認識しています——GitHubでのプルリクエストとして届くものだけではありません。"
+
+#: docs/en/about/history.md:25
+#, fuzzy
+msgid "Even then, it's easy to think of a project in a vacuum, as the sum of all contributions. But that's never the case. An open source project is about community."
+msgstr "それでもなお、プロジェクトを孤立した存在として、全ての貢献の総和として捉えがちだ。しかし、それは決して真実ではない。オープンソースプロジェクトの本質はコミュニティにある。"
+
+#: docs/en/about/history.md:27
+#, fuzzy
+msgid "Diversity and inclusion"
+msgstr "多様性と包摂"
+
+#: docs/en/about/history.md:29
+#, fuzzy
+msgid "A diverse community is a strong community. This means accepting people of all levels of experience, from all backgrounds, of all races, creeds, orientations and expressions. The BeeWare project is committed to developing and maintaining a inclusive, diverse and welcoming community."
+msgstr "多様性のあるコミュニティは強いコミュニティです。これはあらゆる経験レベル、あらゆる背景、あらゆる人種、信条、指向性、表現を持つ人々を受け入れることを意味します。BeeWareプロジェクトは、包括的で多様性に富み、歓迎されるコミュニティの構築と維持に取り組んでいます。"
+
+#: docs/en/about/history.md:31
+#, fuzzy
+msgid "To back this up, we have an open offer to mentor anyone who wants to get involved as a contributor, and a [Code of Conduct]{1} that is rigorously enforced. Any reports of violations of that code of conduct - even by senior community members - will be treated with respect and acted upon appropriately."
+msgstr "これを裏付けるため、貢献者として参加を希望する全ての方へのメンター提供を常時受け付けており、厳格に施行される[行動規範]{1}を設けています。この行動規範への違反報告は、上級コミュニティメンバーによるものであっても、尊重をもって対応し、適切に対処します。"
+
+#: docs/en/about/history.md:33
+#, fuzzy
+msgid "Healthy and sustainable"
+msgstr "健康的で持続可能な"
+
+#: docs/en/about/history.md:35
+#, fuzzy
+msgid "It's also important to make sure that the community is accessible and sustainable. It's unfortunately become an accepted part of Open Source culture that \"true\" Open Source projects have to be developed entirely by volunteers. This acts as a barrier to entry for many groups - the only people able to spend their free time volunteering are those that *have* free time."
+msgstr "コミュニティがアクセスしやすく持続可能なものであることも重要です。残念ながら、オープンソース文化では「真の」オープンソースプロジェクトは完全にボランティアによって開発されなければならないという考えが受け入れられてしまいました。これは多くのグループにとって参入障壁となっています——自由な時間をボランティア活動に費やせるのは、*自由な時間がある*人々だけだからです。"
+
+#: docs/en/about/history.md:37
+#, fuzzy
+msgid "It also frequently leads to burnout and other mental health issues amongst contributors. The fact that depression, anxiety, and burnout are so common in software development communities shouldn't be considered a badge of honor, or a demonstration of how committed a development team can be. It's a problem that needs to be tackled head on, and addressed in the same way a software bug would be addressed - with immediate workarounds, and long term plans to remove the systemic cause of the problem."
+msgstr "また、貢献者たちの間で燃え尽き症候群やその他のメンタルヘルス問題を引き起こすことも頻繁にある。ソフトウェア開発コミュニティにおいてうつ病、不安、燃え尽き症候群がこれほど一般的であるという事実は、栄誉の証とみなされるべきでもなければ、開発チームの献身的な姿勢を示すものとも考えられるべきではない。 これは正面から取り組むべき問題であり、ソフトウェアのバグに対処するのと同じ方法で対処すべきです。つまり、即時の回避策と、問題の根源的な原因を取り除くための長期的な計画が必要です。"
+
+#: docs/en/about/history.md:39
+#, fuzzy
+msgid "While we place incredible value on the contributions of volunteers, we also know that volunteer efforts alone aren't the way to develop a healthy and sustainable community. For that reason, financial sustainability is a key consideration in the operation of the BeeWare project. As a community, we don't ignore the role that money has to play in providing the resources that allows people to begin and continue to contribute. We will, as a community, provide accepted mechanisms for individuals to monetize their work in meaningful ways, and wherever possible, compensate people for their work - without compromising the ideals of Open Source development."
+msgstr "ボランティアの貢献を非常に高く評価している一方で、健全で持続可能なコミュニティを築くにはボランティア活動だけでは不十分であることも認識しています。そのため、BeeWareプロジェクトの運営において財政的持続可能性は重要な考慮事項です。コミュニティとして、人々が貢献を始め続けられるよう資源を提供する上で資金が果たす役割を無視しません。 コミュニティとして、個人が自らの仕事を意味ある形で収益化できる仕組みを提供し、可能な限り、オープンソース開発の理念を損なうことなく、その仕事に対して報酬を支払います。"
+
+#: docs/en/about/history.md:41
+#, fuzzy
+msgid "The goal"
+msgstr "目標"
+
+#: docs/en/about/history.md:43 docs/en/about/overview.md:5
+#, fuzzy
+msgid "The end goal of the BeeWare project: To be able to do for mobile and desktop user-facing software the same thing that Django has done for web software - to put into the hands of users a set of tools and libraries that enables them to develop rich, native user interfaces, and deploy them to their devices. This includes:"
+msgstr "BeeWareプロジェクトの最終目標：モバイルおよびデスクトップ向けユーザー向けソフトウェアにおいて、Djangoがウェブソフトウェアで成し遂げたのと同じことを実現すること。つまり、ユーザーがリッチでネイティブなユーザーインターフェースを開発し、自身のデバイスにデプロイできるツールとライブラリのセットをユーザーの手中に置くことです。これには以下が含まれます："
+
+#: docs/en/about/history.md:45 docs/en/about/overview.md:7
+#, fuzzy
+msgid "Tools to enable Python to run on different devices,"
+msgstr "Pythonを異なるデバイス上で実行可能にするツール"
+
+#: docs/en/about/history.md:46
+#, fuzzy
+msgid "Tools to package a Python project so it can run on those devices,"
+msgstr "Pythonプロジェクトをそれらのデバイス上で実行可能にするためのパッケージ化ツール"
+
+#: docs/en/about/history.md:47 docs/en/about/overview.md:9
+#, fuzzy
+msgid "Libraries to access the native widgets and capabilities of devices,"
+msgstr "デバイスのネイティブウィジェットと機能にアクセスするためのライブラリ"
+
+#: docs/en/about/history.md:48
+#, fuzzy
+msgid "Tools to help develop, debug, analyze and these projects."
+msgstr "これらのプロジェクトの開発、デバッグ、分析を支援するツール。"
+
+#: docs/en/about/history.md:50
+#, fuzzy
+msgid "This aim is that this set of tools will be easy enough to use for complete newcomers to use in a Django Girls-like setting; but powerful enough that they could be used to drive the next Instagram, Pinterest or Disqus."
+msgstr "このツールセットの目的は、Django Girlsのような環境で完全な初心者でも簡単に使用できるほど扱いやすく、かつ次世代のInstagram、Pinterest、Disqusを駆動できるほど強力であることです。"
+
+#: docs/en/about/history.md:52
+#, fuzzy
+msgid "Most importantly, it aims to do all this as an Open Source community. The Open Source development process has proven itself to be the most reliable way to develop robust and reliable software, and the fact that anyone can access the software means that everyone can start with the same set of excellent tools, be they expert or enthusiastic amateur."
+msgstr "最も重要なのは、これらすべてをオープンソースコミュニティとして実現することを目指している点です。オープンソース開発プロセスは、堅牢で信頼性の高いソフトウェアを開発する最も確実な方法であることが実証されています。また、誰もがソフトウェアにアクセスできるという事実は、専門家であれ熱心なアマチュアであれ、誰もが同じ優れたツール群から始められることを意味します。"
+
+#: docs/en/about/history.md:54
+#, fuzzy
+msgid "Python everywhere"
+msgstr "Pythonは至る所に"
+
+#: docs/en/about/history.md:56
+#, fuzzy
+msgid "A modern computing project can't ignore the biggest development in computing of the last 10 years. Python prides itself on being a cross-platform language. 10 years ago, being cross-platform meant being available for Windows, macOS and Linux. These days, mobile computing is much more important. Despite this, there aren't many good options for Python programming on mobile platforms, and cross-platform mobile coding is still elusive."
+msgstr "現代のコンピューティングプロジェクトは、過去10年間でコンピューティング分野における最大の進展を無視できない。Pythonはクロスプラットフォーム言語であることを誇りとしている。10年前、クロスプラットフォームであるということは、Windows、macOS、Linuxで利用可能であることを意味していた。今日では、モバイルコンピューティングがはるかに重要になっている。それにもかかわらず、モバイルプラットフォームでのPythonプログラミングに適した選択肢は多くなく、クロスプラットフォームのモバイルコーディングは依然として実現が難しい。"
+
+#: docs/en/about/history.md:58
+#, fuzzy
+msgid "BeeWare embraces mobile and other emerging platforms (like watches and set-top-boxes) as a first class citizen of the computing ecosystem - because if people have these devices, why shouldn't they be able to write software for them in Python."
+msgstr "BeeWareは、モバイルやその他の新興プラットフォーム（スマートウォッチやセットトップボックスなど）をコンピューティングエコシステムの第一級の構成要素として受け入れます。なぜなら、人々がこれらのデバイスを持っているなら、Pythonでそれら向けのソフトウェアを書けるべきではないでしょうか。"
+
+#: docs/en/about/history.md:60
+#, fuzzy
+msgid "Native everywhere"
+msgstr "どこでもネイティブ"
+
+#: docs/en/about/history.md:62
+#, fuzzy
+msgid "It's easy to use themes to achieve cross-platform. However, it's easy to spot apps that have been built using themes - they're the ones that don't behave quite like any other app. Widgets don't look *quite* right, or there's a menu bar on a window in an OS X app. Themes can get quite close - but there are always telltale signs."
+msgstr "テーマを使えばクロスプラットフォーム化は容易だ。しかし、テーマで構築されたアプリは見抜かれやすい——他のアプリとは明らかに動作が異なるからだ。ウィジェットの見た目が*少し*おかしい、あるいはOS Xアプリにウィンドウ上のメニューバーがあるなど。テーマはかなり近づけるが、常に決定的な手がかりが残る。"
+
+#: docs/en/about/history.md:64
+#, fuzzy
+msgid "On top of that, native widgets are always faster than a themed generic widget. After all, you're using native system capability that has been tuned and optimized, not a drawing engine that's been layered on top of a generic widget."
+msgstr "さらに、ネイティブウィジェットは常にテーマ化された汎用ウィジェットよりも高速です。結局のところ、汎用ウィジェットの上に重ねられた描画エンジンではなく、調整と最適化が施されたネイティブのシステム機能を利用しているのですから。"
+
+#: docs/en/about/history.md:66
+#, fuzzy
+msgid "Themes also miss many of the accessibility benefits of native platforms. Modern OS authors spend a lot of time tuning affordances for people with impaired mobility, vision or cognition. If you use native widgets, you usually get these affordances for free. If you reimplement widgets with a theme, you also have to re-implement the affordances."
+msgstr "テーマはネイティブプラットフォームのアクセシビリティ上の利点の多くも欠いています。現代のOS開発者は、運動機能・視覚・認知に障害のあるユーザー向けに操作のしやすさを調整するのに多くの時間を費やしています。ネイティブウィジェットを使用すれば、通常これらの操作のしやすさは自動的に得られます。テーマでウィジェットを再実装する場合、操作のしやすさも再実装する必要があります。"
+
+#: docs/en/about/history.md:68
+#, fuzzy
+msgid "BeeWare uses native widgets and native functionality, rather than using a theme-based approach to application development."
+msgstr "BeeWareは、アプリケーション開発においてテーマベースのアプローチではなく、ネイティブウィジェットとネイティブ機能を使用します。"
+
+#: docs/en/about/history.md:70
+#, fuzzy
+msgid "Python native"
+msgstr "Pythonネイティブ"
+
+#: docs/en/about/history.md:72
+#, fuzzy
+msgid "BeeWare is also an unapologetically \"Python first\" framework. We like Python. We like the way it looks, and the way it works. If Python isn't available as a first-class option on a particular platform, we'll do whatever is necessary to make Python available as a development language. And when we have the opportunity to embrace Python idiom for an API or a design, we're going to do just that. That means we're going to use generators, context managers, `yield from` asynchronous calls, and more, in order to provide the best Python-native API for cross-platform app development."
+msgstr "BeeWareはまた、臆することなく「Pythonファースト」を掲げるフレームワークです。私たちはPythonが好きです。その見た目も、その動作も気に入っています。特定のプラットフォームでPythonが第一級の選択肢として利用できない場合、開発言語としてPythonを利用可能にするために必要なことは何でも行います。 APIや設計においてPythonのイディオムを採用できる機会があれば、私たちはそれを積極的に取り入れます。つまり、ジェネレータ、コンテキストマネージャ、`yield from`による非同期呼び出しなどを活用し、クロスプラットフォームアプリ開発向けに最高のPythonネイティブAPIを提供することを意味します。"
+
+#: docs/en/about/history.md:74
+#, fuzzy
+msgid "We're also looking to the future - this means that we support Python 3 exclusively."
+msgstr "私たちは未来を見据えています。つまり、Python 3のみをサポートします。"
+
+#: docs/en/about/history.md:76
+#, fuzzy
+msgid "Native experience"
+msgstr "ネイティブ体験"
+
+#: docs/en/about/history.md:78
+#, fuzzy
+msgid "The experience of using any tool starts with the installation process. Part of BeeWare's \"Native everywhere\" philosophy is adopting appropriate native mechanisms for installation. If you're using a user-space tool, it should be presented to you as a package that is to be installed in the same way you would install any other tool - be that through an app store, an installer, or a simple executable package. End users shouldn't know that you've written the application in Python."
+msgstr "ツールの使用体験は、インストールプロセスから始まります。 BeeWareの「あらゆる環境でネイティブ」という理念の一環として、インストールには適切なネイティブメカニズムを採用しています。ユーザースペースツールを使用する場合、それは他のツールと同様の方法でインストールされるパッケージとして提供されるべきです。つまり、アプリストア、インストーラ、あるいは単純な実行可能パッケージを通じてインストールされるのです。エンドユーザーは、そのアプリケーションがPythonで書かれていることを知る必要はありません。"
+
+#: docs/en/about/index.md:1
+#, fuzzy
+msgid "About BeeWare { #about }"
+msgstr "BeeWareについて { #about }"
+
+#: docs/en/about/index.md:3
+#, fuzzy
+msgid "[What is BeeWare?]{1}"
+msgstr "[BeeWareとは何ですか？]{1}"
+
+#: docs/en/about/index.md:5
+#, fuzzy
+msgid "A first-timer's [introduction]{1} to the BeeWare project."
+msgstr "BeeWareプロジェクトの初心者向け[入門ガイド]{1}。"
+
+#: docs/en/about/index.md:7
+#, fuzzy
+msgid "[History and philosophy]{1}"
+msgstr "[歴史と哲学]{1}"
+
+#: docs/en/about/index.md:9
+#, fuzzy
+msgid "The [history and philosophy]{1} of the BeeWare project."
+msgstr "BeeWareプロジェクトの[歴史と理念]{1}。"
+
+#: docs/en/about/index.md:11
+#, fuzzy
+msgid "[The Bee Team]{1}"
+msgstr "[ザ・ビー・チーム]{1}"
+
+#: docs/en/about/index.md:13
+#, fuzzy
+msgid "The [core team]{1} behind BeeWare development."
+msgstr "BeeWare開発を支える[コアチーム]{1}。"
+
+#: docs/en/about/index.md:15
+#, fuzzy
+msgid "[Contact]{1}"
+msgstr "[お問い合わせ]{1}"
+
+#: docs/en/about/index.md:17
+#, fuzzy
+msgid "How to get in [contact]{1} with the team."
+msgstr "チームに連絡を取る方法。"
+
+#: docs/en/about/index.md:19
+#, fuzzy
+msgid "[Branding guidelines]{1}"
+msgstr "[ブランディングガイドライン]{1}"
+
+#: docs/en/about/index.md:21
+#, fuzzy
+msgid "Interested in using the BeeWare logo? These are the [branding guidelines]{1}."
+msgstr "BeeWareのロゴの使用にご興味がありますか？こちらが[ブランディングガイドライン]{1}です。"
+
+#: docs/en/about/overview.md:1
+#, fuzzy
+msgid "What is BeeWare? { #what-is-beeware }"
+msgstr "BeeWareとは何ですか？ { #what-is-beeware }"
+
+#: docs/en/about/overview.md:3
+#, fuzzy
+msgid "Python has proven itself as a highly capable language - approachable for newcomers, but powerful in the hands of experts. The BeeWare Project aims to take the power of Python as a language, and use it to enable users of all skill levels to develop applications with native user interfaces."
+msgstr "Pythonは、初心者にも親しみやすく、一方で専門家が扱うと強力な言語としてその能力を証明してきました。BeeWareプロジェクトは、Pythonという言語の力を活用し、あらゆるスキルレベルのユーザーがネイティブなユーザーインターフェースを備えたアプリケーションを開発できるようにすることを目指しています。"
+
+#: docs/en/about/overview.md:8
+#, fuzzy
+msgid "Tools to package a Python project, so it can run on those devices,"
+msgstr "Pythonプロジェクトをパッケージ化するツール。これにより、それらのデバイス上で実行可能となる。"
+
+#: docs/en/about/overview.md:10
+#, fuzzy
+msgid "Tools to help develop, debug, analyze and deploy these projects."
+msgstr "これらのプロジェクトの開発、デバッグ、分析、およびデプロイを支援するツール。"
+
+#: docs/en/about/overview.md:12
+#, fuzzy
+msgid "The aim is that this set of tools will be easy enough to use for complete newcomers to use in a Django Girls-like setting; but powerful enough that they could be used to drive the next Instagram, Pinterest or Disqus."
+msgstr "このツールセットの目的は、Django Girlsのような環境で完全な初心者でも簡単に使用できるほど扱いやすく、かつ次のInstagram、Pinterest、Disqusを生み出すのに十分なほど強力であることです。"
+
+#: docs/en/about/overview.md:14
+#, fuzzy
+msgid "We're not just about software, though. We also aim to be a project with a social conscience. We aim to develop and maintain a diverse and inclusive community, and we have a Code of Conduct that is rigorously enforced. We also aspire to develop a healthy and sustainable community - one that is aware of mental health issues of its participants, and provides the resources for people to start engaging, and continue to engage with the community."
+msgstr "ただし、私たちは単なるソフトウェア開発だけではありません。社会的責任を自覚したプロジェクトを目指しています。多様性と包摂性を備えたコミュニティの構築と維持を志し、厳格に施行される行動規範を設けています。さらに、健全で持続可能なコミュニティの育成を志向しています。それは参加者のメンタルヘルス問題を認識し、人々がコミュニティへの関与を開始し、継続するためのリソースを提供するものです。"
+
+#: docs/en/about/overview.md:16
+#, fuzzy
+msgid "Meet Brutus"
+msgstr "ブルータスに会おう"
+
+#: docs/en/about/overview.md:20
+#, fuzzy
+msgid "Brutus the Bee is the mascot of the BeeWare project. He's a busy little worker bee."
+msgstr "ブルータス・ザ・ビーはBeeWareプロジェクトのマスコットです。彼は働き者の小さなミツバチです。"
+
+#: docs/en/about/overview.md:22
+#, fuzzy
+msgid "Fun fact: a person who keeps bees is called an **apiarist** - a name that the BeeWare project uses to describe the core team. This also reflects the relationship that the core team wishes to have with the community - we're shepherds of the community, and we'll provide direction, but we know the real work is done by the community as a whole."
+msgstr "豆知識：養蜂家は**アピアリスト**と呼ばれます。BeeWareプロジェクトでは、この名称を中核チームを指す言葉として採用しています。これは中核チームがコミュニティと築きたい関係性も反映しています——私たちはコミュニティの導き手であり、方向性を示す役割を担いますが、真の成果はコミュニティ全体によって生み出されることを理解しています。"
+
+#: docs/en/about/overview.md:24
+#, fuzzy
+msgid "Where to from here?"
+msgstr "これからどこへ行く？"
+
+#: docs/en/about/overview.md:26
+#, fuzzy
+msgid "You can learn more about the [history and philosophy]{1} of BeeWare."
+msgstr "BeeWareの[歴史と理念]{1}について詳しく知ることができます。"
+
+#: docs/en/about/overview.md:28
+#, fuzzy
+msgid "If you'd like to take BeeWare for a test drive, [try our tutorial]{1}."
+msgstr "BeeWareを試してみたい方は、[チュートリアルをお試しください]{1}。"
+
+#: docs/en/about/overview.md:30
+#, fuzzy
+msgid "If you'd like to keep up to date with what we're doing, follow [@beeware@fosstodon.org]{1} on Mastodon. If you'd like to receive updates, hints, tips and announcements about the BeeWare project, [sign up for the BeeWare Enthusiasts mailing list]{2}."
+msgstr "私たちの活動の最新情報を入手したい場合は、Mastodonで[@beeware@fosstodon.org]{1}をフォローしてください。BeeWareプロジェクトに関する更新情報、ヒント、コツ、お知らせを受け取りたい場合は、[BeeWare愛好家メーリングリストに登録する]{2}。"
+
+#: docs/en/about/team.md:1
+#, fuzzy
+msgid "The Bee Team { #the-bee-team }"
+msgstr "ビーチーム { #the-bee-team }"
+
+#: docs/en/about/team.md:3
+msgid "{{ generate_team_page(team, page) }}"
+msgstr "{{ generate_team_page(team, page) }}"
+
+#: docs/en/about/team/cflee.md:1
+#, fuzzy
+msgid "Chiang Fong{1} has been pretending to be a systems administrator since the {2}Mandriva{3} Linux days, and has recently moved into acting like he knows how to write software."
+msgstr "Chiang Fong{1}は{2}Mandriva{3} Linuxの時代からシステム管理者を装っており、最近ではソフトウェアの書き方を知っているかのように振る舞うようになった。"
+
+#: docs/en/about/team/cflee.md:3
+#, fuzzy
+msgid "When not poking at code to {1}de-stress{2}, he spends his time fiddling with fountain pens and mechanical keyboards. He has yet to learn the lesson of not mixing inky fingers with pretty keycaps."
+msgstr "コードをいじって{1}ストレス解消{2}しない時は、万年筆やメカニカルキーボードをいじっている。インクまみれの指で美しいキーキャップを触ってはいけないという教訓を、まだ学べていない。"
+
+#: docs/en/about/team/danyeaw.md:1
+#, fuzzy
+msgid "Dan leads teams to design safety in to complex automotive and mobility systems, and dreams of using BeeWare tools to help model these systems."
+msgstr "ダンはチームを率いて複雑な自動車およびモビリティシステムに安全性を組み込む設計を行い、BeeWareツールを用いてこれらのシステムをモデル化する支援を夢見ている。"
+
+#: docs/en/about/team/danyeaw.md:3
+#, fuzzy
+msgid "When not hacking on open source projects, Dan likes to hang with his kids, brew beer, and play soccer."
+msgstr "オープンソースプロジェクトの開発をしていない時は、ダンは子供たちと過ごすことや、ビールを醸造すること、サッカーをすることが好きです。"
+
+#: docs/en/about/team/eliasdorneles.md:1
+#, fuzzy
+msgid "Elias is a certified yak-shaver. He likes to fiddle with Python and open source stuff. At home, he likes to read, cook and to play Beatles songs on his guitar."
+msgstr "エリアスは公認のヤクシェーバーだ。Pythonやオープンソース関連のいじくり回すのが好きだ。家では読書や料理、ギターでビートルズの曲を弾くのが趣味だ。"
+
+#: docs/en/about/team/eliasdorneles.md:3
+#, fuzzy
+msgid "Elias gets by with a little help from his friends."
+msgstr "エリアスは友達の助けを借りて何とかやりくりしている。"
+
+#: docs/en/about/team/flowerncsu.md:1
+#, fuzzy
+msgid "Charlotte has been coding for more years than she likes to admit, and has a passion for building cool things and helping other people learn how to build cool things. She is among the organizers of PyLadies {1}RDU{2}, and can often be found making things out of yarn when not making things out of code."
+msgstr "シャーロットは認めたくないほど長年プログラミングを続けており、クールなものを作り上げることに情熱を注ぐと同時に、他の人々がクールなものを作る方法を学ぶ手助けをすることに喜びを感じています。PyLadies {1}RDU{2}の主催者の一人でもあり、コードで何かを作っていない時は、よく毛糸で何かを作っている姿を見かけます。"
+
+#: docs/en/about/team/freakboy3742.md:1
+#, fuzzy
+msgid "Dr Russell Keith-Magee is the founder of the BeeWare project. He joined the Django core team in 2006, and for 5 years, was President of the Django Software Foundation. He has been a member of the CPython core team since May 2024."
+msgstr "ラッセル・キース＝マギー博士はBeeWareプロジェクトの創設者です。2006年にDjangoコアチームに参加し、5年間Djangoソフトウェア財団の会長を務めました。2024年5月よりCPythonコアチームのメンバーです。"
+
+#: docs/en/about/team/freakboy3742.md:3
+#, fuzzy
+msgid "Russell is a Principal Software Engineer in the Open Source group at [Anaconda]{1} [(a BeeWare Gold sponsor)]{2}."
+msgstr "ラッセルは、[Anaconda]{1}（BeeWareのゴールドスポンサー）のオープンソースグループにおける主任ソフトウェアエンジニアです。"
+
+#: docs/en/about/team/glasnt.md:1
+#, fuzzy
+msgid "Katie has worn many different hats over the years. They have previously been a software developer for many languages, systems administrator for multiple operating systems, and speaker on many different topics."
+msgstr "ケイティはこれまで様々な役割を担ってきました。以前は複数のプログラミング言語のソフトウェア開発者、複数のオペレーティングシステムのシステム管理者、そして様々なトピックの講演者として活動していました。"
+
+#: docs/en/about/team/glasnt.md:3
+#, fuzzy
+msgid "When they're not changing the world, they enjoy cooking, making tapestries, and seeing just how well various application stacks handle emoji."
+msgstr "世界を動かしていない時は、料理やタペストリー作りを楽しんだり、様々なアプリケーションスタックが絵文字をどれだけ上手く処理できるか試したりしています。"
+
+#: docs/en/about/team/halfwhitt.md:1
+#, fuzzy
+msgid "As a comic artist, machinist, welder, carpenter, and programmer, Charles has worn many hats (but more commonly sticks to a bandana). If they're not building theater sets for a living or chasing yaks ever downward through Toga and Travertino, they're probably building yet another shelving or other storage unit in their house."
+msgstr "漫画家、機械工、溶接工、大工、プログラマーとして、チャールズは多くの役割を担ってきた（とはいえ、普段はバンダナを巻いていることが多い）。生計を立てるために劇場のセットを作ったり、トガやトラヴェルティーノでヤクを追いかけて下り坂を駆け下りたりしていない時は、おそらく自宅でもう一つの棚や収納ユニットを作っているところだろう。"
+
+#: docs/en/about/team/hawkowl.md:1
+#, fuzzy
+msgid "Amber Brown pretends to be an owl on the internet. When she's not releasing or working on Twisted, she works on software for various commercial and non-profit companies. She's so good at talking endlessly about Twisted that Russell even once invited her to keynote on it."
+msgstr "アンバー・ブラウンはネット上でフクロウのふりをしている。Twistedのリリースや開発に携わっていない時は、様々な営利・非営利団体のソフトウェア開発に従事している。Twistedについて延々と語ることにかけては右に出る者がおらず、ラッセルが基調講演に招いたこともあるほどだ。"
+
+#: docs/en/about/team/hawkowl.md:3
+#, fuzzy
+msgid "Also, she likes people tweeting pictures of owls at her."
+msgstr "また、彼女はフクロウの写真をツイートして送ってくれるのが好きだ。"
+
+#: docs/en/about/team/kattni.md:1
+#, fuzzy
+msgid "Kattni is a creator, community leader, programmer, technical writer, maker, photographer, intermittent chef, classically trained vocalist, air plant cultivator, and fledgling synth nerd. She is passionate about building communities, learning, mentoring, and sharing her knowledge in an approachable way. She will always have a special place in her heart for making things blinky and bright. She is tolerated by a cat and three kittens who continue to let her live with them."
+msgstr "カットニはクリエイター、コミュニティリーダー、プログラマー、テクニカルライター、メイカー、写真家、時折料理人、クラシック声楽の訓練を受けた歌手、エアプランツ栽培家、そして駆け出しのシンセオタクである。彼女はコミュニティ構築、学び、メンタリング、そして親しみやすい方法で知識を共有することに情熱を注いでいる。光るものや明るいものを作ることは、彼女の心にいつも特別な場所を占めている。彼女は一匹の猫と三匹の子猫に許され、彼らと共に暮らすことを許されている。"
+
+#: docs/en/about/team/mhsmith.md:1
+#, fuzzy
+msgid "Malcolm is the creator of Chaquopy, which aims to make it as easy as possible to use Python in Android apps. With BeeWare, he's now looking forward to expanding that mission to all desktop and mobile platforms."
+msgstr "マルコムはChaquopyの創始者であり、AndroidアプリでPythonを可能な限り簡単に使用できるようにすることを目指しています。BeeWareを通じて、彼は今やその使命を全てのデスクトップおよびモバイルプラットフォームへ拡大することを楽しみにしています。"
+
+#: docs/en/about/team/mhsmith.md:3
+#, fuzzy
+msgid "Malcolm is a Senior Software Engineer in the Open Source group at [Anaconda]{1} [(a BeeWare Gold sponsor)]{2}."
+msgstr "マルコムは、[Anaconda]{1}（BeeWareのゴールドスポンサー）のオープンソースグループに所属するシニアソフトウェアエンジニアです。"
+
+#: docs/en/about/team/obulat.md:1
+#, fuzzy
+msgid "Olga is a python and BeeWare enthusiast, also interested in {1}NLP{2}, geography and languages."
+msgstr "オルガはPythonとBeeWareの愛好家で、{1}自然言語処理{2}、地理学、言語にも興味を持っています。"
+
+#: docs/en/about/team/obulat.md:3
+#, fuzzy
+msgid "She also enjoys hanging out with kids."
+msgstr "彼女は子供たちと遊ぶのも好きだ。"
+
+#: docs/en/about/team/phildini.md:1
+#, fuzzy
+msgid "Philip writes code for computers and for humans. His first computing love is Python, but is too often forced to write JavaScript and Swift. When he's not writing code for money or for Open Source or for his own crazy projects, he gives talks at conferences. Philip lives in {1}Alameda{2}, California with his wife and her cat. Philip believes in the web."
+msgstr "フィリップはコンピュータと人間のためにコードを書く。彼の最初のコンピューティング愛はPythonだが、あまりにも頻繁にJavaScriptやSwiftを書くことを強いられる。金銭目的やオープンソース、あるいは自身の奇抜なプロジェクトのためにコードを書いていない時は、カンファレンスで講演を行う。フィリップは妻とその猫と共にカリフォルニア州アラメダに住んでいる。フィリップはウェブを信じている。"
+
+#: docs/en/about/team/rmartin16.md:1
+#, fuzzy
+msgid "Russell is a tinkerer and aspiring creator. He fell in love with python years ago and wants to see apps built with it everywhere. If he isn't writing code, he's probably falling down a Wikipedia rabbit hole or playing sysadmin to his bloated home lab."
+msgstr "ラッセルは物作り好きで、将来はクリエイターを目指している。何年も前にPythonに魅了され、あらゆる場所でPythonで構築されたアプリを見たいと願っている。コードを書いていない時は、おそらくウィキペディアの深みにハマっているか、肥大化した自宅ラボのシステム管理者として遊んでいる。"
+
+#: docs/en/about/team/samschott.md:1
+#, fuzzy
+msgid "Sam is a physicist and a software engineer. He got introduced to Python while automating data acquisition in the lab and soon realized that he enjoyed writing and sharing code. When away from a computer, you will find him hiking or sailing along the English coast."
+msgstr "サムは物理学者でありソフトウェアエンジニアです。研究室でのデータ収集の自動化に取り組む中でPythonと出会い、すぐにコードを書くことや共有することに喜びを見出しました。コンピューターから離れている時は、イングランドの海岸沿いをハイキングしたりセーリングしたりしている姿が見られるでしょう。"
+
+#: docs/en/about/team/saroad2.md:1
+#, fuzzy
+msgid "Sagi Shadur{1} is a software engineer and a mathematician. He has a B.Sc. in mathematics and these days he's on his way for a second B.Sc. in physics. He's also a poet who published two books in Hebrew, \"Mountains and Valleys\" and \"The Emissary\"."
+msgstr "サギ・シャドゥール{1}はソフトウェアエンジニアであり数学者である。数学の学士号を取得しており、現在は物理学の第二の学士号取得を目指している。また詩人としても活動し、ヘブライ語で『山と谷』と『使者』の二冊の詩集を出版している。"
+
+#: docs/en/about/team/swenson.md:1
+#, fuzzy
+msgid "Dr. Christopher Swenson is a software engineer, computer scientist, and occasional mathematician. Swenson has been working with Python since about 2004, and involved in open source since before knowing what open source really was. Swenson likes sorting a lot, and maintains an open source high-performance C sorting library. Swenson has sold their labor to companies big and small, such as Simple, Google, and the US Government, and wrote a book on cryptography. Swenson is an organizer of PyDX. Swenson is a cupcake."
+msgstr "クリストファー・スウェンソン博士はソフトウェアエンジニア、コンピュータ科学者、そして時折数学者でもある。スウェンソンは2004年頃からPythonを扱い始め、オープンソースの本質を理解する以前からオープンソース活動に関わってきた。 スウェンソンはソートを非常に好み、オープンソースの高性能C言語ソートライブラリを維持管理している。Simple、Google、米国政府など大小様々な企業に労働力を提供し、暗号学に関する書籍も執筆した。PyDXの主催者の一人でもある。スウェンソンはカップケーキである。"
+
+#: docs/en/community/code-of-conduct.md:3 docs/en/community/code-of-conduct.md:7
+#, fuzzy
+msgid "-8<-"
+msgstr "-8<-"
+
+#: docs/en/community/code-of-conduct.md:5
+#, fuzzy
+msgid "https://raw.githubusercontent.com/beeware/.github/refs/heads/main/CODE_OF_CONDUCT.md"
+msgstr "https://raw.githubusercontent.com/beeware/.github/refs/heads/main/CODE_OF_CONDUCT.md"
+
+#: docs/en/community/governance.md:1
+#, fuzzy
+msgid "Governance { #governance }"
+msgstr "ガバナンス { #governance }"
+
+#: docs/en/community/governance.md:3
+#, fuzzy
+msgid "Those busy bees on the [Core Team]{1} have a number of responsibilities to keep the hive that is BeeWare moving. This is an evolving project, so this page is subject to change."
+msgstr "[コアチーム]{1}の働き者たちは、BeeWareという巣箱を動かすために数多くの責任を担っています。これは進化を続けるプロジェクトであるため、このページは変更される可能性があります。"
+
+#: docs/en/community/governance.md:5
+#, fuzzy
+msgid "These include, but aren't limited to, responding to issues, reviewing and merging code, mentoring new contributors, and architecture of the BeeWare project as a whole."
+msgstr "これには、問題への対応、コードのレビューとマージ、新規貢献者への指導、BeeWareプロジェクト全体のアーキテクチャなどが含まれますが、これらに限定されるものではありません。"
+
+#: docs/en/community/governance.md:7
+#, fuzzy
+msgid "There are people we trust to make code decisions; there are people we trust to make code and organizational decisions; and there is a person who guides the vision of the whole organization, and is entrusted to make a final decision if the community cannot arrive at a consensus."
+msgstr "コードに関する決定を任せる人々がいる。コードと組織に関する決定を任せる人々がいる。そして組織全体のビジョンを導き、コミュニティが合意に至れない場合に最終決定を下すことを託された人物がいる。"
+
+#: docs/en/community/governance.md:9
+#, fuzzy
+msgid "Team seniority"
+msgstr "チームの年功序列"
+
+#: docs/en/community/governance.md:11
+#, fuzzy
+msgid "The different levels of seniority in the BeeWare project are:"
+msgstr "BeeWareプロジェクトにおける異なるレベルのシニアリティは以下の通りです："
+
+#: docs/en/community/governance.md:13
+#, fuzzy
+msgid "Bee, or Worker Bee"
+msgstr "蜂、または働き蜂"
+
+#: docs/en/community/governance.md:15
+#, fuzzy
+msgid "Any member of the BeeWare community. Given we work in the open on GitHub, anyone can suggest changes to the code and have their code merged. The only limit to your ability to contribute is having your work merged by a team member with the rights to do so."
+msgstr "BeeWareコミュニティのあらゆるメンバー。GitHub上でオープンに作業しているため、誰でもコードへの変更を提案でき、自身のコードをマージできます。貢献する能力に対する唯一の制限は、マージ権限を持つチームメンバーによって作業がマージされることです。"
+
+#: docs/en/community/governance.md:17
+#, fuzzy
+msgid "Apiarist"
+msgstr "養蜂家"
+
+#: docs/en/community/governance.md:19
+#, fuzzy
+msgid "A bee who has been recognized as a trusted contributor. These bees have demonstrated ability in relation to a specific part of the BeeWare project over a period of time. This could be on a technical level (JavaScript, Python, Objective-C expertise; GTK+, macOS knowledge), or on another level (community management, code review). Apiarists may also have the commit bit for the project where their expertise is recognized."
+msgstr "信頼できる貢献者として認められたビー。これらのビーは、一定期間にわたりBeeWareプロジェクトの特定分野において能力を発揮してきました。技術面（JavaScript、Python、Objective-Cの専門知識；GTK+、macOSの知識）でも、その他の面（コミュニティ管理、コードレビュー）でも可能です。養蜂家は、自身の専門性が認められたプロジェクトにおいてコミット権限を持つ場合もあります。"
+
+#: docs/en/community/governance.md:21
+#, fuzzy
+msgid "Senior Apiarists"
+msgstr "上級養蜂家"
+
+#: docs/en/community/governance.md:23
+#, fuzzy
+msgid "Apiarists with elevated access in GitHub, and also an added level of responsibility to oversee the project as a whole. They are able to make architectural decisions, but ultimately answer to the BDFN."
+msgstr "GitHubで高権限を持つ養蜂家であり、プロジェクト全体を監督する追加の責任を負う。アーキテクチャ上の決定を下す権限を持つが、最終的にはBDFNに報告する。"
+
+#: docs/en/community/governance.md:25
+#, fuzzy
+msgid "Bee-nevolent Dictator for Now (BDFN)"
+msgstr "現時点での蜂の独裁者（BDFN）"
+
+#: docs/en/community/governance.md:27
+#, fuzzy
+msgid "A take on [Benevolent Dictator for Life]{1}, responsibility for the direction and decisions of the project ultimately lies with the BDFN. The use of \"For Now\" as opposed to \"For Life\" is reference to the Django theme of not subjecting the responsibilities of core maintainer for a person's entire natural life. Life exists outside open source, and code/life balance and general well-being is a very important thing to keep in mind."
+msgstr "[終身善意独裁者]（BDFN）の概念に基づき、プロジェクトの方向性と決定に関する責任は最終的にBDFNが負います。「終身」ではなく「現時点」という表現を用いたのは、Djangoの理念である「コアメンテナの責任を個人の自然寿命全体に課さない」ことに由来します。 オープンソースの外にも人生は存在し、コードと生活のバランス、そして全般的な幸福は常に心に留めておくべき非常に重要なことです。"
+
+#: docs/en/community/governance.md:29
+#, fuzzy
+msgid "The BDFN of BeeWare is [Russell Keith-Magee]{1}."
+msgstr "BeeWareのBDFNは[ラッセル・キース＝マギー]{1}です。"
+
+#: docs/en/community/governance.md:31
+#, fuzzy
+msgid "Founding Apiarist"
+msgstr "創始養蜂家"
+
+#: docs/en/community/governance.md:33
+#, fuzzy
+msgid "The man that first stood on a hill and spied a yak that needed shaving. This role never changes, and continues ad infinitum; however, it doesn't inherently transfer any additional power in the organization. At present, the Founding Apiarist is also the BDFN; but this may change over time."
+msgstr "丘の上に初めて立ち、毛刈りが必要なヤクを見つけた男。この役割は決して変わらず、無限に続く。しかし、組織内で追加の権限が本質的に付与されるわけではない。現時点では、創設養蜂家（Founding Apiarist）がBDFN（Best Damn F***ing Nerd）も兼任しているが、これは時間の経過と共に変わる可能性がある。"
+
+#: docs/en/community/governance.md:35
+#, fuzzy
+msgid "Guidelines (not actual rules)"
+msgstr "ガイドライン（実際の規則ではない）"
+
+#: docs/en/community/governance.md:37
+#, fuzzy
+msgid "As with any project with more than one person with commit rights, there are a number of general guidelines that the team should follow:"
+msgstr "コミット権限を持つメンバーが複数いるプロジェクトでは、チームが従うべき一般的なガイドラインがいくつか存在します："
+
+#: docs/en/community/governance.md:39
+#, fuzzy
+msgid "**Be a good representation of the project to the wider community**"
+msgstr "**プロジェクトを広くコミュニティに適切に代表する存在となること**"
+
+#: docs/en/community/governance.md:40
+#, fuzzy
+msgid "**Treat every enquiry and contribution to any BeeWare project with respect**"
+msgstr "**BeeWareプロジェクトへのあらゆる問い合わせや貢献を敬意をもって扱うこと**"
+
+#: docs/en/community/governance.md:41
+#, fuzzy
+msgid "Assume everyone has good intentions, even if they haven't chosen their words well"
+msgstr "たとえ言葉遣いが適切でなくとも、誰もが善意を持っていると仮定せよ"
+
+#: docs/en/community/governance.md:42
+#, fuzzy
+msgid "Assume that if someone has done something the \"wrong\" way, it's because we've failed in communicating process"
+msgstr "誰かが何かを「間違った」方法でやった場合、それは我々がプロセスを伝えることに失敗したためだと仮定する"
+
+#: docs/en/community/governance.md:43
+#, fuzzy
+msgid "Assume any expression of anger or frustration comes from a genuine place of wanting to use a BeeWare tool/library"
+msgstr "怒りや不満の表現は、すべてBeeWareツール/ライブラリを活用したいという純粋な思いから来ていると仮定する"
+
+#: docs/en/community/governance.md:44
+#, fuzzy
+msgid "Encourage other members of the community to reflect these ideals in their own communications, both inside and outside the BeeWare community"
+msgstr "コミュニティの他のメンバーに対し、BeeWare・コミュニティ内外を問わず、自らのコミュニケーションにおいてこれらの理念を反映するよう促す"
+
+#: docs/en/community/governance.md:45
+#, fuzzy
+msgid "No Apiarist should commit their own code"
+msgstr "養蜂家は自身のコードをコミットすべきではない"
+
+#: docs/en/community/governance.md:45
+#, fuzzy
+msgid "Exception: \"Something is very broken and needs to be fixed now\""
+msgstr "例外: 「何かが深刻に壊れており、今すぐ修正が必要だ」"
+
+#: docs/en/community/governance.md:45 docs/en/community/governance.md:48
+#, fuzzy
+msgid "Exception: BDFN (this may change in the future)"
+msgstr "例外: BDFN（将来変更される可能性があります）"
+
+#: docs/en/community/governance.md:48
+#, fuzzy
+msgid "All code submitted for review by a core team member should be reviewed by another team member"
+msgstr "コアチームメンバーがレビューのために提出したすべてのコードは、別のチームメンバーによってレビューされるべきである"
+
+#: docs/en/community/governance.md:50
+#, fuzzy
+msgid "All code should pass Continuous Integration tests before being merged"
+msgstr "すべてのコードはマージされる前に継続的インテグレーションテストを通過すべきである"
+
+#: docs/en/community/governance.md:50
+#, fuzzy
+msgid "Exception: code that is known to be broken and needs to be committed for other reasons"
+msgstr "例外: 欠陥があると認識されているが、他の理由でコミットする必要があるコード"
+
+#: docs/en/community/governance.md:50
+#, fuzzy
+msgid "Exception: code in a repo with insufficient CI tests"
+msgstr "例外: CI テストが不十分なリポジトリ内のコード"
+
+#: docs/en/community/governance.md:50
+#, fuzzy
+msgid "Exception: Working and committed is better than perfect and not"
+msgstr "例外：完璧でなくとも、働き、献身的な方が良い"
+
+#: docs/en/community/governance.md:54
+#, fuzzy
+msgid "Acceptance processes should be automated wherever possible"
+msgstr "受入プロセスは可能な限り自動化すべきである"
+
+#: docs/en/community/governance.md:54
+#, fuzzy
+msgid "This means tests, linting, spell checking, coverage, and more"
+msgstr "これはテスト、リンティング、スペルチェック、カバレッジなどを意味します"
+
+#: docs/en/community/governance.md:57
+#, fuzzy
+msgid "Becoming an Apiarist"
+msgstr "養蜂家になること"
+
+#: docs/en/community/governance.md:59
+#, fuzzy
+msgid "Introduction of a new Apiarist into the team is at the sole discretion of the existing Core Team. While there are not currently any solid rules to this, in general, someone will be invited to be an Apiarist on a BeeWare project if they have demonstrated solid contributions to the project. This can also be extended to someone with specific domain knowledge (for example, iOS/macOS) which might be lacking in the existing team. It also doesn't have to be based on commits. Anyone who is able to demonstrate a vested interest in the project in general may ask to be given permission to commit to the project."
+msgstr "チームへの新たなApiaristの導入は、既存のコアチームの単独の裁量に委ねられています。現時点ではこれに関する確固たる規則は存在しませんが、一般的に、BeeWareプロジェクトへの確かな貢献を示した人物がApiaristとして招待されます。 また、既存チームに不足している特定の専門知識（例：iOS/macOS）を持つ人物にも適用されます。コミット数に基づく必要もありません。プロジェクト全体に対する強い関心を示せる人物であれば、誰でもプロジェクトへのコミット許可を申請できます。"
+
+#: docs/en/community/governance.md:61
+#, fuzzy
+msgid "All new apiarists will be 'inducted' (for lack of a better word) in the core values and guidelines of the project. A summary of the core values can be found [on the About page]{1}. Anyone who joins the team will be expected to uphold those values, and contribute to discussions about evolving those values over time."
+msgstr "新規養蜂家全員は、プロジェクトの核心的価値観と指針について「導入」（適切な言葉が見つからないため）されます。核心的価値観の概要は[Aboutページ]{1}でご確認いただけます。チームに参加する者は、これらの価値観を遵守し、時間の経過とともに価値観を進化させる議論に貢献することが求められます。"
+
+#: docs/en/community/governance.md:63
+#, fuzzy
+msgid "Any Apiarist, new or old, isn't expected to be the sole maintainer of any one thing. There are many apiarists, and many more beside who can offer help, advice and mentorship."
+msgstr "養蜂家であれば、新米であろうとベテランであろうと、何か一つのことを単独で維持管理することを求められているわけではありません。多くの養蜂家が存在し、さらに多くの支援者や助言者、指導者が存在します。"
+
+#: docs/en/community/governance.md:65
+#, fuzzy
+msgid "\"Commit bit\"?"
+msgstr "コミットビット？"
+
+#: docs/en/community/governance.md:67
+#, fuzzy
+msgid "In Unix systems, a single bit in a file is used to denote permission to execute a file. In source control systems, a similar bit exists to denote the ability to merge code. To say someone has the \"commit bit\" means they have write-access to a code base. In GitHub terms, this means they have the ability to merge Pull Requests and commit code directly to the project."
+msgstr "Unixシステムでは、ファイル内の1ビットがファイルの実行権限を示すために使用される。ソース管理システムにおいても、コードをマージする権限を示す同様のビットが存在する。誰かが「コミット権限」を持っていると言う場合、それはその人物がコードベースへの書き込みアクセス権を持っていることを意味する。GitHubの用語で言えば、プルリクエストをマージし、プロジェクトに直接コードをコミットする権限を有していることを指す。"
+
+#: docs/en/community/index.md:1
+#, fuzzy
+msgid "Community { #community }"
+msgstr "コミュニティ { #community }"
+
+#: docs/en/community/index.md:3
+#, fuzzy
+msgid "[BeeWare Community Code of Conduct]{1} { #code-of-conduct }"
+msgstr "[BeeWareコミュニティ行動規範]{1} { #code-of-conduct }"
+
+#: docs/en/community/index.md:5
+#, fuzzy
+msgid "We pledge to make our community welcoming, safe, and equitable for all."
+msgstr "私たちは、すべての人が歓迎され、安全で公平なコミュニティづくりを誓います。"
+
+#: docs/en/community/index.md:7
+#, fuzzy
+msgid "The guidelines within and enforcement of the [BeeWare Community Code of Conduct]{1} apply equally to everyone participating in the BeeWare community, including members of the Code of Conduct Response Team."
+msgstr "[BeeWareコミュニティ行動規範]{1}に定められたガイドラインおよびその施行は、行動規範対応チームのメンバーを含む、BeeWareコミュニティに参加するすべての人に等しく適用されます。"
+
+#: docs/en/community/index.md:9
+#, fuzzy
+msgid "Where is the BeeWare community?"
+msgstr "BeeWareコミュニティはどこですか？"
+
+#: docs/en/community/index.md:11
+#, fuzzy
+msgid "We're a globally distributed online community, composed primarily of volunteers. While some of the core team are paid to work on BeeWare, the project is independently managed."
+msgstr "私たちは主にボランティアで構成される、世界中に分散したオンラインコミュニティです。コアチームの一部はBeeWareの作業に対して報酬を受け取っていますが、プロジェクト自体は独立して運営されています。"
+
+#: docs/en/community/index.md:13
+#, fuzzy
+msgid "The primary place to find us is on our online forums: [Discord]{1} and [GitHub]{2}. If you're looking for an informal way of keeping up to date, we are on [Mastodon]{3} and have a [mailing list]{4}."
+msgstr "私たちを見つける主な場所は、オンラインフォーラムである[Discord]{1}と[GitHub]{2}です。カジュアルな方法で最新情報を得たい場合は、[Mastodon]{3}にも参加しており、[メーリングリスト]{4}も用意しています。"
+
+#: docs/en/community/index.md:15
+#, fuzzy
+msgid "We will from time to time also appear at [events]{1}, in particular, regional PyCons. If the opportunity arises, we speak and [sprint]{2} at those events. There's also presentations on YouTube, and podcasts, where we talk about the BeeWare project."
+msgstr "また、私たちは随時[イベント]{1}、特に地域のPyConにも参加します。機会があれば、それらのイベントで講演や[スプリント]{2}を行います。YouTubeでのプレゼンテーションやポッドキャストもあり、そこでBeeWareプロジェクトについて語っています。"
+
+#: docs/en/community/index.md:17
+#, fuzzy
+msgid "There is a group that [sponsors]{1} the project financially by becoming [members]{2}."
+msgstr "あるグループが[メンバー]になることで、プロジェクトを財政的に[支援]しています。"
+
+#: docs/en/community/index.md:19
+#, fuzzy
+msgid "[Governance]{1}"
+msgstr "[ガバナンス]{1}"
+
+#: docs/en/community/index.md:21
+#, fuzzy
+msgid "What is the core team, and [what do they do]{1}?"
+msgstr "コアチームとは何か、そして[彼らは何をするのか]{1}？"
+
+#: docs/en/contributing/challenge-coins.md:1
+#, fuzzy
+msgid "Challenge coins { #challenge-coins }"
+msgstr "チャレンジコイン { #challenge-coins }"
+
+#: docs/en/contributing/challenge-coins.md:3
+#, fuzzy
+msgid "Challenge Coins are a military tradition, which is said to originate at the start of last century. They were distributed based on merit in events or for other reasons, and hold deep personal value."
+msgstr "チャレンジコインは軍隊の伝統であり、その起源は前世紀の初めとされている。功績やその他の理由に基づいて授与され、深い個人的価値を宿している。"
+
+#: docs/en/contributing/challenge-coins.md:5
+#, fuzzy
+msgid "To find out more about Challenge Coins, you can listen to the [99% Invisible]{1} podcast about them, or read up about them on [Wikipedia]{2}."
+msgstr "チャレンジコインについて詳しく知りたい場合は、[99% Invisible]{1}のポッドキャストを聴くか、[Wikipedia]{2}で調べてみてください。"
+
+#: docs/en/contributing/challenge-coins.md:7
+#, fuzzy
+msgid "![BeeWare Challenge Coin]{1}{ width=300px }"
+msgstr "![BeeWare チャレンジコイン]{1}{ width=300px }"
+
+#: docs/en/contributing/challenge-coins.md:9 docs/en/contributing/challenge-coins.md:25 docs/en/contributing/challenge-coins.md:39 docs/en/contributing/sprint-guide.md:67
+msgid "/// caption"
+msgstr "/// caption"
+
+#: docs/en/contributing/challenge-coins.md:11
+#, fuzzy
+msgid "The front and back of the BeeWare Challenge Coin."
+msgstr "BeeWare・チャレンジコインの表と裏。"
+
+#: docs/en/contributing/challenge-coins.md:13 docs/en/contributing/challenge-coins.md:29 docs/en/contributing/challenge-coins.md:43 docs/en/contributing/sprint-guide.md:71
+msgid "///"
+msgstr "///"
+
+#: docs/en/contributing/challenge-coins.md:15
+#, fuzzy
+msgid "The BeeWare Challenge Coins are die cast, 4.5cm (1 3/4\") in diameter, and are made of a nickel/zinc alloy with enamel highlights."
+msgstr "BeeWare・チャレンジコインはダイカスト製で、直径4.5cm（1 3/4インチ）、ニッケル・亜鉛合金製にエナメル塗装が施されています。"
+
+#: docs/en/contributing/challenge-coins.md:17
+#, fuzzy
+msgid "Any contribution to the BeeWare project earns you a coin."
+msgstr "BeeWareプロジェクトへの貢献は、コインを獲得できます。"
+
+#: docs/en/contributing/challenge-coins.md:19
+#, fuzzy
+msgid "It doesn't have to be a code contribution: a documentation update counts. A blog post. Helping someone during a sprint with their contribution."
+msgstr "コードの貢献である必要はありません：ドキュメントの更新も有効です。ブログ記事の投稿。スプリント中に誰かの貢献を手助けすること。"
+
+#: docs/en/contributing/challenge-coins.md:21
+#, fuzzy
+msgid "And as an additional incentive, for those people who help others get their challenge coins, we have a second coin: the Yak Herder"
+msgstr "さらに、他の人々がチャレンジコインを獲得するのを助ける方々への追加のインセンティブとして、第二のコインを用意しています：ヤク・ハーダーです"
+
+#: docs/en/contributing/challenge-coins.md:23
+#, fuzzy
+msgid "![BeeWare Yak Herder Challenge Coin]{1}{ width=300px }"
+msgstr "![BeeWare・ヤク・ハーダー・チャレンジ・コイン]{1}{ width=300px }"
+
+#: docs/en/contributing/challenge-coins.md:27
+#, fuzzy
+msgid "The front and back of the BeeWare Yak Herder Coin."
+msgstr "BeeWare・ヤク・ハーダー・コインの表と裏。"
+
+#: docs/en/contributing/challenge-coins.md:31
+#, fuzzy
+msgid "The first run of 100 BeeWare Challenge Coins were commissioned thanks to financial support from {1}MaxCDN{2}. They also wrote an [article about BeeWare]{3} on their blog."
+msgstr "最初の100枚のBeeWareチャレンジコインは、{1}MaxCDN{2}の資金援助により制作されました。同社はまた、自社ブログで[BeeWareに関する記事]{3}を執筆しています。"
+
+#: docs/en/contributing/challenge-coins.md:33
+#, fuzzy
+msgid "[Revolution Systems]{1} provided the funding for the second pressing of the BeeWare challenge coins."
+msgstr "[Revolution Systems]{1}は、BeeWareチャレンジコインの第2次プレス分の資金を提供しました。"
+
+#: docs/en/contributing/challenge-coins.md:35
+#, fuzzy
+msgid "[GitHub]{1} provided the funding for the first pressing of the BeeWare Yak Herder challenge coins."
+msgstr "[GitHub]{1}が、BeeWare Yak Herderチャレンジコインの初回プレス分の資金を提供しました。"
+
+#: docs/en/contributing/challenge-coins.md:37
+#, fuzzy
+msgid "![A sprint attendee receiving a challenge coin]{1}{ width=300px }"
+msgstr "![スプリント参加者へのチャレンジコイン授与式]{1}{ width=300px }"
+
+#: docs/en/contributing/challenge-coins.md:41
+#, fuzzy
+msgid "One happy BeeWare coin recipient. Photo by {1}@atomimages"
+msgstr "BeeWareコインの幸せな受取人。写真提供：{1}@atomimages"
+
+#: docs/en/contributing/first-time-contributors.md:1
+#, fuzzy
+msgid "First-time contributors { #first-time-contributors }"
+msgstr "初めての投稿者 { #first-time-contributors }"
+
+#: docs/en/contributing/first-time-contributors.md:3
+msgid "{% extends \"contribute/first-time-contributors.md\" %}"
+msgstr "{% extends \"contribute/first-time-contributors.md\" %}"
+
+#: docs/en/contributing/guide/how/branches.md:1
+#, fuzzy
+msgid "Work from a feature branch, not your `main` branch"
+msgstr "機能ブランチから作業し、`main` ブランチからは行わないでください"
+
+#: docs/en/contributing/guide/how/branches.md:3
+msgid "{% extends \"contribute/how/branches.md\" %}"
+msgstr "{% extends \"contribute/how/branches.md\" %}"
+
+#: docs/en/contributing/guide/how/build-docs.md:1 docs/en/titles.md:55
+#, fuzzy
+msgid "Building documentation"
+msgstr "建築文書"
+
+#: docs/en/contributing/guide/how/build-docs.md:3
+msgid "{% extends \"contribute/how/build-docs.md\" %}"
+msgstr "{% extends \"contribute/how/build-docs.md\" %}"
+
+#: docs/en/contributing/guide/how/build-docs.md:5 docs/en/contributing/guide/how/reproduce-issue.md:5 docs/en/contributing/guide/how/write-code.md:5 docs/en/contributing/guide/how/write-docs.md:5
+msgid "{% block front_matter %}"
+msgstr "{% block front_matter %}"
+
+#: docs/en/contributing/guide/how/build-docs.md:7
+#, fuzzy
+msgid "Before you build the documentation, and have a [development environment]{1} set up."
+msgstr "ドキュメントを作成する前に、[開発環境]{1}をセットアップしてください。"
+
+#: docs/en/contributing/guide/how/build-docs.md:9 docs/en/contributing/guide/how/build-docs.md:15 docs/en/contributing/guide/how/propose-feature.md:9 docs/en/contributing/guide/how/reproduce-issue.md:9 docs/en/contributing/guide/how/reproduce-issue.md:15 docs/en/contributing/guide/how/submit-pr.md:17 docs/en/contributing/guide/how/write-code.md:9 docs/en/contributing/guide/how/write-code.md:15 docs/en/contributing/guide/how/write-docs.md:9 docs/en/contributing/guide/how/write-docs.md:15
+msgid "{% endblock %}"
+msgstr "{% endblock %}"
+
+#: docs/en/contributing/guide/how/build-docs.md:11 docs/en/contributing/guide/how/propose-feature.md:5 docs/en/contributing/guide/how/reproduce-issue.md:11 docs/en/contributing/guide/how/submit-pr.md:5 docs/en/contributing/guide/how/write-code.md:11 docs/en/contributing/guide/how/write-docs.md:11
+msgid "{% block end_matter %}"
+msgstr "{% block end_matter %}"
+
+#: docs/en/contributing/guide/how/build-docs.md:13
+#, fuzzy
+msgid "Once you have successfully built the docs, you are ready to [write documentation]{1}."
+msgstr "ドキュメントのビルドが成功したら、[ドキュメントの作成]{1}の準備が整います。"
+
+#: docs/en/contributing/guide/how/change-note.md:1
+#, fuzzy
+msgid "Adding change information for release notes"
+msgstr "リリースノートの変更情報の追加"
+
+#: docs/en/contributing/guide/how/change-note.md:3
+msgid "{% extends \"contribute/how/change-note.md\" %}"
+msgstr "{% extends \"contribute/how/change-note.md\" %}"
+
+#: docs/en/contributing/guide/how/dev-environment.md:1 docs/en/titles.md:45
+#, fuzzy
+msgid "Setting up a development environment"
+msgstr "開発環境の構築"
+
+#: docs/en/contributing/guide/how/dev-environment.md:3
+msgid "{% extends \"contribute/how/dev-environment.md\" %}"
+msgstr "{% extends \"contribute/how/dev-environment.md\" %}"
+
+#: docs/en/contributing/guide/how/new-issue.md:1 docs/en/titles.md:65
+#, fuzzy
+msgid "Submitting a new issue"
+msgstr "新しい問題の提出"
+
+#: docs/en/contributing/guide/how/new-issue.md:3
+msgid "{% extends \"contribute/how/new-issue.md\" %}"
+msgstr "{% extends \"contribute/how/new-issue.md\" %}"
+
+#: docs/en/contributing/guide/how/propose-feature.md:1 docs/en/contributing/guide/what/propose-feature.md:1 docs/en/titles.md:67
+#, fuzzy
+msgid "Proposing a new feature"
+msgstr "新機能の提案"
+
+#: docs/en/contributing/guide/how/propose-feature.md:3
+msgid "{% extends \"contribute/how/propose-feature.md\" %}"
+msgstr "{% extends \"contribute/how/propose-feature.md\" %}"
+
+#: docs/en/contributing/guide/how/propose-feature.md:7
+#, fuzzy
+msgid "If you are interested, you can begin [implementing your new feature]{1}."
+msgstr "ご興味があれば、[新機能の実装]{1}を開始できます。"
+
+#: docs/en/contributing/guide/how/reproduce-issue.md:1 docs/en/titles.md:47
+#, fuzzy
+msgid "Reproducing an issue"
+msgstr "問題の再現"
+
+#: docs/en/contributing/guide/how/reproduce-issue.md:3
+msgid "{% extends \"contribute/how/reproduce-issue.md\" %}"
+msgstr "{% extends \"contribute/how/reproduce-issue.md\" %}"
+
+#: docs/en/contributing/guide/how/reproduce-issue.md:7
+#, fuzzy
+msgid "To begin reproducing an issue, you will need a [development environment]{1} set up."
+msgstr "問題の再現を開始するには、[開発環境]{1} を設定する必要があります。"
+
+#: docs/en/contributing/guide/how/reproduce-issue.md:13
+#, fuzzy
+msgid "At this point, you might choose to try to [fix the issue]{1} you've just reproduced; alternatively, you can write up your findings and try to reproduce another issue."
+msgstr "この時点で、再現した問題を[修正する]{1}ことを選択することもできます。あるいは、調査結果をまとめ、別の問題を再現してみることもできます。"
+
+#: docs/en/contributing/guide/how/review-pr.md:1 docs/en/contributing/guide/what/review-pr.md:1
+#, fuzzy
+msgid "Providing a pull request review"
+msgstr "プルリクエストのレビューを提供すること"
+
+#: docs/en/contributing/guide/how/review-pr.md:3
+msgid "{% extends \"contribute/how/review-pr.md\" %}"
+msgstr "{% extends \"contribute/how/review-pr.md\" %}"
+
+#: docs/en/contributing/guide/how/scope-creep.md:1 docs/en/titles.md:51
+#, fuzzy
+msgid "Avoiding scope creep"
+msgstr "スコープクリープの回避"
+
+#: docs/en/contributing/guide/how/scope-creep.md:3
+msgid "{% extends \"contribute/how/scope-creep.md\" %}"
+msgstr "{% extends \"contribute/how/scope-creep.md\" %}"
+
+#: docs/en/contributing/guide/how/submit-pr.md:1 docs/en/titles.md:61
+#, fuzzy
+msgid "Submitting a pull request"
+msgstr "プルリクエストの送信"
+
+#: docs/en/contributing/guide/how/submit-pr.md:3
+msgid "{% extends \"contribute/how/submit-pr.md\" %}"
+msgstr "{% extends \"contribute/how/submit-pr.md\" %}"
+
+#: docs/en/contributing/guide/how/submit-pr.md:7
+msgid "{% if config.extra.website %}"
+msgstr "{% if config.extra.website %}"
+
+#: docs/en/contributing/guide/how/submit-pr.md:9
+#, fuzzy
+msgid "Your pull request may require additional content, such as a [change note]{1}, before it can be [reviewed]{2}."
+msgstr "プルリクエストは、[レビュー]を受ける前に、[変更内容の説明]などの追加情報が必要となる場合があります。"
+
+#: docs/en/contributing/guide/how/submit-pr.md:11
+msgid "{% else %}"
+msgstr "{% else %}"
+
+#: docs/en/contributing/guide/how/submit-pr.md:13
+#, fuzzy
+msgid "As part of submitting a pull request, you'll need to include a [change note]{1} before it can be [reviewed]{2}."
+msgstr "プルリクエストを提出する際には、[レビュー]を受ける前に[変更内容の説明]を記載する必要があります。"
+
+#: docs/en/contributing/guide/how/submit-pr.md:15
+msgid "{% endif %}"
+msgstr "{% endif %}"
+
+#: docs/en/contributing/guide/how/translate.md:1 docs/en/contributing/guide/what/translate.md:1 docs/en/titles.md:69
+#, fuzzy
+msgid "Translating content"
+msgstr "コンテンツの翻訳"
+
+#: docs/en/contributing/guide/how/translate.md:3
+msgid "{% extends \"contribute/how/translate.md\" %}"
+msgstr "{% extends \"contribute/how/translate.md\" %}"
+
+#: docs/en/contributing/guide/how/write-code.md:1 docs/en/titles.md:53
+#, fuzzy
+msgid "Writing, running, and testing code"
+msgstr "コードの記述、実行、およびテスト"
+
+#: docs/en/contributing/guide/how/write-code.md:3
+msgid "{% extends \"contribute/how/write-code.md\" %}"
+msgstr "{% extends \"contribute/how/write-code.md\" %}"
+
+#: docs/en/contributing/guide/how/write-code.md:7
+#, fuzzy
+msgid "To begin working on code, ensure you have a [development environment]{1} set up, and you are [working on a branch]{2}"
+msgstr "コードの開発を始めるには、[開発環境]{1}が設定されていることと、[ブランチ上で作業していること]{2}を確認してください。"
+
+#: docs/en/contributing/guide/how/write-code.md:13
+#, fuzzy
+msgid "Once you have everything working, you can [submit a pull request]{1} with your changes."
+msgstr "すべてが正常に動作したら、変更内容を含むプルリクエストを送信できます。"
+
+#: docs/en/contributing/guide/how/write-docs.md:1 docs/en/titles.md:57
+#, fuzzy
+msgid "Writing documentation"
+msgstr "ドキュメントの作成"
+
+#: docs/en/contributing/guide/how/write-docs.md:3
+msgid "{% extends \"contribute/how/write-docs.md\" %}"
+msgstr "{% extends \"contribute/how/write-docs.md\" %}"
+
+#: docs/en/contributing/guide/how/write-docs.md:7
+#, fuzzy
+msgid "Before you begin writing documentation, ensure you are able to [build the documentation]{1}, and you are [working on a branch]{2}."
+msgstr "ドキュメントの作成を開始する前に、[ドキュメントのビルドが可能であること]{1}、および[ブランチで作業していること]{2}を確認してください。"
+
+#: docs/en/contributing/guide/how/write-docs.md:13
+#, fuzzy
+msgid "Once you are happy with your new documentation, you can [submit a pull request]{1} with your proposed changes."
+msgstr "新しいドキュメントに満足したら、提案した変更を[プルリクエストを送信する]{1}ことができます。"
+
+#: docs/en/contributing/guide/index.md:1 docs/en/titles.md:27
+#, fuzzy
+msgid "Contribution guide"
+msgstr "寄稿ガイド"
+
+#: docs/en/contributing/guide/index.md:3
+msgid "{% extends \"contribute/index.md\" %}"
+msgstr "{% extends \"contribute/index.md\" %}"
+
+#: docs/en/contributing/guide/next/pr-review.md:1
+#, fuzzy
+msgid "Receiving a pull request review"
+msgstr "プルリクエストのレビューを受ける"
+
+#: docs/en/contributing/guide/next/pr-review.md:3
+msgid "{% extends \"contribute/next/pr-review.md\" %}"
+msgstr "{% extends \"contribute/next/pr-review.md\" %}"
+
+#: docs/en/contributing/guide/next/release.md:1
+#, fuzzy
+msgid "The release process"
+msgstr "リリースプロセス"
+
+#: docs/en/contributing/guide/next/release.md:3
+msgid "{% extends \"contribute/next/release.md\" %}"
+msgstr "{% extends \"contribute/next/release.md\" %}"
+
+#: docs/en/contributing/guide/style/code-style-guide.md:1 docs/en/titles.md:75
+#, fuzzy
+msgid "Code style guide"
+msgstr "コードスタイルガイド"
+
+#: docs/en/contributing/guide/style/code-style-guide.md:3
+msgid "{% extends \"contribute/style/code-style-guide.md\" %}"
+msgstr "{% extends \"contribute/style/code-style-guide.md\" %}"
+
+#: docs/en/contributing/guide/style/docs-style-guide.md:1 docs/en/titles.md:77
+#, fuzzy
+msgid "Documentation style guide"
+msgstr "ドキュメントスタイルガイド"
+
+#: docs/en/contributing/guide/style/docs-style-guide.md:3
+msgid "{% extends \"contribute/style/docs-style-guide.md\" %}"
+msgstr "{% extends \"contribute/style/docs-style-guide.md\" %}"
+
+#: docs/en/contributing/guide/what/fix-issue.md:1
+#, fuzzy
+msgid "Fixing an issue"
+msgstr "問題の修正"
+
+#: docs/en/contributing/guide/what/fix-issue.md:3
+msgid "{% extends \"contribute/what/fix-issue.md\" %}"
+msgstr "{% extends \"contribute/what/fix-issue.md\" %}"
+
+#: docs/en/contributing/guide/what/implement-feature.md:1
+#, fuzzy
+msgid "Implementing a new feature"
+msgstr "新機能の実装"
+
+#: docs/en/contributing/guide/what/implement-feature.md:3
+msgid "{% extends \"contribute/what/implement-feature.md\" %}"
+msgstr "{% extends \"contribute/what/implement-feature.md\" %}"
+
+#: docs/en/contributing/guide/what/propose-feature.md:3
+msgid "{% extends \"contribute/what/propose-feature.md\" %}"
+msgstr "{% extends \"contribute/what/propose-feature.md\" %}"
+
+#: docs/en/contributing/guide/what/review-pr.md:3
+msgid "{% extends \"contribute/what/review-pr.md\" %}"
+msgstr "{% extends \"contribute/what/review-pr.md\" %}"
+
+#: docs/en/contributing/guide/what/translate.md:3
+msgid "{% extends \"contribute/what/translate.md\" %}"
+msgstr "{% extends \"contribute/what/translate.md\" %}"
+
+#: docs/en/contributing/guide/what/triage.md:1
+#, fuzzy
+msgid "Triaging an issue"
+msgstr "問題の優先順位付け"
+
+#: docs/en/contributing/guide/what/triage.md:3
+msgid "{% extends \"contribute/what/triage.md\" %}"
+msgstr "{% extends \"contribute/what/triage.md\" %}"
+
+#: docs/en/contributing/guide/what/use-tools.md:1
+#, fuzzy
+msgid "Using the tools"
+msgstr "ツールの使用"
+
+#: docs/en/contributing/guide/what/use-tools.md:3
+msgid "{% extends \"contribute/what/use-tools.md\" %}"
+msgstr "{% extends \"contribute/what/use-tools.md\" %}"
+
+#: docs/en/contributing/guide/what/write-docs.md:1
+#, fuzzy
+msgid "Adding documentation"
+msgstr "ドキュメントの追加"
+
+#: docs/en/contributing/guide/what/write-docs.md:3
+msgid "{% extends \"contribute/what/write-docs.md\" %}"
+msgstr "{% extends \"contribute/what/write-docs.md\" %}"
+
+#: docs/en/contributing/index.md:1
+#, fuzzy
+msgid "Contributing { #contributing }"
+msgstr "寄稿 { #contributing }"
+
+#: docs/en/contributing/index.md:3
+#, fuzzy
+msgid "We want to see folks not only using BeeWare, but actively contributing to its development. BeeWare is an open source project, and it is only as good as the people who contribute to it; decisions are made by those who show up. We want to get you involved with BeeWare in whatever way works for you. The project maintainers love collaborating, especially with new contributors, and will gladly answer any questions or walk you through any problems you may encounter."
+msgstr "私たちは、皆さんにBeeWareを使っていただくだけでなく、その開発に積極的に貢献していただきたいと考えています。BeeWareはオープンソースプロジェクトであり、その価値は貢献する人々によって決まります。意思決定は参加する人々によって行われます。私たちは、皆さんがご自身に合った方法でBeeWareに関わっていただくことを望んでいます。プロジェクトのメンテナは、特に新しい貢献者との協力を歓迎し、喜んで質問にお答えしたり、遭遇した問題の解決をサポートしたりします。"
+
+#: docs/en/contributing/index.md:5
+#, fuzzy
+msgid "Can I contribute?"
+msgstr "貢献できますか？"
+
+#: docs/en/contributing/index.md:7
+#, fuzzy
+msgid "Yes! We have opportunities for folks at every experience level to contribute. Whether this is your first time contributing to open source, or you've been doing it for years, we have something that will work for you."
+msgstr "はい！経験レベルを問わず、どなたでも貢献できる機会をご用意しています。オープンソースへの貢献が初めての方でも、長年携わっている方でも、きっとご自身に合った活動が見つかります。"
+
+#: docs/en/contributing/index.md:9
+#, fuzzy
+msgid "It's not just about code. A successful software project requires documentation, design skills, feedback and bug reports. The BeeWare community acknowledges that all contributions are important - not just the ones that come as a pull request on GitHub."
+msgstr "コードだけが全てではありません。成功するソフトウェアプロジェクトには、ドキュメント、設計スキル、フィードバック、バグ報告が必要です。BeeWareコミュニティは、GitHubでのプルリクエストとして提出されるものだけでなく、あらゆる貢献が重要であることを認識しています。"
+
+#: docs/en/contributing/index.md:11
+#, fuzzy
+msgid "Is this your first time contributing to an open source project? We're here to help! We have [advice for first-time contributors]{1} to help with getting past any initial fears and concerns."
+msgstr "オープンソースプロジェクトへの貢献は初めてですか？ご安心ください！初めての貢献者向けのアドバイスを用意しています。初期の不安や懸念を乗り越えるお手伝いをします。"
+
+#: docs/en/contributing/index.md:13
+#, fuzzy
+msgid "[Contribution guide]{1}"
+msgstr "[投稿ガイドライン]{1}"
+
+#: docs/en/contributing/index.md:15
+#, fuzzy
+msgid "There are plenty of ways to contribute to BeeWare. The [contribution guide]{1} covers everything you need to know to provide your contribution."
+msgstr "BeeWareへの貢献方法は数多くあります。貢献に必要な情報はすべて[貢献ガイド]{1}に記載されています。"
+
+#: docs/en/contributing/index.md:17
+#, fuzzy
+msgid "[Sprints]{1}"
+msgstr "[スプリント]{1}"
+
+#: docs/en/contributing/index.md:19
+#, fuzzy
+msgid "Are you joining the BeeWare project at a **sprint**? A sprint is an unstructured gathering where we work on BeeWare and related projects, and introduce new contributors to the contribution process. If this is your first time sprinting, BeeWare has a [guide for getting started with BeeWare sprints]{1}."
+msgstr "BeeWareプロジェクトのスプリントに参加しますか？スプリントとは、BeeWareおよび関連プロジェクトに取り組み、新規貢献者に貢献プロセスを紹介する非公式な集まりです。初めてスプリントに参加される方は、BeeWareのスプリント参加ガイドをご参照ください。"
+
+#: docs/en/contributing/index.md:21
+#, fuzzy
+msgid "[Challenge coins]{1}"
+msgstr "[チャレンジコイン]{1}"
+
+#: docs/en/contributing/index.md:23
+#, fuzzy
+msgid "We also have a [special gift]{1} for anyone who contributes at a sprint."
+msgstr "スプリントに参加して貢献してくださった方には、[特別なプレゼント]{1}もご用意しています。"
+
+#: docs/en/contributing/index.md:25
+#, fuzzy
+msgid "Any contribution at any time entitles you to a challenge coin, however we can generally only hand them out at in-person events."
+msgstr "いかなる時期の寄付でもチャレンジコインを受け取る権利が得られますが、通常は対面イベントでのみお渡し可能です。"
+
+#: docs/en/contributing/sprint-guide.md:1
+#, fuzzy
+msgid "Sprint Guide { #sprints }"
+msgstr "スプリントガイド { #sprints }"
+
+#: docs/en/contributing/sprint-guide.md:3
+#, fuzzy
+msgid "Welcome to the BeeWare Sprints!"
+msgstr "BeeWare・スプリントへようこそ！"
+
+#: docs/en/contributing/sprint-guide.md:5
+#, fuzzy
+msgid "Welcome! We're so excited you've decided to join us! If you haven't already introduced yourself to one of the Bee Team, please do so. Once you've done that, head back here to get started."
+msgstr "ようこそ！ご参加いただき、大変嬉しく思っております！まだビーチームのメンバーにご挨拶を済ませていない場合は、ぜひお済ませください。ご挨拶を終えたら、こちらに戻ってスタートしましょう。"
+
+#: docs/en/contributing/sprint-guide.md:7
+#, fuzzy
+msgid "What is a sprint?"
+msgstr "スプリントとは何ですか？"
+
+#: docs/en/contributing/sprint-guide.md:9
+#, fuzzy
+msgid "A sprint is an unstructured opportunity to spend a few hours or days working collaboratively on an Open Source project. They're often tied to a conference; a sprint after a conference provides an opportunity to turn the energy, enthusiasm and interest that a conference has generated into improvements in the software we use on a daily basis."
+msgstr "スプリントとは、数時間から数日にわたりオープンソースプロジェクトに共同で取り組む、自由な形式の機会です。多くの場合、カンファレンスと連動して開催されます。カンファレンス後のスプリントは、カンファレンスで生まれたエネルギーや熱意、関心を、日常的に使用するソフトウェアの改善へとつなげる機会を提供します。"
+
+#: docs/en/contributing/sprint-guide.md:11
+#, fuzzy
+msgid "Sprints are also an opportunity to introduce people to the process of contributing to the project. Our hope is that you'll have so much fun contributing during the sprint that you'll go home and keep contributing!"
+msgstr "スプリントは、プロジェクトへの貢献プロセスを紹介する機会でもあります。スプリント期間中に貢献する楽しさを存分に味わっていただき、帰宅後も継続的に貢献していただけることを願っています！"
+
+#: docs/en/contributing/sprint-guide.md:13
+#, fuzzy
+msgid "[It doesn't matter how much experience you've got]{1}. At past sprints, we've merged contributions from people at all levels of experience - high-school students, recent bootcamp graduates, people who don't consider themselves programmers, and seasoned developers. No matter your experience level - we can find a way for you to contribute."
+msgstr "経験の多さは問題ではありません。過去のスプリントでは、高校生、ブートキャンプ卒業生、自らをプログラマーとは思っていない方々、そしてベテラン開発者まで、あらゆる経験レベルの方々の貢献を統合してきました。あなたの経験レベルに関わらず、貢献できる方法を見つけられます。"
+
+#: docs/en/contributing/sprint-guide.md:15
+#, fuzzy
+msgid "Code isn't the only way you can contribute, either. A project like BeeWare is much more than just the code - we need people to write, proof-read and translate documentation; we need people to improve the design of web pages; even the process of going through bugs that were reported years ago and determining that they've been fixed along the way is a valuable contribution."
+msgstr "コードだけが貢献の方法ではありません。BeeWareのようなプロジェクトは単なるコード以上のものです。ドキュメントの執筆、校正、翻訳をしてくれる人々が必要です。ウェブページのデザインを改善してくれる人々も必要です。何年も前に報告されたバグを検証し、その過程で修正されたと判断する作業さえも、貴重な貢献なのです。"
+
+#: docs/en/contributing/sprint-guide.md:17
+#, fuzzy
+msgid "The Initial Questions"
+msgstr "最初の質問"
+
+#: docs/en/contributing/sprint-guide.md:19
+#, fuzzy
+msgid "To get you started, we're going to ask a few questions so we can gauge your interests and experience. This will help us find the best way for you to contribute. Work through the questions, take notes, and then find a member of the Bee Team and share your answers. If you don't understand the question being asked - don't worry about that! Let us know what you do know, and we'll work together to figure it out from there."
+msgstr "まずは始めに、あなたの興味や経験を把握するため、いくつか質問をさせていただきます。これにより、あなたに最適な貢献方法を見つける手助けとなります。質問に答えながらメモを取り、その後ビーチームのメンバーを見つけて回答を共有してください。質問の内容が理解できなくても心配はいりません！ご存知の情報を教えてください。そこから一緒に考えましょう。"
+
+#: docs/en/contributing/sprint-guide.md:21
+#, fuzzy
+msgid "**Have you used BeeWare before?**"
+msgstr "**BeeWareを使ったことはありますか？**"
+
+#: docs/en/contributing/sprint-guide.md:21
+#, fuzzy
+msgid "If you haven't, start by working through the [BeeWare Tutorial]{1}. It will give you an introduction for what the BeeWare project is, and how the pieces of the project fit together. If you hit any problems doing the tutorial, take notes - because ensuring nobody else has the same problem is a great topic for a first contribution!"
+msgstr "まだの方は、まず[BeeWareチュートリアル]{1}を進めてください。このチュートリアルでは、BeeWareプロジェクトの概要と、プロジェクトの各構成要素がどのように連携しているかについて学ぶことができます。チュートリアルを進める中で問題に遭遇した場合は、メモを取っておきましょう。同じ問題が他の人にも発生しないようにすることは、初めての貢献として最適なテーマです！"
+
+#: docs/en/contributing/sprint-guide.md:21
+#, fuzzy
+msgid "Once you've finished the tutorial up to at least step 4, move on to the next question."
+msgstr "チュートリアルを少なくともステップ4まで完了したら、次の質問に進んでください。"
+
+#: docs/en/contributing/sprint-guide.md:27
+#, fuzzy
+msgid "**What computing equipment do you have with you?**"
+msgstr "**どのようなコンピューター機器をお持ちですか？**"
+
+#: docs/en/contributing/sprint-guide.md:27
+#, fuzzy
+msgid "The equipment you have with you puts practical limits on what you can contribute to. For example, if you have a Windows laptop, you're not going to be able to work on anything to do with iOS. Does your laptop run Windows, macOS, Linux, or something else? Is your phone an iOS or Android device? Have your devices been provided by your employer, or are they your own personal devices?"
+msgstr "お持ちの機器によって、貢献できる範囲には現実的な制限が生じます。例えば、Windowsノートパソコンをお持ちの場合、iOS関連の作業はできません。お使いのノートパソコンはWindows、macOS、Linux、またはその他のOSですか？お使いのスマートフォンはiOS端末ですか、それともAndroid端末ですか？これらの機器は雇用主から提供されたものですか、それとも個人の所有物ですか？"
+
+#: docs/en/contributing/sprint-guide.md:31
+#, fuzzy
+msgid "**How much experience do you have writing Python code?**"
+msgstr "**Pythonコードの記述経験はどの程度ありますか？**"
+
+#: docs/en/contributing/sprint-guide.md:31
+#, fuzzy
+msgid "Are you new to programming? A Python veteran? A coding veteran who has only just started learning Python? A fresh graduate of a bootcamp program? We want to find a problem that is a good match for your level experience."
+msgstr "プログラミング初心者ですか？Pythonのベテランですか？コーディングのベテランでPythonを学び始めたばかりですか？ブートキャンププログラムの卒業生ですか？あなたの経験レベルに合った課題を見つけたいと考えています。"
+
+#: docs/en/contributing/sprint-guide.md:35
+#, fuzzy
+msgid "**Are you familiar with GitHub contribution processes?**"
+msgstr "**GitHubの貢献プロセスについてご存知ですか？**"
+
+#: docs/en/contributing/sprint-guide.md:35
+#, fuzzy
+msgid "Do you use GitHub (or a similar code-sharing site) for hosting your own code or contributing to others' projects? Do you know what CI (continuous integration) is? Have you contributed to a project that has pre-commit hooks? If I asked you to \"`rebase` your PR against main\", would you know what to do?"
+msgstr "GitHub（または類似のコード共有サイト）を使って自身のコードをホスティングしたり、他人のプロジェクトに貢献したりしていますか？CI（継続的インテグレーション）とは何か知っていますか？プレコミットフックが設定されているプロジェクトに貢献したことはありますか？もし「メインブランチに対してPRを`rebase`してください」と頼まれたら、何をすべきか分かりますか？"
+
+#: docs/en/contributing/sprint-guide.md:39
+#, fuzzy
+msgid "**Have you contributed to an Open Source project before?**"
+msgstr "**これまでオープンソースプロジェクトに貢献したことはありますか？**"
+
+#: docs/en/contributing/sprint-guide.md:39
+#, fuzzy
+msgid "Have you attended a sprint in the past? Have you ever submitted a PR (pull request) to an Open Source project? Are you familiar with how to use GitHub to create a pull request?"
+msgstr "過去にスプリントに参加したことはありますか？オープンソースプロジェクトにプルリクエスト（PR）を提出したことはありますか？GitHubを使ってプルリクエストを作成する方法をご存知ですか？"
+
+#: docs/en/contributing/sprint-guide.md:43
+#, fuzzy
+msgid "**Do you have any other special skills that might be useful?**"
+msgstr "他に役立つ特別なスキルはありますか？"
+
+#: docs/en/contributing/sprint-guide.md:43
+#, fuzzy
+msgid "Are you familiar with a GUI API (such as WinForms, Cocoa, or GTK)? Do you have deep knowledge of the internals of a particular operating system? Are you an expert in a programming language other than Python? If you don't have any special skills, that's not a problem - but if we've got a Windows Guru on our hands, we want to make sure those skills are being put to good use."
+msgstr "GUI API（WinForms、Cocoa、GTKなど）に精通していますか？特定のオペレーティングシステムの内部構造について深い知識をお持ちですか？Python以外のプログラミング言語の専門家ですか？特別なスキルがなくても問題ありません——ただし、もしWindowsの達人がいれば、そのスキルが十分に活かされていることを確認したいと考えています。"
+
+#: docs/en/contributing/sprint-guide.md:47
+#, fuzzy
+msgid "**Why did you join us and what are you interested in?**"
+msgstr "**なぜ当社に入社されたのですか？また、どのようなことに興味をお持ちですか？**"
+
+#: docs/en/contributing/sprint-guide.md:47
+#, fuzzy
+msgid "\"You sounded like a friendly project\" is a perfectly fine answer. However, if there's more to why you joined us today, let us know. Are you interested in mobile or desktop development? Packaging? Websites? Console apps? If you don't have a specific interest - what seems most interesting based on what you've seen about BeeWare so far?"
+msgstr "「友好的なプロジェクトに聞こえたから」という答えは全く問題ありません。ただし、本日参加された理由に何か他の要素があるなら、ぜひお聞かせください。モバイル開発やデスクトップ開発に興味がありますか？パッケージング？ウェブサイト？コンソールアプリ？もし特定の関心分野がない場合、これまでBeeWareについてご覧になった中で、最も興味深いと感じた点はどこでしょうか？"
+
+#: docs/en/contributing/sprint-guide.md:51
+#, fuzzy
+msgid "Now, find a member of the Bee Team to share your answers. They might ask some follow up questions; but then they'll point you in the direction of a area where you should be able to make a contribution."
+msgstr "さあ、あなたの回答を共有できるビーチームのメンバーを探しましょう。彼らは追加の質問をするかもしれませんが、その後、あなたが貢献できる分野の方向性を示してくれるでしょう。"
+
+#: docs/en/contributing/sprint-guide.md:53
+#, fuzzy
+msgid "Find Your Issue"
+msgstr "問題を見つける"
+
+#: docs/en/contributing/sprint-guide.md:55
+#, fuzzy
+msgid "If you've spoken to a member of the Bee Team, they have probably pointed you at a part of the BeeWare project where you can contribute; they might have even suggested a specific issue to work on. If they haven't given you as specific issue, they've probably pointed you at the \"[Good First Issues]{1}\" for that project. What does that mean?"
+msgstr "もしビーチームのメンバーと話したことがあるなら、おそらく彼らはあなたが貢献できるBeeWareプロジェクトの一部を教えてくれたはずです。特定の課題に取り組むよう提案してくれたかもしれません。具体的な課題を提示されなかった場合でも、おそらくそのプロジェクトの「[Good First Issues]{1}」を紹介してくれたでしょう。これはどういう意味でしょうか？"
+
+#: docs/en/contributing/sprint-guide.md:57
+#, fuzzy
+msgid "GitHub provides a list of issues that allows BeeWare (and other projects) to keep track of all the problems that have been reported - that includes explicit bugs, unexpected behavior that *might* be a bug, requests for new features, requests for more documentation - anything that might be a way that BeeWare could be improved. As new issues are reported, the Bee Team will flag some of them as issues that are well suited to a first time contributor - issues that don't demand an *immediate* fix, but are well defined or easy to reproduce, and probably have a good lead on the underlying cause. These issues are tagged \"good first issue\" to make them easier to find."
+msgstr "GitHubは、報告された全ての問題を追跡するための課題リストを提供しています。これには、明確なバグ、バグの可能性がある予期せぬ動作、新機能のリクエスト、ドキュメント拡充のリクエストなど、BeeWareを改善する可能性のあるあらゆる事項が含まれます。 新たな課題が報告されると、Beeチームはその中から「初めての貢献者に適した課題」を特定します。これらは*即時*修正を必要とせず、明確に定義されているか再現が容易で、根本原因の特定が進んでいる課題です。これらの課題は「good first issue」タグが付与され、見つけやすくなっています。"
+
+#: docs/en/contributing/sprint-guide.md:59
+#, fuzzy
+msgid "To filter a GitHub issue list by the \"[good first issue]{1}\" label, follow these steps:"
+msgstr "GitHubの課題リストを「[good first issue]{1}」ラベルでフィルタリングするには、次の手順に従ってください："
+
+#: docs/en/contributing/sprint-guide.md:61
+#, fuzzy
+msgid "Click on the \"Labels\" button above the list of issues to activate the drop-down menu."
+msgstr "課題リストの上にある「ラベル」ボタンをクリックして、ドロップダウンメニューを有効にしてください。"
+
+#: docs/en/contributing/sprint-guide.md:62
+#, fuzzy
+msgid "Type the word \"good\" into the search box at the top of the drop-down menu."
+msgstr "ドロップダウンメニューの上部にある検索ボックスに「good」と入力してください。"
+
+#: docs/en/contributing/sprint-guide.md:63
+#, fuzzy
+msgid "Click on \"good first issue\" in the filtered list."
+msgstr "フィルタリングされたリスト内の「良い初回号」をクリックしてください。"
+
+#: docs/en/contributing/sprint-guide.md:65
+#, fuzzy
+msgid "![Filtering GitHub issues by label]{1}"
+msgstr "![ラベルでGitHubの課題フィルターをかける]{1}"
+
+#: docs/en/contributing/sprint-guide.md:69
+#, fuzzy
+msgid "Filtering GitHub issues by the \"good first issue\" label."
+msgstr "「good first issue」ラベルでGitHubの課題（イシュー）をフィルタリングする。"
+
+#: docs/en/contributing/sprint-guide.md:73
+#, fuzzy
+msgid "Once you've found an issue that looks interesting, read through any comments on the post, and post a comment in the discussion saying that you're looking into the issue (e.g., \"Looking into this at the PyCon US 2025 sprints\"). BeeWare doesn't explicitly \"assign\" issues - we accept contributions from anyone. However, in a sprint situation, we need to make sure that we don't end up with two people working on the same issue - leaving a comment is a light-weight way to coordinate between contributors."
+msgstr "興味深い課題を見つけたら、その投稿へのコメントをすべて読み、議論に「この課題を検討中です（例：PyCon US 2025 スプリントで調査中）」とコメントを投稿してください。 BeeWareでは明示的な「課題の割り当て」は行いません。どなたからの貢献も歓迎します。ただしスプリント環境では、同じ課題に複数人が重複して取り組む事態を避ける必要があります。コメントを残すことは、貢献者間で調整を行うための軽量な方法です。"
+
+#: docs/en/contributing/sprint-guide.md:75
+#, fuzzy
+msgid "If you still can't find anything you'd like to do, find a Bee Team member and they'll help you narrow down to a specific issue."
+msgstr "もしそれでもやりたいことが見つからない場合は、Bee Teamのメンバーを見つけてください。彼らが具体的な課題に絞り込むお手伝いをします。"
+
+#: docs/en/contributing/sprint-guide.md:77
+#, fuzzy
+msgid "Set up a development environment"
+msgstr "開発環境を構築する"
+
+#: docs/en/contributing/sprint-guide.md:79
+#, fuzzy
+msgid "Once you've found an issue, you'll need to set up your development environment so you can work on a fix. Each BeeWare project has its own contribution guide:"
+msgstr "問題を発見したら、修正作業を行うために開発環境を設定する必要があります。各BeeWareプロジェクトには独自の貢献ガイドがあります："
+
+#: docs/en/contributing/sprint-guide.md:81
+#, fuzzy
+msgid "[Briefcase]{1}"
+msgstr "[Briefcase]{1}"
+
+#: docs/en/contributing/sprint-guide.md:82
+#, fuzzy
+msgid "[Toga]{1}"
+msgstr "それの"
+
+#: docs/en/contributing/sprint-guide.md:83
+#, fuzzy
+msgid "[Rubicon ObjC]{1}"
+msgstr "[Rubicon ObjC]{1}"
+
+#: docs/en/contributing/sprint-guide.md:85
+#, fuzzy
+msgid "If the project isn't on this list, check the project README for details on how to get set up. If any of the instructions don't make sense (or you can't find those instructions), find a member of the Bee Team, and they'll get you unstuck. And - if you think you can improve the instructions so other people won't hit the same problem, improving the contribution guide is a valuable contribution!"
+msgstr "プロジェクトがこのリストにない場合は、プロジェクトのREADMEでセットアップ方法の詳細を確認してください。手順が理解できない場合（または手順が見つからない場合）、Bee Teamのメンバーに連絡してください。問題解決をお手伝いします。また、同じ問題に他人が直面しないよう手順を改善できると思うなら、貢献ガイドの改善は貴重な貢献となります！"
+
+#: docs/en/contributing/sprint-guide.md:87
+#, fuzzy
+msgid "Now you can start working on your issue!"
+msgstr "さあ、問題の解決に取り掛かりましょう！"
+
+#: docs/en/contributing/sprint-guide.md:89
+#, fuzzy
+msgid "What happens after I submit my PR?"
+msgstr "プルリクエストを送信した後はどうなりますか？"
+
+#: docs/en/contributing/sprint-guide.md:91
+#, fuzzy
+msgid "Once you've submitted your pull request, and the pull request is passing all the automated checks, you're ready for a review. Let one of the core team know that you've got a PR ready for review, and they'll take a look."
+msgstr "プルリクエストを送信し、自動チェックをすべて通過したら、レビューの準備が整います。レビュー可能なプルリクエストが準備できたことをコアチームのメンバーに知らせてください。確認してもらえます。"
+
+#: docs/en/contributing/sprint-guide.md:93
+#, fuzzy
+msgid "If this is your first PR, it's quite likely the review will find some problems. That might be an edge case you didn't consider, or a code convention that you haven't followed. Don't be discouraged! Nobody - not even the core team - gets PRs 100% correct on the first try."
+msgstr "これが初めてのプルリクエストなら、レビューで問題が見つかる可能性は十分あります。想定していなかったエッジケースや、守られていないコード規約などかもしれません。がっかりしないでください！誰も——コアチームでさえ——最初の試みでプルリクエストを100%完璧にできるわけではありません。"
+
+#: docs/en/contributing/sprint-guide.md:95
+#, fuzzy
+msgid "Once the PR passes review, your reviewer will merge the PR - and you're done! Congratulations - you've contributed to BeeWare! If this is your very first BeeWare contribution, you've also earned your [BeeWare Challenge Coin]{1} - find a member of the core team, and they will give you a coin!"
+msgstr "プルリクエストがレビューを通過したら、レビュアーがマージします。これで完了です！おめでとうございます、BeeWareへの貢献を果たしました！これが初めてのBeeWareへの貢献であれば、[BeeWareチャレンジコイン]{1}も獲得できます。コアチームのメンバーを見つけてください。コインを贈呈します！"
+
+#: docs/en/contributing/sprint-guide.md:97
+#, fuzzy
+msgid "Help! I'm stuck!"
+msgstr "助けて！行き詰まっちゃった！"
+
+#: docs/en/contributing/sprint-guide.md:99
+#, fuzzy
+msgid "If you get stuck at any point along the way, find a member of the Bee Team. Don't be afraid to ask *any* question. If you're stuck, we want to get you unstuck. If you're confused, it's because the topic is complicated, and we haven't explained it well enough. We're eager to help - and we want to make sure you have a successful sprint."
+msgstr "途中で詰まったら、ビーチームのメンバーを探してください。どんな質問でも遠慮なく聞いてください。行き詰まっているなら、私たちが解決します。混乱しているなら、それはトピックが複雑で、私たちが十分に説明できていないからです。私たちは喜んでお手伝いします。そして、あなたのスプリントが成功することを願っています。"
+
+#: docs/en/contributing/sprint-guide.md:101
+#, fuzzy
+msgid "What if I don't complete my contribution during the sprint?"
+msgstr "スプリント中に貢献を完了できなかったらどうなりますか？"
+
+#: docs/en/contributing/sprint-guide.md:103
+#, fuzzy
+msgid "No problem! You can submit a contribution at any time. A goal of the sprints is to encourage and empower you to continue contributing throughout the rest of the year. The Bee Team are available to help with any part of this process."
+msgstr "問題ありません！いつでも貢献を提出できます。スプリントの目的の一つは、あなたが今年残りの期間も貢献を続けられるよう励まし、支援することです。ビーチームはこのプロセスのどの部分でもお手伝いします。"
+
+#: docs/en/contributing/sprint-guide.md:105
+#, fuzzy
+msgid "If you were already working on a GitHub issue or submitted a PR, you can continue to communicate through GitHub. If you have other questions or need real-time help, the best place to find us is the [BeeWare Discord server]{1}. We're looking forward to continuing to work with you!"
+msgstr "GitHubのイシューに取り組んでいる場合やプルリクエストを提出済みの場合は、引き続きGitHubを通じて連絡を取ることができます。その他の質問やリアルタイムのサポートが必要な場合は、[BeeWare Discordサーバー]{1}が最適な場所です。引き続きご協力いただけることを楽しみにしております！"
+
+#: docs/en/contributing/sprint-guide.md:107
+#, fuzzy
+msgid "Improving this guide"
+msgstr "このガイドの改善"
+
+#: docs/en/contributing/sprint-guide.md:109
+#, fuzzy
+msgid "If you've got any suggestions on how to improve this sprint guide, let us know. What worked for you? What didn't? What can we do better? And remember: fixing a problem with this Sprint Guide counts as a contribution to BeeWare!"
+msgstr "このスプリントガイドの改善点についてご提案があればお知らせください。何が役に立ちましたか？何が役に立ちませんでしたか？何を改善できますか？そして覚えておいてください：このスプリントガイドの問題を修正することは、BeeWareへの貢献としてカウントされます！"
+
+#: docs/en/docs/index.md:1
+#, fuzzy
+msgid "Documentation { .documentation }"
+msgstr "ドキュメント { .documentation }"
+
+#: docs/en/docs/index.md:6
+#, fuzzy
+msgid "![Brutus the Bee]{1}{ width=100 .tutorial-logo }"
+msgstr "![ブルータス・ザ・ビー]{1}{ width=100 .tutorial-logo }"
+
+#: docs/en/docs/index.md:10
+#, fuzzy
+msgid "New to BeeWare? { .tutorial-text }"
+msgstr "BeeWareが初めてですか？ { .tutorial-text }"
+
+#: docs/en/docs/index.md:12
+#, fuzzy
+msgid "[Take the tutorial]{1}{ .docs-tutorial }"
+msgstr "[チュートリアルを受講する]{1}{ .docs-tutorial }"
+
+#: docs/en/docs/index.md:17
+#, fuzzy
+msgid "Featured tools { .featured-tools }"
+msgstr "注目のツール { .featured-tools }"
+
+#: docs/en/docs/index.md:23 docs/en/index.md:126
+#, fuzzy
+msgid "[![Tiberius]{1}]{2}"
+msgstr "[![ティベリウス]{1}]{2}"
+
+#: docs/en/docs/index.md:25
+#, fuzzy
+msgid "[Toga]{1} { .featured-name #toga }"
+msgstr "[Toga]{1} { .featured-name #toga }"
+
+#: docs/en/docs/index.md:27 docs/en/index.md:132
+#, fuzzy
+msgid "A Python native, OS native GUI toolkit."
+msgstr "Pythonネイティブ、OSネイティブのGUIツールキット。"
+
+#: docs/en/docs/index.md:33 docs/en/index.md:136
+#, fuzzy
+msgid "[![Briefcase]{1}]{2}"
+msgstr "[![Briefcase]{1}]{2}"
+
+#: docs/en/docs/index.md:35
+#, fuzzy
+msgid "[Briefcase]{1} { .featured-name #briefcase }"
+msgstr "[Briefcase]{1} { .featured-name #briefcase }"
+
+#: docs/en/docs/index.md:37 docs/en/index.md:142
+#, fuzzy
+msgid "Convert a Python project into a standalone native application."
+msgstr "Pythonプロジェクトをスタンドアロンのネイティブアプリケーションに変換する。"
+
+#: docs/en/docs/index.md:42
+#, fuzzy
+msgid "Other tools { .other-tools #other-tools }"
+msgstr "その他のツール { .other-tools #other-tools }"
+
+#: docs/en/docs/index.md:44
+#, fuzzy
+msgid "Utilities used by and applications built with BeeWare tools."
+msgstr "BeeWareツールによって使用されるユーティリティおよび構築されるアプリケーション。"
+
+#: docs/en/docs/index.md:46
+#, fuzzy
+msgid "Showcased applications"
+msgstr "展示アプリケーション"
+
+#: docs/en/docs/index.md:48
+#, fuzzy
+msgid "Applications maintained by the BeeWare team that are built using BeeWare's tools."
+msgstr "BeeWareチームが管理し、BeeWareのツールを使用して構築されたアプリケーション。"
+
+#: docs/en/docs/index.md:52
+#, fuzzy
+msgid "[![Podium]{1}]{2}"
+msgstr "[![ステージ]{1}]{2}"
+
+#: docs/en/docs/index.md:56
+#, fuzzy
+msgid "[Podium]{1} { .podium-name #podium }"
+msgstr "[ステージ]{1} { .podium-name #podium }"
+
+#: docs/en/docs/index.md:60
+#, fuzzy
+msgid "A markup-based slide presentation tool."
+msgstr "マークアップベースのスライドプレゼンテーションツール。"
+
+#: docs/en/docs/index.md:67
+#, fuzzy
+msgid "Utilities"
+msgstr "公益事業"
+
+#: docs/en/docs/index.md:69
+#, fuzzy
+msgid "Pieces used by other BeeWare tools that can be useful on their own."
+msgstr "他のBeeWareツールで使用されるが、単独でも有用なパーツ。"
+
+#: docs/en/docs/index.md:73
+#, fuzzy
+msgid "[![Rubicon]{1}]{2}"
+msgstr "[![Rubicon]{1}]{2}"
+
+#: docs/en/docs/index.md:77
+#, fuzzy
+msgid "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
+msgstr "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
+
+#: docs/en/docs/index.md:81
+#, fuzzy
+msgid "A library for bridging between Python and the Objective-C language runtimes."
+msgstr "PythonとObjective-C言語ランタイム間のブリッジングを行うライブラリ。"
+
+#: docs/en/docs/index.md:89
+#, fuzzy
+msgid "[![Brutus the Bee]{1}]{2}"
+msgstr "[![ブルータス・ザ・ビー]{1}]{2}"
+
+#: docs/en/docs/index.md:93
+#, fuzzy
+msgid "[Python Apple Support]{1} { .python-apple-name #python-apple-support }"
+msgstr "[Python Apple Support]{1} { .python-apple-name #python-apple-support }"
+
+#: docs/en/docs/index.md:97 docs/en/docs/index.md:113
+#, fuzzy
+msgid "A meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project."
+msgstr "macOS、iOS、tvOS、またはwatchOSプロジェクトに組み込めるPythonバージョンをビルドするためのメタパッケージ。"
+
+#: docs/en/docs/index.md:105
+#, fuzzy
+msgid "[![Chaquopy]{1}]{2}"
+msgstr "[![Chaquopy]{1}]{2}"
+
+#: docs/en/docs/index.md:109
+#, fuzzy
+msgid "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
+msgstr "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
+
+#: docs/en/docs/index.md:119
+#, fuzzy
+msgid "The BeeWare Project { .beeware-project }"
+msgstr "BeeWare・プロジェクト { .beeware-project }"
+
+#: docs/en/docs/index.md:121
+#, fuzzy
+msgid "BeeWare is more than a suite of tools for building amazing apps. It's also an amazing open source community!"
+msgstr "BeeWareは、素晴らしいアプリを構築するためのツールスイート以上のものです。それはまた、素晴らしいオープンソースコミュニティでもあります！"
+
+#: docs/en/docs/index.md:123 docs/en/titles.md:19
+#, fuzzy
+msgid "BeeWare Community Code of Conduct"
+msgstr "BeeWareコミュニティ行動規範"
+
+#: docs/en/docs/index.md:125
+#, fuzzy
+msgid "Everyone participating in the BeeWare community, in any way, is required to adhere to the guidelines in the [BeeWare Community Code of Conduct]{1}."
+msgstr "BeeWareコミュニティに参加するすべての方は、いかなる形であれ、[BeeWareコミュニティ行動規範]{1}のガイドラインを遵守する必要があります。"
+
+#: docs/en/docs/index.md:127
+#, fuzzy
+msgid "About the project"
+msgstr "プロジェクトについて"
+
+#: docs/en/docs/index.md:129
+#, fuzzy
+msgid "Learn more [about the history and goals of the BeeWare project]{1}."
+msgstr "[BeeWareプロジェクトの歴史と目標について]{1}詳しく知る。"
+
+#: docs/en/docs/index.md:131
+#, fuzzy
+msgid "Get help using BeeWare"
+msgstr "BeeWareの使用方法についてサポートを受ける"
+
+#: docs/en/docs/index.md:133
+#, fuzzy
+msgid "Need help using BeeWare? We've got [lots of community resources]{1} that might help. If you need to ask a more specific question, here's [how you can find someone that might be able to help]{2}. We can also help you [find commercial support]{3}."
+msgstr "BeeWareの使用でお困りですか？役立つ[豊富なコミュニティリソース]{1}をご用意しています。より具体的な質問がある場合は、[支援可能な人物の探し方]{2}をご確認ください。また、[商用サポートの探し方]{3}についてもご案内できます。"
+
+#: docs/en/docs/index.md:135
+#, fuzzy
+msgid "Contributing to the BeeWare project"
+msgstr "BeeWareプロジェクトへの貢献"
+
+#: docs/en/docs/index.md:137
+#, fuzzy
+msgid "Want to contribute to BeeWare? See our [contribution guide]{1}. If you've never contributed to Open Source before, start with our [guide for first time contributors.]{2}"
+msgstr "BeeWareへの貢献に興味がありますか？[貢献ガイド]{1}をご覧ください。オープンソースへの貢献が初めての方は、[初めての貢献者向けガイド]{2}から始めてください。"
+
+#: docs/en/docs/index.md:139
+#, fuzzy
+msgid "Or, if you just want to support the project financially, you can [become a financial member of the project.]{1}"
+msgstr "あるいは、プロジェクトを金銭的に支援したいだけなら、[プロジェクトの金銭的支援会員になることもできます。]{1}"
+
+#: docs/en/docs/index.md:141 docs/en/index.md:92
+#, fuzzy
+msgid "Stay in touch!"
+msgstr "連絡を取り合いましょう！"
+
+#: docs/en/docs/index.md:143
+#, fuzzy
+msgid "Follow us on Mastodon [@beeware@fosstodon.org]{1}, or [sign up for our mailing list]{2} for regular project updates."
+msgstr "Mastodonでフォローしてください [@beeware@fosstodon.org]{1}、または定期的なプロジェクト更新情報を受け取るためにメーリングリストに登録してください [sign up for our mailing list]{2}。"
+
+#: docs/en/index.md:6
+#, fuzzy
+msgid "![Brutus the Bee]{1}{ .index-intro-beeware-logo }"
+msgstr "![ブルータス・ザ・ビー]{1}{ .index-intro-beeware-logo }"
+
+#: docs/en/index.md:11
+#, fuzzy
+msgid "BeeWare"
+msgstr "BeeWare"
+
+#: docs/en/index.md:13
+#, fuzzy
+msgid "Write once. Deploy everywhere."
+msgstr "一度書いて、どこでもデプロイ。"
+
+#: docs/en/index.md:17
+#, fuzzy
+msgid "Write your apps in Python and release them on iOS, Android, Windows, macOS, Linux, Web, and tvOS using rich, native user interfaces. Multiple apps, one codebase, with a fully native user experience on every platform."
+msgstr "Pythonでアプリを開発し、iOS、Android、Windows、macOS、Linux、Web、tvOS向けにリリースしましょう。各プラットフォームで完全なネイティブユーザー体験を実現する、リッチなネイティブUIを備えたアプリを、単一のコードベースで複数プラットフォームに展開できます。"
+
+#: docs/en/index.md:23
+#, fuzzy
+msgid "[Take the tutorial]{1}{ .intro-tutorial }"
+msgstr "[チュートリアルを受講する]{1}{ .intro-tutorial }"
+
+#: docs/en/index.md:25
+#, fuzzy
+msgid "[I want to contribute]{1}{ .intro-contribute }"
+msgstr "[貢献したい]{1}{ .intro-contribute }"
+
+#: docs/en/index.md:27
+#, fuzzy
+msgid "[Donate and support us!]{1}{ .intro-donate }"
+msgstr "[寄付して私たちを支援してください！]{1}{ .intro-donate }"
+
+#: docs/en/index.md:36
+#, fuzzy
+msgid "One codebase. Multiple apps."
+msgstr "一つのコードベース。複数のアプリ。"
+
+#: docs/en/index.md:38
+#, fuzzy
+msgid "BeeWare allows you to write your app in Python and release it on multiple platforms. No need to rewrite the app in multiple programming languages. It means **no issues** with build tools, environments, compatibility, etc."
+msgstr "BeeWareではPythonでアプリを記述し、複数のプラットフォームでリリースできます。複数のプログラミング言語でアプリを書き直す必要はありません。つまり、ビルドツールや環境、互換性などの**問題が発生しません**。"
+
+#: docs/en/index.md:40
+#, fuzzy
+msgid "Python native tools..."
+msgstr "Pythonネイティブツール..."
+
+#: docs/en/index.md:42
+#, fuzzy
+msgid "![Python logo]{1}{ .index-right-logo }"
+msgstr "![Python logo]{1}{ .index-right-logo }"
+
+#: docs/en/index.md:44
+#, fuzzy
+msgid "Python has proven itself as a highly capable language - approachable for newcomers, but powerful in the hands of experts. Why shouldn't you be able to **use Python everywhere** that you need to tell a computer to do something? And shouldn't your tools **exploit all the capabilities of Python** as a language, not just the bits that map nicely to a C binding?"
+msgstr "Pythonは極めて有能な言語であることを証明してきた——初心者にも親しみやすく、一方で専門家の手にかかれば強力な力を発揮する。コンピュータに何かを実行させる必要がある場面で、なぜ**どこでもPythonを使えない**のか？そしてあなたのツールは、Cバインディングにうまく対応する部分だけではなく、言語としてのPythonの**全ての能力を活用すべき**ではないだろうか？"
+
+#: docs/en/index.md:46
+#, fuzzy
+msgid "...on mobile & desktop..."
+msgstr "...モバイルとデスクトップで..."
+
+#: docs/en/index.md:48
+#, fuzzy
+msgid "![Cross-platform]{1}{ .index-left-logo }"
+msgstr "![クロスプラットフォーム]{1}{ .index-left-logo }"
+
+#: docs/en/index.md:50
+#, fuzzy
+msgid "Modern computing doesn't happen in an 80x25 console window. It happens on **phones, tablets, and desktop machines** with rich user interfaces. Shouldn't you be able to use Python in all those locations, and **exploit the unique capabilities of those platforms**?"
+msgstr "現代のコンピューティングは80x25のコンソールウィンドウでは行われません。それは**スマートフォン、タブレット、デスクトップマシン**といった豊富なユーザーインターフェースを備えた端末上で行われるのです。Pythonをそれらのあらゆる場所で利用し、**各プラットフォームの独自機能を最大限に活用**できるべきではないでしょうか？"
+
+#: docs/en/index.md:52
+#, fuzzy
+msgid "...behaving natively. { .behaving-index }"
+msgstr "...ネイティブに振る舞う。{ .behaving-index }"
+
+#: docs/en/index.md:54
+#, fuzzy
+msgid "![Native]{1}{ .index-right-logo }"
+msgstr "![Native]{1}{ .index-right-logo }"
+
+#: docs/en/index.md:56
+#, fuzzy
+msgid "End users shouldn't have to care what language their tools are written in. And that starts with looking and behaving **like completely native tools**. Native appearance, native behavior, delivered in the way a native app is delivered. Why shouldn't your Python tools fit in just as well as a native tool?"
+msgstr "エンドユーザーは、ツールがどの言語で書かれているかを気にする必要はありません。その第一歩は、**完全にネイティブなツールのように見えること、振る舞うこと**です。ネイティブな見た目、ネイティブな動作、ネイティブアプリと同じ方法で提供されること。Pythonツールがネイティブツールと同じように自然に馴染むべきではない理由があるでしょうか？"
+
+#: docs/en/index.md:58
+#, fuzzy
+msgid "This is BeeWare."
+msgstr "これはBeeWareです。"
+
+#: docs/en/index.md:60
+#, fuzzy
+msgid "![Brutus the Bee]{1}{ .index-left-logo }"
+msgstr "![ブルータス・ザ・ビー]{1}{ .index-left-logo }"
+
+#: docs/en/index.md:62
+#, fuzzy
+msgid "This is what BeeWare provides. Tools to help you write Python code with a rich, **native user interface**; and the libraries and support code necessary to get that code running on **iOS, Android, macOS, Linux, Windows, tvOS, and more**."
+msgstr "これがBeeWareが提供するものです。リッチな**ネイティブユーザーインターフェース**を備えたPythonコードを書くためのツール、そしてそのコードを**iOS、Android、macOS、Linux、Windows、tvOSなど**で動作させるために必要なライブラリとサポートコードです。"
+
+#: docs/en/index.md:64
+#, fuzzy
+msgid "Open source"
+msgstr "オープンソース"
+
+#: docs/en/index.md:66
+#, fuzzy
+msgid "![Open source]{1}{ .index-right-logo }"
+msgstr "![オープンソース]{1}{ .index-right-logo }"
+
+#: docs/en/index.md:68
+#, fuzzy
+msgid "The open source development process has proven itself to be the most reliable way to develop robust and reliable software. That's why the entire BeeWare suite of tools are BSD licensed, and **available for all to use and modify**."
+msgstr "オープンソース開発プロセスは、堅牢で信頼性の高いソフトウェアを開発する最も確実な方法であることが実証されています。そのため、BeeWareツールスイート全体はBSDライセンスで提供され、**誰もが利用・修正できる状態**にあります。"
+
+#: docs/en/index.md:70
+#, fuzzy
+msgid "All contributions welcome"
+msgstr "あらゆる貢献を歓迎します"
+
+#: docs/en/index.md:72
+#, fuzzy
+msgid "![Hands]{1}{ .index-left-logo }"
+msgstr "![手]{1}{ .index-left-logo }"
+
+#: docs/en/index.md:74
+#, fuzzy
+msgid "But it's not just about code. A successful software project requires documentation, design skills, feedback and bug reports. The BeeWare community acknowledges that **all contributions are important** — not just the ones that come as a pull request on GitHub."
+msgstr "しかし、コードだけが重要なのではありません。成功するソフトウェアプロジェクトには、ドキュメント、設計スキル、フィードバック、バグ報告が必要です。BeeWareコミュニティは、**すべての貢献が重要である**ことを認識しています——GitHubでのプルリクエストとして届くものだけではありません。"
+
+#: docs/en/index.md:76
+#, fuzzy
+msgid "From diversity comes strength"
+msgstr "多様性から強さが生まれる"
+
+#: docs/en/index.md:78
+#, fuzzy
+msgid "![Diversity]{1}{ .index-right-logo }"
+msgstr "![多様性]{1}{ .index-right-logo }"
+
+#: docs/en/index.md:80
+#, fuzzy
+msgid "A diverse community is a strong community. This means accepting people of all levels of experience, from all backgrounds, of all races, creeds, orientations and expressions. The BeeWare project is committed to **developing and maintaining a diverse, welcoming community**. We have an **open offer to mentor anyone** who wants to get involved as a contributor, backed up by a [Code of Conduct]{1} that is rigorously enforced."
+msgstr "多様性のあるコミュニティは強固なコミュニティです。これはあらゆる経験レベル、あらゆる背景、あらゆる人種、信条、指向性、表現を持つ人々を受け入れることを意味します。BeeWareプロジェクトは**多様性にあふれ、歓迎的なコミュニティの構築と維持**に取り組んでいます。貢献者として参加を希望するすべての人を**メンターとして支援する**体制を整えており、厳格に施行される[行動規範]{1}によってこれを支えています。"
+
+#: docs/en/index.md:82
+#, fuzzy
+msgid "Contribute!"
+msgstr "貢献しよう！"
+
+#: docs/en/index.md:84
+#, fuzzy
+msgid "If all this sounds interesting, why not take a look at the [BeeWare projects]{1} and see how you can use them when developing Python applications? Or, if you'd like to contribute, and you've never contributed to open source before, start with our [guide for first time contributors]{2}. If you feel ready to dive straight in, check out the [documentation]{3} or our guide on [what you can do to help]{4}."
+msgstr "これらに興味を持たれたなら、[BeeWareプロジェクト]{1}をぜひご覧ください。Pythonアプリケーション開発でどのように活用できるか確認できます。あるいは、貢献したいがオープンソースへの貢献経験がないという方は、[初めての貢献者向けガイド]{2}から始めてみてください。 すぐに飛び込みたい方は、[ドキュメント]{3}や[貢献方法ガイド]{4}をご覧ください。"
+
+#: docs/en/index.md:88
+#, fuzzy
+msgid "[Contribute to BeeWare]{1}{ .index-main-contribute }"
+msgstr "[BeeWareへの貢献]{1}{ .index-main-contribute }"
+
+#: docs/en/index.md:94
+#, fuzzy
+msgid "Follow [@beeware@fosstodon.org]{1} on Mastodon, or [join the BeeWare enthusiasts mailing list]{2} for updates, hints, tips, and announcements related to the project."
+msgstr "Mastodonで[@beeware@fosstodon.org]{1}をフォローするか、[BeeWare愛好家メーリングリストに参加する]{2}ことで、プロジェクトに関する最新情報、ヒント、コツ、お知らせを受け取ることができます。"
+
+#: docs/en/index.md:98
+#, fuzzy
+msgid "[Keep in touch!]{1}{ .index-main-keep }"
+msgstr "[連絡を取り合いましょう！]{1}{ .index-main-keep }"
+
+#: docs/en/index.md:102
+#, fuzzy
+msgid "Members"
+msgstr "メンバー"
+
+#: docs/en/index.md:104
+#, fuzzy
+msgid "BeeWare is supported by users like you! Every little bit helps: [click here to contribute]{1}."
+msgstr "BeeWareは皆様のようなユーザーの皆様に支えられています！どんな小さな支援も力になります：[こちらをクリックして支援する]{1}。"
+
+#: docs/en/index.md:109
+#, fuzzy
+msgid "Gold Member { .index-sidebar-gold-member }"
+msgstr "ゴールドメンバー { .index-sidebar-gold-member }"
+
+#: docs/en/index.md:113
+#, fuzzy
+msgid "Latest news"
+msgstr "最新ニュース"
+
+#: docs/en/index.md:115
+msgid "{{ latest_news(files) }}"
+msgstr "{{ latest_news(files) }}"
+
+#: docs/en/index.md:117
+#, fuzzy
+msgid "Upcoming events"
+msgstr "今後のイベント"
+
+#: docs/en/index.md:119
+msgid "{{ upcoming_events(files) }}"
+msgstr "{{ upcoming_events(files) }}"
+
+#: docs/en/index.md:121 docs/en/titles.md:15
+#, fuzzy
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: docs/en/index.md:128
+#, fuzzy
+msgid "[Toga]{1} { .index-docs-name }"
+msgstr "[Toga]{1} { .index-docs-name }"
+
+#: docs/en/index.md:138
+#, fuzzy
+msgid "[Briefcase]{1} { .index-docs-name }"
+msgstr "[Briefcase]{1} { .index-docs-name }"
+
+#: docs/en/index.md:146
+#, fuzzy
+msgid "[...and much more.]{1}"
+msgstr "[...その他多数。]{1}"
+
+#: docs/en/membership/index.md:1
+#, fuzzy
+msgid "We need your help! { #we-need-your-help }"
+msgstr "ご協力をお願いします！ { #we-need-your-help }"
+
+#: docs/en/membership/index.md:3
+#, fuzzy
+msgid "Although the contributions of volunteers of are gratefully accepted, some things take money."
+msgstr "ボランティアの方々の貢献には心から感謝していますが、お金が必要なこともあります。"
+
+#: docs/en/membership/index.md:5
+#, fuzzy
+msgid "Your membership helps ensure BeeWare's continued development. With your support, the BeeWare team are able to fund development, and travel to events to help new contributors and share information."
+msgstr "あなたの会員資格は、BeeWareの継続的な開発を支える助けとなります。皆様のご支援により、BeeWareチームは開発資金を確保し、イベントへの出張を通じて新規貢献者を支援し、情報を共有することが可能になります。"
+
+#: docs/en/membership/index.md:7
+#, fuzzy
+msgid "In return, members have increased access to the core team, and can help shape the direction and development priorities of the project as a whole."
+msgstr "その見返りとして、メンバーはコアチームへのアクセス機会が増え、プロジェクト全体の方向性や開発優先順位を形作ることに貢献できます。"
+
+#: docs/en/membership/index.md:9
+#, fuzzy
+msgid "GitHub Sponsors"
+msgstr "GitHub Sponsors"
+
+#: docs/en/membership/index.md:11
+#, fuzzy
+msgid "If you're interested in supporting BeeWare, you can become a supporting member of the BeeWare project through [GitHub Sponsors]{1}."
+msgstr "BeeWareの支援にご興味をお持ちの方は、[GitHub Sponsors]{1}を通じてBeeWareプロジェクトの支援メンバーになることができます。"
+
+#: docs/en/membership/index.md:13
+#, fuzzy
+msgid "We have several levels of membership available, to fit a wide range of financial circumstances."
+msgstr "様々な経済状況に合わせて、複数の会員レベルをご用意しております。"
+
+#: docs/en/membership/index.md:15
+#, fuzzy
+msgid "Enthusiasts"
+msgstr "愛好家"
+
+#: docs/en/membership/index.md:17
+#, fuzzy
+msgid "If you'd like to provide basic support of the BeeWare project, we offer three tiers of support:"
+msgstr "BeeWareプロジェクトへの基本的なサポートをご提供いただく場合、以下の3段階のサポートプランをご用意しています："
+
+#: docs/en/membership/index.md:19
+#, fuzzy
+msgid "**Fan**: 5/month"
+msgstr "**ファン**: 5人/月"
+
+#: docs/en/membership/index.md:20
+#, fuzzy
+msgid "**Enthusiast**: $10/month"
+msgstr "**愛好家**: 月額10ドル"
+
+#: docs/en/membership/index.md:21
+#, fuzzy
+msgid "**Super-Enthusiast**: $15/month"
+msgstr "**スーパー・エンスージアスト**: 月額15ドル"
+
+#: docs/en/membership/index.md:23
+#, fuzzy
+msgid "You will receive a Sponsor badge on your profile, and your name will be listed on the BeeWare project website (unless you choose to make your sponsorship private)."
+msgstr "プロフィールにスポンサーバッジが表示され、BeeWareプロジェクトのウェブサイトに名前が掲載されます（スポンサーシップを非公開に設定しない限り）。"
+
+#: docs/en/membership/index.md:25
+#, fuzzy
+msgid "Professional: $50/month"
+msgstr "プロフェッショナル: 月額50ドル"
+
+#: docs/en/membership/index.md:27
+#, fuzzy
+msgid "If you use BeeWare in a professional context, please consider sponsoring at the Professional level. You will receive a Sponsor badge on your profile, and your name will be listed on the BeeWare project website (unless you choose to make your sponsorship private)."
+msgstr "プロフェッショナル環境でBeeWareをご利用の場合は、プロフェッショナルレベルのスポンサーシップをご検討ください。プロフィールにスポンサーバッジが表示され、BeeWareプロジェクトウェブサイトにスポンサー名として掲載されます（非公開を選択した場合を除く）。"
+
+#: docs/en/membership/index.md:29
+#, fuzzy
+msgid "Bronze Membership: $200/month"
+msgstr "ブロンズ会員：月額200ドル"
+
+#: docs/en/membership/index.md:31
+#, fuzzy
+msgid "If you use my work to support your small business, please consider sponsoring at this level to ensure to tools you're using to generate revenue receive the support they need. Your company's name, logo, and a short description will be displayed on the BeeWare sponsors page, and include your company on any list of companies offering BeeWare-related services."
+msgstr "私の作品を小規模ビジネスの運営にご活用いただく場合、収益創出に活用されているツールに必要なサポートを確保するため、こちらのスポンサーシップをご検討ください。貴社名・ロゴ・概要文をBeeWareスポンサーページに掲載し、BeeWare関連サービス提供企業リストにも貴社名を掲載いたします。"
+
+#: docs/en/membership/index.md:33
+#, fuzzy
+msgid "Silver Membership: $1000/month"
+msgstr "シルバー会員：月額1000ドル"
+
+#: docs/en/membership/index.md:35
+#, fuzzy
+msgid "If you use my work to support your established business, please consider sponsoring at this level to ensure to tools you're using to generate revenue receive the support they need. Your company's name, logo, and a short description will be displayed on the BeeWare sponsors page, and include your company on any list of companies offering BeeWare-related services. Your company will also receive priority placement on any list offering BeeWare-related services."
+msgstr "私の作品を既存のビジネス支援にご利用いただく場合、収益創出に活用されているツールに必要なサポートを確保するため、本レベルのスポンサーシップをご検討ください。貴社名・ロゴ・概要はBeeWareスポンサーページに掲載され、BeeWare関連サービス提供企業リストにも貴社名を掲載いたします。また、BeeWare関連サービス提供企業リストにおいて優先的な掲載位置を確保いたします。"
+
+#: docs/en/membership/index.md:37
+#, fuzzy
+msgid "Gold Membership: $5000/month"
+msgstr "ゴールド会員：月額5000ドル"
+
+#: docs/en/membership/index.md:39
+#, fuzzy
+msgid "If you use my work to support your large corporation, please consider sponsoring at this level to ensure to tools you're using to generate revenue receive the support they need. Your company's name, logo, and a short description will be displayed on the BeeWare sponsors page, and include your company on any list of companies offering BeeWare-related services. Your company will also receive premium placement on any list offering BeeWare-related services, and an annual meeting with a representative of the BeeWare core team."
+msgstr "私の作品を大企業支援にご利用いただく場合、収益創出に活用されているツールが適切なサポートを受けられるよう、本レベルのスポンサーシップをご検討ください。 貴社名・ロゴ・概要はBeeWareスポンサーページに掲載され、BeeWare関連サービス提供企業リストにも貴社名を掲載いたします。さらに、BeeWare関連サービス提供企業リストにおける優先掲載枠と、BeeWareコアチーム代表者との年次面談の機会を提供いたします。"
+
+#: docs/en/membership/index.md:41
+#, fuzzy
+msgid "Alternative options"
+msgstr "代替案"
+
+#: docs/en/membership/index.md:43
+#, fuzzy
+msgid "If you'd like to talk to someone about other branding or membership opportunities, or you'd like other payment options for your membership, please direct enquiries to [Russell Keith-Magee]{1}."
+msgstr "その他のブランディングや会員制度に関するご相談、または会員費のお支払い方法についてお知りになりたい場合は、[ラッセル・キース＝マギー]{1}までお問い合わせください。"
+
+#: docs/en/membership/index.md:45
+#, fuzzy
+msgid "Current Members { #current-members }"
+msgstr "現在のメンバー { #current-members }"
+
+#: docs/en/membership/index.md:47
+#, fuzzy
+msgid "Gold Members { #gold-members }"
+msgstr "ゴールドメンバー { #gold-members }"
+
+#: docs/en/membership/index.md:51
+#, fuzzy
+msgid "With more than 45 million users, [Anaconda]{1} is the most popular operating system for AI providing access to the foundational open-source Python packages used in modern AI, data science and machine learning through a seamless platform. Anaconda pioneered the use of Python for data science, championed its vibrant community, and continues to steward open-source projects that make tomorrow’s innovations possible. Their enterprise-grade solutions enable corporate, research, and academic institutions around the world to harness the power of open-source for competitive advantage, groundbreaking research, and a better world."
+msgstr "4,500万人以上のユーザーを有する[Anaconda]{1}は、AI分野で最も普及しているオペレーティングシステムであり、シームレスなプラットフォームを通じて、現代のAI、データサイエンス、機械学習で使用される基盤となるオープンソースPythonパッケージへのアクセスを提供します。 アナコンダはデータサイエンス分野におけるPython活用の先駆けとなり、活発なコミュニティを牽引。今後も明日のイノベーションを支えるオープンソースプロジェクトを推進し続けます。同社のエンタープライズグレードソリューションは、世界中の企業・研究機関・学術機関がオープンソースの力を活用し、競争優位性の獲得、画期的な研究の推進、そしてより良い世界の実現を可能にします。"
+
+#: docs/en/membership/index.md:53
+#, fuzzy
+msgid "Professional Members { #enthusiasts }"
+msgstr "プロフェッショナル会員 { #enthusiasts }"
+
+#: docs/en/membership/index.md:67
+#, fuzzy
+msgid "Enthusiasts { #enthusiasts }"
+msgstr "愛好家 { #enthusiasts }"
+
+#: docs/en/titles.md:3
+#, fuzzy
+msgid "About"
+msgstr "について"
+
+#: docs/en/titles.md:5
+#, fuzzy
+msgid "What is BeeWare?"
+msgstr "BeeWareとは何ですか？"
+
+#: docs/en/titles.md:7
+#, fuzzy
+msgid "The Bee Team"
+msgstr "ビーチーム"
+
+#: docs/en/titles.md:9
+#, fuzzy
+msgid "History and Philosophy"
+msgstr "歴史と哲学"
+
+#: docs/en/titles.md:11
+#, fuzzy
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#: docs/en/titles.md:17
+#, fuzzy
+msgid "Community"
+msgstr "コミュニティ"
+
+#: docs/en/titles.md:21
+#, fuzzy
+msgid "Governance"
+msgstr "ガバナンス"
+
+#: docs/en/titles.md:23
+#, fuzzy
+msgid "Contributing"
+msgstr "寄稿"
+
+#: docs/en/titles.md:25
+#, fuzzy
+msgid "First-time contributors"
+msgstr "初めての投稿者"
+
+#: docs/en/titles.md:29
+#, fuzzy
+msgid "Fix an issue"
+msgstr "問題を修正する"
+
+#: docs/en/titles.md:31
+#, fuzzy
+msgid "Implement a new feature"
+msgstr "新機能の実装"
+
+#: docs/en/titles.md:33
+#, fuzzy
+msgid "Write documentation"
+msgstr "ドキュメントを作成する"
+
+#: docs/en/titles.md:35
+#, fuzzy
+msgid "Triage an issue"
+msgstr "問題をトリアージする"
+
+#: docs/en/titles.md:37
+#, fuzzy
+msgid "Review a pull request"
+msgstr "プルリクエストを確認する"
+
+#: docs/en/titles.md:39
+#, fuzzy
+msgid "Propose a new feature"
+msgstr "新機能の提案"
+
+#: docs/en/titles.md:41
+#, fuzzy
+msgid "Translate content"
+msgstr "コンテンツを翻訳する"
+
+#: docs/en/titles.md:43
+#, fuzzy
+msgid "Use the tools"
+msgstr "ツールを使用する"
+
+#: docs/en/titles.md:49
+#, fuzzy
+msgid "Working from a branch"
+msgstr "ブランチから作業する"
+
+#: docs/en/titles.md:59
+#, fuzzy
+msgid "Adding a change note"
+msgstr "変更メモの追加"
+
+#: docs/en/titles.md:63
+#, fuzzy
+msgid "Providing a review"
+msgstr "レビューを提供すること"
+
+#: docs/en/titles.md:71
+#, fuzzy
+msgid "Pull request review process"
+msgstr "プルリクエストのレビュープロセス"
+
+#: docs/en/titles.md:73
+#, fuzzy
+msgid "Release process"
+msgstr "リリースプロセス"
+
+#: docs/en/titles.md:79
+#, fuzzy
+msgid "Sprint guide"
+msgstr "スプリントガイド"
+
+#: docs/en/titles.md:81
+#, fuzzy
+msgid "Challenge coins"
+msgstr "チャレンジコイン"
+
+#: docs/en/titles.md:83
+#, fuzzy
+msgid "News"
+msgstr "ニュース"
+
+#: docs/en/titles.md:85
+#, fuzzy
+msgid "Sponsor"
+msgstr "スポンサー"

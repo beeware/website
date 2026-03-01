@@ -39,9 +39,7 @@ I've also got interests as a consumer of free software - both in terms of the so
 
 Based on my experience, I'd like to make a bold assertion:
 
-> Absent of any other constraints, given equivalent resources, the free
-> software approach produces vastly superior engineering outcomes than
-> the closed-source approach.
+> Absent of any other constraints, given equivalent resources, the free software approach produces vastly superior engineering outcomes than the closed-source approach.
 
 The catch is the operative clause "given equivalent resources". Most free software projects aren't developed using anything close to "equivalent" resources.
 

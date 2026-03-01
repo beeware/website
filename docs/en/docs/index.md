@@ -2,6 +2,8 @@
 title: BeeWare docs
 ---
 
+<!-- rumdl-disable-file MD025 -->
+
 # Documentation { .documentation }
 
 <div class="docs-page" markdown="1">

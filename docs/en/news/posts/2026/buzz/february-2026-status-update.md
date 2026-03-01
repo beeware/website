@@ -17,7 +17,7 @@ February has seen a collection of improvements across the BeeWare ecosystem - in
 - We welcomed a new member of the BeeWare core team - [Corran Webster][corranwebster]. Over the last few months, Corran has taken Toga’s Qt backend from a bare stub to a widget-complete implementation. He’s also done some major internal design work around Toga's Table and Tree implementations, and added the long-requested ability to add bitmap images to a Canvas. That's a lot of work for a couple of months - we're excited to see what comes next!
 - We published new [support packages for iOS and macOS](https://github.com/beeware/Python-Apple-support/releases), backporting some recent changes in CPython to our patches for Python 3.10-3-12.
 - We made significant progress on adding [FastAPI and PyScript backends for Positron](https://github.com/beeware/toga/pull/4156). The PyScript part of this backend has revealed some issues with the feature set of Android and iOS `WebView` widgets; we're working with the PyScript team to find a workaround for these problems.
-- We [fixed some stability issues with the testbed application that is used to test Python](https://github.com/python/cpython/pull/142912).
+- We [fixed several issues with the testbed application that is used to test Python on Android](https://github.com/python/cpython/pull/142912).
 - We [added a plugin interface to Briefcase to allow for the definition of publication channels](https://github.com/beeware/briefcase/pull/2701). We're working with the [PythonAnywhere](https://pythonanywhere.com) team to build a [plugin that will allow for the publication of web apps](https://github.com/pythonanywhere/pythonanywhere-briefcase-plugin).
 - We optimized the [work that Briefcase does when inspecting app configurations on startup](https://github.com/beeware/briefcase/pull/2659).
 - We added the ability to [revoke permissions when running an app on Android](https://github.com/beeware/briefcase/pull/2664).
@@ -35,14 +35,14 @@ February has seen a collection of improvements across the BeeWare ecosystem - in
 - We added the ability for [WinForms `Table` widgets to have an icon in *every* column, not just the first column](https://github.com/beeware/toga/pull/4164).
 - We corrected some [memory leaks in Toga's Windows backend](https://github.com/beeware/toga/pull/4167).
 - We [improved how corrupted icons are handled in Toga](https://github.com/beeware/toga/pull/4191), providing a fallback path instead of a crash.
-- We [fixed an intermittent issue with the testbed when testing on Android](https://github.com/beeware/toga/pull/4208).
+- We [fixed an intermittent issue with the testbed when testing Toga on Android](https://github.com/beeware/toga/pull/4208).
 - We made some [changes to our bug reporting template](https://github.com/beeware/.github/pull/303), and [added a new template for reporting documentation issues](https://github.com/beeware/.github/pull/306).
 
 ## What's next?
 
 In March, we're hoping to wrap up our work on the FastAPI and PyScript plugins for Positron. The plugin is mostly done, but we're looking into some additional optimizations and improvements that will improve the experience when using the plugin.
 
-However, most of our focus will be on design work around capabilities that are currently missing from Toga. This month saw some initial discussions om these topics. We're hoping that by the end of the month, we'll be able to resolve those discussions with some concrete designs that we can start to implement.
+However, most of our focus will be on design work around capabilities that are currently missing from Toga. This month saw some initial discussions on these topics. We're hoping that by the end of the month, we'll be able to resolve those discussions with some concrete designs that we can start to implement.
 
 ## Want to get involved?
 

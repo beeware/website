@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-01 22:28+0000\n"
+"POT-Creation-Date: 2026-03-01 22:49+0000\n"
 "PO-Revision-Date: 2025-05-27 20:44+EST\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1723,207 +1723,207 @@ msgstr "이 가이드 개선하기"
 msgid "If you've got any suggestions on how to improve this sprint guide, let us know. What worked for you? What didn't? What can we do better? And remember: fixing a problem with this Sprint Guide counts as a contribution to BeeWare!"
 msgstr "이 스프린트 가이드를 개선할 방법에 대한 제안이 있으면 알려주세요. 어떤 점이 도움이 되었나요? 어떤 점이 도움이 되지 않았나요? 무엇을 개선하면 좋을까요? 그리고 기억하세요. 문제를 해결하면 BeeWare에 기여한 것으로 간주됩니다!"
 
-#: docs/en/docs/index.md:1
+#: docs/en/docs/index.md:3
 #, fuzzy
 msgid "Documentation { .documentation }"
 msgstr "문서화 { .documentation }"
 
-#: docs/en/docs/index.md:6
+#: docs/en/docs/index.md:8
 #, fuzzy
 msgid "![Brutus the Bee]{1}{ width=100 .tutorial-logo }"
 msgstr "![벌 브루투스]{1}{ width=100 .tutorial-logo }"
 
-#: docs/en/docs/index.md:10
+#: docs/en/docs/index.md:12
 #, fuzzy
 msgid "New to BeeWare? { .tutorial-text }"
 msgstr "BeeWare를 처음 사용하시나요? { .tutorial-text }"
 
-#: docs/en/docs/index.md:12
+#: docs/en/docs/index.md:14
 #, fuzzy
 msgid "[Take the tutorial]{1}{ .docs-tutorial }"
 msgstr "[튜토리얼을 시작하세요]{1}{ .docs-tutorial }"
 
-#: docs/en/docs/index.md:17
+#: docs/en/docs/index.md:19
 #, fuzzy
 msgid "Featured tools { .featured-tools }"
 msgstr "추천 도구 { .featured-tools }"
 
-#: docs/en/docs/index.md:23 docs/en/index.md:126
+#: docs/en/docs/index.md:25 docs/en/index.md:126
 #, fuzzy
 msgid "[![Tiberius]{1}]{2}"
 msgstr "[![티베리우스]{1}]{2}"
 
-#: docs/en/docs/index.md:25
+#: docs/en/docs/index.md:27
 #, fuzzy
 msgid "[Toga]{1} { .featured-name #toga }"
 msgstr "[토가]{1} { .featured-name #toga }"
 
-#: docs/en/docs/index.md:27 docs/en/index.md:132
+#: docs/en/docs/index.md:29 docs/en/index.md:132
 #, fuzzy
 msgid "A Python native, OS native GUI toolkit."
 msgstr "Python 네이티브, OS 네이티브 GUI 툴킷입니다."
 
-#: docs/en/docs/index.md:33 docs/en/index.md:136
+#: docs/en/docs/index.md:35 docs/en/index.md:136
 #, fuzzy
 msgid "[![Briefcase]{1}]{2}"
 msgstr "[![Briefcase]{1}]{2}"
 
-#: docs/en/docs/index.md:35
+#: docs/en/docs/index.md:37
 #, fuzzy
 msgid "[Briefcase]{1} { .featured-name #briefcase }"
 msgstr "[Briefcase]{1} { .featured-name #briefcase }"
 
-#: docs/en/docs/index.md:37 docs/en/index.md:142
+#: docs/en/docs/index.md:39 docs/en/index.md:142
 #, fuzzy
 msgid "Convert a Python project into a standalone native application."
 msgstr "Python 프로젝트를 독립형 네이티브 애플리케이션으로 변환하세요."
 
-#: docs/en/docs/index.md:42
+#: docs/en/docs/index.md:44
 #, fuzzy
 msgid "Other tools { .other-tools #other-tools }"
 msgstr "기타 도구 { .기타-도구 #기타-도구 }"
 
-#: docs/en/docs/index.md:44
+#: docs/en/docs/index.md:46
 #, fuzzy
 msgid "Utilities used by and applications built with BeeWare tools."
 msgstr "BeeWare 도구로 구축된 애플리케이션 및 해당 도구에서 사용하는 유틸리티."
 
-#: docs/en/docs/index.md:46
+#: docs/en/docs/index.md:48
 #, fuzzy
 msgid "Showcased applications"
 msgstr "주요 애플리케이션"
 
-#: docs/en/docs/index.md:48
+#: docs/en/docs/index.md:50
 #, fuzzy
 msgid "Applications maintained by the BeeWare team that are built using BeeWare's tools."
 msgstr "BeeWare 팀이 관리하며 BeeWare의 도구로 구축된 애플리케이션들."
 
-#: docs/en/docs/index.md:52
+#: docs/en/docs/index.md:54
 #, fuzzy
 msgid "[![Podium]{1}]{2}"
 msgstr "[![무대]{1}]{2}"
 
-#: docs/en/docs/index.md:56
+#: docs/en/docs/index.md:58
 #, fuzzy
 msgid "[Podium]{1} { .podium-name #podium }"
 msgstr "[무대]{1} { .podium-name #podium }"
 
-#: docs/en/docs/index.md:60
+#: docs/en/docs/index.md:62
 #, fuzzy
 msgid "A markup-based slide presentation tool."
 msgstr "마크업 기반 슬라이드 프레젠테이션 도구."
 
-#: docs/en/docs/index.md:67
+#: docs/en/docs/index.md:69
 #, fuzzy
 msgid "Utilities"
 msgstr "유틸리티"
 
-#: docs/en/docs/index.md:69
+#: docs/en/docs/index.md:71
 #, fuzzy
 msgid "Pieces used by other BeeWare tools that can be useful on their own."
 msgstr "다른 BeeWare 도구에서 사용되는 조각들로, 단독으로도 유용할 수 있습니다."
 
-#: docs/en/docs/index.md:73
+#: docs/en/docs/index.md:75
 #, fuzzy
 msgid "[![Rubicon]{1}]{2}"
 msgstr "[![Rubicon]{1}]{2}"
 
-#: docs/en/docs/index.md:77
+#: docs/en/docs/index.md:79
 #, fuzzy
 msgid "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 msgstr "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 
-#: docs/en/docs/index.md:81
+#: docs/en/docs/index.md:83
 #, fuzzy
 msgid "A library for bridging between Python and the Objective-C language runtimes."
 msgstr "파이썬과 Objective-C 언어 사이의 브리징을 위한 라이브러리 런타임."
 
-#: docs/en/docs/index.md:89
+#: docs/en/docs/index.md:91
 #, fuzzy
 msgid "[![Brutus the Bee]{1}]{2}"
 msgstr "[![벌 브루투스]{1}]{2}"
 
-#: docs/en/docs/index.md:93
+#: docs/en/docs/index.md:95
 #, fuzzy
 msgid "[Python Apple Support]{1} { .python-apple-name #python-apple-support }"
 msgstr "[Python Apple 지원]{1} { .python-apple-name #python-apple-support }"
 
-#: docs/en/docs/index.md:97 docs/en/docs/index.md:113
+#: docs/en/docs/index.md:99 docs/en/docs/index.md:115
 #, fuzzy
 msgid "A meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project."
 msgstr "macOS, iOS, watchOS 프로젝트에 임베드할 수 있는 파이썬 버전을 구축하기 위한 를 빌드하기 위한 메타 패키지입니다."
 
-#: docs/en/docs/index.md:105
+#: docs/en/docs/index.md:107
 #, fuzzy
 msgid "[![Chaquopy]{1}]{2}"
 msgstr "[![Chaquopy]{1}]{2}"
 
-#: docs/en/docs/index.md:109
+#: docs/en/docs/index.md:111
 #, fuzzy
 msgid "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 msgstr "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 
-#: docs/en/docs/index.md:119
+#: docs/en/docs/index.md:121
 #, fuzzy
 msgid "The BeeWare Project { .beeware-project }"
 msgstr "BeeWare 프로젝트 { .beeware-project }"
 
-#: docs/en/docs/index.md:121
+#: docs/en/docs/index.md:123
 #, fuzzy
 msgid "BeeWare is more than a suite of tools for building amazing apps. It's also an amazing open source community!"
 msgstr "BeeWare는 놀라운 앱을 구축하기 위한 도구 모음 그 이상입니다. 또한 놀라운 오픈소스 커뮤니티이기도 합니다!"
 
-#: docs/en/docs/index.md:123 docs/en/titles.md:19
+#: docs/en/docs/index.md:125 docs/en/titles.md:19
 #, fuzzy
 msgid "BeeWare Community Code of Conduct"
 msgstr "BeeWare 커뮤니티 행동 강령"
 
-#: docs/en/docs/index.md:125
+#: docs/en/docs/index.md:127
 #, fuzzy
 msgid "Everyone participating in the BeeWare community, in any way, is required to adhere to the guidelines in the [BeeWare Community Code of Conduct]{1}."
 msgstr "BeeWare 커뮤니티에 어떤 방식으로든 참여하는 모든 사람은 [BeeWare 커뮤니티 행동 강령]{1}의 지침을 준수해야 합니다."
 
-#: docs/en/docs/index.md:127
+#: docs/en/docs/index.md:129
 #, fuzzy
 msgid "About the project"
 msgstr "프로젝트에 관하여"
 
-#: docs/en/docs/index.md:129
+#: docs/en/docs/index.md:131
 #, fuzzy
 msgid "Learn more [about the history and goals of the BeeWare project]{1}."
 msgstr "[BeeWare 프로젝트의 역사와 목표에 대해 자세히 알아보기]{1}."
 
-#: docs/en/docs/index.md:131
+#: docs/en/docs/index.md:133
 #, fuzzy
 msgid "Get help using BeeWare"
 msgstr "BeeWare 사용 방법에 대한 도움 받기"
 
-#: docs/en/docs/index.md:133
+#: docs/en/docs/index.md:135
 #, fuzzy
 msgid "Need help using BeeWare? We've got [lots of community resources]{1} that might help. If you need to ask a more specific question, here's [how you can find someone that might be able to help]{2}. We can also help you [find commercial support]{3}."
 msgstr "BeeWare 사용에 도움이 필요하신가요? [다양한 커뮤니티 자료]{1}이 도움이 될 수 있습니다. 더 구체적인 질문이 있다면 [도움을 받을 수 있는 사람을 찾는 방법]{2}을 참고하세요. [상업적 지원 찾기]{3}도 도와드릴 수 있습니다."
 
-#: docs/en/docs/index.md:135
+#: docs/en/docs/index.md:137
 #, fuzzy
 msgid "Contributing to the BeeWare project"
 msgstr "BeeWare 프로젝트에 기여하기"
 
-#: docs/en/docs/index.md:137
+#: docs/en/docs/index.md:139
 #, fuzzy
 msgid "Want to contribute to BeeWare? See our [contribution guide]{1}. If you've never contributed to Open Source before, start with our [guide for first time contributors.]{2}"
 msgstr "BeeWare에 기여하고 싶으신가요? [기여 가이드]{1}을 참고하세요. 오픈소스에 기여해 본 적이 없다면, [첫 기여자를 위한 가이드]{2}부터 시작해 보세요."
 
-#: docs/en/docs/index.md:139
+#: docs/en/docs/index.md:141
 #, fuzzy
 msgid "Or, if you just want to support the project financially, you can [become a financial member of the project.]{1}"
 msgstr "또는 단순히 프로젝트를 재정적으로 후원하고 싶다면, [프로젝트의 재정적 회원이 될 수 있습니다.]{1}"
 
-#: docs/en/docs/index.md:141 docs/en/index.md:92
+#: docs/en/docs/index.md:143 docs/en/index.md:92
 #, fuzzy
 msgid "Stay in touch!"
 msgstr "계속 연락해요!"
 
-#: docs/en/docs/index.md:143
+#: docs/en/docs/index.md:145
 #, fuzzy
 msgid "Follow us on Mastodon [@beeware@fosstodon.org]{1}, or [sign up for our mailing list]{2} for regular project updates."
 msgstr "Mastodon에서 저희를 팔로우하세요 [@beeware@fosstodon.org]{1}, 또는 정기적인 프로젝트 업데이트를 받으시려면 [저희 메일링 리스트에 가입하세요]{2}."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-01 22:28+0000\n"
+"POT-Creation-Date: 2026-03-01 22:49+0000\n"
 "PO-Revision-Date: 2025-07-20 14:03+0000\n"
 "Last-Translator: Ece Akdeniz <ecesel34@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/beeware/website/tr/>\n"
@@ -1721,207 +1721,207 @@ msgstr "Bu kılavuzu iyileştirme"
 msgid "If you've got any suggestions on how to improve this sprint guide, let us know. What worked for you? What didn't? What can we do better? And remember: fixing a problem with this Sprint Guide counts as a contribution to BeeWare!"
 msgstr "Bu sprint rehberini nasıl geliştirebileceğimize dair önerileriniz varsa, bize bildirin. Sizin için ne işe yaradı? Ne işe yaramadı? Neyi daha iyi yapabiliriz? Ve unutmayın: bir hatayı düzeltmek Bu Sprint Kılavuzu ile ilgili sorun, BeeWare'e bir katkı olarak sayılır!"
 
-#: docs/en/docs/index.md:1
+#: docs/en/docs/index.md:3
 #, fuzzy
 msgid "Documentation { .documentation }"
 msgstr "Belgeler { .belgeler }"
 
-#: docs/en/docs/index.md:6
+#: docs/en/docs/index.md:8
 #, fuzzy
 msgid "![Brutus the Bee]{1}{ width=100 .tutorial-logo }"
 msgstr "![Brutus the Bee]{1}{ width=100 .tutorial-logo }"
 
-#: docs/en/docs/index.md:10
+#: docs/en/docs/index.md:12
 #, fuzzy
 msgid "New to BeeWare? { .tutorial-text }"
 msgstr "BeeWare'i ilk kez mi kullanıyorsunuz? { .tutorial-text }"
 
-#: docs/en/docs/index.md:12
+#: docs/en/docs/index.md:14
 #, fuzzy
 msgid "[Take the tutorial]{1}{ .docs-tutorial }"
 msgstr "[Öğreticiyi izleyin]{1}{ .docs-tutorial }"
 
-#: docs/en/docs/index.md:17
+#: docs/en/docs/index.md:19
 #, fuzzy
 msgid "Featured tools { .featured-tools }"
 msgstr "Öne çıkan araçlar { .featured-tools }"
 
-#: docs/en/docs/index.md:23 docs/en/index.md:126
+#: docs/en/docs/index.md:25 docs/en/index.md:126
 #, fuzzy
 msgid "[![Tiberius]{1}]{2}"
 msgstr "[![Tiberius]{1}]{2}"
 
-#: docs/en/docs/index.md:25
+#: docs/en/docs/index.md:27
 #, fuzzy
 msgid "[Toga]{1} { .featured-name #toga }"
 msgstr "[Toga]{1} { .featured-name #toga }"
 
-#: docs/en/docs/index.md:27 docs/en/index.md:132
+#: docs/en/docs/index.md:29 docs/en/index.md:132
 #, fuzzy
 msgid "A Python native, OS native GUI toolkit."
 msgstr "Python yerel, işletim sistemi yerel GUI araç seti."
 
-#: docs/en/docs/index.md:33 docs/en/index.md:136
+#: docs/en/docs/index.md:35 docs/en/index.md:136
 #, fuzzy
 msgid "[![Briefcase]{1}]{2}"
 msgstr "[![Briefcase]{1}]{2}"
 
-#: docs/en/docs/index.md:35
+#: docs/en/docs/index.md:37
 #, fuzzy
 msgid "[Briefcase]{1} { .featured-name #briefcase }"
 msgstr "[Briefcase]{1} { .featured-name #Briefcase }"
 
-#: docs/en/docs/index.md:37 docs/en/index.md:142
+#: docs/en/docs/index.md:39 docs/en/index.md:142
 #, fuzzy
 msgid "Convert a Python project into a standalone native application."
 msgstr "Bir Python projesini bağımsız bir yerel uygulamaya dönüştürün."
 
-#: docs/en/docs/index.md:42
+#: docs/en/docs/index.md:44
 #, fuzzy
 msgid "Other tools { .other-tools #other-tools }"
 msgstr "Diğer araçlar { .other-tools #other-tools }"
 
-#: docs/en/docs/index.md:44
+#: docs/en/docs/index.md:46
 #, fuzzy
 msgid "Utilities used by and applications built with BeeWare tools."
 msgstr "BeeWare araçları tarafından kullanılan ve BeeWare araçlarıyla oluşturulan uygulamalar."
 
-#: docs/en/docs/index.md:46
+#: docs/en/docs/index.md:48
 #, fuzzy
 msgid "Showcased applications"
 msgstr "Öne çıkan uygulamalar"
 
-#: docs/en/docs/index.md:48
+#: docs/en/docs/index.md:50
 #, fuzzy
 msgid "Applications maintained by the BeeWare team that are built using BeeWare's tools."
 msgstr "BeeWare ekibi tarafından BeeWare araçları kullanılarak geliştirilen uygulamalar."
 
-#: docs/en/docs/index.md:52
+#: docs/en/docs/index.md:54
 #, fuzzy
 msgid "[![Podium]{1}]{2}"
 msgstr "[![Podium]{1}]{2}"
 
-#: docs/en/docs/index.md:56
+#: docs/en/docs/index.md:58
 #, fuzzy
 msgid "[Podium]{1} { .podium-name #podium }"
 msgstr "[Podium]{1} { .podium-name #podium }"
 
-#: docs/en/docs/index.md:60
+#: docs/en/docs/index.md:62
 #, fuzzy
 msgid "A markup-based slide presentation tool."
 msgstr "Biçimlendirme tabanlı bir slayt sunum aracı."
 
-#: docs/en/docs/index.md:67
+#: docs/en/docs/index.md:69
 #, fuzzy
 msgid "Utilities"
 msgstr "Yardımcı Programlar"
 
-#: docs/en/docs/index.md:69
+#: docs/en/docs/index.md:71
 #, fuzzy
 msgid "Pieces used by other BeeWare tools that can be useful on their own."
 msgstr "Diğer BeeWare araçları tarafından kullanılan ve tek başına da yararlı olabilecek parçalar."
 
-#: docs/en/docs/index.md:73
+#: docs/en/docs/index.md:75
 #, fuzzy
 msgid "[![Rubicon]{1}]{2}"
 msgstr "[![Rubicon]{1}]{2}"
 
-#: docs/en/docs/index.md:77
+#: docs/en/docs/index.md:79
 #, fuzzy
 msgid "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 msgstr "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 
-#: docs/en/docs/index.md:81
+#: docs/en/docs/index.md:83
 #, fuzzy
 msgid "A library for bridging between Python and the Objective-C language runtimes."
 msgstr "Python ve Objective-C dili arasında köprü kurmak için bir kütüphane çalışma zamanları."
 
-#: docs/en/docs/index.md:89
+#: docs/en/docs/index.md:91
 #, fuzzy
 msgid "[![Brutus the Bee]{1}]{2}"
 msgstr "[![Brutus the Bee]{1}]{2}"
 
-#: docs/en/docs/index.md:93
+#: docs/en/docs/index.md:95
 #, fuzzy
 msgid "[Python Apple Support]{1} { .python-apple-name #python-apple-support }"
 msgstr "[Python Apple Desteği]{1} { .python-apple-name #python-apple-support }"
 
-#: docs/en/docs/index.md:97 docs/en/docs/index.md:113
+#: docs/en/docs/index.md:99 docs/en/docs/index.md:115
 #, fuzzy
 msgid "A meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project."
 msgstr "Python'un gömülebilen bir sürümünü oluşturmak için bir meta-paket bir macOS, iOS, tvOS veya watchOS projesine dönüştürün."
 
-#: docs/en/docs/index.md:105
+#: docs/en/docs/index.md:107
 #, fuzzy
 msgid "[![Chaquopy]{1}]{2}"
 msgstr "[![Chaquopy]{1}]{2}"
 
-#: docs/en/docs/index.md:109
+#: docs/en/docs/index.md:111
 #, fuzzy
 msgid "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 msgstr "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 
-#: docs/en/docs/index.md:119
+#: docs/en/docs/index.md:121
 #, fuzzy
 msgid "The BeeWare Project { .beeware-project }"
 msgstr "BeeWare Projesi { .beeware-project }"
 
-#: docs/en/docs/index.md:121
+#: docs/en/docs/index.md:123
 #, fuzzy
 msgid "BeeWare is more than a suite of tools for building amazing apps. It's also an amazing open source community!"
 msgstr "BeeWare, harika uygulamalar geliştirmek için bir araç setinden daha fazlasıdır. Aynı zamanda harika bir açık kaynak topluluğudur!"
 
-#: docs/en/docs/index.md:123 docs/en/titles.md:19
+#: docs/en/docs/index.md:125 docs/en/titles.md:19
 #, fuzzy
 msgid "BeeWare Community Code of Conduct"
 msgstr "BeeWare Topluluğu Davranış Kuralları"
 
-#: docs/en/docs/index.md:125
+#: docs/en/docs/index.md:127
 #, fuzzy
 msgid "Everyone participating in the BeeWare community, in any way, is required to adhere to the guidelines in the [BeeWare Community Code of Conduct]{1}."
 msgstr "BeeWare topluluğuna herhangi bir şekilde katılan herkes, [BeeWare Topluluk Davranış Kuralları]{1} içindeki kurallara uymakla yükümlüdür."
 
-#: docs/en/docs/index.md:127
+#: docs/en/docs/index.md:129
 #, fuzzy
 msgid "About the project"
 msgstr "Proje hakkında"
 
-#: docs/en/docs/index.md:129
+#: docs/en/docs/index.md:131
 #, fuzzy
 msgid "Learn more [about the history and goals of the BeeWare project]{1}."
 msgstr "BeeWare projesinin tarihi ve hedefleri hakkında daha fazla bilgi edinin."
 
-#: docs/en/docs/index.md:131
+#: docs/en/docs/index.md:133
 #, fuzzy
 msgid "Get help using BeeWare"
 msgstr "BeeWare kullanımıyla ilgili yardım alın"
 
-#: docs/en/docs/index.md:133
+#: docs/en/docs/index.md:135
 #, fuzzy
 msgid "Need help using BeeWare? We've got [lots of community resources]{1} that might help. If you need to ask a more specific question, here's [how you can find someone that might be able to help]{2}. We can also help you [find commercial support]{3}."
 msgstr "BeeWare'i kullanırken yardıma mı ihtiyacınız var? Size yardımcı olabilecek [çok sayıda topluluk kaynağı]{1} bulunmaktadır. Daha spesifik bir soru sormak isterseniz, [size yardımcı olabilecek birini nasıl bulabileceğinizi]{2} burada bulabilirsiniz. Ayrıca [ticari destek bulmanıza da yardımcı olabiliriz]{3}."
 
-#: docs/en/docs/index.md:135
+#: docs/en/docs/index.md:137
 #, fuzzy
 msgid "Contributing to the BeeWare project"
 msgstr "BeeWare projesine katkıda bulunmak"
 
-#: docs/en/docs/index.md:137
+#: docs/en/docs/index.md:139
 #, fuzzy
 msgid "Want to contribute to BeeWare? See our [contribution guide]{1}. If you've never contributed to Open Source before, start with our [guide for first time contributors.]{2}"
 msgstr "BeeWare'e katkıda bulunmak ister misiniz? [Katkı kılavuzumuzu]{1} inceleyin. Daha önce Açık Kaynak'a katkıda bulunmadıysanız, [ilk kez katkıda bulunanlar için kılavuzumuzla]{2} başlayın."
 
-#: docs/en/docs/index.md:139
+#: docs/en/docs/index.md:141
 #, fuzzy
 msgid "Or, if you just want to support the project financially, you can [become a financial member of the project.]{1}"
 msgstr "Ya da, sadece projeye maddi olarak destek olmak istiyorsanız, [projenin maddi üyesi olabilirsiniz.]{1}"
 
-#: docs/en/docs/index.md:141 docs/en/index.md:92
+#: docs/en/docs/index.md:143 docs/en/index.md:92
 #, fuzzy
 msgid "Stay in touch!"
 msgstr "İletişimde kalın!"
 
-#: docs/en/docs/index.md:143
+#: docs/en/docs/index.md:145
 #, fuzzy
 msgid "Follow us on Mastodon [@beeware@fosstodon.org]{1}, or [sign up for our mailing list]{2} for regular project updates."
 msgstr "Mastodon'da bizi takip edin [@beeware@fosstodon.org]{1} veya düzenli proje güncellemeleri için [posta listemize kaydolun]{2}."

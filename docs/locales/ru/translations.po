@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-01 22:28+0000\n"
+"POT-Creation-Date: 2026-03-01 22:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1721,207 +1721,207 @@ msgstr "Улучшение данного руководства"
 msgid "If you've got any suggestions on how to improve this sprint guide, let us know. What worked for you? What didn't? What can we do better? And remember: fixing a problem with this Sprint Guide counts as a contribution to BeeWare!"
 msgstr "Если у вас есть предложения по улучшению этого руководства по спринтам, сообщите нам. Что сработало для вас? Что не сработало? Что мы можем сделать лучше? И помните: решение проблемы с помощью этого руководства по спринтам считается вкладом в BeeWare!"
 
-#: docs/en/docs/index.md:1
+#: docs/en/docs/index.md:3
 #, fuzzy
 msgid "Documentation { .documentation }"
 msgstr "Документация { .documentation }"
 
-#: docs/en/docs/index.md:6
+#: docs/en/docs/index.md:8
 #, fuzzy
 msgid "![Brutus the Bee]{1}{ width=100 .tutorial-logo }"
 msgstr "![Пчела Брут]{1}{ width=100 .tutorial-logo }"
 
-#: docs/en/docs/index.md:10
+#: docs/en/docs/index.md:12
 #, fuzzy
 msgid "New to BeeWare? { .tutorial-text }"
 msgstr "Новичок в BeeWare? { .tutorial-text }"
 
-#: docs/en/docs/index.md:12
+#: docs/en/docs/index.md:14
 #, fuzzy
 msgid "[Take the tutorial]{1}{ .docs-tutorial }"
 msgstr "[Пройдите учебник]{1}{ .docs-tutorial }"
 
-#: docs/en/docs/index.md:17
+#: docs/en/docs/index.md:19
 #, fuzzy
 msgid "Featured tools { .featured-tools }"
 msgstr "Рекомендуемые инструменты { .featured-tools }"
 
-#: docs/en/docs/index.md:23 docs/en/index.md:126
+#: docs/en/docs/index.md:25 docs/en/index.md:126
 #, fuzzy
 msgid "[![Tiberius]{1}]{2}"
 msgstr "[![Тиберий]{1}]{2}"
 
-#: docs/en/docs/index.md:25
+#: docs/en/docs/index.md:27
 #, fuzzy
 msgid "[Toga]{1} { .featured-name #toga }"
 msgstr "[Toga]{1} { .featured-name #toga }"
 
-#: docs/en/docs/index.md:27 docs/en/index.md:132
+#: docs/en/docs/index.md:29 docs/en/index.md:132
 #, fuzzy
 msgid "A Python native, OS native GUI toolkit."
 msgstr "Нативный для Python и ОС набор инструментов для создания графического интерфейса пользователя."
 
-#: docs/en/docs/index.md:33 docs/en/index.md:136
+#: docs/en/docs/index.md:35 docs/en/index.md:136
 #, fuzzy
 msgid "[![Briefcase]{1}]{2}"
 msgstr "[![Briefcase]{1}]{2}"
 
-#: docs/en/docs/index.md:35
+#: docs/en/docs/index.md:37
 #, fuzzy
 msgid "[Briefcase]{1} { .featured-name #briefcase }"
 msgstr "[Briefcase]{1} { .featured-name #briefcase }"
 
-#: docs/en/docs/index.md:37 docs/en/index.md:142
+#: docs/en/docs/index.md:39 docs/en/index.md:142
 #, fuzzy
 msgid "Convert a Python project into a standalone native application."
 msgstr "Преобразование проекта Python в автономное нативное приложение."
 
-#: docs/en/docs/index.md:42
+#: docs/en/docs/index.md:44
 #, fuzzy
 msgid "Other tools { .other-tools #other-tools }"
 msgstr "Другие инструменты { .other-tools #other-tools }"
 
-#: docs/en/docs/index.md:44
+#: docs/en/docs/index.md:46
 #, fuzzy
 msgid "Utilities used by and applications built with BeeWare tools."
 msgstr "Утилиты, используемые инструментами BeeWare, и приложения, созданные с их помощью."
 
-#: docs/en/docs/index.md:46
+#: docs/en/docs/index.md:48
 #, fuzzy
 msgid "Showcased applications"
 msgstr "Представленные приложения"
 
-#: docs/en/docs/index.md:48
+#: docs/en/docs/index.md:50
 #, fuzzy
 msgid "Applications maintained by the BeeWare team that are built using BeeWare's tools."
 msgstr "Приложения, поддерживаемые командой BeeWare, которые созданы с помощью инструментов BeeWare."
 
-#: docs/en/docs/index.md:52
+#: docs/en/docs/index.md:54
 #, fuzzy
 msgid "[![Podium]{1}]{2}"
 msgstr "[![Подиум]{1}]{2}"
 
-#: docs/en/docs/index.md:56
+#: docs/en/docs/index.md:58
 #, fuzzy
 msgid "[Podium]{1} { .podium-name #podium }"
 msgstr "[Подиум]{1} { .podium-name #podium }"
 
-#: docs/en/docs/index.md:60
+#: docs/en/docs/index.md:62
 #, fuzzy
 msgid "A markup-based slide presentation tool."
 msgstr "Инструмент для создания слайд-презентаций на основе разметки."
 
-#: docs/en/docs/index.md:67
+#: docs/en/docs/index.md:69
 #, fuzzy
 msgid "Utilities"
 msgstr "Коммунальные услуги"
 
-#: docs/en/docs/index.md:69
+#: docs/en/docs/index.md:71
 #, fuzzy
 msgid "Pieces used by other BeeWare tools that can be useful on their own."
 msgstr "Компоненты, используемые другими инструментами BeeWare, которые могут быть полезны сами по себе."
 
-#: docs/en/docs/index.md:73
+#: docs/en/docs/index.md:75
 #, fuzzy
 msgid "[![Rubicon]{1}]{2}"
 msgstr "[![Rubicon]{1}]{2}"
 
-#: docs/en/docs/index.md:77
+#: docs/en/docs/index.md:79
 #, fuzzy
 msgid "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 msgstr "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 
-#: docs/en/docs/index.md:81
+#: docs/en/docs/index.md:83
 #, fuzzy
 msgid "A library for bridging between Python and the Objective-C language runtimes."
 msgstr "Библиотека для соединения между Python и средами выполнения языка Objective-C."
 
-#: docs/en/docs/index.md:89
+#: docs/en/docs/index.md:91
 #, fuzzy
 msgid "[![Brutus the Bee]{1}]{2}"
 msgstr "[![Пчела Брут]{1}]{2}"
 
-#: docs/en/docs/index.md:93
+#: docs/en/docs/index.md:95
 #, fuzzy
 msgid "[Python Apple Support]{1} { .python-apple-name #python-apple-support }"
 msgstr "[Python Apple Support]{1} { .python-apple-name #python-apple-support }"
 
-#: docs/en/docs/index.md:97 docs/en/docs/index.md:113
+#: docs/en/docs/index.md:99 docs/en/docs/index.md:115
 #, fuzzy
 msgid "A meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project."
 msgstr "Метапакет для создания версии Python, которую можно встроить в проект macOS, iOS, tvOS или watchOS."
 
-#: docs/en/docs/index.md:105
+#: docs/en/docs/index.md:107
 #, fuzzy
 msgid "[![Chaquopy]{1}]{2}"
 msgstr "[![Chaquopy]{1}]{2}"
 
-#: docs/en/docs/index.md:109
+#: docs/en/docs/index.md:111
 #, fuzzy
 msgid "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 msgstr "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 
-#: docs/en/docs/index.md:119
+#: docs/en/docs/index.md:121
 #, fuzzy
 msgid "The BeeWare Project { .beeware-project }"
 msgstr "Проект BeeWare { .beeware-project }"
 
-#: docs/en/docs/index.md:121
+#: docs/en/docs/index.md:123
 #, fuzzy
 msgid "BeeWare is more than a suite of tools for building amazing apps. It's also an amazing open source community!"
 msgstr "BeeWare — это больше, чем набор инструментов для создания удивительных приложений. Это еще и удивительное сообщество с открытым исходным кодом!"
 
-#: docs/en/docs/index.md:123 docs/en/titles.md:19
+#: docs/en/docs/index.md:125 docs/en/titles.md:19
 #, fuzzy
 msgid "BeeWare Community Code of Conduct"
 msgstr "Кодекс поведения сообщества BeeWare"
 
-#: docs/en/docs/index.md:125
+#: docs/en/docs/index.md:127
 #, fuzzy
 msgid "Everyone participating in the BeeWare community, in any way, is required to adhere to the guidelines in the [BeeWare Community Code of Conduct]{1}."
 msgstr "Все участники сообщества BeeWare, независимо от их роли, обязаны соблюдать правила, изложенные в [Кодексе поведения сообщества BeeWare]{1}."
 
-#: docs/en/docs/index.md:127
+#: docs/en/docs/index.md:129
 #, fuzzy
 msgid "About the project"
 msgstr "О проекте"
 
-#: docs/en/docs/index.md:129
+#: docs/en/docs/index.md:131
 #, fuzzy
 msgid "Learn more [about the history and goals of the BeeWare project]{1}."
 msgstr "Узнайте больше [об истории и целях проекта BeeWare]{1}."
 
-#: docs/en/docs/index.md:131
+#: docs/en/docs/index.md:133
 #, fuzzy
 msgid "Get help using BeeWare"
 msgstr "Получите помощь по использованию BeeWare"
 
-#: docs/en/docs/index.md:133
+#: docs/en/docs/index.md:135
 #, fuzzy
 msgid "Need help using BeeWare? We've got [lots of community resources]{1} that might help. If you need to ask a more specific question, here's [how you can find someone that might be able to help]{2}. We can also help you [find commercial support]{3}."
 msgstr "Нужна помощь в использовании BeeWare? У нас есть [много ресурсов сообщества]{1}, которые могут вам помочь. Если у вас есть более конкретный вопрос, вот [как найти человека, который сможет вам помочь]{2}. Мы также можем помочь вам [найти коммерческую поддержку]{3}."
 
-#: docs/en/docs/index.md:135
+#: docs/en/docs/index.md:137
 #, fuzzy
 msgid "Contributing to the BeeWare project"
 msgstr "Вклад в проект BeeWare"
 
-#: docs/en/docs/index.md:137
+#: docs/en/docs/index.md:139
 #, fuzzy
 msgid "Want to contribute to BeeWare? See our [contribution guide]{1}. If you've never contributed to Open Source before, start with our [guide for first time contributors.]{2}"
 msgstr "Хотите внести свой вклад в BeeWare? Ознакомьтесь с нашим [руководством по участию]{1}. Если вы никогда раньше не участвовали в проектах с открытым исходным кодом, начните с нашего [руководства для начинающих участников]{2}."
 
-#: docs/en/docs/index.md:139
+#: docs/en/docs/index.md:141
 #, fuzzy
 msgid "Or, if you just want to support the project financially, you can [become a financial member of the project.]{1}"
 msgstr "Или, если вы просто хотите поддержать проект финансово, вы можете [стать финансовым участником проекта.]{1}"
 
-#: docs/en/docs/index.md:141 docs/en/index.md:92
+#: docs/en/docs/index.md:143 docs/en/index.md:92
 #, fuzzy
 msgid "Stay in touch!"
 msgstr "Оставайтесь на связи!"
 
-#: docs/en/docs/index.md:143
+#: docs/en/docs/index.md:145
 #, fuzzy
 msgid "Follow us on Mastodon [@beeware@fosstodon.org]{1}, or [sign up for our mailing list]{2} for regular project updates."
 msgstr "Следите за нами в Mastodon [@beeware@fosstodon.org]{1} или [подпишитесь на нашу рассылку]{2}, чтобы регулярно получать обновления о проекте."

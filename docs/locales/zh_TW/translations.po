@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-01 22:28+0000\n"
+"POT-Creation-Date: 2026-03-01 22:49+0000\n"
 "PO-Revision-Date: 2025-07-04 20:36+0000\n"
 "Last-Translator: John <johnzhou721@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/projects/beeware/website/zh_Hant/>\n"
@@ -1723,207 +1723,207 @@ msgstr "改進本指南"
 msgid "If you've got any suggestions on how to improve this sprint guide, let us know. What worked for you? What didn't? What can we do better? And remember: fixing a problem with this Sprint Guide counts as a contribution to BeeWare!"
 msgstr "如果您對如何改進這份衝刺指南有任何建議，請告訴我們。 哪些方法對您有效？哪些沒有用？哪些可以做得更好？請記住 對BeeWare的貢獻！"
 
-#: docs/en/docs/index.md:1
+#: docs/en/docs/index.md:3
 #, fuzzy
 msgid "Documentation { .documentation }"
 msgstr "文件說明 { .documentation }"
 
-#: docs/en/docs/index.md:6
+#: docs/en/docs/index.md:8
 #, fuzzy
 msgid "![Brutus the Bee]{1}{ width=100 .tutorial-logo }"
 msgstr "![布魯圖斯蜜蜂]{1}{ width=100 .tutorial-logo }"
 
-#: docs/en/docs/index.md:10
+#: docs/en/docs/index.md:12
 #, fuzzy
 msgid "New to BeeWare? { .tutorial-text }"
 msgstr "初次接觸 BeeWare？{ .tutorial-text }"
 
-#: docs/en/docs/index.md:12
+#: docs/en/docs/index.md:14
 #, fuzzy
 msgid "[Take the tutorial]{1}{ .docs-tutorial }"
 msgstr "[開始教學課程]{1}{ .docs-tutorial }"
 
-#: docs/en/docs/index.md:17
+#: docs/en/docs/index.md:19
 #, fuzzy
 msgid "Featured tools { .featured-tools }"
 msgstr "精選工具 { .featured-tools }"
 
-#: docs/en/docs/index.md:23 docs/en/index.md:126
+#: docs/en/docs/index.md:25 docs/en/index.md:126
 #, fuzzy
 msgid "[![Tiberius]{1}]{2}"
 msgstr "[![提比略]{1}]{2}"
 
-#: docs/en/docs/index.md:25
+#: docs/en/docs/index.md:27
 #, fuzzy
 msgid "[Toga]{1} { .featured-name #toga }"
 msgstr "[Toga]{1} { .featured-name #toga }"
 
-#: docs/en/docs/index.md:27 docs/en/index.md:132
+#: docs/en/docs/index.md:29 docs/en/index.md:132
 #, fuzzy
 msgid "A Python native, OS native GUI toolkit."
 msgstr "Python 原生、作業系統原生的 GUI 工具套件。"
 
-#: docs/en/docs/index.md:33 docs/en/index.md:136
+#: docs/en/docs/index.md:35 docs/en/index.md:136
 #, fuzzy
 msgid "[![Briefcase]{1}]{2}"
 msgstr "[![Briefcase]{1}]{2}"
 
-#: docs/en/docs/index.md:35
+#: docs/en/docs/index.md:37
 #, fuzzy
 msgid "[Briefcase]{1} { .featured-name #briefcase }"
 msgstr "[Briefcase]{1} { .featured-name #briefcase }"
 
-#: docs/en/docs/index.md:37 docs/en/index.md:142
+#: docs/en/docs/index.md:39 docs/en/index.md:142
 #, fuzzy
 msgid "Convert a Python project into a standalone native application."
 msgstr "將 Python 專案轉換為獨立的本機應用程式。"
 
-#: docs/en/docs/index.md:42
+#: docs/en/docs/index.md:44
 #, fuzzy
 msgid "Other tools { .other-tools #other-tools }"
 msgstr "其他工具 { .other-tools #other-tools }"
 
-#: docs/en/docs/index.md:44
+#: docs/en/docs/index.md:46
 #, fuzzy
 msgid "Utilities used by and applications built with BeeWare tools."
 msgstr "BeeWare 工具所使用的實用程式及運用其建構的應用程式。"
 
-#: docs/en/docs/index.md:46
+#: docs/en/docs/index.md:48
 #, fuzzy
 msgid "Showcased applications"
 msgstr "精選應用程式"
 
-#: docs/en/docs/index.md:48
+#: docs/en/docs/index.md:50
 #, fuzzy
 msgid "Applications maintained by the BeeWare team that are built using BeeWare's tools."
 msgstr "由 BeeWare 團隊維護、使用 BeeWare 工具建構的應用程式。"
 
-#: docs/en/docs/index.md:52
+#: docs/en/docs/index.md:54
 #, fuzzy
 msgid "[![Podium]{1}]{2}"
 msgstr "[![舞台]{1}]{2}"
 
-#: docs/en/docs/index.md:56
+#: docs/en/docs/index.md:58
 #, fuzzy
 msgid "[Podium]{1} { .podium-name #podium }"
 msgstr "[舞台]{1} { .podium-name #podium }"
 
-#: docs/en/docs/index.md:60
+#: docs/en/docs/index.md:62
 #, fuzzy
 msgid "A markup-based slide presentation tool."
 msgstr "基於標記語言的簡報工具。"
 
-#: docs/en/docs/index.md:67
+#: docs/en/docs/index.md:69
 #, fuzzy
 msgid "Utilities"
 msgstr "公用事業"
 
-#: docs/en/docs/index.md:69
+#: docs/en/docs/index.md:71
 #, fuzzy
 msgid "Pieces used by other BeeWare tools that can be useful on their own."
 msgstr "其他 BeeWare 工具所使用的元件，這些元件本身也可能很有用。"
 
-#: docs/en/docs/index.md:73
+#: docs/en/docs/index.md:75
 #, fuzzy
 msgid "[![Rubicon]{1}]{2}"
 msgstr "[![盧比孔河]{1}]{2}"
 
-#: docs/en/docs/index.md:77
+#: docs/en/docs/index.md:79
 #, fuzzy
 msgid "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 msgstr "[Rubicon Objective-C]{1} { .rubicon-name #rubicon-objective-c }"
 
-#: docs/en/docs/index.md:81
+#: docs/en/docs/index.md:83
 #, fuzzy
 msgid "A library for bridging between Python and the Objective-C language runtimes."
 msgstr "銜接 Python 與 Objective-C 語言的函式庫 運行時。"
 
-#: docs/en/docs/index.md:89
+#: docs/en/docs/index.md:91
 #, fuzzy
 msgid "[![Brutus the Bee]{1}]{2}"
 msgstr "[![布魯圖斯蜜蜂]{1}]{2}"
 
-#: docs/en/docs/index.md:93
+#: docs/en/docs/index.md:95
 #, fuzzy
 msgid "[Python Apple Support]{1} { .python-apple-name #python-apple-support }"
 msgstr "[Python Apple 支援]{1} { .python-apple-name #python-apple-support }"
 
-#: docs/en/docs/index.md:97 docs/en/docs/index.md:113
+#: docs/en/docs/index.md:99 docs/en/docs/index.md:115
 #, fuzzy
 msgid "A meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project."
 msgstr "一個元套件，用於建立可內嵌到 到 macOS、iOS、tvOS 或 watchOS 專案中。"
 
-#: docs/en/docs/index.md:105
+#: docs/en/docs/index.md:107
 #, fuzzy
 msgid "[![Chaquopy]{1}]{2}"
 msgstr "[![Chaquopy]{1}]{2}"
 
-#: docs/en/docs/index.md:109
+#: docs/en/docs/index.md:111
 #, fuzzy
 msgid "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 msgstr "[Chaquopy]{1} { .chaquopy-name #chaquopy }"
 
-#: docs/en/docs/index.md:119
+#: docs/en/docs/index.md:121
 #, fuzzy
 msgid "The BeeWare Project { .beeware-project }"
 msgstr "BeeWare 專案 { .beeware-project }"
 
-#: docs/en/docs/index.md:121
+#: docs/en/docs/index.md:123
 #, fuzzy
 msgid "BeeWare is more than a suite of tools for building amazing apps. It's also an amazing open source community!"
 msgstr "BeeWare 不僅是一套用於打造驚人應用程式的工具組，更是一個令人驚嘆的開源社群！"
 
-#: docs/en/docs/index.md:123 docs/en/titles.md:19
+#: docs/en/docs/index.md:125 docs/en/titles.md:19
 #, fuzzy
 msgid "BeeWare Community Code of Conduct"
 msgstr "BeeWare 社群行為準則"
 
-#: docs/en/docs/index.md:125
+#: docs/en/docs/index.md:127
 #, fuzzy
 msgid "Everyone participating in the BeeWare community, in any way, is required to adhere to the guidelines in the [BeeWare Community Code of Conduct]{1}."
 msgstr "凡以任何形式參與 BeeWare 社群者，皆須遵守 [BeeWare 社群行為準則]{1} 中的規範。"
 
-#: docs/en/docs/index.md:127
+#: docs/en/docs/index.md:129
 #, fuzzy
 msgid "About the project"
 msgstr "關於本專案"
 
-#: docs/en/docs/index.md:129
+#: docs/en/docs/index.md:131
 #, fuzzy
 msgid "Learn more [about the history and goals of the BeeWare project]{1}."
 msgstr "進一步了解 [BeeWare 專案的歷史與目標]{1}。"
 
-#: docs/en/docs/index.md:131
+#: docs/en/docs/index.md:133
 #, fuzzy
 msgid "Get help using BeeWare"
 msgstr "獲取 BeeWare 使用協助"
 
-#: docs/en/docs/index.md:133
+#: docs/en/docs/index.md:135
 #, fuzzy
 msgid "Need help using BeeWare? We've got [lots of community resources]{1} that might help. If you need to ask a more specific question, here's [how you can find someone that might be able to help]{2}. We can also help you [find commercial support]{3}."
 msgstr "需要 BeeWare 使用協助嗎？我們備有[豐富的社群資源]{1}可供參考。若需提出更具體的問題，請參閱[如何尋找可能提供協助的人士]{2}。我們亦可協助您[尋找商業支援服務]{3}。"
 
-#: docs/en/docs/index.md:135
+#: docs/en/docs/index.md:137
 #, fuzzy
 msgid "Contributing to the BeeWare project"
 msgstr "為 BeeWare 專案貢獻心力"
 
-#: docs/en/docs/index.md:137
+#: docs/en/docs/index.md:139
 #, fuzzy
 msgid "Want to contribute to BeeWare? See our [contribution guide]{1}. If you've never contributed to Open Source before, start with our [guide for first time contributors.]{2}"
 msgstr "想為 BeeWare 貢獻心力嗎？請參閱我們的[貢獻指南]{1}。若您從未參與過開源貢獻，請先從我們的[初次貢獻者指南]開始{2}。"
 
-#: docs/en/docs/index.md:139
+#: docs/en/docs/index.md:141
 #, fuzzy
 msgid "Or, if you just want to support the project financially, you can [become a financial member of the project.]{1}"
 msgstr "或者，若您僅想以金錢方式支持本專案，可[成為專案的財務會員。]{1}"
 
-#: docs/en/docs/index.md:141 docs/en/index.md:92
+#: docs/en/docs/index.md:143 docs/en/index.md:92
 #, fuzzy
 msgid "Stay in touch!"
 msgstr "保持聯繫！"
 
-#: docs/en/docs/index.md:143
+#: docs/en/docs/index.md:145
 #, fuzzy
 msgid "Follow us on Mastodon [@beeware@fosstodon.org]{1}, or [sign up for our mailing list]{2} for regular project updates."
 msgstr "請在Mastodon追蹤我們[@beeware@fosstodon.org]{1}，或[訂閱我們的郵件列表]{2}以獲取專案的定期更新。"

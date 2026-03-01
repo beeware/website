@@ -15,7 +15,7 @@ February has seen a collection of improvements across the BeeWare ecosystem - in
 
 - We've launched a new version of our [website](https://beeware.org)! This primarily an infrastructure change - we've moved off Lektor, and onto a MkDocs-based site, matching the tooling that we're now using for the rest of BeeWare's documentation. This gives us much faster builds, better translation tooling, search... and dark mode! A huge shout out to [Kattni][kattni] for all her work getting this done.
 - We welcomed a new member of the BeeWare core team - [Corran Webster][corranwebster]. Over the last few months, Corran has taken Toga’s Qt backend from a bare stub to a widget-complete implementation. He’s also done some major internal design work around Toga's Table and Tree implementations, and added the long-requested ability to add bitmap images to a Canvas. That's a lot of work for a couple of months - we're excited to see what comes next!
-- We published new [support packages for iOS and macOS](https://github.com/beeware/Python-Apple-support/releases), backporting some recent changes in CPython to our patches for Python 3.10-3-12.
+- We published new [support packages for iOS and macOS](https://github.com/beeware/Python-Apple-support/releases), backporting some recent changes in CPython to our patches for Python 3.10-3.12.
 - We made significant progress on adding [FastAPI and PyScript backends for Positron](https://github.com/beeware/toga/pull/4156). The PyScript part of this backend has revealed some issues with the feature set of Android and iOS `WebView` widgets; we're working with the PyScript team to find a workaround for these problems.
 - We [fixed several issues with the testbed application that is used to test Python on Android](https://github.com/python/cpython/pull/142912).
 - We [added a plugin interface to Briefcase to allow for the definition of publication channels](https://github.com/beeware/briefcase/pull/2701). We're working with the [PythonAnywhere](https://pythonanywhere.com) team to build a [plugin that will allow for the publication of web apps](https://github.com/pythonanywhere/pythonanywhere-briefcase-plugin).
@@ -28,7 +28,7 @@ February has seen a collection of improvements across the BeeWare ecosystem - in
 - We [improved the documentation for packaging apps that weren't created with Briefcase](https://github.com/beeware/briefcase/pull/2677).
 - We finished porting all widgets for the Qt backend, adding a [`DetailedList`](https://github.com/beeware/toga/pull/4165) and [`Tree`](https://github.com/beeware/toga/pull/4112) widgets.
 - We corrected some issues with how [Toga's canvas widget handles transforms in the middle of a path](https://github.com/beeware/toga/pull/4106).
-- We added support for [rounded rectangles on `Canvas`](https://github.com/beeware/toga/pull/4161)
+- We added support for [rounded rectangles on `Canvas`](https://github.com/beeware/toga/pull/4161).
 - We corrected some [edge cases in the handling of join mitering on Toga's `Canvas` widget](https://github.com/beeware/toga/pull/4162).
 - We ensured that Toga's `WebView` widget can always handle HTML content provided as a string [no matter how large that content is](https://github.com/beeware/toga/pull/4062).
 - We modified Toga's codebase to make [better use of abstract base classes (ABCs)](https://github.com/beeware/toga/pull/4142).

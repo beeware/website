@@ -1,5 +1,7 @@
 # beeware.org
 
+**MARCH 3 2026: THIS REPOSITORY HAS BEEN ARCHIVED** It was used as a development repository while developing the new MkDocs-based website. The content has now been migrated to the main branch of the `beeware.github.io` repository.
+
 This is the homepage for the [BeeWare project](http://beeware.org).
 
 It is a [MkDocs](https://mkdocs.org)-based site.
